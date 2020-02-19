@@ -375,6 +375,20 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/DoubleTapLockPrefs.bundle/icon@2x.png
 Name: DoubleTapLock 汉化包
 
+Package: repo.lengran.altstore.cn
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.altstore.cn_1.2.deb
+Size: 1858936
+MD5sum: effaf9c1373eb951d97e7c42cdabc3c9
+SHA1: 587f957759898842087ec7a4850a2dc61932e740
+SHA256: 13fd53e1cafde23e34a152a30f8ec9cb5d3f56b6b59bdef2053a384f8de88c58
+Section: 汉化
+Description: AltStore 汉化包
+Author: 糖醋丶炒排骨
+Name: AltStore 汉化包
+
 Package: repo.lengran.audiorecorderxs.cn
 Version: 3.0-78
 Architecture: iphoneos-arm
@@ -715,6 +729,21 @@ Size: 10172
 MD5sum: 5babb950ec12851a7c2d81dee9f61d66
 SHA1: 33f763192c05b05983f325201762d884f78036d1
 SHA256: 36d5d355884506983b08561c20abfe28556dab4a89aa4bbbafb54972632650f5
+Section: 汉化
+Description: Safari Plus 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPPRootIcon@2x.png
+Name: Safari Plus 汉化包
+
+Package: repo.lengran.safariplus.cn
+Version: 1.7.10
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.safariplus.cn_1.7.10.deb
+Size: 10132
+MD5sum: b91fca15a51c36c2f3d18020f6b2489e
+SHA1: 0d50a9c458664e0f314795cffd26f5c30048e173
+SHA256: 3037051f2bfa9497518b5acc44596b38c45dedcada825b521a548451fe81bef5
 Section: 汉化
 Description: Safari Plus 汉化包
 Author: By-Lengran
