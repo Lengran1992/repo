@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>By-冷然</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel='stylesheet' type='text/css' href='ios7.css'/>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<link rel="stylesheet" href="style.css">
+<script type="text/javascript" src="js/jquery.querystring.js"></script>
+<script type="text/javascript" src="js/data-loader-engine.js"></script>
+<script type="text/javascript" src="js/ios_version_check.js"></script>
+<script src="jquery-3.2.1.min.js"></script>
+<script src="description.js?_=46545663394">
+</script>
+</head>
+ <body onload="loadPackageInfo();loadRecentUpdates();">
+<div class="container" id="dependenciesContainer">
+<div id="showAddRepo_" hidden>
+    <h2>By-冷然的个人源</h2>
+    <a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://sileo-cydia.github.io/">
+        <img class="icon" src="cydia7.png"/>
+        <label><h3>打开cydia查看</h3></label></a>
+</div>
+<div class="container">
+<p style="text-align:center;" id="showAddRepoUrl_" hidden><FONT COLOR="#ff0000">个人源: https://sileo-cydia.github.io/</FONT></p>
+</div>
+    <div id="tweakStatusInfo"><h2></h2><h3><center><p id="errorInfo"><FONT COLOR="#ff0000">加载描述文件中➽➽➽➽</FONT></h3></p></center>
+    </div>
+    <div id="warning_" hidden>
+        <center><p><span><h2 id="warning"></h2></span></p></center>
+    </div>
+    <h3>描述详情</h3>
+    <div class="well"id="desc_short_" hidden>
+             <h5><li id="name" hidden></h5>
+        <FONT COLOR="#ff0000" id="desc_short"></FONT>
+    </div>
+<div id="compatitle_" hidden>
+    <h3>系统支持</h3>
+    <div class="well">
+        <h4><li>当前插件兼容系统版本:『<FONT COLOR="#ff0000" id="compatitle"></FONT>』</h4>
+        请查看下方你的系统型号,如你的型号不在该型号之列请酌情安装
+        <h4 style="color:#ff00ff" id="your_ios" hidden></h4>
+    </div>
+</div>
+<div id="desc_version_"  hidden>
+    <h3>历史版本</h3><h5><span id="desc_version" class="badge" /></h5>
+    <div class="well">
+        <FONT COLOR="#ff0000">如果当前更新的插件存在问题或不兼容,你可以通过右上角的变更>降级,降级到之前的某个版本(如右上角只有安装按钮,表示当前没有历史版本的插件</FONT>
+        <li id="changelog">
+    </div>
+</div>
+<div id="screenshot_" hidden>
+    <h3>预览截图</h3>
+    <p id="screenshot">
+</div>
+     <!-- cydia打开第一页第一屏最底下显示 -->
+<h3>联系我</h3>
+ <ul>
+     <li>
+         <a href="https://qm.qq.com/cgi-bin/qm/qr?k=3E6NIMRxJuoAGun5DH6XLWoQ8cm5T4TW" target="_blank">
+             <img class="icon" src="qq.png"/>
+             <label>点击添加我的qq群</label>
+         </a>
+     </li>
+ </ul>
+ <ul>
+     <li>
+         <a href="https://sileo-cydia.github.io/" target="_blank">
+             <img class="icon" src="cy.png"/>
+             <label>点击进入我的主页</label>
+         </a>
+     </li>
+ </ul>
+<div class="container" id="dependenciesContainer">
+    <h3>源说明</h3>
+    <h5>大自然的插件搬运工.本源为自用个人源,有上传依赖文件(如介意请删除本源)官方插件搬运.官方插件移植.官方插件汉化.官方插件破解.不添加任何广告,如果你有什么插件需要上源,或者汉化,欢迎加群,本源为你打造一个完美的个人源.需要各种破解的越狱应用请加群,搬运插件可能来自任何第三方源,如有侵权请告知.</h5>
+</div>
+<!-- cydia打开第一页第一屏底下显示-->
+<center><h5>现在是:<span id="year"></span>年
+    <span id="month"></span>月
+    <span id="day"></span>日
+    星期<span id="week"></span>
+    <span id="h"></span>时 <span id="m"></span>分 <span id="s"></span>秒
+    
+    <script type="text/javascript">
+        //获取'年'的ID year
+        var year = document.getElementById('year'),
+        //获取'月'的ID month
+        month = document.getElementById('month'),
+        //获取'日'的ID day
+        day = document.getElementById('day'),
+        //获取'星期'的ID week
+        week = document.getElementById('week'),
+        //获取'时'的ID h
+        h = document.getElementById('h'),
+        //获取'分'的ID m
+        m = document.getElementById('m'),
+        //获取'秒'的ID s
+        s = document.getElementById('s');
+        
+        function timed() {
+            //创建Date时间对象
+            var time = new Date();
+            //获取四位数的年分并更改year的内容
+            year.innerHTML=time.getFullYear();
+            //获取月份+1并更改month的内容 月份+1 是因为月份默认从0开始
+            month.innerHTML=time.getMonth()+1;
+            //获取日期并更改day的内容
+            day.innerHTML=time.getDate();
+            //获取星期并更改week的内容
+            week.innerHTML = time.getDay();
+            //获取小时并更改h的内容
+            h.innerHTML=time.getHours();
+            //获取分钟并更改m的内容
+            m.innerHTML=(time.getMinutes() > 9 ? time.getMinutes() : "0" + time.getMinutes());
+            //获取秒钟并更改s的内容
+            s.innerHTML=(time.getSeconds() > 9 ? time.getSeconds() : "0" + time.getSeconds());
+            //获取星期数用于下面的判断
+            w = time.getDay();
+            //定义个数组并赋值
+            var weekArr = ['天','一','二','三','四','五','六'];
+            //for循环
+            for(var i = 0;i<weekArr.length;i++) {
+                //如果w的值等于i的值
+                if (w == i) {
+                    //就更改week的内容为weekArr[i]
+                    //也就是中文的数字
+                    week.innerHTML= weekArr[i];
+                }
+            }
+            //setTimeout函数设置间隔 每1000毫秒执行一次函数
+            setTimeout("timed()",1000);
+            
+        }
+    
+    timed();
+        </script></h5>
+
+</center>
+
+<center>
+    <b><FONT COLOR="#0000ff">网站已运行:<span id="run_time" style="color:red"></span>
+        </center>
+
+<script>
+    function runTime() {
+        var d = new Date(), str = '';
+        BirthDay = new Date("January 1,2019");
+        today = new Date();
+        timeold = (today.getTime() - BirthDay.getTime());
+        sectimeold = timeold / 1000
+        secondsold = Math.floor(sectimeold);
+        msPerDay = 24 * 60 * 60 * 1000
+        msPerYear = 365 * 24 * 60 * 60 * 1000
+        e_daysold = timeold / msPerDay
+        e_yearsold = timeold / msPerYear
+        daysold = Math.floor(e_daysold);
+        yearsold = Math.floor(e_yearsold);
+        //str = yearsold + "年";
+        str += daysold + "天";
+        str += d.getHours() + '时';
+        str += d.getMinutes() + '分';
+        str += d.getSeconds() + '秒';
+        return str;
+    }
+setInterval(function () { $('#run_time').html(runTime()) }, 1000);
+    </script></FONT></b>
+ </body>
+</html>

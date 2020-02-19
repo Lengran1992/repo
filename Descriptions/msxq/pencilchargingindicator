@@ -1,0 +1,9 @@
+{
+	"name": "pencilchargingindicator",
+	"desc_short": "充电动画特效,支持A12",
+	"desc_version": "暂无历史版本",
+	"compatitle": "ios:11-12",
+	"changelog": "<strong>历史变跟</strong><br>暂时没有历史版本<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://sileo-cydia.github.io/jietu/pencilchargingindicator1.png'/><div style='text-align:center;'><img width=95% src='https://sileo-cydia.github.io/jietu/ipX.gif'/></a><br></div>",
+	"open": true,
+}

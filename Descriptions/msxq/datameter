@@ -1,0 +1,9 @@
+{
+	"name": "DataMeter「 通知栏日期流量显示」",
+	"desc_short": "通知栏显示流量网速,时间,虚浮窗流量显示",
+	"desc_version": "暂无历史版本",
+	"compatitle": "ios:11-12",
+	"changelog": "<strong>历史变跟</strong><br>暂时没有历史版本<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://sileo-cydia.github.io/tupian/ipX.gif'/></a><br></div>",
+	"open": true,
+}

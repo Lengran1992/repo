@@ -1,0 +1,9 @@
+{
+	"name": "CyDown（插件管理器）”,
+	"desc_short": "cydia增强插件，下载插件、破解收费插件、备份插件、增加cydia手动刷新、退出cyida时不自动停止刷新、显示关闭按钮等",
+	"desc_version": "暂无历史版本",
+	"compatitle": "ios11-12",
+	"changelog": "<strong>历史变更</strong><br>暂时没有历史版本<br>",
+	"screenshot": "<div style='text-align:center;'><img width=95% src='https://sileo-cydia.github.io/jietu/cydown.png'/><img width=95% src='https://sileo-cydia.github.io/jietu/cydown1.png'/><img width=95% src='https://sileo-cydia.github.io/jietu/cydown.png'/><img width=95% src='https://sileo-cydia.github.io/jietu/cydown3.png'/></a><br></div>",
+	"open": true,
+}
