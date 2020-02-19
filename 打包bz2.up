@@ -1,2 +1,2 @@
-bash -c "cd /Users/lengran/Downloads/GitHub/repo; ./删掉bz2重新生成bz2.sh;"
+bash -c "cd /Users/lengran/Documents/GitHub/repo; ./删掉bz2重新生成bz2.sh;"
 exit
