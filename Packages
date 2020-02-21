@@ -772,10 +772,10 @@ Architecture: iphoneos-arm
 Maintainer: By-Lengran
 Depends: me.jjolano.shadow
 Filename: ./debs/repo.lengran.shadow.cn_2.0.20.deb
-Size: 4284
-MD5sum: 79d53013f22e700c0f720231fed01252
-SHA1: 610f52e16dea3604904b45d8d7abc2d1c80d5d7b
-SHA256: a98d1d059394d068435ae20a9066d8df5e0f7a0db5e2ef12f9703cc0c7f55cff
+Size: 5440
+MD5sum: 796fbdc098752868c7a08d7b4802c947
+SHA1: 04a6c16ca99998ecf655d5c033ee31f047bd7945
+SHA256: e23963ac6d957cc5e69673f2201cf10e565b0bb114c2707df22b7fa9f7aeaace
 Section: 汉化
 Description: Shadow 汉化包
 Author: By-Lengran
