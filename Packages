@@ -594,6 +594,22 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown.png
 Name: Cydown 汉化包
 
+Package: repo.lengran.cydown.cn
+Version: 7.0.6
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.julioverne.cydown
+Filename: ./debs/repo.lengran.cydown.cn_7.0.6.deb
+Size: 22136
+MD5sum: c22f6b7e22aac830684c96f42cccf4bf
+SHA1: dce03fe29eb5607c937ae744718d2fc2e5ba0eed
+SHA256: fc332bc21b5cce4616d186496ae5da9bf6d423e286968b357ffc922d55dff265
+Section: 汉化
+Description: Cydown 汉化包
+Author: CDSQ.Tech <cdsq.deb@gmail.com>
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown.png
+Name: Cydown 汉化包
+
 Package: repo.lengran.datameter
 Version: 1.4.3
 Architecture: iphoneos-arm
