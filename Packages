@@ -876,6 +876,22 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@2x.png
 Name: Shuffle 汉化包
 
+Package: repo.lengran.shuffle.cn
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.creaturecoding.shuffle
+Filename: ./debs/com.lengran.shuffle.cn_1.1.4.deb
+Size: 3572
+MD5sum: 7056ee40f6a40aed5938d919dd83ad2d
+SHA1: af205fdfba05317ca2f595c0e5182e95135419d3
+SHA256: 731af620434a96bf42c901401bea9018552f28cff3f5cc9dbdde7a3b49467b09
+Section: 汉化
+Description: Shuffle 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@2x.png
+Name: Shuffle 汉化包
+
 Package: repo.lengran.swipeformore.cn
 Version: 1.1.10
 Architecture: iphoneos-arm
