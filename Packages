@@ -1,3 +1,18 @@
+Package: Evolve
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Lengran
+Filename: ./debs/Evolve_2.0.deb
+Size: 2145988
+MD5sum: ee1c0a09cc7ea2ffcce4aae0521f469b
+SHA1: 2ca36dbaf735e1edd9b0f47a09a752c031b3272f
+SHA256: 06105becb7a770ee155687eb26b14c66c7b293d2729b6b2eb48708fd8f5ca112
+Section: Themes
+Description: Evolve 主题，配合 Anemone 或者 SnowBoard 使用。
+Author: By-Lengran
+Depiction: Evolve
+Name: Evolve
+
 Package: PageDots
 Version: 1.0
 Architecture: iphoneos-arm
@@ -12,6 +27,21 @@ Description: PageDots 组件，配合 Anemone 或者 SnowBoard 使用。
 Author: By-Lengran
 Depiction: Evolve
 Name: PageDots
+
+Package: Veexillum
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Lengran
+Filename: ./debs/Veexillum_1.3.deb
+Size: 49040492
+MD5sum: 2bb2a0f3b91f70daa633d1057e3b429b
+SHA1: bfbdaea6ff2a256a1d685f383c55758bd8a69a89
+SHA256: 2139a8fd3325792d0a4f190cd2f905bf0e529a6d5d7989b2907034f775b3d3ea
+Section: Themes
+Description: Veexillum 主题，配合 Anemone 或者 SnowBoard 使用。
+Author: By-Lengran
+Depiction: Veexillum
+Name: Veexillum
 
 Package: com.nactro.vpnswitch
 Version: 1.1.0-2
