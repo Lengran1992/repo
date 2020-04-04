@@ -767,6 +767,21 @@ Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPPRootIcon@2x.pn
 Name: Safari Plus 汉化包
 
 Package: repo.lengran.safariplus.cn
+Version: 1.7.12
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.safariplus.cn_1.7.12.deb
+Size: 12968
+MD5sum: f668b0a3992620d86955c23d4b8fc7a3
+SHA1: 3919aaab89f8d661596120f9928d1a3e7fa93c7a
+SHA256: fb978a78467c657f31904bd0d4d48f96e96781b90e34f979a4b584559f1853f1
+Section: 汉化
+Description: Safari Plus 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPPRootIcon@2x.png
+Name: Safari Plus 汉化包
+
+Package: repo.lengran.safariplus.cn
 Version: 1.7.2
 Architecture: iphoneos-arm
 Maintainer: By-Lengran
