@@ -735,6 +735,22 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/POPreferences.bundle/PreferenceOrganizer2@2x.png
 Name: PreferenceOrganizer 2 汉化包
 
+Package: repo.lengran.runaway.cn
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.twickd.ned.runaway
+Filename: ./debs/repo.lengran.runaway.cn_0.0.4.deb
+Size: 1374
+MD5sum: 799ac5fc0f3c3c44d9c18095037af884
+SHA1: 1bc79a4fef9c90708c0ccace6a8ab265aca709af
+SHA256: 51b5f7c599dff803da3c036549c374a9cbc4a79e8a35a7a7aa7d686c9afbdb6d
+Section: 汉化
+Description: Runaway 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/runawayprefs.bundle/icon@2x.png
+Name: Runaway 汉化包
+
 Package: repo.lengran.safariplus.cn
 Version: 1.7.1-2
 Architecture: iphoneos-arm
