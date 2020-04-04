@@ -978,10 +978,10 @@ Architecture: iphoneos-arm
 Maintainer: By-Lengran
 Depends: com.gilshahar7.watchsounds
 Filename: ./debs/repo.lengran.watchsounds.cn_1.0.deb
-Size: 1784
-MD5sum: 7d50efe7c398a51ad0f93ac758b5eb71
-SHA1: 4c2b43e71394ed0a8dd2ea4b4b3d8af456d178f2
-SHA256: fd5495794e7e46410064e97111996b0f6406f19c3fd948afe9b6e40786929699
+Size: 1792
+MD5sum: c7fb819d9dd885c2fd4a7c4be5144180
+SHA1: e2368b0caa9fa0729f282ace77e59d7983fef890
+SHA256: 01e515fc7faadef28026d550fbd1fd7fe8a5869561ce46ca080773697af000f2
 Section: 汉化
 Description: WatchSounds 汉化包
 Author: By-Lengran
