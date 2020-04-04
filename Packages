@@ -381,10 +381,10 @@ Architecture: iphoneos-arm
 Maintainer: By-Lengran
 Depends: com.twickd.john-sklikas.3dbadgeclear
 Filename: ./debs/repo.lengran.3dbadgeclear.cn_1.6.4.deb
-Size: 1376
-MD5sum: 61a097a4056f4fd9b7f118ba07d64eed
-SHA1: 32e3584ee216c45a563640355acebaaafc0c5b5c
-SHA256: 0e4574a16174e3205f3b7fe03c17476609b34814814c9cb3ecf99cc9696cce29
+Size: 1368
+MD5sum: fcebda781f02c2090b4f4a2c3dd3229f
+SHA1: 6c96889a0707d9673d0f4b158d9e53fa6fac3f3e
+SHA256: a04e76013f6a2f833453d2827314148af722953553e8d32b7e7b99135ea90850
 Section: 汉化
 Description: 3DBadgeClear 汉化包
 Author: By-Lengran
