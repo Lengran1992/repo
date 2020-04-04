@@ -898,10 +898,10 @@ Architecture: iphoneos-arm
 Maintainer: By-Lengran
 Depends: mobilesubstrate, firmware (>= 8.0), cydia (>= 1.1.19), preferenceloader, org.thebigboss.swipeformore
 Filename: ./debs/repo.lengran.swipeformore.cn_1.1.10.deb
-Size: 1856
-MD5sum: 2798a1da094e4402e0e17e7ce67a038a
-SHA1: b01e3a3f6b7b128a430f0d7b5405ba6867ed00bd
-SHA256: 5a3e72eb3a072eee053a5da13f4c2edadec75759d5b93b8f788441cf8ab8eb35
+Size: 2120
+MD5sum: b16dadbf1ecd0a1c2ec0bf07939639ac
+SHA1: fa6fedc0d43ac3a566296543a2f749423c49d0c7
+SHA256: 3b53153e9255dd59fd83b23d4deb08df200c167304ff3a825b123ee1aceffd59
 Section: 汉化
 Description: SwipeForMore 汉化包
 Author: By-Lengran
