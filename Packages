@@ -568,7 +568,7 @@ Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: By-Lengran
 Depends: com.yuigawada.callslicer
-Filename: ./debs/repo.lengran.callslicer.cn_1.4_iphoneos-arm.deb
+Filename: ./debs/repo.lengran.callslicer.cn_1.4.deb
 Size: 1178
 MD5sum: b375d6db8d75b5b795312126e09fa0f0
 SHA1: 9d85136d4e17bda96d714c1b307e3f35598e940d
@@ -1040,7 +1040,7 @@ Version: 1.1.2
 Architecture: iphoneos-arm
 Maintainer: By-Lengran
 Depends: com.gilshahar7.watchsounds
-Filename: ./debs/repo.lengran.watchsounds.cn_1.1.2_iphoneos-arm.deb
+Filename: ./debs/repo.lengran.watchsounds.cn_1.1.2.deb
 Size: 1906
 MD5sum: f47af6821fd590cde59030ae10779319
 SHA1: a212f8b9e02c47d0811dfaba173357dcbcaf43a8
