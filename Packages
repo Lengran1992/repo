@@ -1035,6 +1035,22 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/WatchSoundsprefs.bundle/icon@2x.png
 Name: WatchSounds 汉化包
 
+Package: repo.lengran.watchsounds.cn
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.gilshahar7.watchsounds
+Filename: ./debs/repo.lengran.watchsounds.cn_1.1.2_iphoneos-arm.deb
+Size: 1906
+MD5sum: f47af6821fd590cde59030ae10779319
+SHA1: a212f8b9e02c47d0811dfaba173357dcbcaf43a8
+SHA256: adfe73aaeb982492839386c232f9debb19ca9f6ddea72503f29be94768753b4d
+Section: 汉化
+Description: WatchSounds 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/WatchSoundsprefs.bundle/icon@2x.png
+Name: WatchSounds 汉化包
+
 Package: repo.lengran.wintermode.cn
 Version: 1.0.1
 Architecture: iphoneos-arm
