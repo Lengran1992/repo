@@ -391,6 +391,22 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/3DBadgeClearPrefs.bundle/BDGCLRpref@2x.png
 Name: 3DBadgeClear 汉化包
 
+Package: repo.lengran.Killxpro.cn
+Version: 2.1.2
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.cemck.killx-pro
+Filename: ./debs/repo.lengran.killxpro.cn_2.1.2_iphoneos-arm.deb
+Size: 1964
+MD5sum: 121783cb9475abbc2b4244141a47387b
+SHA1: f4d762c47003c2638be8df150c70850a4b8230eb
+SHA256: 9ba9b5ebc43244e736b1830fedbdb2ef927e286ff5bcb204eddcb14292db31b5
+Section: 汉化
+Description: KillX Pro 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/KillXProPrefs.bundle/icon_pro@2x.png
+Name: KillX Pro 汉化包
+
 Package: repo.lengran.altstore.cn
 Version: 1.2
 Architecture: iphoneos-arm
@@ -828,6 +844,22 @@ Description: PencilChargingIndicator 汉化包
 Author: CDSQ.Tech <cdsq.deb@gmail.com>
 Icon: file:///Library/PreferenceBundles/PencilChargingIndicatorPreferences.bundle/icon@2x.png
 Name: PencilChargingIndicator 汉化包
+
+Package: repo.lengran.powerselector11.cn
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.ichitaso.powerselector11
+Filename: ./debs/repo.lengran.powerselector11.cn_1.2.6_iphoneos-arm.deb
+Size: 1130
+MD5sum: 64f603e05c84c47037ef811e190ecc2f
+SHA1: 8566d6318259e5bdb0aad90daa09ca3ff700a0be
+SHA256: 9dbba0d9b56e07f37c6662142601400325819df10944682661bb5c0a2ca34007
+Section: 汉化
+Description: PowerSelector 设置包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+Name: PowerSelector 设置包
 
 Package: repo.lengran.preferenceorganizer2.cn
 Version: 4.0.7
