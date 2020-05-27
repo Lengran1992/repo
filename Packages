@@ -408,15 +408,15 @@ Icon: file:///Library/PreferenceBundles/KillXProPrefs.bundle/icon_pro@2x.png
 Name: KillX Pro 汉化包
 
 Package: repo.lengran.airpodscaselowbattery.cn
-Version: 2.0.20
+Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: By-Lengran
 Depends: me.scenicjaguar101.tweak.airpodscaselowbattery
-Filename: ./debs/repo.lengran.airpodscaselowbattery.cn_2.0.20_iphoneos-arm.deb
-Size: 1484
-MD5sum: c6d27118fa679dce2b7c16acd1ed1f70
-SHA1: 85b2cd29a0007a571c2b5224f499e0c5dce13881
-SHA256: 60761a78bea4245d853ab57f1e874d3ec57a877d5bd7d65f2d7ef63bc27bef06
+Filename: ./debs/repo.lengran.airpodscaselowbattery.cn_1.0.0_iphoneos-arm.deb
+Size: 1488
+MD5sum: 842599f59cf12a492262569bc1840d4c
+SHA1: c7afea57c47ae2f52e49a24f002e20842dafa37a
+SHA256: 3f0237c1fa9e4355e6b35a4a553a2ccffc1865cf94f2c4bde3dd36fee65dabbc
 Section: 汉化
 Description: AirPods Case Low Battery 汉化包
 Author: By-Lengran
