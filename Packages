@@ -43,6 +43,21 @@ Author: By-Lengran
 Depiction: Veexillum
 Name: Veexillum
 
+Package: com.lengran.basevpn.crack
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/repo.lengran.basevpn.crack_1.0.0_iphoneos-arm.deb
+Size: 222172
+MD5sum: 1b73c7d409be946b9e6635bb97111f11
+SHA1: dceccdcca6598bbcfbfdcc3a32c2192a83f91e18
+SHA256: 5606660ef3f77917e1f8df2995c8d1c3ea639688f0d51505c44f6d5fa706d3d7
+Section: System
+Description: BaseVpn Crack
+Author: By-Lengran
+Name: BaseVpn Crack
+
 Package: com.nactro.vpnswitch
 Version: 1.1.0-2
 Architecture: iphoneos-arm
