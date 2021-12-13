@@ -43,21 +43,6 @@ Author: By-Lengran
 Depiction: Veexillum
 Name: Veexillum
 
-Package: com.lengran.basevpn.crack
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/repo.lengran.basevpn.crack_1.0.0_iphoneos-arm.deb
-Size: 222172
-MD5sum: 1b73c7d409be946b9e6635bb97111f11
-SHA1: dceccdcca6598bbcfbfdcc3a32c2192a83f91e18
-SHA256: 5606660ef3f77917e1f8df2995c8d1c3ea639688f0d51505c44f6d5fa706d3d7
-Section: System
-Description: BaseVpn Crack
-Author: By-Lengran
-Name: BaseVpn Crack
-
 Package: com.nactro.vpnswitch
 Version: 1.1.0-2
 Architecture: iphoneos-arm
@@ -90,6 +75,20 @@ Section: Tweaks
 Description: add 3D Touch gestures to Cydia IOS 12 (unc0ver).
 Author: pxcex
 Name: Cydia3DTouch 12
+
+Package: rcom.lengran.basevpn.crack
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.basevpn.crack_1.0.0_iphoneos-arm.deb
+Size: 221752
+MD5sum: afc01842ccd50e3646ac397e1fc51926
+SHA1: 9e9f6a8fce069c2af5abbe5b3a98799075213b05
+SHA256: 72e170f6666e2af41e507bf8b797144c00a759eff66319ddeb9e4f8ec408e09b
+Section: Crack
+Description: BaseVpn Crack
+Author: By-Lengran
+Name: BaseVpn Crack
 
 Package: repo.feng.doubletaplock.cn
 Version: 1.0.1
