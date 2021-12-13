@@ -76,289 +76,6 @@ Description: add 3D Touch gestures to Cydia IOS 12 (unc0ver).
 Author: pxcex
 Name: Cydia3DTouch 12
 
-Package: com.yourcompany.cydiaquick
-Version: 2.1.1
-Architecture: iphoneos-arm
-Maintainer: iBreak
-Installed-Size: 356
-Depends: mobilesubstrate
-Filename: ./debs/CydiaQuick_2.1.1.deb
-Size: 36748
-MD5sum: 018a0c93de8a617694b17992ba69c503
-SHA1: e8ed851fabe6d3af8d0dc0a9fe3c75a5ab941e97
-SHA256: f3643178b1a3ef054c2fd7bd9a7e3aadd0f433621365b6e2bfe728de8befe14c
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: iBreak
-Icon: file:///Library/PreferenceBundles/CydiaQuick.bundle/icon@2x.png
-Name: Cydia Quick
-
-Package: com.yourcompany.hideseparator
-Version: 1.4
-Architecture: iphoneos-arm
-Maintainer: iBreak
-Installed-Size: 156
-Depends: mobilesubstrate
-Filename: ./debs/HideSeparator_1.4.deb
-Size: 14986
-MD5sum: c10f594d4b84cee404bdcdb824ec1430
-SHA1: cc2705541e48f0ad66fbef392f87eed2f37ca0be
-SHA256: 85470aa2beee63ae66aeb2cd662ac04f874ed19f8131f0d39f0e4bbd4247f2ab
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: iBreak
-Name: Hide Separator
-
-Package: com.yourcompany.ioshelper12
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: iBreak
-Installed-Size: 980
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debs/iOSHelper12_2.0.deb
-Size: 139512
-MD5sum: 9d7d3a3592f82e8970469d6c3833f673
-SHA1: 7d367d8cfed8a608ca9ac8b9c4014c67cc6173cd
-SHA256: 72de51b40c2f5c2ab5f69b4e8f6f4d01375448fbb0148de7c34bbcddacd1896d
-Section: System
-Description: An awesome MobileSubstrate tweak!
-Author: iBreak
-Icon: file:///Library/PreferenceBundles/iOSHelper12.bundle/icon@2x.png
-Name: iOS Helper 12
-
-Package: com.yourcompany.noparallax
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: iBreak
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/NoParallax_1.1.deb
-Size: 13808
-MD5sum: 900b77c3f741823bc372907443b9fde6
-SHA1: a9e69e13da6fc8cd4ee2ec8385ff2264dfc26c13
-SHA256: 67b2d70c1b9670be41faec9654de782199c72d246fec44d6a4082182b1cb6a9f
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: iBreak
-Name: No Parallax
-
-Package: com.yourcompany.passcodestyle
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: iBreak
-Installed-Size: 348
-Depends: mobilesubstrate
-Filename: ./debs/PasscodeStyle_1.0.1.deb
-Size: 34484
-MD5sum: 1deb32b09ce78ef707b86c584aeee28e
-SHA1: 56fbac4aa2bef0781cdb8d92ba41067e52e82ed3
-SHA256: ddd2e0d6fcc895252f106acb80a52f234f97c9422d3175b59c325fd4e8a1b2d2
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: iBreak
-Icon: file:///Library/PreferenceBundles/PasscodeStyle.bundle/icon@2x.png
-Name: Passcode Style
-
-Package: com.yourcompany.powerhelper
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iBreak
-Installed-Size: 440
-Depends: mobilesubstrate
-Filename: ./debs/PowerHelper_v1.0.deb
-Size: 56496
-MD5sum: 37d92a96748c408b892357df140177ac
-SHA1: 29cd04974bfc0a8eec2e3e15d57ee0caed5e0120
-SHA256: f87b1d22306fbd8695156bacec2621ee7b2208d300a9a10256baec19a63caf84
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: iBreak
-Icon: file:///Library/PreferenceBundles/PowerHelper.bundle/icon@2x.png
-Name: Power Helper
-
-Package: com.yourcompany.qqcallkit
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iBreak
-Installed-Size: 124
-Depends: mobilesubstrate
-Filename: ./debs/QQCallkit_1.0.deb
-Size: 5784
-MD5sum: 3d549164e82fd3bf2430cade740ade14
-SHA1: a7436c86f84ff351fced74d4e74196ef9c5e0bc4
-SHA256: a4bcc14fa53d57d17018094b83b0987e6589cab6b44d0167b8c944c024100f30
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: iBreak
-Name: QQ Callkit
-
-Package: com.yourcompany.switchcolor
-Version: 1.2.1
-Architecture: iphoneos-arm
-Maintainer: iBreak
-Installed-Size: 356
-Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debs/SwitchColor_1.2.1.deb
-Size: 36052
-MD5sum: 1649e6dae18fb1b1cff31f967e34382e
-SHA1: 14006016f3ab7f0e3eb0916ec92bc9b3e9ef5b77
-SHA256: 06b543c68ff9d8eeee26e9985f8304c2b6cc779adba5e42c4fc3eb4ef0261540
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: iBreak
-Icon: file:///Library/PreferenceBundles/SwitchColor.bundle/icon@2x.png
-Name: Switch Color
-
-Package: com.yourcompany.switcherstyle12
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iBreak
-Installed-Size: 336
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debs/SwitcherStyle12_1.0.deb
-Size: 37236
-MD5sum: d585d111fe4ae79e5ae281fe49964398
-SHA1: 9cc7f87541d200dc0eb6f79d929cf9c348956616
-SHA256: 9fe759712691e676d7756f8412170b5e113294b2472583b0626faebabf2ada1f
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: iBreak
-Icon: file:///Library/PreferenceBundles/SwitcherStyle12.bundle/icon@2x.png
-Name: Switcher Style 12
-
-Package: com.yourcompany.thunderhelper
-Version: 1.4.0
-Architecture: iphoneos-arm
-Maintainer: iBreak
-Installed-Size: 404
-Depends: mobilesubstrate
-Filename: ./debs/ThunderHelper_V1.4.0.deb
-Size: 53808
-MD5sum: eb9fcef99d1cf05e8ab515fc30814898
-SHA1: fb3d24da9b2421711a666377eb95c8c343bd5854
-SHA256: 78e2aa2871e474296aa8e366d9c38a1712cb3d3f2c748b7f75a03633c402e91c
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: iBreak
-Icon: file:///Library/PreferenceBundles/ThunderHelper.bundle/icon@2x.png
-Name: Thunder Helper
-
-Package: com.yourcompany.videohelper
-Version: 2.2.0
-Architecture: iphoneos-arm
-Maintainer: iBreak
-Installed-Size: 680
-Depends: mobilesubstrate
-Filename: ./debs/com.yourcompany.videohelper_2.2.0.deb
-Size: 130744
-MD5sum: 4f77ac8091154fc3c04ba25737b22bc8
-SHA1: 1ab3011705bed53ce94503edb7225b439cea70dd
-SHA256: da6c514088d25c3af0c4f358039218e33afa0805daf3f9d220a55d9633d0e868
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: iBreak
-Icon: file:///Library/PreferenceBundles/VideoHelper.bundle/icon@2x.png
-Name: Video Helper
-
-Package: com.yourcompany.videohelper
-Version: 3.0
-Architecture: iphoneos-arm
-Maintainer: iBreak
-Installed-Size: 692
-Depends: mobilesubstrate
-Filename: ./debs/com.yourcompany.videohelper_3.0.deb
-Size: 131472
-MD5sum: 31e6163ff26e42841490d418ebcffc90
-SHA1: 95ba7afa4f779bdb2f8adb8e146771ef3b7d657a
-SHA256: bcebe49d9188add6e793a7a08606c444c080333ab7e612606b4bde564341e2fc
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: iBreak
-Icon: file:///Library/PreferenceBundles/VideoHelper.bundle/icon@2x.png
-Name: Video Helper
-
-Package: com.yourcompany.wechatcallkit
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iBreak
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./debs/WeChatCallkit_1.0.deb
-Size: 4812
-MD5sum: 9e520d86b7a25bf0921797f6223cf335
-SHA1: 486345df63fe5aeb20b7035ec49d72993789988f
-SHA256: bc3e6cba2da464f8db73bc37bd392d42a59c23b684105a786a39a62eb0353ae6
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: iBreak
-Name: WeChat Callkit
-
-Package: com.yourcompany.wechathelper
-Version: 2.1.1
-Architecture: iphoneos-arm
-Maintainer: iBreak
-Installed-Size: 656
-Depends: mobilesubstrate,preferenceloader
-Filename: ./debs/com.yourcompany.wechathelper_2.1.1.deb
-Size: 71312
-MD5sum: 76e1b6db55c2644efce03bea57aa3cdb
-SHA1: 3df568d3307818edbdc7a07a81e166b47f942f50
-SHA256: 711dd69cb1312dc044e929a1033fe8e09a3cad5d3b4ebc93d2b3322040e9d052
-Section: Tweaks
-Description: 微信助手
-Author: iBreak
-Icon: file:///Library/PreferenceBundles/WeChatHelper.bundle/icon@2x.png
-Name: WeChat Helper
-
-Package: com.yourcompany.wechathelper
-Version: 2.2.0
-Architecture: iphoneos-arm
-Maintainer: iBreak
-Installed-Size: 608
-Depends: mobilesubstrate,preferenceloader
-Filename: ./debs/com.yourcompany.wechathelper_2.2.0.deb
-Size: 75276
-MD5sum: 577329bd9b9683e3f129841aca31061e
-SHA1: 3fa00826ced0876e7a955d6425763e7ec28149d4
-SHA256: b9d46f03200c3bccdd0a5230d80cac8836445612cd29cd4f208141095bb0bb59
-Section: Tweaks
-Description: 微信助手
-Author: iBreak
-Icon: file:///Library/PreferenceBundles/WeChatHelper.bundle/icon@2x.png
-Name: WeChat Helper
-
-Package: com.yourepo.ibreak.ioshelper11
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: iBreak <ibreak2019@qq.com>
-Depends: mobilesubstrate, firmware (>= 11.0), firmware (<< 12), preferenceloader
-Filename: ./debs/iOSHelper11_1.0.deb
-Size: 131572
-MD5sum: 6f43a01cf1653b3f43cf418c784dee3c
-SHA1: f5513f0ed5dfdafdcde655d952e612ea81026f33
-SHA256: faf437c7ef6b15fb61294573468929060dbcb3e88bf99c3796d04eb5830d2cf4
-Section: System
-Description: iOS 11 系统多功能定义助手・iOS 11 System Multifunctional Definition Assistant
-Author: iBreak <ibreak2019@qq.com>
-Icon: file:///Library/PreferenceBundles/iOSHelper11.bundle/icon@2x.png
-Name: iOS Helper 11
-
-Package: netskao.qqhelper
-Version: 1.2.0
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: mobilesubstrate
-Filename: ./debs/QQHelper_1.2.0.deb
-Size: 50492
-MD5sum: 2525ebb96579df1df08f205aac87c298
-SHA1: d25af1e4e2cd50e1e6d3e7618319761aac52892f
-SHA256: 226f7c6567546868725c7b97a3748dca9465ce5031627e7c3385b65ab8680f43
-Section: Tweaks
-Description: QQ小助手,兼容App Store最新版本
-Author: Netskao
-Icon: file:///Library/PreferenceBundles/QQHelper.bundle/QQHelper@2x.png
-Name: QQ Helper
-
 Package: repo.feng.doubletaplock.cn
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -1114,6 +831,22 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@2x.png
 Name: Shuffle 汉化包
 
+Package: repo.lengran.shuffle.cn
+Version: 1.6.0
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.creaturecoding.shuffle
+Filename: ./debs/repo.lengran.shuffle.cn_1.6.0_iphoneos-arm.deb
+Size: 10756
+MD5sum: 7afbbfa65c24943f2af09b0b158f28e9
+SHA1: d232f1a8f81e1d8b002e6164f111391334e2651c
+SHA256: 68908c34441edbc819bc0b2c690a60b74d0bfac89ac320de7a6fd5d797a139e3
+Section: 汉化
+Description: Shuffle 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@2x.png
+Name: Shuffle 汉化包
+
 Package: repo.lengran.swipeformore.cn
 Version: 1.1.10
 Architecture: iphoneos-arm
@@ -1225,21 +958,4 @@ Description: Winter Mode for Apple Watch 汉化包
 Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/WinterModeSettings.bundle/icon@2x.png
 Name: Winter Mode for Apple Watch 汉化包
-
-Package: vpnmastercrack
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/VpnMasterCrack_1.1.deb
-Size: 9616
-MD5sum: 05b0b5084d2ff1c18bd3f1dc6d6271d6
-SHA1: 300ffcb2e1387b9d70e1b9b9f169573b60659f7d
-SHA256: ef62ba44333b88b5d1bc04d075f7f0c411ea73ecf1f3c5fdb177b6671062fa10
-Section: Tweaks
-Description: 破解 VPN Master 高级会员及地区限制。
-Author: By-Lengran
-Depiction: 破解 VPN Master 高级会员及地区限制。
-Name: VPN Master Crack
 
