@@ -852,10 +852,10 @@ Architecture: iphoneos-arm
 Maintainer: By-Lengran
 Depends: com.rpgfarm.slices3
 Filename: ./debs/repo.lengran.slices3.cn_3.1.3_iphoneos-arm.deb
-Size: 2300
-MD5sum: 6e49798fcd5a741f9ef1ad19d6b2dab9
-SHA1: 312d1c8779ff1372f094fd8a1a55d689509cedac
-SHA256: d6d2ee0895099ca7134c880b2cdff3ac54941baf25b5c09b386fa2cfd907ce35
+Size: 1600
+MD5sum: 47b770c35e053bfa09ab9c6937b287f1
+SHA1: d4ff7b1ea03d766dbcd7f2bb381ddc59b626ee4f
+SHA256: 245c1cb90f6c1ad740714889817f1aa6fe052156b5c665556a8e817b895e2bd4
 Section: 汉化
 Description: Slices 3 汉化包
 Author: By-Lengran
