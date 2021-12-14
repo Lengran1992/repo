@@ -43,23 +43,6 @@ Author: By-Lengran
 Depiction: Veexillum
 Name: Veexillum
 
-Package: com.nactro.vpnswitch
-Version: 1.1.0-2
-Architecture: iphoneos-arm
-Maintainer: Nacro <NactroFeedBack@Gmail.com>
-Depends: mobilesubstrate,com.opa334.ccsupport
-Filename: ./debs/VPNSwitch_1.1.0-2.deb
-Size: 9252
-MD5sum: 79fdae971d8300c718b4293f0b2dbcf2
-SHA1: 1758857765eed438a13906ffbcf8de7c7cbb721d
-SHA256: 09fee3621a7685878801ecb099267f75658666c0567d0b1eeef0ef93b2a48eee
-Section: Tweaks
-Description: VPN快捷开关
-Author: Nacro <NactroFeedBack@Gmail.com>
-Depiction: VPN快捷开关
-Icon: file:///Library/ControlCenter/Bundles/vpnswitch.bundle/icon@2x.png
-Name: VPN 快捷开关
-
 Package: com.pxcex.cydia3dtouch
 Version: 0.0.4
 Architecture: iphoneos-arm
