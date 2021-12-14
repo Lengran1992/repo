@@ -863,6 +863,22 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@2x.png
 Name: Shuffle 汉化包
 
+Package: repo.lengran.slices3.cn
+Version: 3.1.3
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.rpgfarm.slices3
+Filename: ./debs/repo.lengran.slices3.cn_3.1.3_iphoneos-arm.deb
+Size: 2300
+MD5sum: 6e49798fcd5a741f9ef1ad19d6b2dab9
+SHA1: 312d1c8779ff1372f094fd8a1a55d689509cedac
+SHA256: d6d2ee0895099ca7134c880b2cdff3ac54941baf25b5c09b386fa2cfd907ce35
+Section: 汉化
+Description: Slices 3 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/SlicesPreferences.bundle/SlicesPreferences@2x.png
+Name: Slices 3 汉化包
+
 Package: repo.lengran.swipeformore.cn
 Version: 1.1.10
 Architecture: iphoneos-arm
