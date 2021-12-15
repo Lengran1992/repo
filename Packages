@@ -1,0 +1,992 @@
+Package: Evolve
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Lengran
+Filename: ./debs/Evolve_2.0.deb
+Size: 2145988
+MD5sum: ee1c0a09cc7ea2ffcce4aae0521f469b
+SHA1: 2ca36dbaf735e1edd9b0f47a09a752c031b3272f
+SHA256: 06105becb7a770ee155687eb26b14c66c7b293d2729b6b2eb48708fd8f5ca112
+Section: Themes
+Description: Evolve 主题，配合 Anemone 或者 SnowBoard 使用。
+Author: By-Lengran
+Depiction: Evolve
+Name: Evolve
+
+Package: PageDots
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Lengran
+Filename: ./debs/PageDots_1.0.deb
+Size: 4300
+MD5sum: dd4328ffb3a61b094ce6508cbad68352
+SHA1: 1495bd0775d069b1559801cbdf928980f768b938
+SHA256: 80c912f609c0412a941c373ca2206b1bd7aff3c5525a3975494bdf789744d158
+Section: Themes
+Description: PageDots 组件，配合 Anemone 或者 SnowBoard 使用。
+Author: By-Lengran
+Depiction: Evolve
+Name: PageDots
+
+Package: Veexillum
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Lengran
+Filename: ./debs/Veexillum_1.3.deb
+Size: 49040492
+MD5sum: 2bb2a0f3b91f70daa633d1057e3b429b
+SHA1: bfbdaea6ff2a256a1d685f383c55758bd8a69a89
+SHA256: 2139a8fd3325792d0a4f190cd2f905bf0e529a6d5d7989b2907034f775b3d3ea
+Section: Themes
+Description: Veexillum 主题，配合 Anemone 或者 SnowBoard 使用。
+Author: By-Lengran
+Depiction: Veexillum
+Name: Veexillum
+
+Package: com.pxcex.cydia3dtouch
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: pxcex
+Installed-Size: 144
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/Cydia3DTouch_0.04.deb
+Size: 14748
+MD5sum: 97e4785581ee397024e38a7281c29705
+SHA1: ba78755ba286ad483d720084cca14265164fc83b
+SHA256: ccf4ff9708269ff431eea821f273998d5a080420beeaf99e59f918e78040de5c
+Section: Tweaks
+Description: add 3D Touch gestures to Cydia IOS 12 (unc0ver).
+Author: pxcex
+Name: Cydia3DTouch 12
+
+Package: rcom.lengran.basevpn.crack
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.basevpn.crack_1.0.0_iphoneos-arm.deb
+Size: 221752
+MD5sum: afc01842ccd50e3646ac397e1fc51926
+SHA1: 9e9f6a8fce069c2af5abbe5b3a98799075213b05
+SHA256: 72e170f6666e2af41e507bf8b797144c00a759eff66319ddeb9e4f8ec408e09b
+Section: Crack
+Description: BaseVpn Crack
+Author: By-Lengran
+Name: BaseVpn Crack
+
+Package: repo.feng.doubletaplock.cn
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.spark.doubletaplock
+Filename: ./debs/repo.lengran.doubletaplock.cn_1.0.1.deb
+Size: 1264
+MD5sum: 286f9a3a7c85a78f84deef8dc53950fd
+SHA1: f6d679579fab1ac444e5541220f1d702740d004b
+SHA256: 9942ac0beae323e44474eb98128deadbee8fe1b2b6386d47f8335b9aa26345ee
+Section: 汉化
+Description: DoubleTapLock 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/DoubleTapLockPrefs.bundle/icon@2x.png
+Name: DoubleTapLock 汉化包
+
+Package: repo.lengran.3dbadgeclear.cn
+Version: 1.6.4
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.twickd.john-sklikas.3dbadgeclear
+Filename: ./debs/repo.lengran.3dbadgeclear.cn_1.6.4.deb
+Size: 1368
+MD5sum: fcebda781f02c2090b4f4a2c3dd3229f
+SHA1: 6c96889a0707d9673d0f4b158d9e53fa6fac3f3e
+SHA256: a04e76013f6a2f833453d2827314148af722953553e8d32b7e7b99135ea90850
+Section: 汉化
+Description: 3DBadgeClear 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/3DBadgeClearPrefs.bundle/BDGCLRpref@2x.png
+Name: 3DBadgeClear 汉化包
+
+Package: repo.lengran.Killxpro.cn
+Version: 2.1.2
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.cemck.killx-pro
+Filename: ./debs/repo.lengran.killxpro.cn_2.1.2_iphoneos-arm.deb
+Size: 1964
+MD5sum: 121783cb9475abbc2b4244141a47387b
+SHA1: f4d762c47003c2638be8df150c70850a4b8230eb
+SHA256: 9ba9b5ebc43244e736b1830fedbdb2ef927e286ff5bcb204eddcb14292db31b5
+Section: 汉化
+Description: KillX Pro 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/KillXProPrefs.bundle/icon_pro@2x.png
+Name: KillX Pro 汉化包
+
+Package: repo.lengran.Killxpro.cn
+Version: 3.0.2
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.cemck.killx-pro
+Filename: ./debs/repo.lengran.killxpro.cn_3.0.2_iphoneos-arm.deb
+Size: 2928
+MD5sum: 728f7779abec4841288d52e918683ebe
+SHA1: 22a6607b26bddee75c3e68454ea9acf230eefa78
+SHA256: 428bcbb41c87e1e358755d80a08358065aa4d39cedef73a975e7d31b3311afd7
+Section: 汉化
+Description: KillX Pro 汉化补充包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/KillXProPrefs.bundle/icon_pro@2x.png
+Name: KillX Pro 汉化包
+
+Package: repo.lengran.airpodpopupconnect.cn
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.nicho1asdev.airpodpopupconnect
+Filename: ./debs/repo.lengran.airpodpopupconnect.cn_1.1_iphoneos-arm.deb
+Size: 1590
+MD5sum: 26de68bc8dde75545a68d970e337ec6b
+SHA1: 96b529a62b965ea7099cce001eca2f8289fd8ac1
+SHA256: 140c35b9e2f7ff4eed0f1032318801f980e0727cea0968253fd0ac7316f5c49b
+Section: 汉化
+Description: AirPopupConnect 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/AirPopupConnectPrefs.bundle/icon@2x.png
+Name: AirPopupConnect 汉化包
+
+Package: repo.lengran.airpodscaselowbattery.cn
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: me.scenicjaguar101.tweak.airpodscaselowbattery
+Filename: ./debs/repo.lengran.airpodscaselowbattery.cn_1.0.0_iphoneos-arm.deb
+Size: 1488
+MD5sum: 842599f59cf12a492262569bc1840d4c
+SHA1: c7afea57c47ae2f52e49a24f002e20842dafa37a
+SHA256: 3f0237c1fa9e4355e6b35a4a553a2ccffc1865cf94f2c4bde3dd36fee65dabbc
+Section: 汉化
+Description: AirPods Case Low Battery 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/AirPodsCaseLowBatteryPrefs.bundle/icon@2x.png
+Name: AirPods Case Low Battery 汉化包
+
+Package: repo.lengran.audiorecorderxs.cn
+Version: 3.0-78
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: mobilesubstrate
+Filename: ./debs/repo.lengran.audiorecorderxs.cn_3.0-78.deb
+Size: 7936
+MD5sum: 416acdd69b4b45dcef29906236e5f78a
+SHA1: 087a0d1b4f2f353c35b9f95c1c74df0413c73074
+SHA256: c722f096936f8f90e4d0f506b5ac418ee3370b68557dca30bf0e1b886607a142
+Section: 汉化
+Description: AudioRecorder XS 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/AudioRecorderPreferences.bundle/AudioRecorder@2x.png
+Name: AudioRecorder XS 汉化包
+
+Package: repo.lengran.autounlockx.cn
+Version: 1.0.12
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.spark.autounlockx
+Filename: ./debs/repo.lengran.autounlockx.cn_1.0.12.deb
+Size: 1768
+MD5sum: bebc8a9f0769e186c0b5122a1442f5c3
+SHA1: d2aa6203aa8e39f3e5281214d9d13ba3ab7e6458
+SHA256: 075f29d3aadc432dbc1ac8bee452021a95b9beaf34294bd6f7499d643299dcc7
+Section: 汉化
+Description: AutoUnlockX 汉化包
+Author: CDSQ.Tech <cdsq.deb@gmail.com>
+Icon: file:///Library/PreferenceBundles/AutoUnlockXPrefs.bundle/icon@2x.png
+Name: AutoUnlockX 汉化包
+
+Package: repo.lengran.autounlockx.cn
+Version: 1.0.6
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.spark.autounlockx
+Filename: ./debs/repo.lengran.autounlockx.cn_1.06.deb
+Size: 1428
+MD5sum: 289a8351561114af9048036d846d98ac
+SHA1: 45010e86cd8f69667837ce0b8b7cbc047f43cf75
+SHA256: 3be03e5382a8b997b48a02cea350c2d56c5c81592eea1a831c3e35e5601a6144
+Section: 汉化
+Description: AutoUnlockX 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/AutoUnlockXPrefs.bundle/icon@2x.png
+Name: AutoUnlockX 汉化包
+
+Package: repo.lengran.batterypercent12.cn
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.dpkg.batterypercent12
+Filename: ./debs/repo.lengran.batterypercent12.cn_1.0.1.deb
+Size: 1628
+MD5sum: 5f3fb71a6cae23d0043fa8a6efb7392b
+SHA1: 594056d526c861b25105f2b9a4757ec4fda57ba7
+SHA256: 0960b102e03a050363b7d986a0ff3e374b275d3ddec7ba5f6d01b5528e9d8925
+Section: 汉化
+Description: BatteryPercent12 汉化包。BatteryPercent12 是适用于 iPhone X 及以上设备的一款电池修改插件！
+Author: By-Lengran
+Icon: file:////Library/PreferenceBundles/BatteryPercent12.bundle/icon@2x.png
+Name: BatteryPercent12 汉化包
+
+Package: repo.lengran.batterypercentx.cn
+Version: 1.3.8-1
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: mobilesubstrate
+Filename: ./debs/repo.lengran.batterypercentx.cn_1.3.8-1.deb
+Size: 1828
+MD5sum: 3a690548d603bcfd7ee232f2d53f985a
+SHA1: 473ee7e507f707b278e56063d7d52d6620a63006
+SHA256: 57cdf105f338767b99898986a51edb3dcb89fd5dd245d2e7439542c696c17b79
+Section: 汉化
+Description: BatteryPercentX 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/batterypercentxprefs.bundle/icon@2x.png
+Name: BatteryPercentX 汉化包
+
+Package: repo.lengran.bazzi2.cn
+Version: 2.0.7.1
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.bazzi2.cn_2.0.7.1.deb
+Size: 1972
+MD5sum: 194556c6d867fb147e0c4d4fdd04da22
+SHA1: 511390964ce28a65667ded15572572e6ab3b66e2
+SHA256: d941e6595b9663eaac67f7cb6814739b3f7353b437642f449bc9179c710723e2
+Section: 汉化
+Description: Bazzi 2 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/Bazzi2Settings.bundle/bazzi2@2x.png
+Name: Bazzi 2 汉化包
+
+Package: repo.lengran.betterccxi.cn
+Version: 1.4.10
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.betterccxi.cn_1.4.10.deb
+Size: 1436
+MD5sum: 4a3f881a3271f4e04814a8e37a4ae18c
+SHA1: 0049c6918ddb1a847ea718699773ae989fc38017
+SHA256: 2798f9ba4f5e6915d7a9e486b50f69dbc8d491237d05d16eb54789fec8cfd97a
+Section: 汉化
+Description: BetterCCXI 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/BetterCCXI.bundle/SettingsIcon@2x.png
+Name: BetterCCXI 汉化包
+
+Package: repo.lengran.bioprotectxs.nox.cn
+Version: 4.0-71
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: mobilesubstrate
+Filename: ./debs/repo.lengran.bioprotectxs.nox.cn_4.0-71.deb
+Size: 7240
+MD5sum: 55d5517af0724a2354bc22b49260463f
+SHA1: 12711397a61943e0ff51025688f5c3580c1f9b4a
+SHA256: 1427505876589c719edcbc7c434d6dfaabd8e30ca79240fd386dbfb177eb7dbd
+Section: 汉化
+Description: BioProtect XS 汉化包（非X设备）
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect@2x.png
+Name: BioProtect XS 汉化包（非X设备）
+
+Package: repo.lengran.bioprotectxs.x.cn
+Version: 4.0-71
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: mobilesubstrate
+Filename: ./debs/repo.lengran.bioprotectxs.x.cn_4.0-71.deb
+Size: 7328
+MD5sum: 1423a6247a43770309749696a43ef2af
+SHA1: a5d78386e2aec1d97b27b1f2247ad0ad9726cda4
+SHA256: 1cd079c18859cd2047ecc25ec42981045c6f22cec993d00539a5f50a9e49718e
+Section: 汉化
+Description: BioProtect XS 汉化包（X设备）
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect@2x.png
+Name: BioProtect XS 汉化包（X设备）
+
+Package: repo.lengran.callbarxs.cn
+Version: 2.2-5
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: mobilesubstrate
+Filename: ./debs/repo.lengran.callbarxs.cn_2.2-5.deb
+Size: 2840
+MD5sum: f9928bd47a464fc54f29707aa07fa2f4
+SHA1: a13b81ce56c7d80ee4aa0442cb50d37d713afcea
+SHA256: f70ab893a8738f5f16c361671860e0732bfc30537c3ad4db6715d9f6b19375e0
+Section: 汉化
+Description: CallBar XS  汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+Name: CallBar XS 汉化包
+
+Package: repo.lengran.callslicer.cn
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.yuigawada.callslicer
+Filename: ./debs/repo.lengran.callslicer.cn_1.4.deb
+Size: 1178
+MD5sum: b375d6db8d75b5b795312126e09fa0f0
+SHA1: 9d85136d4e17bda96d714c1b307e3f35598e940d
+SHA256: 0509630956ebc37bb807a0530d142cb24224b85ad64cad8c827f894154ec32c3
+Section: 汉化
+Description: CallSlicer 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/CallSlicerPrefs.bundle/icon@2x.png
+Name: CallSlicer 汉化包
+
+Package: repo.lengran.ccmusicartwork.cn
+Version: 2.1.2
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.spark.ccmusicartwork
+Filename: ./debs/repo.lengran.ccmusicartwork.cn_2.1.2.deb
+Size: 1192
+MD5sum: 9e90812a5364c68694e105db1bb4b7e7
+SHA1: e3dca49f5b31bdf3ede2484dc2b65150d7467973
+SHA256: de1dde8247192cef219b9f2502f3dff1c90e37e9ca9a6125da34d2103ae51309
+Section: 汉化
+Description: CCMusicArtwork 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/CCMusicArtworkPrefs.bundle/icon@2x.png
+Name: CCMusicArtwork 汉化包
+
+Package: repo.lengran.colorbadges.cn
+Version: 1.3.2-1
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.colorbadges.cn_1.3.2-1.deb
+Size: 1660
+MD5sum: 8305d9b75e10a04965cc2990ce8e294b
+SHA1: 695e444dfc77177e8f706c4c98a5a07c54fb9f4f
+SHA256: 945c2299e50d83e30e725f245d8a895e9cd1edeee453b345df10c67b1041d8cb
+Section: 汉化
+Description: ColorBadges 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/cbprefs.bundle/CBCydiaIcon.png
+Name: ColorBadges 汉化包
+
+Package: repo.lengran.colorbadges.cn
+Version: 1.4.4
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/com.lengran.colorbadges.cn_1.4.4.deb
+Size: 1772
+MD5sum: 27ae829d657fc73a3e31cc53e1b50747
+SHA1: 348281ffcf055de4a6d72fbb9d726cbb1ee198a5
+SHA256: d54ac354ce4157346f7733d9304523e6508f325c5ae52d427f2f0a3d81f781c0
+Section: 汉化
+Description: ColorBadges 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/cbprefs.bundle/CBCydiaIcon.png
+Name: ColorBadges 汉化包
+
+Package: repo.lengran.conditionalwifi4.icon
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.atwiiks.conditionalwifi4
+Filename: ./debs/repo.lengran.conditionalwifi4.icon_1.0.0.deb
+Size: 9372
+MD5sum: eb27c288388aa537fb07284469d30cb8
+SHA1: 25e8487fd20d9ac31c03733edf2e80897abf555e
+SHA256: 8adba76bbf4de6ed8efa3b9c1905f8f5a31fe308b62148fc7aa54bbaae8eeefd
+Section: Tweaks
+Description: 补全 ConditionalWiFi4 设置图标
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/ConditionalWiFi4.bundle/icon@2x.png
+Name: ConditionalWiFi4 设置图标包
+
+Package: repo.lengran.cydown.cn
+Version: 6.9.7
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.julioverne.cydown
+Filename: ./debs/repo.lengran.cydown.cn_6.9.7.deb
+Size: 23076
+MD5sum: 25bea91732b176effaa0b8945951164a
+SHA1: 6d8ef2c29008d1760fc80f91eab4f6fc2bad5368
+SHA256: c8a6b5f7e2c05d2714849878d48ee4ca2c697e5ef8f5246c5a93551df14047af
+Section: 汉化
+Description: Cydown 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown.png
+Name: Cydown 汉化包
+
+Package: repo.lengran.cydown.cn
+Version: 7.0.6
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.julioverne.cydown
+Filename: ./debs/repo.lengran.cydown.cn_7.0.6.deb
+Size: 22136
+MD5sum: c22f6b7e22aac830684c96f42cccf4bf
+SHA1: dce03fe29eb5607c937ae744718d2fc2e5ba0eed
+SHA256: fc332bc21b5cce4616d186496ae5da9bf6d423e286968b357ffc922d55dff265
+Section: 汉化
+Description: Cydown 汉化包
+Author: CDSQ.Tech <cdsq.deb@gmail.com>
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown.png
+Name: Cydown 汉化包
+
+Package: repo.lengran.datameter
+Version: 1.4.3
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Filename: ./debs/repo.lengran.datameter_1.4-3.deb
+Size: 243596
+MD5sum: 54d5a57682b204fbe5e0daf30e891f16
+SHA1: cee193f6ca45bb0a149ead90590bdbc859cb339e
+SHA256: f268ca9693ce8c746b9c2d88342d81b06bf926a8d9ec423a4ffe7a054ac2ca1e
+Section: Tweaks
+Description: wifi & data traffic Notification widget
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/DataMeterSettings.bundle/icon@2x.png
+Name: DataMeter
+
+Package: repo.lengran.dictmojix.cn
+Version: 1.4.15
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.udevs.dictmojix
+Filename: ./debs/repo.lengran.dictmojix.cn_1.4.15_iphoneos-arm.deb
+Size: 1408
+MD5sum: 3b95589093c6b979511dabae03e0cf97
+SHA1: 5a52fbdda227ad0edf5764881811d39385c6ecc8
+SHA256: ab7233e9d65bf650020cafc4c765b990fac87204fcaafa13ce56594ba712c791
+Section: 汉化
+Description: DictMojiX 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/DictMojiXPrefs.bundle/DictMojiX@2x.png
+Name: DictMojiX 汉化包
+
+Package: repo.lengran.dockx.cn
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.udevs.dockx
+Filename: ./debs/repo.lengran.dockx.cn_1.0.1_iphoneos-arm.deb
+Size: 1134
+MD5sum: 3eee5adfbb1f96947defbc5d86516b9b
+SHA1: 4487ed0ba724c78a3af558f91ae4f2ba1eb125a0
+SHA256: 498009208afe11239535727389485e83753b9543fae210c4d1045a97369229a6
+Section: 汉化
+Description: DockX 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/DockXPrefs.bundle/DockX@2x.png
+Name: DockX 汉化包
+
+Package: repo.lengran.dockx.cn
+Version: 1.2.0.1
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.udevs.dockx
+Filename: ./debs/repo.lengran.dockx.cn_1.2.0.1.deb
+Size: 1222
+MD5sum: 34da72e335f9ccbe50b8180f5b451c4c
+SHA1: a463994f0c4cce82ea3b06103c7849a3809bc579
+SHA256: b668dfbebde33a84e8c67366aac28a1f0449d3c19f9c9e238e82ba4fa437193f
+Section: 汉化
+Description: DockX 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/DockXPrefs.bundle/DockX@2x.png
+Name: DockX 汉化包
+
+Package: repo.lengran.dockx.cn
+Version: 1.5.0
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.udevs.dockx
+Filename: ./debs/repo.lengran.dockx.cn_1.5.0_iphoneos-arm.deb
+Size: 1514
+MD5sum: bad8eae2e082bce67ef419b6e1153681
+SHA1: 4f3bb813ac592eabc0faed7000a015487c3e0a07
+SHA256: 269e1ce7fc3f023844f159356a8200075cfb0f3affb7ec43b20e644ea4f7433a
+Section: 汉化
+Description: DockX 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/DockXPrefs.bundle/DockX@2x.png
+Name: DockX 汉化包
+
+Package: repo.lengran.easyapporientation.cn
+Version: 0.0.7
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.easyapporientation.cn_0.0.7.deb
+Size: 1336
+MD5sum: 06e69203c98ae2efb66d8a3a1dc140a1
+SHA1: 265711de99f6a8f21eed8ea3314227c9697efc84
+SHA256: ac3198bbca67e87d07744e96ad727e01cbd5c1b2f3d25800b37666d228085f10
+Section: 汉化
+Description: EasyAppOrientation 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/EasyAppOrientationPrefs.bundle/EasyAppOrientation@2x.png
+Name: EasyAppOrientation 汉化包
+
+Package: repo.lengran.flyjbx.cn
+Version: 1.2.5
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: kr.xsf1re.flyjbx
+Filename: ./debs/repo.lengran.flyjbx.cn_1.2.5_iphoneos-arm.deb
+Size: 3092
+MD5sum: fe7b544aef95c8c463bd0ee29541e50e
+SHA1: f429b4df4b8ca3b2fc963c3778ce305b92bb67d4
+SHA256: 8f68cdca64eb3b1122cdf68b1b37af7dbc7168acb9d10b73229af424f8a5958e
+Section: 汉化
+Description: FlyJB X 汉化包
+Author: By-Lengran
+Icon: file:///Applications/FlyJB.app/AppIcon60x60@2x.png
+Name: FlyJB X 汉化包
+
+Package: repo.lengran.force3dappshortcuts.cn
+Version: 0.0.8
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.dgh0st.force3dappshortcuts
+Filename: ./debs/repo.lengran.force3dappshortcuts.cn_0.0.8.deb
+Size: 1872
+MD5sum: bd2d0b219b2db85dcdfee54b857a17ed
+SHA1: 262a5476ac642d79b2fc515555561ecaf1ad27f7
+SHA256: fc7f4afd20b1d00df75ec4b33820b0746c43f609c39e9b1065618fa17727b2e5
+Section: 汉化
+Description: Force3DAppShortcuts 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/Force3DAppShortcuts.bundle/icon@2x.png
+Name: Force3DAppShortcuts 汉化包
+
+Package: repo.lengran.latchkey.cn
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: ch.mdaus.latchkey
+Filename: ./debs/repo.lengran.latchkey.cn_2.1.deb
+Size: 1524
+MD5sum: d2a9104225b0ec45fa58702015ea1283
+SHA1: 93ca1d9c7ce6b8c679b5e9467255c10972721551
+SHA256: 53f7bc98fffcb1695e650dba51eba664014bab237c775502f401c22f991f32dc
+Section: 汉化
+Description: LatchKey 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/LatchKey.bundle/latchkey@3x.png
+Name: LatchKey 汉化包
+
+Package: repo.lengran.letmeknow.cn
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.imkpatil.letmeknow
+Filename: ./debs/repo.lengran.letmeknow.cn_1.4.1.deb
+Size: 1768
+MD5sum: 930d6a96c21b63103f52fb10ff5c05d7
+SHA1: 3fb79d82f31d5a802a72ff62c6afb0f47977900b
+SHA256: 5a7f201ef0a756774ba3dd2496feaf5d39020a939ab7954b680a8dbd1df2e928
+Section: 汉化
+Description: LetMeKnow 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/LetMeKnow.bundle/icon@2x.png
+Name: LetMeKnow 汉化包
+
+Package: repo.lengran.libertylite.cn
+Version: 0.2.12
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.libertylite.cn_0.2.12.deb
+Size: 1108
+MD5sum: 8ac374bfd73475d386e083f43d6eb94b
+SHA1: 129c06f95298dc8200f5a7c04b3022b3c0d5a29f
+SHA256: 6d2079c4d73f21337f7adeafe98e94cc72bf77df434392f1ac268be9c8519f6b
+Section: 汉化
+Description: Liberty Lite 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Name: Liberty Lite 汉化包
+
+Package: repo.lengran.pencilchargingindicator.cn
+Version: 1.2~b6
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.pencilchargingindicator.cn_1.2~b6.deb
+Size: 2784
+MD5sum: a2e66e455e506b9fe9d4d8a89442b886
+SHA1: 3a793354cc1aa6c20f791637def6bfd312efd5cb
+SHA256: 73994155c9ef371aa5e52707d7cd432e85012fda9684a675d85926247f9c6330
+Section: 汉化
+Description: PencilChargingIndicator 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/PencilChargingIndicatorPreferences.bundle/icon@2x.png
+Name: PencilChargingIndicator 汉化包
+
+Package: repo.lengran.pencilchargingindicator.cn
+Version: 1.2~b7
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.pencilchargingindicator.cn_1.2~b7.deb
+Size: 2980
+MD5sum: bbeabe37c082100b20bf7228498ff24b
+SHA1: 78faa098b80529ff880382b2942b624a1324c806
+SHA256: 0a747dfae36178157b2e512c3971f5449a1bba5c65819970c6a3b680d286b5c4
+Section: 汉化
+Description: PencilChargingIndicator 汉化包
+Author: CDSQ.Tech <cdsq.deb@gmail.com>
+Icon: file:///Library/PreferenceBundles/PencilChargingIndicatorPreferences.bundle/icon@2x.png
+Name: PencilChargingIndicator 汉化包
+
+Package: repo.lengran.powerselector11.cn
+Version: 1.2.6
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.ichitaso.powerselector11
+Filename: ./debs/repo.lengran.powerselector11.cn_1.2.6_iphoneos-arm.deb
+Size: 1130
+MD5sum: 64f603e05c84c47037ef811e190ecc2f
+SHA1: 8566d6318259e5bdb0aad90daa09ca3ff700a0be
+SHA256: 9dbba0d9b56e07f37c6662142601400325819df10944682661bb5c0a2ca34007
+Section: 汉化
+Description: PowerSelector 设置包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
+Name: PowerSelector 设置包
+
+Package: repo.lengran.preferenceorganizer2.cn
+Version: 4.0.7
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: net.angelxwind.preferenceorganizer2
+Filename: ./debs/repo.lengran.preferenceorganizer2.cn_4.0.7.deb
+Size: 3300
+MD5sum: a61bf6e6c5043cbe3e25abb070d3e94b
+SHA1: 0d6b587fd8bc5d5987740ca77cf57f08119111b9
+SHA256: 8c693ce226c355dbd3f83321fb425497239214151ef05d7b929317d6a916960c
+Section: 汉化
+Description: PreferenceOrganizer 2 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/POPreferences.bundle/PreferenceOrganizer2@2x.png
+Name: PreferenceOrganizer 2 汉化包
+
+Package: repo.lengran.runaway.cn
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.twickd.ned.runaway
+Filename: ./debs/repo.lengran.runaway.cn_0.0.4.deb
+Size: 1374
+MD5sum: 799ac5fc0f3c3c44d9c18095037af884
+SHA1: 1bc79a4fef9c90708c0ccace6a8ab265aca709af
+SHA256: 51b5f7c599dff803da3c036549c374a9cbc4a79e8a35a7a7aa7d686c9afbdb6d
+Section: 汉化
+Description: Runaway 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/runawayprefs.bundle/icon@2x.png
+Name: Runaway 汉化包
+
+Package: repo.lengran.safariplus.cn
+Version: 1.7.1-2
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.opa334.safariplus
+Filename: ./debs/repo.lengran.safariplus.cn_1.7.1-2.deb
+Size: 10172
+MD5sum: 5babb950ec12851a7c2d81dee9f61d66
+SHA1: 33f763192c05b05983f325201762d884f78036d1
+SHA256: 36d5d355884506983b08561c20abfe28556dab4a89aa4bbbafb54972632650f5
+Section: 汉化
+Description: Safari Plus 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPPRootIcon@2x.png
+Name: Safari Plus 汉化包
+
+Package: repo.lengran.safariplus.cn
+Version: 1.7.10
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.safariplus.cn_1.7.10.deb
+Size: 10132
+MD5sum: b91fca15a51c36c2f3d18020f6b2489e
+SHA1: 0d50a9c458664e0f314795cffd26f5c30048e173
+SHA256: 3037051f2bfa9497518b5acc44596b38c45dedcada825b521a548451fe81bef5
+Section: 汉化
+Description: Safari Plus 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPPRootIcon@2x.png
+Name: Safari Plus 汉化包
+
+Package: repo.lengran.safariplus.cn
+Version: 1.7.12
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.safariplus.cn_1.7.12.deb
+Size: 13028
+MD5sum: ffc5c8cb09e4dfbde4434e7b6d2ca034
+SHA1: 61f3ac623c97576a36025877406e765baf7b3b21
+SHA256: 9045f57897b0c45248d9b54cd9cce0183975eb3c3f016cc6db36e044a0f277ef
+Section: 汉化
+Description: Safari Plus 汉化包
+Author: CDSQ.Tech <cdsq.deb@gmail.com>
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPPRootIcon@2x.png
+Name: Safari Plus 汉化包
+
+Package: repo.lengran.safariplus.cn
+Version: 1.7.2
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.opa334.safariplus
+Filename: ./debs/repo.lengran.safariplus.cn_1.7.2.deb
+Size: 10320
+MD5sum: 3a87cabd602cd03148b81c1ba4f5477a
+SHA1: db365879761f7220c06308c929bd86d516be688f
+SHA256: dfa834a9ba887a29f637de53cd4fae54224650f756ad2fcbc1ea91ce76d2c4a5
+Section: 汉化
+Description: Safari Plus 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPPRootIcon@2x.png
+Name: Safari Plus 汉化包
+
+Package: repo.lengran.settingswidgets.cn
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.shepgoba.settingswidgets
+Filename: ./debs/repo.lengran.settingswidgets.cn_1.1.deb
+Size: 968
+MD5sum: deed4437257853a6cfadd9ecd625bd75
+SHA1: aa7842c3eb2207e56a55dbcf4af50846b749173f
+SHA256: cc096d0dffd4c90329e4ca2f1384c0b163d997c935d7db2d9b15ccf15a8f8aae
+Section: 汉化
+Description: SettingsWidgets 汉化包
+Author: By-Lengran
+Name: SettingsWidgets 汉化包
+
+Package: repo.lengran.shadow.cn
+Version: 2.0.20
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: me.jjolano.shadow
+Filename: ./debs/repo.lengran.shadow.cn_2.0.20.deb
+Size: 4364
+MD5sum: 2d92b24956513389ae880d11d8a82401
+SHA1: eabc72b8b394f7efa86de86bae3fb4f67c3117c6
+SHA256: 2d6b2e5a72f47f857c1fe1b5165d11ec2fa6469334c7173fffd6840115d5a20e
+Section: 汉化
+Description: Shadow 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/ShadowPreferences.bundle/Icon-Small@2x.png
+Name: Shadow 汉化包
+
+Package: repo.lengran.shuffle.cn
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.creaturecoding.shuffle
+Filename: ./debs/repo.lengran.shuffle.cn_1.0.4.deb
+Size: 2828
+MD5sum: e1df154a19443fa5082b82fbd524115f
+SHA1: 3be2617a50bc4e208d5e59d01802c3bcfa7e77b5
+SHA256: 0133e931897a70d2381d5dc73a0d72f5e419a31b974bde2533f9f115ea835ed6
+Section: 汉化
+Description: Shuffle 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@2x.png
+Name: Shuffle 汉化包
+
+Package: repo.lengran.shuffle.cn
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.creaturecoding.shuffle
+Filename: ./debs/com.lengran.shuffle.cn_1.1.4.deb
+Size: 3572
+MD5sum: 7056ee40f6a40aed5938d919dd83ad2d
+SHA1: af205fdfba05317ca2f595c0e5182e95135419d3
+SHA256: 731af620434a96bf42c901401bea9018552f28cff3f5cc9dbdde7a3b49467b09
+Section: 汉化
+Description: Shuffle 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@2x.png
+Name: Shuffle 汉化包
+
+Package: repo.lengran.shuffle.cn
+Version: 1.2.8
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.creaturecoding.shuffle
+Filename: ./debs/repo.lengran.shuffle.cn_1.2.8_iphoneos-arm.deb
+Size: 3176
+MD5sum: 9acf301c88982228750e123de6f38a0f
+SHA1: 2c6536674eac200a9f576ab8de6719f54bdac49d
+SHA256: d57887eb7837278e8f6f24cadb96370b6b3cca51795b42f5aa4eff06e6794c36
+Section: 汉化
+Description: Shuffle 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@2x.png
+Name: Shuffle 汉化包
+
+Package: repo.lengran.shuffle.cn
+Version: 1.2.9
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.creaturecoding.shuffle
+Filename: ./debs/repo.lengran.shuffle.cn_1.2.9_iphoneos-arm.deb
+Size: 3222
+MD5sum: 42bdb77bb48f6f2d0e98da63dcc748e6
+SHA1: 1b2715d93e804c5817b26bde156c28ff936fd486
+SHA256: 39041e331c01e2e96c6621c8d0a6999120d62452868d87f776b6b15cb60abf3d
+Section: 汉化
+Description: Shuffle 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@2x.png
+Name: Shuffle 汉化包
+
+Package: repo.lengran.shuffle.cn
+Version: 1.6.0
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.creaturecoding.shuffle
+Filename: ./debs/repo.lengran.shuffle.cn_1.6.0_iphoneos-arm.deb
+Size: 10756
+MD5sum: 7afbbfa65c24943f2af09b0b158f28e9
+SHA1: d232f1a8f81e1d8b002e6164f111391334e2651c
+SHA256: 68908c34441edbc819bc0b2c690a60b74d0bfac89ac320de7a6fd5d797a139e3
+Section: 汉化
+Description: Shuffle 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@2x.png
+Name: Shuffle 汉化包
+
+Package: repo.lengran.slices3.cn
+Version: 3.1.3
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.rpgfarm.slices3
+Filename: ./debs/repo.lengran.slices3.cn_3.1.3_iphoneos-arm.deb
+Size: 1600
+MD5sum: 47b770c35e053bfa09ab9c6937b287f1
+SHA1: d4ff7b1ea03d766dbcd7f2bb381ddc59b626ee4f
+SHA256: 245c1cb90f6c1ad740714889817f1aa6fe052156b5c665556a8e817b895e2bd4
+Section: 汉化
+Description: Slices 3 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/SlicesPreferences.bundle/SlicesPreferences@2x.png
+Name: Slices 3 汉化包
+
+Package: repo.lengran.swipeformore.cn
+Version: 1.1.10
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: mobilesubstrate, firmware (>= 8.0), cydia (>= 1.1.19), preferenceloader, org.thebigboss.swipeformore
+Filename: ./debs/repo.lengran.swipeformore.cn_1.1.10.deb
+Size: 2120
+MD5sum: b16dadbf1ecd0a1c2ec0bf07939639ac
+SHA1: fa6fedc0d43ac3a566296543a2f749423c49d0c7
+SHA256: 3b53153e9255dd59fd83b23d4deb08df200c167304ff3a825b123ee1aceffd59
+Section: 汉化
+Description: SwipeForMore 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceLoader/Preferences/SwipeForMore/SFM@2x.png
+Name: SwipeForMore 汉化包
+
+Package: repo.lengran.ultrasound.cn
+Version: 1.2.13
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: applebetas.ios.tweak.willow
+Filename: ./debs/repo.lengran.ultrasound.cn_1.2.13.deb
+Size: 1928
+MD5sum: 45f95c55de45da765ec704bf8dc426a3
+SHA1: 00f1c00fe5391dfa0a2706595d097874496585ca
+SHA256: 1c6257e33acaa389f5484f250ad505f0e2af46bc0c24af6125311e4878a7ec4d
+Section: 汉化
+Description: Ultrasound 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/UltrasoundSettings.bundle/icon@2x.png
+Name: Ultrasound 汉化包
+
+Package: repo.lengran.ultrasound.cn
+Version: 1.2.9
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: applebetas.ios.tweak.willow
+Filename: ./debs/repo.lengran.ultrasound.cn_1.2.9.deb
+Size: 1832
+MD5sum: 3b6d482523eadaea66c60c3ec8cecc22
+SHA1: c36ed2a5dec979b9da0d8fc950a02188a7587bfc
+SHA256: 1ad4c5e53e42aad4f77006c9cef9b4682879dfa59f4f81b4705b7070684ae7b0
+Section: 汉化
+Description: Ultrasound 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/UltrasoundSettings.bundle/icon@2x.png
+Name: Ultrasound 汉化包
+
+Package: repo.lengran.vesta.cn
+Version: 1.0.8
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.spark.vesta
+Filename: ./debs/repo.lengran.vesta.cn_1.0.8.deb
+Size: 1536
+MD5sum: efe435e0b253c57d5be773870c3a6fb3
+SHA1: 6c5598258d96239ffe124a07d85836cb62a01094
+SHA256: bd2fa9c267cc5414535dd9951faefeebe0b21da7288d3d88b328b773ae6219c4
+Section: 汉化
+Description: Vesta 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/VestaPrefs.bundle/icon@2x.png
+Name: Vesta 汉化包
+
+Package: repo.lengran.watchsounds.cn
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.gilshahar7.watchsounds
+Filename: ./debs/repo.lengran.watchsounds.cn_1.1.2.deb
+Size: 1906
+MD5sum: f47af6821fd590cde59030ae10779319
+SHA1: a212f8b9e02c47d0811dfaba173357dcbcaf43a8
+SHA256: adfe73aaeb982492839386c232f9debb19ca9f6ddea72503f29be94768753b4d
+Section: 汉化
+Description: WatchSounds 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/WatchSoundsprefs.bundle/icon@2x.png
+Name: WatchSounds 汉化包
+
+Package: repo.lengran.watchsounds.cn
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.gilshahar7.watchsounds
+Filename: ./debs/repo.lengran.watchsounds.cn_1.1.4_iphoneos-arm.deb
+Size: 2004
+MD5sum: 6db1107cdc04d08d6eab3b0f037a9ec3
+SHA1: e950173ac228024288c6d5e9e29684c67ae14ca2
+SHA256: 9843a308bcc3baf447026b971d8444d951d1aa7ad7d6c975ecd291a1387fd934
+Section: 汉化
+Description: WatchSounds 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/WatchSoundsprefs.bundle/icon@2x.png
+Name: WatchSounds 汉化包
+
+Package: repo.lengran.wintermode.cn
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: dev.ayden.ios.tweak.wintermode
+Filename: ./debs/repo.lengran.wintermode.cn_1.0.1.deb
+Size: 1364
+MD5sum: 265a1dbfe2f0716c78328821e7da4413
+SHA1: 3607e8062f5fe7caf881ac717e8b5370b34dd348
+SHA256: 37fb7c9f34b7446b5219f306d180c6b899d53f754a8da50b07bcdc040db7ecf2
+Section: 汉化
+Description: Winter Mode for Apple Watch 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/WinterModeSettings.bundle/icon@2x.png
+Name: Winter Mode for Apple Watch 汉化包
+
