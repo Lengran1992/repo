@@ -59,6 +59,22 @@ Description: add 3D Touch gestures to Cydia IOS 12 (unc0ver).
 Author: pxcex
 Name: Cydia3DTouch 12
 
+Package: kr.xsf1re.flyjbx
+Version: 1.2.5
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Depends: mobilesubstrate
+Conflicts: kr.xsf1re.flyjb (<<1.2.5)
+Filename: ./debs/kr.xsf1re.flyjbx_1.2.5.deb
+Size: 766132
+MD5sum: 050946345f372683c225b621789994f3
+SHA1: 3ac123b3e38f6d6d51013c20b942ef26cb6b4e44
+SHA256: 7c2af316eeab63ffeea78464d7ce4dbf506c85b45e52ce2d17704699b34ab379
+Section: Tweaks
+Description: You can HIDE Doing jailbreak your iDevice.
+Author: XsF1re
+Name: FlyJB X
+
 Package: rcom.lengran.basevpn.crack
 Version: 1.0.0
 Architecture: iphoneos-arm
