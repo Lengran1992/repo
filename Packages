@@ -59,6 +59,22 @@ Description: add 3D Touch gestures to Cydia IOS 12 (unc0ver).
 Author: pxcex
 Name: Cydia3DTouch 12
 
+Package: kr.xsf1re.flyjbx
+Version: 1.2.5
+Architecture: iphoneos-arm
+Maintainer: XsF1re
+Depends: mobilesubstrate
+Conflicts: kr.xsf1re.flyjb (<<1.2.5)
+Filename: ./debs/kr.xsf1re.flyjbx_1.2.5_iphoneos-arm.deb
+Size: 766132
+MD5sum: 050946345f372683c225b621789994f3
+SHA1: 3ac123b3e38f6d6d51013c20b942ef26cb6b4e44
+SHA256: 7c2af316eeab63ffeea78464d7ce4dbf506c85b45e52ce2d17704699b34ab379
+Section: Tweaks
+Description: You can HIDE Doing jailbreak your iDevice.
+Author: XsF1re
+Name: FlyJB X
+
 Package: rcom.lengran.basevpn.crack
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -531,6 +547,22 @@ Description: EasyAppOrientation 汉化包
 Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/EasyAppOrientationPrefs.bundle/EasyAppOrientation@2x.png
 Name: EasyAppOrientation 汉化包
+
+Package: repo.lengran.flyjbx.cn
+Version: 1.2.5
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: kr.xsf1re.flyjbx
+Filename: ./debs/repo.lengran.flyjbx.cn_1.2.5_iphoneos-arm.deb
+Size: 3092
+MD5sum: fe7b544aef95c8c463bd0ee29541e50e
+SHA1: f429b4df4b8ca3b2fc963c3778ce305b92bb67d4
+SHA256: 8f68cdca64eb3b1122cdf68b1b37af7dbc7168acb9d10b73229af424f8a5958e
+Section: 汉化
+Description: FlyJB X 汉化包
+Author: By-Lengran
+Icon: file:///Applications/FlyJB.app/AppIcon60x60@2x.png
+Name: FlyJB X 汉化包
 
 Package: repo.lengran.force3dappshortcuts.cn
 Version: 0.0.8
