@@ -524,14 +524,14 @@ Architecture: iphoneos-arm
 Maintainer: By-Lengran
 Depends: com.udevs.dockx
 Filename: ./debs/repo.lengran.dockx.cn_2.4.2_iphoneos-arm.deb
-Size: 8116
-MD5sum: c0c9730a75b82673cf26759c7494e8e2
-SHA1: f6259f2bff9cdcaff565df62e6833de7a0ec6db6
-SHA256: ce99f140fd8d620387d030751d16f6cea6e830da2c77d6760cb9380e21fb5727
+Size: 8106
+MD5sum: 6b42ee8fae1dd9bd914574139e7db018
+SHA1: 4c5c73c923e03bfdfb6c739f2d9b8cb86e404666
+SHA256: cfc61975fc7e9d9e95ff3188b5e3b654f21c139c77d7db1f39c1345d23e5a397
 Section: 汉化
 Description: DockX 汉化包
 Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/DockXPrefs.bundle/DockX_Placeholder@2x.png
+Icon: file:///Library/PreferenceBundles/DockXPrefs.bundle/DockX@2x.png
 Name: DockX 汉化包
 
 Package: repo.lengran.easyapporientation.cn
