@@ -13,21 +13,6 @@ Author: By-Lengran
 Depiction: Evolve
 Name: Evolve
 
-Package: PageDots
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Lengran
-Filename: ./debs/PageDots_1.0.deb
-Size: 4300
-MD5sum: dd4328ffb3a61b094ce6508cbad68352
-SHA1: 1495bd0775d069b1559801cbdf928980f768b938
-SHA256: 80c912f609c0412a941c373ca2206b1bd7aff3c5525a3975494bdf789744d158
-Section: Themes
-Description: PageDots 组件，配合 Anemone 或者 SnowBoard 使用。
-Author: By-Lengran
-Depiction: Evolve
-Name: PageDots
-
 Package: Veexillum
 Version: 1.3
 Architecture: iphoneos-arm
@@ -533,6 +518,22 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/DockXPrefs.bundle/DockX@2x.png
 Name: DockX 汉化包
 
+Package: repo.lengran.dockx.cn
+Version: 2.4.2
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.udevs.dockx
+Filename: ./debs/repo.lengran.dockx.cn_2.4.2_iphoneos-arm.deb
+Size: 8116
+MD5sum: c0c9730a75b82673cf26759c7494e8e2
+SHA1: f6259f2bff9cdcaff565df62e6833de7a0ec6db6
+SHA256: ce99f140fd8d620387d030751d16f6cea6e830da2c77d6760cb9380e21fb5727
+Section: 汉化
+Description: DockX 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/DockXPrefs.bundle/DockX_Placeholder@2x.png
+Name: DockX 汉化包
+
 Package: repo.lengran.easyapporientation.cn
 Version: 0.0.7
 Architecture: iphoneos-arm
@@ -798,6 +799,22 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/ShadowPreferences.bundle/Icon-Small@2x.png
 Name: Shadow 汉化包
 
+Package: repo.lengran.shortlook.cn
+Version: 1.0.23
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: co.dynastic.ios.tweak.shortlook
+Filename: ./debs/repo.lengran.shortlook.cn_1.0.23_iphoneos-arm.deb
+Size: 2570
+MD5sum: 6cb35f112b3a8cc9c2c67d467ca0cebb
+SHA1: 2522438f3d94d4e5373b62248bd8729f88003ab9
+SHA256: 7f8e42c14debd7dcb2a17dd49dab7584322789ca3f4d75a92f5029ffd72f3b25
+Section: 汉化
+Description: ShortLook 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/ShortLookSettings.bundle/icon@2x.png
+Name: ShortLook 汉化包
+
 Package: repo.lengran.shuffle.cn
 Version: 1.0.4
 Architecture: iphoneos-arm
@@ -893,6 +910,22 @@ Description: Slices 3 汉化包
 Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/SlicesPreferences.bundle/SlicesPreferences@2x.png
 Name: Slices 3 汉化包
+
+Package: repo.lengran.swipeextenderx.cn
+Version: 1.5.3-1
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.qiop1379.swipeextenderx
+Filename: ./debs/repo.lengran.swipeextenderx.cn_1.5.3-1_iphoneos-arm.deb
+Size: 21308
+MD5sum: ee32b3604ea64f429d350ecc33dfddbe
+SHA1: a9212194abe8a5e6e4ebd81c7dda6496efe93935
+SHA256: acf23d2b6e371e8e97fe98d193b0ab924e8195b01ea34609cdaaa1cf6c7e2025
+Section: 汉化
+Description: SwipeExtenderX 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/Weed.bundle/icon@3x.png
+Name: SwipeExtenderX 汉化包
 
 Package: repo.lengran.swipeformore.cn
 Version: 1.1.10
