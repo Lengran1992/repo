@@ -60,6 +60,37 @@ Description: You can HIDE Doing jailbreak your iDevice.
 Author: XsF1re
 Name: FlyJB X
 
+Package: netskao.appstore++zhcn
+Version: 1.1-4
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: com.cokepokes.appstoreplusplus
+Filename: ./debs/netskao.appstore++zhcn_1.1-4_iphoneos-arm.deb
+Size: 30498
+MD5sum: 7216343cc33d4e5a821baf976a1cf669
+SHA1: 525252f99faa625017bdd6e08b18725af627cdb2
+SHA256: 45b50cd25a1ce224dde77ebcde8a2688968e54dd09b8eb6ad0c5408126e31d5d
+Section: Netskao-Tweaks
+Description: AppStore++ 简体中文汉化包
+Author: Netskao
+Icon: https://cokepokes.github.io/depiction/appstoreplus/icon.png
+Name: AppStore++zh_CN
+
+Package: netskao.flex3zhcn
+Version: 1.2-1
+Architecture: iphoneos-arm
+Maintainer: Nets
+Depends: Flex3beta
+Filename: ./debs/netskao.flex3zhcn_1.2-1_iphoneos-arm.deb
+Size: 65088
+MD5sum: a0d4a59a3e3906ecb4e789d14da3cf69
+SHA1: 83eb4f8084f8f7f0a78ff59db8bdee71b9d586f9
+SHA256: ca5d9584edf4ca272987514ebbcbf301b6e607da9d5a9cd1d0a0a0ee01c35f1e
+Section: Netskao-Tweaks
+Description: Flex 3 Beta 简体中文汉化包
+Author: Netskao
+Name: Flex3_zh_CN
+
 Package: rcom.lengran.basevpn.crack
 Version: 1.0.0
 Architecture: iphoneos-arm
