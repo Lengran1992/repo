@@ -1183,6 +1183,21 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/SlicesPreferences.bundle/SlicesPreferences@2x.png
 Name: Slices 3 汉化包
 
+Package: repo.lengran.substitute.cn
+Version: 2.3.1
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.substitute.cn_2.3.1_iphoneos-arm.deb
+Size: 5444
+MD5sum: c7aaa49577f54824a27c23749b7f92b0
+SHA1: 54e2f6ca5df261d986e92a5b44644e1de6fd0e6e
+SHA256: f4621486221013af125da1f449eaaee25ce06afc1a0b96344e847565ad930355
+Section: 汉化
+Description: Substitute 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/SubstitutePrefs.bundle/Icon@2x.png
+Name: Substitute 汉化包
+
 Package: repo.lengran.swipeextenderx.cn
 Version: 1.5.3-1
 Architecture: iphoneos-arm
@@ -1214,6 +1229,20 @@ Description: SwipeForMore 汉化包
 Author: By-Lengran
 Icon: file:///Library/PreferenceLoader/Preferences/SwipeForMore/SFM@2x.png
 Name: SwipeForMore 汉化包
+
+Package: repo.lengran.trollstore.cn
+Version: 1.4.5
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.trollstore.cn_1.4.5_iphoneos-arm.deb
+Size: 8568
+MD5sum: 84280796c6bf72c3757d6382bdd1069d
+SHA1: 196edd5e81a451fcd71287a16371d6acc2c47541
+SHA256: c2a9f85af93e83de7fefd85dc805de7793fca542aad1523257199a3571c9b7e0
+Section: 汉化
+Description: TrollStore 汉化包
+Author: By-Lengran
+Name: TrollStore 汉化包
 
 Package: repo.lengran.ultrasound.cn
 Version: 1.2.13
