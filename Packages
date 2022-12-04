@@ -1061,10 +1061,10 @@ Architecture: iphoneos-arm
 Maintainer: By-Lengran
 Depends: me.jjolano.shadow
 Filename: ./debs/repo.lengran.shadow.cn_3.3.5_iphoneos-arm.deb
-Size: 4368
-MD5sum: 38f5ac79c7bd84b9516c3a884de55a5a
-SHA1: ae4df1811c8edeb05aa8a9e9c3d02ae2fd636b06
-SHA256: 295e3cc53327b7531c260b73aa04a8ca18f568257f4e28da39bce7c3458b72b8
+Size: 3924
+MD5sum: 6b9c55cab73ca754412185c4d75cf666
+SHA1: a56c06407f3b45a39b52f55b897a5df1bd612a9e
+SHA256: 829d65497e79449f2c7376d21df0afe9bc9135a80c2a2fc6d62e6cde63db82cd
 Section: 汉化
 Description: Shadow 汉化包
 Author: By-Lengran
