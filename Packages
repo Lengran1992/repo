@@ -1188,10 +1188,10 @@ Version: 2.3.1
 Architecture: iphoneos-arm
 Maintainer: By-Lengran
 Filename: ./debs/repo.lengran.substitute.cn_2.3.1_iphoneos-arm.deb
-Size: 5444
-MD5sum: c7aaa49577f54824a27c23749b7f92b0
-SHA1: 54e2f6ca5df261d986e92a5b44644e1de6fd0e6e
-SHA256: f4621486221013af125da1f449eaaee25ce06afc1a0b96344e847565ad930355
+Size: 5148
+MD5sum: 293a36ed0ea45bbd0e6d6e22be478189
+SHA1: 835802b571932996f49eac9295c928b800d88cc5
+SHA256: 7329b3d74617f7c963aa3c1c017b980d1b55cc2d63b90288283f3e26d3499937
 Section: 汉化
 Description: Substitute 汉化包
 Author: By-Lengran
@@ -1235,10 +1235,10 @@ Version: 1.4.5
 Architecture: iphoneos-arm
 Maintainer: By-Lengran
 Filename: ./debs/repo.lengran.trollstore.cn_1.4.5_iphoneos-arm.deb
-Size: 8568
-MD5sum: 84280796c6bf72c3757d6382bdd1069d
-SHA1: 196edd5e81a451fcd71287a16371d6acc2c47541
-SHA256: c2a9f85af93e83de7fefd85dc805de7793fca542aad1523257199a3571c9b7e0
+Size: 8292
+MD5sum: 16ed1c169965d166ce2cdd1422c1139a
+SHA1: 649b790de9a1ecb3020ed50f0c75e15ba0e68ce5
+SHA256: ce1fec3794e4f657c7b1e83058ac1abed4fede237fc0fafece1fbbf5ecf2ec97
 Section: 汉化
 Description: TrollStore 汉化包
 Author: By-Lengran
