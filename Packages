@@ -44,6 +44,22 @@ Description: add 3D Touch gestures to Cydia IOS 12 (unc0ver).
 Author: pxcex
 Name: Cydia3DTouch 12
 
+Package: com.snail.homeremoveexcepttips
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.snail.homeremoveexcepttips_0.0.1_iphoneos-arm.deb
+Size: 3776
+MD5sum: 28f6e4f2735f3f97e124389ab63d7d51
+SHA1: 4e4de07ff331b4065746c5159b3e12849081c642
+SHA256: f93821810743109db19d5cd807b0d73a88ca6c05b15eb978e17b6b39a81603cf
+Section: 系统优化
+Description: 去掉Home App中“配件尚未经过认证”的提示。
+Author: Snail <mu514983786@gmail.com>
+Name: HomeRemoveExcptTips
+
 Package: kr.xsf1re.flyjbx
 Version: 1.2.5
 Architecture: iphoneos-arm
