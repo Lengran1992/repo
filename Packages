@@ -380,15 +380,16 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/KillXProPrefs.bundle/icon_pro@2x.png
 Name: KillX Pro 汉化包
 
-Package: repo.lengran.abypass.cn
+Package: repo.lengran.a-bypass.cn
 Version: 1.5.7
 Architecture: iphoneos-arm
 Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.abypass.cn_1.5.7_iphoneos-arm.deb
-Size: 2840
-MD5sum: 87d6018b2fae9c864900f106903af3b2
-SHA1: cae0e3f4c0a94a1dc8ee54e486bf77efc48ecc8a
-SHA256: 39065c863eb5caba199bce28ae80869d5c67dce8bcf44ebc0cdde989486550b5
+Depends: com.rpgfram.a-bypass
+Filename: ./debs/repo.lengran.a-bypass.cn_1.5.7_iphoneos-arm.deb
+Size: 2864
+MD5sum: 309966211783ba4aeab26b137ce1fbca
+SHA1: 9cc2aa2e5c3a69a58841d456f040ee4b454ff5a6
+SHA256: fa6116c58e522547e335fc94f6c059b5bf995cdaa397e8aa0ceddabe8971dd89
 Section: 汉化
 Description: A-Bypass 汉化包
 Author: By-Lengran
@@ -621,11 +622,12 @@ Package: repo.lengran.choicy.cn
 Version: 1.4.4
 Architecture: iphoneos-arm
 Maintainer: By-Lengran
+Depends: com.opa334.choicy
 Filename: ./debs/repo.lengran.choicy.cn_1.4.4_iphoneos-arm.deb
-Size: 3964
-MD5sum: a85fef4c60149234a099a2dd22b30f31
-SHA1: df7ad3db5fe0a31ff259dcfb1b15ca53cd335ec1
-SHA256: d394982e68611cb327ea73773fcf96fc756cc7e07ead6f6ef2db94ac00c0bffa
+Size: 3980
+MD5sum: c50c94b4bbde5568d55d1a63b8fda193
+SHA1: 3f990c08d8aa9ad8cce1be047cfe30ffeae7fe82
+SHA256: 2b95dfe5489fed52a6043c46165dd376bdafa09518e8c980c7e017815af5373a
 Section: 汉化
 Description: Choicy 汉化包
 Author: By-Lengran
@@ -960,22 +962,6 @@ Description: PreferenceOrganizer 2 汉化包
 Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/POPreferences.bundle/PreferenceOrganizer2@2x.png
 Name: PreferenceOrganizer 2 汉化包
-
-Package: repo.lengran.runaway.cn
-Version: 0.0.5
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: it.ned.runaway
-Filename: ./debs/repo.lengran.runaway.cn_0.0.5_iphoneos-arm.deb
-Size: 1444
-MD5sum: afa0c1d937c974ada4ffe31a19cb6c1d
-SHA1: e4412492a960326b47427b7f6a148064b7cdcf21
-SHA256: 8e1af80a58bd25f67039dca07aed6fb9eadb395cd7ff1958bc457d05ed25a0dc
-Section: 汉化
-Description: Runaway 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/runawayprefs.bundle/icon@2x.png
-Name: Runaway 汉化包
 
 Package: repo.lengran.safariplus.cn
 Version: 1.7.1-2
