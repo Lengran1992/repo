@@ -28,20 +28,20 @@ Author: By-Lengran
 Depiction: Veexillum
 Name: Veexillum
 
-Package: com.leftyfl1p.carbridge13
+Package: com.lengran.leftyfl1p.carbridge13
 Version: 2.0.10
 Architecture: iphoneos-arm
-Maintainer: leftyfl1p
+Maintainer: By-Lengran
 Installed-Size: 7156
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
 Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/com.leftyfl1p.carbridge13_2.0.10_iphoneos-arm.deb
-Size: 438232
-MD5sum: 7633dd9dbb72f11c98536a31b51df75f
-SHA1: c125486ee057da799a84ccbcf76712678b613822
-SHA256: 238d09c7ee9e326399d37467933a8d830c6dbbf83ad3af7287c5de89874126c1
+Filename: ./debs/com.lengran.leftyfl1p.carbridge13_2.0.10_iphoneos-arm.deb
+Size: 437712
+MD5sum: a997021cd13ec2132aad01660be12159
+SHA1: 0e1030dd1f6e2ea3a7cbe0da04f2a63819483345
+SHA256: 03e906eb6f28a6e6e0cebf06a319c6def8b73eb3637922dc5312f67428dd2c8c
 Section: Tweaks
-Description: Open any app in CarPlay!
+Description: CarBridge 破解版
 Tag: cydia::commercial
 Author: leftyfl1p <carbridge@havoc.app>
 Depiction: https://havoc.app/package/carbridge
@@ -96,28 +96,12 @@ Author: XsF1re
 Name: FlyJB X
 
 Package: netskao.appstore++zhcn
-Version: 1.1-4
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: com.cokepokes.appstoreplusplus
-Filename: ./debs/netskao.appstore++zhcn_1.1-4_iphoneos-arm.deb
-Size: 30498
-MD5sum: 7216343cc33d4e5a821baf976a1cf669
-SHA1: 525252f99faa625017bdd6e08b18725af627cdb2
-SHA256: 45b50cd25a1ce224dde77ebcde8a2688968e54dd09b8eb6ad0c5408126e31d5d
-Section: Netskao-Tweaks
-Description: AppStore++ 简体中文汉化包
-Author: Netskao
-Icon: https://cokepokes.github.io/depiction/appstoreplus/icon.png
-Name: AppStore++zh_CN
-
-Package: netskao.appstore++zhcn
 Version: 1.2-1
 Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 364
 Depends: firmware (>= 11.0), mobilesubstrate, com.cokepokes.appstoreplusplus (>> 0.9.14-2)
-Filename: ./debs/netskao.appstore++zhcn（appstore++中文汉化1.2-1）.deb
+Filename: ./debs/netskao.appstore++zhcn_1.2-1.deb
 Size: 124918
 MD5sum: 26ec7b30e221dddc57e4b9591679d6f8
 SHA1: 997fb46f92e7e28da3c545c8d4c88aaef41047d1
@@ -133,7 +117,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 256
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/netskao.bdtbnoads（百度贴吧去广告1.2-8）.deb
+Filename: ./debs/netskao.bdtbnoads_1.2-8.deb
 Size: 86676
 MD5sum: b3f19753f656bdfc35fc2d7994be8fa2
 SHA1: 838cb06aaa85a8fd0716145326a32f75333ffe51
@@ -149,7 +133,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 356
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/netskao.cllnoads（车来了去广告1.1-3）.deb
+Filename: ./debs/netskao.cllnoads_1.1-3.deb
 Size: 111326
 MD5sum: 4e3c5ab34d27525e0e77698a541fdafa
 SHA1: fa8dc35dde4a562f6cab681cc047041bcd9241c6
@@ -165,7 +149,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 352
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/netskao.dbnoads（豆瓣去广告1.1-9）.deb
+Filename: ./debs/netskao.dbnoads_1.1-9.deb
 Size: 106906
 MD5sum: f36996451da502dcd765bf10aad70c34
 SHA1: a4b74bb89475186aceb244acdcc6584c18a75e7b
@@ -181,7 +165,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 616
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/netskao.dzdpnoads（大众点评去广告1.0-1）.deb
+Filename: ./debs/netskao.dzdpnoads_1.0-1.deb
 Size: 207240
 MD5sum: fb85367eada62b947e311df63e1fba3d
 SHA1: 030da0e64ad6a3867a5120f31922a26b471fcfcd
@@ -197,7 +181,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: ./debs/netskao.flex3zhcn（Flex3中文汉化1.2-1）.deb
+Filename: ./debs/netskao.flex3zhcn_1.2-1.deb
 Size: 65134
 MD5sum: 38e31754cc6d2a52132a13882a39ff98
 SHA1: 883d7faaaec76f0b3d93a933bfce27513ddb3582
@@ -207,28 +191,13 @@ Description: Flex3简体中文汉化包
 Author: Netskao
 Name: Flex3_zh_CN
 
-Package: netskao.flex3zhcn
-Version: 1.2-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Depends: Flex3beta
-Filename: ./debs/netskao.flex3zhcn_1.2-1_iphoneos-arm.deb
-Size: 65088
-MD5sum: a0d4a59a3e3906ecb4e789d14da3cf69
-SHA1: 83eb4f8084f8f7f0a78ff59db8bdee71b9d586f9
-SHA256: ca5d9584edf4ca272987514ebbcbf301b6e607da9d5a9cd1d0a0a0ee01c35f1e
-Section: Netskao-Tweaks
-Description: Flex 3 Beta 简体中文汉化包
-Author: Netskao
-Name: Flex3_zh_CN
-
 Package: netskao.hyzbnoads
 Version: 1.2-5
 Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 352
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/netskao.hyzbnoads（虎牙直播去广告1.2-5）.deb
+Filename: ./debs/netskao.hyzbnoads_1.2-5.deb
 Size: 110492
 MD5sum: 0d2384b99d6b3c22084181e13de91de2
 SHA1: ddb07fee42555136e2d97fdb18614275e699dffb
@@ -244,7 +213,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 200
 Depends: mobilesubstrate, com.exile90.icleanerpro
-Filename: ./debs/netskao.icleanerprocrack（iCleanerpro破解权限1.1-3）.deb
+Filename: ./debs/netskao.icleanerprocrack_1.1-3.deb
 Size: 14946
 MD5sum: 3994d2d7f3145001651db6c2f55021bf
 SHA1: 343955238b5cfaf7f522a474cbfca1322f6d61ed
@@ -261,7 +230,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 352
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/netskao.qmkgnoads（全民K歌去广告1.1-1）.deb
+Filename: ./debs/netskao.qmkgnoads_1.1-1.deb
 Size: 105980
 MD5sum: 1c8175cb4fae4f721a1d24cbd2c06f27
 SHA1: da08af5da44ba2f1167e00ffa59a6b0c37305808
@@ -277,7 +246,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 256
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/netskao.tbnoads（淘宝去广告1.2-1）.deb
+Filename: ./debs/netskao.tbnoads_1.2-1.deb
 Size: 81788
 MD5sum: 024cbe696c04c1b59697c640f24ec29c
 SHA1: 2f9d48cd988080875507df8416de5656b5b49089
@@ -293,7 +262,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 400
 Depends: firmware (>= 12.0), mobilesubstrate
-Filename: ./debs/netskao.wfnoads（威锋去广告1.6-6）.deb
+Filename: ./debs/netskao.wfnoads_1.6-6.deb
 Size: 129544
 MD5sum: 7339cd0c40124816c1c515be8375f0c0
 SHA1: 964e4987c834d77f9e808da7b1993eaa591c376b
@@ -309,7 +278,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 2116
 Depends: firmware (>= 11.0), mobilesubstrate
-Filename: ./debs/netskao.wyyyynoads（网易云音乐去广告1.2-6）.deb
+Filename: ./debs/netskao.wyyyynoads_1.2-6.deb
 Size: 634572
 MD5sum: 9d4d2c878c0e7f55d22cf02f151c4930
 SHA1: a851b434c71e982189724777097a8fdfe6f28290
@@ -325,7 +294,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 256
 Depends: firmware (>= 11.0), mobilesubstrate
-Filename: ./debs/netskao.youtubenoads（YouTube去广告1.2-2）.deb
+Filename: ./debs/netskao.youtubenoads_1.2-2.deb
 Size: 84718
 MD5sum: 001b075dea0a5ef5f517f777e1d276a8
 SHA1: 51af089f93c6a2f667274970f699ba7d01ebff1b
@@ -341,7 +310,7 @@ Architecture: iphoneos-arm
 Maintainer: Nets
 Installed-Size: 288
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./debs/netskao.zhnoads（知乎去广告1.3-9）.deb
+Filename: ./debs/netskao.zhnoads_1.3-9.deb
 Size: 97684
 MD5sum: d2bf2514f8a9470334d3c94a3ccb1d85
 SHA1: 24fa59492cfb2f197ea2c3d7a832b7da62163487
@@ -381,22 +350,6 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/DoubleTapLockPrefs.bundle/icon@2x.png
 Name: DoubleTapLock 汉化包
 
-Package: repo.lengran.3dbadgeclear.cn
-Version: 1.6.4
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.twickd.john-sklikas.3dbadgeclear
-Filename: ./debs/repo.lengran.3dbadgeclear.cn_1.6.4.deb
-Size: 1368
-MD5sum: fcebda781f02c2090b4f4a2c3dd3229f
-SHA1: 6c96889a0707d9673d0f4b158d9e53fa6fac3f3e
-SHA256: a04e76013f6a2f833453d2827314148af722953553e8d32b7e7b99135ea90850
-Section: 汉化
-Description: 3DBadgeClear 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/3DBadgeClearPrefs.bundle/BDGCLRpref@2x.png
-Name: 3DBadgeClear 汉化包
-
 Package: repo.lengran.Killxpro.cn
 Version: 2.1.2
 Architecture: iphoneos-arm
@@ -428,6 +381,21 @@ Description: KillX Pro 汉化补充包
 Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/KillXProPrefs.bundle/icon_pro@2x.png
 Name: KillX Pro 汉化包
+
+Package: repo.lengran.abypass.cn
+Version: 1.5.7
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.abypass.cn_1.5.7_iphoneos-arm.deb
+Size: 2840
+MD5sum: 87d6018b2fae9c864900f106903af3b2
+SHA1: cae0e3f4c0a94a1dc8ee54e486bf77efc48ecc8a
+SHA256: 39065c863eb5caba199bce28ae80869d5c67dce8bcf44ebc0cdde989486550b5
+Section: 汉化
+Description: A-Bypass 汉化包
+Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/ABypassPrefs.bundle/icon@2x.png
+Name: A-Bypass 汉化包
 
 Package: repo.lengran.airpodpopupconnect.cn
 Version: 1.1
@@ -650,6 +618,20 @@ Description: CCMusicArtwork 汉化包
 Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/CCMusicArtworkPrefs.bundle/icon@2x.png
 Name: CCMusicArtwork 汉化包
+
+Package: repo.lengran.choicy.cn
+Version: 1.4.4
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.choicy.cn_1.4.4_iphoneos-arm.deb
+Size: 3964
+MD5sum: a85fef4c60149234a099a2dd22b30f31
+SHA1: df7ad3db5fe0a31ff259dcfb1b15ca53cd335ec1
+SHA256: d394982e68611cb327ea73773fcf96fc756cc7e07ead6f6ef2db94ac00c0bffa
+Section: 汉化
+Description: Choicy 汉化包
+Author: By-Lengran
+Name: Choicy 汉化包
 
 Package: repo.lengran.colorbadges.cn
 Version: 1.3.2-1
@@ -982,15 +964,15 @@ Icon: file:///Library/PreferenceBundles/POPreferences.bundle/PreferenceOrganizer
 Name: PreferenceOrganizer 2 汉化包
 
 Package: repo.lengran.runaway.cn
-Version: 0.0.4
+Version: 0.0.5
 Architecture: iphoneos-arm
 Maintainer: By-Lengran
-Depends: com.twickd.ned.runaway
-Filename: ./debs/repo.lengran.runaway.cn_0.0.4.deb
-Size: 1374
-MD5sum: 799ac5fc0f3c3c44d9c18095037af884
-SHA1: 1bc79a4fef9c90708c0ccace6a8ab265aca709af
-SHA256: 51b5f7c599dff803da3c036549c374a9cbc4a79e8a35a7a7aa7d686c9afbdb6d
+Depends: it.ned.runaway
+Filename: ./debs/repo.lengran.runaway.cn_0.0.5_iphoneos-arm.deb
+Size: 1444
+MD5sum: afa0c1d937c974ada4ffe31a19cb6c1d
+SHA1: e4412492a960326b47427b7f6a148064b7cdcf21
+SHA256: 8e1af80a58bd25f67039dca07aed6fb9eadb395cd7ff1958bc457d05ed25a0dc
 Section: 汉化
 Description: Runaway 汉化包
 Author: By-Lengran
