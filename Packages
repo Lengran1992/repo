@@ -384,12 +384,12 @@ Package: repo.lengran.a-bypass.cn
 Version: 1.5.7
 Architecture: iphoneos-arm
 Maintainer: By-Lengran
-Depends: com.rpgfram.a-bypass
+Depends: com.rpgfarm.a-bypass
 Filename: ./debs/repo.lengran.a-bypass.cn_1.5.7_iphoneos-arm.deb
-Size: 2864
-MD5sum: 309966211783ba4aeab26b137ce1fbca
-SHA1: 9cc2aa2e5c3a69a58841d456f040ee4b454ff5a6
-SHA256: fa6116c58e522547e335fc94f6c059b5bf995cdaa397e8aa0ceddabe8971dd89
+Size: 2860
+MD5sum: f30704b8f09c3b05f12d47effa7393d4
+SHA1: 6d8f06b8a97b1377be40bfdc722e03114ac0f5cd
+SHA256: 1b69b6c2189f41a4e669dbdc215cff873d43795aacc5ecdfddab790152a9fbaf
 Section: 汉化
 Description: A-Bypass 汉化包
 Author: By-Lengran
