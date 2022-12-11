@@ -28,23 +28,21 @@ Author: By-Lengran
 Depiction: Veexillum
 Name: Veexillum
 
-Package: com.lengran.leftyfl1p.carbridge13
+Package: com.lengran.carbridge13
 Version: 2.0.10
 Architecture: iphoneos-arm
 Maintainer: By-Lengran
-Installed-Size: 7156
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
 Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/com.lengran.leftyfl1p.carbridge13_2.0.10_iphoneos-arm.deb
-Size: 437712
-MD5sum: a997021cd13ec2132aad01660be12159
-SHA1: 0e1030dd1f6e2ea3a7cbe0da04f2a63819483345
-SHA256: 03e906eb6f28a6e6e0cebf06a319c6def8b73eb3637922dc5312f67428dd2c8c
+Filename: ./debs/com.lengran.carbridge13_2.0.10_iphoneos-arm.deb
+Size: 437360
+MD5sum: fd654993266f8be477c6c00c7116aa0f
+SHA1: b78fcbda03fa6e160a6b944122f696cc8087a3a4
+SHA256: ee862e80d12966a37a9fa59832cc25bf605e2f307f5ba74606917f8bc49887ff
 Section: Tweaks
 Description: CarBridge 破解版
-Tag: cydia::commercial
-Author: leftyfl1p <carbridge@havoc.app>
-Depiction: https://havoc.app/package/carbridge
+Author: By-Lengran
+Depiction: CarBridge 破解版
 Name: CarBridge
 
 Package: com.pxcex.cydia3dtouch
