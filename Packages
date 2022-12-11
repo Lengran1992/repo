@@ -28,6 +28,25 @@ Author: By-Lengran
 Depiction: Veexillum
 Name: Veexillum
 
+Package: com.leftyfl1p.carbridge13
+Version: 2.0.10
+Architecture: iphoneos-arm
+Maintainer: leftyfl1p
+Installed-Size: 7156
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
+Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./debs/com.leftyfl1p.carbridge13_2.0.10_iphoneos-arm.deb
+Size: 438232
+MD5sum: 7633dd9dbb72f11c98536a31b51df75f
+SHA1: c125486ee057da799a84ccbcf76712678b613822
+SHA256: 238d09c7ee9e326399d37467933a8d830c6dbbf83ad3af7287c5de89874126c1
+Section: Tweaks
+Description: Open any app in CarPlay!
+Tag: cydia::commercial
+Author: leftyfl1p <carbridge@havoc.app>
+Depiction: https://havoc.app/package/carbridge
+Name: CarBridge
+
 Package: com.pxcex.cydia3dtouch
 Version: 0.0.4
 Architecture: iphoneos-arm
