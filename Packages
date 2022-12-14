@@ -1297,10 +1297,10 @@ Version: 1.4.5
 Architecture: iphoneos-arm
 Maintainer: By-Lengran
 Filename: ./debs/repo.lengran.trollstore.cn_1.4.5_iphoneos-arm.deb
-Size: 8292
-MD5sum: 16ed1c169965d166ce2cdd1422c1139a
-SHA1: 649b790de9a1ecb3020ed50f0c75e15ba0e68ce5
-SHA256: ce1fec3794e4f657c7b1e83058ac1abed4fede237fc0fafece1fbbf5ecf2ec97
+Size: 9264
+MD5sum: df7baf73945dd3345bf0bcf1dcedbc8b
+SHA1: 57d0b7969ac27dcfdda6af341a0125e190f350ef
+SHA256: 2eba7b94dd1cfe88ade31187a2de5a49f3bdd506533bac519f9245cb272ac299
 Section: 汉化
 Description: TrollStore 汉化包
 Author: By-Lengran
