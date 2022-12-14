@@ -77,6 +77,38 @@ Description: 去掉Home App中“配件尚未经过认证”的提示。
 Author: Snail <mu514983786@gmail.com>
 Name: HomeRemoveExcptTips
 
+Package: dev.traurige.kayoko
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 848
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Filename: ./debs/dev.traurige.kayoko_1.0_iphoneos-arm.deb
+Size: 73586
+MD5sum: cdaa11e53cb742238576f927c07bbe15
+SHA1: e749554e0055d7308f0714a50842079e2d6d882a
+SHA256: 587a872d34ec50e011059e61d22ec95d7e749467b9a566b4d0bcff822b9391d0
+Section: Tweaks
+Description: Feature rich clipboard manager for iOS
+Author: Traurige <hello@traurige.dev>
+Name: Kayoko
+
+Package: dev.traurige.kayoko
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Traurige <hello@traurige.dev>
+Installed-Size: 680
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Filename: ./debs/dev.traurige.kayoko-no-daemon_1.0_iphoneos-arm.deb
+Size: 70812
+MD5sum: 535320c1922ef64ae2cd39a445aa1e93
+SHA1: 35cc806e03b3a4cb791f76064e4981e4839ddca6
+SHA256: 5d2c192c06ebf8a62503ffb6e450221824ecf6ac0e53c9edc83ee852caaa8fc9
+Section: Tweaks
+Description: Feature rich clipboard manager for iOS
+Author: Traurige <hello@traurige.dev>
+Name: Kayoko
+
 Package: kr.xsf1re.flyjbx
 Version: 1.2.5
 Architecture: iphoneos-arm
@@ -140,22 +172,6 @@ Section: Netskao-NoAds
 Description: 车来了去除启动广告，去除其他广告，去除底部福利社按钮等
 Author: Netskao
 Name: 车来了 NoAds
-
-Package: netskao.dbnoads
-Version: 1.1-9
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 352
-Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./debs/netskao.dbnoads_1.1-9.deb
-Size: 106906
-MD5sum: f36996451da502dcd765bf10aad70c34
-SHA1: a4b74bb89475186aceb244acdcc6584c18a75e7b
-SHA256: 4134da8149eb25fd59d495bf221bcebbf95e9cc3635cf958de9523b7f8a6a731
-Section: Netskao-NoAds
-Description: 豆瓣去除启动广告，去除首页信息流广告，去除影评中广告，去除集市中广告，去除底部市集按钮，增加原始按钮保存图片去水印
-Author: Netskao
-Name: 豆瓣 NoAds
 
 Package: netskao.dzdpnoads
 Version: 1.0-1-debug
@@ -618,6 +634,20 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/CCMusicArtworkPrefs.bundle/icon@2x.png
 Name: CCMusicArtwork 汉化包
 
+Package: repo.lengran.ccplus15
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.ccplus15_1.0.3_iphoneos-arm.deb
+Size: 135184
+MD5sum: da2e900f9d11e2293494cdf0adfa6376
+SHA1: 5c1075c07841ed363c0f1aca07860a168cdc31f7
+SHA256: 77be3194d72e457786dec863460517f1dca600fc1808352c1ba7c47bc12e29b3
+Section: Tweaks
+Description: CC++
+Author: 妖刀
+Name: CC++
+
 Package: repo.lengran.choicy.cn
 Version: 1.4.4
 Architecture: iphoneos-arm
@@ -854,6 +884,21 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/Force3DAppShortcuts.bundle/icon@2x.png
 Name: Force3DAppShortcuts 汉化包
 
+Package: repo.lengran.kayoko.cn
+Version: 1.o
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.kayoko.cn_1.o_iphoneos-arm.deb
+Size: 2596
+MD5sum: a3729d9f6d2cc98e2e413a1a4e2ba09f
+SHA1: 1205e179a4b0ca5e05df46acfa322dfe3f49bc30
+SHA256: f82b709563016476a5483d23bee4c0472af9c7bde96880f811b5e4578529aab5
+Section: 汉化
+Description: Kayoko 汉化包
+Author: Traurige
+Icon: file:///Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
+Name: Kayoko 汉化包
+
 Package: repo.lengran.latchkey.cn
 Version: 2.1
 Architecture: iphoneos-arm
@@ -1070,6 +1115,22 @@ Section: 汉化
 Description: Shadow 汉化包
 Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/ShadowPreferences.bundle/Icon-Small@2x.png
+Name: Shadow 汉化包
+
+Package: repo.lengran.shadow.cn
+Version: 3.4
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: me.jjolano.shadow
+Filename: ./debs/repo.lengran.shadow.cn_3.4_iphoneos-arm.deb
+Size: 3968
+MD5sum: 174ca12c063f35c261253a1f9a210192
+SHA1: 6ed256ea97b82821811c3314938d1e4d83ee4f28
+SHA256: 99565bae34d736c981a2a69d4521c28c642282b9e4ba0ed3a25082f5a761f739
+Section: 汉化
+Description: Shadow 汉化包
+Author: 妖刀
+Icon: file:///Library/PreferenceBundles/ShadowSettings.bundle/icon@2x.png
 Name: Shadow 汉化包
 
 Package: repo.lengran.shortlook.cn
