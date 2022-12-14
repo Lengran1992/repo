@@ -28,23 +28,6 @@ Author: By-Lengran
 Depiction: Veexillum
 Name: Veexillum
 
-Package: com.lengran.carbridge13
-Version: 2.0.10
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
-Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/com.lengran.carbridge13_2.0.10_iphoneos-arm.deb
-Size: 437360
-MD5sum: fd654993266f8be477c6c00c7116aa0f
-SHA1: b78fcbda03fa6e160a6b944122f696cc8087a3a4
-SHA256: ee862e80d12966a37a9fa59832cc25bf605e2f307f5ba74606917f8bc49887ff
-Section: Tweaks
-Description: CarBridge 破解版
-Author: By-Lengran
-Depiction: CarBridge 破解版
-Name: CarBridge
-
 Package: com.pxcex.cydia3dtouch
 Version: 0.0.4
 Architecture: iphoneos-arm
@@ -88,22 +71,6 @@ Size: 73586
 MD5sum: cdaa11e53cb742238576f927c07bbe15
 SHA1: e749554e0055d7308f0714a50842079e2d6d882a
 SHA256: 587a872d34ec50e011059e61d22ec95d7e749467b9a566b4d0bcff822b9391d0
-Section: Tweaks
-Description: Feature rich clipboard manager for iOS
-Author: Traurige <hello@traurige.dev>
-Name: Kayoko
-
-Package: dev.traurige.kayoko
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Traurige <hello@traurige.dev>
-Installed-Size: 680
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
-Filename: ./debs/dev.traurige.kayoko-no-daemon_1.0_iphoneos-arm.deb
-Size: 70812
-MD5sum: 535320c1922ef64ae2cd39a445aa1e93
-SHA1: 35cc806e03b3a4cb791f76064e4981e4839ddca6
-SHA256: 5d2c192c06ebf8a62503ffb6e450221824ecf6ac0e53c9edc83ee852caaa8fc9
 Section: Tweaks
 Description: Feature rich clipboard manager for iOS
 Author: Traurige <hello@traurige.dev>
@@ -885,14 +852,14 @@ Icon: file:///Library/PreferenceBundles/Force3DAppShortcuts.bundle/icon@2x.png
 Name: Force3DAppShortcuts 汉化包
 
 Package: repo.lengran.kayoko.cn
-Version: 1.o
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.kayoko.cn_1.o_iphoneos-arm.deb
-Size: 2596
-MD5sum: a3729d9f6d2cc98e2e413a1a4e2ba09f
-SHA1: 1205e179a4b0ca5e05df46acfa322dfe3f49bc30
-SHA256: f82b709563016476a5483d23bee4c0472af9c7bde96880f811b5e4578529aab5
+Filename: ./debs/repo.lengran.kayoko.cn_1.0_iphoneos-arm.deb
+Size: 2196
+MD5sum: 216c32b602bf1b5e27a1d8632e0f1712
+SHA1: 476a84eea078684c64343d602e818a34f70ff22a
+SHA256: 9f9fea609d6a11b6884d6a5b5471eabbf826a2ce4285ac39a5b2d54ea2152a5b
 Section: 汉化
 Description: Kayoko 汉化包
 Author: Traurige
