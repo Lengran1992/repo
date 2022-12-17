@@ -411,6 +411,22 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/AirPodsCaseLowBatteryPrefs.bundle/icon@2x.png
 Name: AirPods Case Low Battery 汉化包
 
+Package: repo.lengran.ampere.cn
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.mtac.ampere
+Filename: ./debs/repo.lengran.ampere.cn_1.0.5_iphoneos-arm.deb
+Size: 4776
+MD5sum: 6c5a5889f336bcac428ed4cba9861242
+SHA1: 81e985663cdd3936ca1295acc87f64a091935434
+SHA256: 386b945a945f39a6f42e9092f6a4c8dbc725d564be7d74ca3bff06344a96597e
+Section: 汉化
+Description: Ampere 汉化包
+Author: 妖刀
+Icon: file:///Library/PreferenceBundles/AmpereSettings.bundle/icon@2x.png
+Name: Ampere 汉化包
+
 Package: repo.lengran.audiorecorderxs.cn
 Version: 3.0-78
 Architecture: iphoneos-arm
@@ -818,6 +834,20 @@ Description: EasyAppOrientation 汉化包
 Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/EasyAppOrientationPrefs.bundle/EasyAppOrientation@2x.png
 Name: EasyAppOrientation 汉化包
+
+Package: repo.lengran.flex3fix.ios15
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.flex3fix.ios15_1.0_iphoneos-arm.deb
+Size: 243960
+MD5sum: fbe9629c555dd237ae51fabce3adeda6
+SHA1: ad967571d4cd9baab1aedd24d9370e995ad05d67
+SHA256: 587d20ec9e63c70b18efd83130e913ba0d0432ccd406ef5c698d8a5f74dd7762
+Section: Tweaks
+Description: 修复Flex3在iOS15上的闪退
+Author: By-Lengran
+Name: Flex 3 Fix
 
 Package: repo.lengran.flyjbx.cn
 Version: 1.2.5
