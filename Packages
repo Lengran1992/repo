@@ -28,6 +28,40 @@ Author: By-Lengran
 Depiction: Veexillum
 Name: Veexillum
 
+Package: com.25mao.JDQuan
+Version: 0.3-0
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.jdquan_0.3-0_iphoneos-arm.deb
+Size: 42640
+MD5sum: 6f3f41fa7f3407bac7bc4cd301268f9f
+SHA1: 00bd594bae17a5e4d7772f9a7d16b921f27d7913
+SHA256: a21e8c232ac09490b3a792e4d7d2485422e0366b3815d9cc5f0ce6dd91cb0601
+Section: 辅助插件
+Priority: optional
+Description: 京东购物优惠券，插件无设置项，安装后生效。
+Author: Mao
+Name: 京东优惠券
+Sponsor: admin@25mao.com
+
+Package: com.25mao.YouQuan
+Version: 2.2.8
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.youquan_2.2.8_iphoneos-arm.deb
+Size: 138028
+MD5sum: fb2356571dce2bb87f12ef2c43bd1129
+SHA1: 40895108c1b69cb32fe33296bab866b88a129cfc
+SHA256: f70d63eb1751c589b207eeb1113b8775c62acbce34a9fa65ca0245bde52f0850
+Section: 辅助插件
+Priority: optional
+Description: 淘宝购物优惠券，插件无设置项，安装后生效。
+Author: Mao
+Name: 淘宝优惠券
+Sponsor: admin@25mao.com
+
 Package: com.pxcex.cydia3dtouch
 Version: 0.0.4
 Architecture: iphoneos-arm
@@ -44,6 +78,97 @@ Description: add 3D Touch gestures to Cydia IOS 12 (unc0ver).
 Author: pxcex
 Name: Cydia3DTouch 12
 
+Package: com.snail.aemuloautoemulate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.snail.aemuloautoemulate_1.0.0_iphoneos-arm.deb
+Size: 3024
+MD5sum: c48befda202119b7c5a84bb36b823866
+SHA1: 1850f6e2deaa763a2a344c8be6ef5c360dab057c
+SHA256: d1bf4c3e51fbda8e9c3a3287c3857bed2bf9bd971bfadfe4b6a4eb5ac9ba8105
+Section: 软件优化
+Homepage: https://repo.snailovet.com/
+Description: Aemulo打开时，自动模拟。 // When Aemulo is opened, it will emulate automaticlly.
+ 重要的事情说三遍，这只是Aemulo的优化插件，请先下载Aemulo Trial。
+ 重要的事情说三遍，这只是Aemulo的优化插件，请先下载Aemulo Trial。
+ 重要的事情说三遍，这只是Aemulo的优化插件，请先下载Aemulo Trial。
+Author: Snail <mu514983786@gmail.com>
+Depiction: https://repo.snailovet.com/package/64
+Name: Aemulo自动模拟 // AemuloAutoEmulate
+
+Package: com.snail.allowlocationonce
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.snail.allowlocationonce_1.0.0_iphoneos-arm.deb
+Size: 3996
+MD5sum: 4f39f6586374463ca598472250faef98
+SHA1: 8ff40fdcd6813ea3b1a50daa3a91da90fd385b65
+SHA256: 346a10a593d71fb166b0919adccec4a7772325413648c93a8394cf348fae0f80
+Section: 系统优化
+Homepage: https://repo.snailovet.com/
+Description: 地理位置请求弹窗，自动"允许一次"。 // When Location request pop-up, Automatically "Allow once".
+Author: Snail <mu514983786@gmail.com>
+Depiction: https://repo.snailovet.com/package/62
+Name: 位置自动允许一次 // AllowLocationOnce
+
+Package: com.snail.cainiaonoad
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.snail.cainiaonoad_0.0.1_iphoneos-arm.deb
+Size: 4948
+MD5sum: 4c116f163bad45fd85e45df30c52666d
+SHA1: 712c9f7ea5a3885bbf686d1fb48baf57e3774014
+SHA256: ccefac395251da904342e66d8660657702aa31e5c915f26d0858cecfc2763406
+Section: 广告净化
+Description: 去掉菜鸟不必要的广告
+ 支持所有菜鸟版本
+Author: Snail <snailsohi@gmail.com>
+Name: 菜鸟去广告
+
+Package: com.snail.easynotify
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.snail.easynotify_1.0.0_iphoneos-arm.deb
+Size: 7540
+MD5sum: e0250faf24e8734ac0e9391c72600bd1
+SHA1: e1c0fe357d4d3a5a8ed30b97af34c4a994d9cd94
+SHA256: 6b0a84150ebb47a9010a9ec3063cc0e2108b5c7667efee6ef7bd57de09c4ad60
+Section: 系统优化
+Description: 按压APP图标3D Touch菜单快速开关消息通知
+ Press the app icon 3D Touch menu to quickly switch on/off message notifications for specificed app.
+Depiction: https://repo.snailovet.com/package/19
+Name: 3D开关APP消息通知
+
+Package: com.snail.homeremovediscover
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.snail.homeremovediscover_1.0.2_iphoneos-arm.deb
+Size: 3764
+MD5sum: 03945989870f5d8239126db6361fe5ad
+SHA1: a893b006cdcdf77d2de797312f53735efafdf7c9
+SHA256: e60d7d446e29d7ab6fe1295ce48249018bfc9849a7af1f5b10d5f92c2032a56c
+Section: 系统优化
+Homepage: https://repo.snailovet.com/
+Description: 去掉家庭APP中的底栏的“发现”。// Remove the Home App Discover Tab.
+Author: Snail <mu514983786@gmail.com>
+Depiction: https://repo.snailovet.com/package/61
+Name: HomeRemoveDiscover
+
 Package: com.snail.homeremoveexcepttips
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -59,6 +184,56 @@ Section: 系统优化
 Description: 去掉Home App中“配件尚未经过认证”的提示。
 Author: Snail <mu514983786@gmail.com>
 Name: HomeRemoveExcptTips
+
+Package: com.snail.smzdmnoad
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.snail.smzdmnoad_0.0.1_iphoneos-arm.deb
+Size: 3712
+MD5sum: 359a20a65a82998a7a55b5c5484e498e
+SHA1: 039f1f3e5e6fa839bdb45ce710b562000fb85a1b
+SHA256: 610ac3a6d697b1c3b96ada5c5465b9be054b9d5dc29570c79681cd5ebc5f9ae2
+Section: 广告净化
+Description: 什么值得买APP去广告，支持所有版本。
+Author: Snail <snailsohi@gmail.com>
+Name: 什么值得买APP去广告
+
+Package: com.snail.statusbarlunardate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.snail.statusbarlunardate_1.0.0_iphoneos-arm.deb
+Size: 7516
+MD5sum: 94f0ee0fb4f514e6999e8f1e6e3bbbf2
+SHA1: 9af1e6c821de28700e1beddc7264b048513d411e
+SHA256: 61dde69b5c92228195ca6c7b7dadedc4207f6d91503ffcdeec86a9d879f1675f
+Section: 系统优化
+Homepage: https://repo.snailovet.com/
+Description: 点击iOS顶部时间栏显示今日中国农历。// Tap Status Bar Time to show chinese today's lunardate.
+Author: Snail <mu514983786@gmail.com>
+Depiction: https://repo.snailovet.com/package/42
+Name: 点击时间栏显示农历 // StatusBarLunarDate
+
+Package: com.snail.xianyunoad
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.snail.xianyunoad_0.0.1_iphoneos-arm.deb
+Size: 4316
+MD5sum: cbc4361aba068ae87a5141e14f039ee5
+SHA1: 2f06311e532af078bb6b24219f5a74b1f7ad6088
+SHA256: bfdb45efa244c216b8f5806f8d26dd42bcdf584e8c5100fb67900d477d9482a0
+Section: 广告净化
+Description: 咸鱼去广告，支持所有版本。
+Author: Snail <snailsohi@gmail.com>
+Name: 闲鱼去广告
 
 Package: dev.traurige.kayoko
 Version: 1.0
@@ -331,6 +506,20 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/DoubleTapLockPrefs.bundle/icon@2x.png
 Name: DoubleTapLock 汉化包
 
+Package: repo.lengran.35updatesblock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.35updatesblock_1.0_iphoneos-arm.deb
+Size: 1252
+MD5sum: 27e5af911aed9b75d91d58510851cbb9
+SHA1: c57fc480384393b4b561509828500c03f270c473
+SHA256: fb18bcab55499705e095c442801ad1e54daa66078d92485f49fd359eecbb1bee
+Section: Tweaks
+Description: 针对XinaA15越狱公测阶段，屏蔽Procursus源自带的35个更新。卸载插件后即可恢复，生效需要重启Sileo。
+Author: By-Lengran
+Name: XinaA15 越狱屏蔽更新
+
 Package: repo.lengran.Killxpro.cn
 Version: 2.1.2
 Architecture: iphoneos-arm
@@ -378,6 +567,38 @@ Description: A-Bypass 汉化包
 Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/ABypassPrefs.bundle/icon@2x.png
 Name: A-Bypass 汉化包
+
+Package: repo.lengran.a-font.cn
+Version: 1.9.6
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.rpgfarm.a-font
+Filename: ./debs/repo.lengran.a-font.cn_1.9.6_iphoneos-arm.deb
+Size: 2332
+MD5sum: 2bcf65e450d445f21ddda6fb8ce57dfd
+SHA1: 915b851e0dab2efe3b3e8df02e5aea1af508c2b7
+SHA256: 14fd57309b96101a22134d8c2f979c21d660b549c7e39578def68858dd4bc239
+Section: 汉化
+Description: A-Font 汉化包
+Author: 妖刀
+Icon: file:///Library/PreferenceBundles/AFontPrefs.bundle/icon@2x.png
+Name: A-Font 汉化包
+
+Package: repo.lengran.aim.cn
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.ali.aim
+Filename: ./debs/repo.lengran.aim.cn_1.2_iphoneos-arm.deb
+Size: 5644
+MD5sum: 86504bd199ba77ee4cf419c74a0a98f4
+SHA1: d4d2f89af126358b1e872f59b05a617c10a62be6
+SHA256: 088d96286243de7e34b067fbc5eacbdb0b87ec0327074cff0e035dcb4012abe1
+Section: 汉化
+Description: AIM 汉化包
+Author: 妖刀
+Icon: file:///Library/PreferenceBundles/AIMPrefs.bundle/icon@2x.png
+Name: AIM 汉化包
 
 Package: repo.lengran.airpodpopupconnect.cn
 Version: 1.1
@@ -1005,6 +1226,22 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/POPreferences.bundle/PreferenceOrganizer2@2x.png
 Name: PreferenceOrganizer 2 汉化包
 
+Package: repo.lengran.quitall.cn
+Version: 3.1
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.daveapps.quitall
+Filename: ./debs/repo.lengran.quitall.cn_3.1_iphoneos-arm.deb
+Size: 1288
+MD5sum: 5eed0fa427768db7067948ed6903bf66
+SHA1: 549900275403a136d9169224dd621bad48e8016f
+SHA256: 5a7fa9b11a65fae19796d135ec201a6c02c0ee5f5baf95d37c1cf25c29c5e705
+Section: 汉化
+Description: QuitAll 汉化包
+Author: 妖刀
+Icon: file:///Library/PreferenceBundles/quitAllPrefs.bundle/icon@2x.png
+Name: QuitAll 汉化包
+
 Package: repo.lengran.safariplus.cn
 Version: 1.7.1-2
 Architecture: iphoneos-arm
@@ -1145,6 +1382,21 @@ Description: ShortLook 汉化包
 Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/ShortLookSettings.bundle/icon@2x.png
 Name: ShortLook 汉化包
+
+Package: repo.lengran.shuffle
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Conflicts: com.creaturecoding.libcspreferences, com.creaturecoding.shuffle
+Filename: ./debs/repo.lengran.shuffle_1.0.0_iphoneos-arm.deb
+Size: 901828
+MD5sum: 8a260f5421cc9e3599d4a37d8c7fae2e
+SHA1: 5b431ca78e955a00d09d93976c7015ce656f324c
+SHA256: d33085240f7625c34b2d266ab80f0d991011ae32b84d15e9146e07576a4f8031
+Section: Tweaks
+Description: Shuffle XinaA15 修复版
+Author: CreatureSurvive
+Name: Shuffle for XinaA15
 
 Package: repo.lengran.shuffle.cn
 Version: 1.0.4
