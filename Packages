@@ -1367,6 +1367,22 @@ Author: 妖刀
 Icon: file:///Library/PreferenceBundles/ShadowSettings.bundle/icon@2x.png
 Name: Shadow 汉化包
 
+Package: repo.lengran.shadow.cn
+Version: 3.5-1
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: me.jjolano.shadow
+Filename: ./debs/repo.lengran.shadow.cn_3.5-1_iphoneos-arm.deb
+Size: 7656
+MD5sum: 2cf2667fdfbc6ef63f8058cdabe1a22d
+SHA1: 1343507fbb15fa36eac6a36dbd66c561c0233168
+SHA256: c6ea0c6fc092fe084f6f431d21a90399f4329f486b942d6e21f9fb987cd698ac
+Section: 汉化
+Description: Shadow 汉化包
+Author: 妖刀
+Icon: file:///Library/PreferenceBundles/ShadowSettings.bundle/icon@2x.png
+Name: Shadow 汉化包
+
 Package: repo.lengran.shortlook.cn
 Version: 1.0.23
 Architecture: iphoneos-arm
@@ -1493,6 +1509,21 @@ Description: Slices 3 汉化包
 Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/SlicesPreferences.bundle/SlicesPreferences@2x.png
 Name: Slices 3 汉化包
+
+Package: repo.lengran.snapper2.cn
+Version: 2.5.12
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.snapper2.cn_2.5.12_iphoneos-arm.deb
+Size: 9808
+MD5sum: ee640fba3a1b0d75b21b43ef5bf77ffa
+SHA1: cc7ab3cdf482dd986327c99a6fa339546969fca8
+SHA256: 8efaf02caf8706353f019d5d0e5fcc23fe2ee919dc820434a8e6f1e92de98dfc
+Section: 汉化
+Description: Snapper 2 汉化补充包
+Author: 妖刀
+Icon: file:///Library/PreferenceBundles/Snapper2Preferences.bundle/images/settings/SnapperPreferences@2x.png
+Name: Snapper 2 汉化补充包
 
 Package: repo.lengran.substitute.cn
 Version: 2.3.1
