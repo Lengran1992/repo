@@ -283,6 +283,22 @@ Description: AppStore++简体中文汉化，修改版本ID降级查询页面为�
 Author: Netskao
 Name: AppStore++ zh_CN
 
+Package: netskao.appstore++zhcn
+Version: 1.2-2
+Architecture: iphoneos-arm
+Maintainer: Nets
+Installed-Size: 364
+Depends: firmware (>= 11.0), mobilesubstrate, com.cokepokes.appstoreplusplus (>> 0.9.14-2)
+Filename: ./debs/netskao.appstore++zhcn_1.2-2_iphoneos-arm.deb
+Size: 91320
+MD5sum: 1541d8e37d78bb0f21f28edabbd11323
+SHA1: d54676bbdcf61e12ff4e0c9c47473243324e24e3
+SHA256: 23ea76bd355c9651f00206919747bbdbf617b9f99027e15a1b7375cf6770528a
+Section: Netskao-Tweaks
+Description: AppStore++简体中文汉化，修改版本ID降级查询页面为中国区(原始为美国区)，去除0.9.14-2之后版本长按降级时弹出的广告，为AppStore++设置列表添加切换AppStore账号功能
+Author: Netskao
+Name: AppStore++ zh_CN
+
 Package: netskao.bdtbnoads
 Version: 1.2-8
 Architecture: iphoneos-arm
@@ -1056,6 +1072,20 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/EasyAppOrientationPrefs.bundle/EasyAppOrientation@2x.png
 Name: EasyAppOrientation 汉化包
 
+Package: repo.lengran.filza.cn
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.filza.cn_4.0_iphoneos-arm.deb
+Size: 10716
+MD5sum: e27e495cdb72084359cd729ddaad5467
+SHA1: 9f87702e2d34ca4c6661fefc3d06d80999c08782
+SHA256: c236e5c7dcd56711e16f7ca36a71a47fa22414dc785a0d3ba72a3fa584bdc700
+Section: 汉化
+Description: Filza 汉化补充包
+Author: Mo/妖刀
+Name: Filza 汉化补充包
+
 Package: repo.lengran.flex3fix.ios15
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1101,6 +1131,20 @@ Description: Force3DAppShortcuts 汉化包
 Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/Force3DAppShortcuts.bundle/icon@2x.png
 Name: Force3DAppShortcuts 汉化包
+
+Package: repo.lengran.inapp
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.inapp_1.0_iphoneos-arm.deb
+Size: 2976
+MD5sum: 0650d0ab53cac7c7beb3a7bf58dd600f
+SHA1: 05a53febaeb1d6e5602fc2594783bdc02346693f
+SHA256: 3ad9a87e88d0ee6bff6137f99645f88b1a998b3ad911eedc0a6b297377b50894
+Section: Crack
+Description: InApp
+Author: By-Lengran
+Name: InApp
 
 Package: repo.lengran.kayoko.cn
 Version: 1.0
@@ -1163,6 +1207,23 @@ Description: Liberty Lite 汉化包
 Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
 Name: Liberty Lite 汉化包
+
+Package: repo.lengran.limneoscrack
+Version: 2.0.2
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Installed-Size: 212
+Depends: mobilesubstrate
+Filename: ./debs/repo.lengran.limneoscrack_2.0.2_iphoneos-arm.deb
+Size: 24044
+MD5sum: 30bf171395970e9f77f54384114a216f
+SHA1: 79c2be843e9f197a62033c5209f37147da443594
+SHA256: 7c29afb0e4746067c629f3ea9f70281fab459c9d1791b2232b70e6158c6508a7
+Section: Crack
+Description: Limneos 所有插件全功能破解，BioProtect、CallBar、通话录音、灵动岛等。
+Author: By-Lengran
+Depiction: Limneos 所有插件全功能破解，BioProtect、CallBar、通话录音、灵动岛等。
+Name: Limneos Crack
 
 Package: repo.lengran.pencilchargingindicator.cn
 Version: 1.2~b6
@@ -1377,6 +1438,54 @@ Size: 7656
 MD5sum: 2cf2667fdfbc6ef63f8058cdabe1a22d
 SHA1: 1343507fbb15fa36eac6a36dbd66c561c0233168
 SHA256: c6ea0c6fc092fe084f6f431d21a90399f4329f486b942d6e21f9fb987cd698ac
+Section: 汉化
+Description: Shadow 汉化包
+Author: 妖刀
+Icon: file:///Library/PreferenceBundles/ShadowSettings.bundle/icon@2x.png
+Name: Shadow 汉化包
+
+Package: repo.lengran.shadow.cn
+Version: 3.5.1
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: me.jjolano.shadow
+Filename: ./debs/repo.lengran.shadow.cn_3.5.1_iphoneos-arm.deb
+Size: 7576
+MD5sum: 7bebb31b396285eb187152e74c482558
+SHA1: 8e0e96c32dad356bc5235b9a59d2035a73dd3f12
+SHA256: b9ba229ee7b2dda9a7c3ce414df7c2444b72c018128fe73afad2f23fe7451eab
+Section: 汉化
+Description: Shadow 汉化包
+Author: 妖刀
+Icon: file:///Library/PreferenceBundles/ShadowSettings.bundle/icon@2x.png
+Name: Shadow 汉化包
+
+Package: repo.lengran.shadow.cn
+Version: 3.5.4
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: me.jjolano.shadow
+Filename: ./debs/repo.lengran.shadow.cn_3.5.4_iphoneos-arm.deb
+Size: 5304
+MD5sum: 76061c0285372362127c14a1d8bac846
+SHA1: 7643c3a6d5008935ec940bc233615cc3d309b67d
+SHA256: 22691ad7094c72d3fbc528871c4177d6859742a3f862146f40da9ecf49f09221
+Section: 汉化
+Description: Shadow 汉化包
+Author: 妖刀
+Icon: file:///Library/PreferenceBundles/ShadowSettings.bundle/icon@2x.png
+Name: Shadow 汉化包
+
+Package: repo.lengran.shadow.cn
+Version: 3.5.6
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: me.jjolano.shadow
+Filename: ./debs/repo.lengran.shadow.cn_3.5.6_iphoneos-arm.deb
+Size: 2772
+MD5sum: e55d134b7f401063cb18f55e66871b73
+SHA1: fc3b6118c1db4a5ebe8a039162e1d1f20124ca76
+SHA256: 13b6febf669289bcb2ed53f72233fb0255e4162165fdc42d89f6521318f48d05
 Section: 汉化
 Description: Shadow 汉化包
 Author: 妖刀
