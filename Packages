@@ -235,6 +235,38 @@ Description: 咸鱼去广告，支持所有版本。
 Author: Snail <snailsohi@gmail.com>
 Name: 闲鱼去广告
 
+Package: com.xina.blacklist
+Version: 0.0.1-59+debug
+Architecture: iphoneos-arm
+Maintainer: xina520 <3608063@qq.com>
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xina.blacklist_0.0.1-59+debug_iphoneos-arm.deb
+Size: 187432
+MD5sum: 951df924d4b4d742db37c228042f22dd
+SHA1: 9f12c23795d4d2d6f62f8ef894238da33942f6cf
+SHA256: f49ba5761587ccf1d019a8c2013ceac778807ea348d466c7b179a737d6d4f1cb
+Section: Tweaks
+Description: xina越狱黑名单专用
+Author: xina520 <3608063@qq.com>
+Name: XinaBlackList
+
+Package: com.xybp888.magiciannojailbreak15
+Version: 0.0.1-47
+Architecture: iphoneos-arm
+Maintainer: xybp888 <8657156@qq.com>
+Installed-Size: 4912
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/魔术师(iOS15)_0.0.1-47-支持最新(修复支付宝闪退).deb
+Size: 662910
+MD5sum: bd7790b84bf8d85945c9a54642bf6459
+SHA1: 361a61e776f0ea331da943fbd8156d5cac72a340
+SHA256: a521dfe4a628a7c969be6a01f3d83a03fef0ee9fff06ff25ca5b6c80f7d76f79
+Section: Tweaks
+Description: 本插件仅供学习之用,请于24小时内卸载,一切法律责任与本插件和作者无关,支持最新版本的工行,农行,交通,中国银行,建设银行,南京银行,浦发银行,中信银行,广发银行,工行e联,邮政银行,光大银行,阳光慧生活,徽商银行,徽商信用卡,T3出行
+Author: xybp888 <8657156@qq.com>
+Name: 魔术师
+
 Package: dev.traurige.kayoko
 Version: 1.0
 Architecture: iphoneos-arm
@@ -610,6 +642,22 @@ Size: 5644
 MD5sum: 86504bd199ba77ee4cf419c74a0a98f4
 SHA1: d4d2f89af126358b1e872f59b05a617c10a62be6
 SHA256: 088d96286243de7e34b067fbc5eacbdb0b87ec0327074cff0e035dcb4012abe1
+Section: 汉化
+Description: AIM 汉化包
+Author: 妖刀
+Icon: file:///Library/PreferenceBundles/AIMPrefs.bundle/icon@2x.png
+Name: AIM 汉化包
+
+Package: repo.lengran.aim.cn
+Version: 1.2.5
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: com.ali.aim
+Filename: ./debs/repo.lengran.aim.cn_1.2.5_iphoneos-arm.deb
+Size: 6300
+MD5sum: 4f433470d48d6dd01da36fbf20ec82d1
+SHA1: 2403816283defdd245cc7c5ccce3bb35853bf6f3
+SHA256: b9cd6a849aa8eaa992902b9ce6713208cf8fdd4a8cf06c567b11e61f706973b9
 Section: 汉化
 Description: AIM 汉化包
 Author: 妖刀
