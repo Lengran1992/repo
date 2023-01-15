@@ -45,6 +45,74 @@ Author: Mao
 Name: 京东优惠券
 Sponsor: admin@25mao.com
 
+Package: com.25mao.MiYou
+Version: 3.4-8
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.miyou_3.4-8_iphoneos-arm.deb
+Size: 5287784
+MD5sum: 79b66d99ae300147337f847f5dcfcb96
+SHA1: 24b37417d827b427c5d994b1d8faafde6d78056c
+SHA256: 1ddc1e3562a2b544f95e98a4da8b15871711e6c80541ea0fe777bd5a6b27544a
+Section: 微信插件
+Priority: optional
+Description: 微信助手-密友，功能有点多，不想写。安装后查看插件设置，所有功能均有使用说明，免越狱注入请勿重命名插件/越狱设备请不要使用屏蔽插件屏蔽微信。
+Author: Mao
+Name: 微信助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.MsgFilt
+Version: 1.0-3
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.msgfilt_1.0-3_iphoneos-arm.deb
+Size: 139636
+MD5sum: 8923c32be5e7e2dafcdf41e48511839e
+SHA1: 9e7dd3f3e5df5ab2506d20e6f2dd821b75c41f44
+SHA256: c79a9090c8c64bd18c74ec34a0b720e05ef46f44740784eaae4cb252873de95f
+Section: 微信插件
+Priority: optional
+Description: 微信消息屏蔽助手，屏蔽群内消息、私聊消息、群消息。
+Author: Mao
+Name: 消息屏蔽助手
+Sponsor: admin@25mao.com
+
+Package: com.25mao.WXUrlExpand
+Version: 0.2-0
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.wxurlexpand_0.2-0_iphoneos-arm.deb
+Size: 34144
+MD5sum: 3980cd57efe16a6a71c554f390273dfb
+SHA1: 3dbdae5f1f867f0a1221c5fa0532b6e60ac6da69
+SHA256: 77f55198d3192d06479501e34ce5b1d118705abb90f0b24f9a801b4ea0bd4c33
+Section: 微信插件
+Priority: optional
+Description: 扩展微信URLScheme，利用快捷指令做到定时群发，扩展接口weixin://aiwmao/user=用户id&msg=发送内容，小程序接口weixin://aiwmao/weapp=小程序账号原始ID,如weixin://aiwmao/weapp=gh_e2e620baa13a，打开聊天对话框weixin://aiwmao/chat=用户/群ID，打开网页weixin://aiwmao/url=网页链接，详见公众号懒猫趣推。
+Author: Mao
+Name: 微信URL扩展
+Sponsor: admin@25mao.com
+
+Package: com.25mao.WeAppTool
+Version: 0.1-8
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.weapptool_0.1-8_iphoneos-arm.deb
+Size: 26440
+MD5sum: e715c0979d8cb7b491ea56f06b2932ac
+SHA1: 60de65ace7d319b776e4f644878aab28d3c401be
+SHA256: 2772c128e50f88a9ca4135b1d3a49136b4be04befe889a345563b2948f80715b
+Section: 微信插件
+Priority: optional
+Description: 微信小程序助手，可复制小程序跳转链接，可自定义跳转的开发者ID。
+Author: Mao
+Name: 微信小程序助手
+Sponsor: admin@25mao.com
+
 Package: com.25mao.YouQuan
 Version: 2.2.8
 Architecture: iphoneos-arm
@@ -60,6 +128,23 @@ Priority: optional
 Description: 淘宝购物优惠券，插件无设置项，安装后生效。
 Author: Mao
 Name: 淘宝优惠券
+Sponsor: admin@25mao.com
+
+Package: com.25mao.wcplugins
+Version: 0.1-2
+Architecture: iphoneos-arm
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.wcplugins_0.1-2_iphoneos-arm.deb
+Size: 33940
+MD5sum: fe811d252047377e572aa121f610ecb7
+SHA1: b8e9f37091961371bef2290faef9daf2a4f5a11b
+SHA256: 582075eb392cd3c8c27ecc2c6cddbb9d494249cfced38baa0fd1b88b4be9133a
+Section: 微信插件
+Priority: optional
+Description: 微信插件收纳，可以将部分微信插件收纳至微信➡️我➡️插件页面，注意不是设置页面中的插件！
+Author: Mao
+Name: 微信插件管理
 Sponsor: admin@25mao.com
 
 Package: com.pxcex.cydia3dtouch
