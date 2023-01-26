@@ -984,11 +984,12 @@ Package: repo.lengran.colorbadges.cn
 Version: 1.5.0
 Architecture: iphoneos-arm
 Maintainer: By-Lengran
+Depends: repo.lengran.colorbadges
 Filename: ./debs/repo.lengran.colorbadges.cn_1.5.0_iphoneos-arm.deb
-Size: 1820
-MD5sum: 59a39b5b59d45abc820e55a330a99159
-SHA1: 0405504d51d56e3d865e598dbc9b59caa623e3c9
-SHA256: 7b54ce0cf28ddee80778867316132d922a935b0e48510a4247892aa6d4906c7b
+Size: 1828
+MD5sum: fd701dee67a4e5f195600c35d83e5a24
+SHA1: f651eb5acfb1c8902f3e63f272f78f686d081abf
+SHA256: f85fe5118cfd2715332ce628fa5ad9790d23be29ae1d49a661a3a04b1b1765a3
 Section: 汉化
 Description: ColorBadges 汉化包
 Author: 妖刀
