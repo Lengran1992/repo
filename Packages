@@ -45,74 +45,6 @@ Author: Mao
 Name: 京东优惠券
 Sponsor: admin@25mao.com
 
-Package: com.25mao.MiYou
-Version: 3.4-8
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.25mao.miyou_3.4-8_iphoneos-arm.deb
-Size: 5287784
-MD5sum: 79b66d99ae300147337f847f5dcfcb96
-SHA1: 24b37417d827b427c5d994b1d8faafde6d78056c
-SHA256: 1ddc1e3562a2b544f95e98a4da8b15871711e6c80541ea0fe777bd5a6b27544a
-Section: 微信插件
-Priority: optional
-Description: 微信助手-密友，功能有点多，不想写。安装后查看插件设置，所有功能均有使用说明，免越狱注入请勿重命名插件/越狱设备请不要使用屏蔽插件屏蔽微信。
-Author: Mao
-Name: 微信助手
-Sponsor: admin@25mao.com
-
-Package: com.25mao.MsgFilt
-Version: 1.0-3
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.25mao.msgfilt_1.0-3_iphoneos-arm.deb
-Size: 139636
-MD5sum: 8923c32be5e7e2dafcdf41e48511839e
-SHA1: 9e7dd3f3e5df5ab2506d20e6f2dd821b75c41f44
-SHA256: c79a9090c8c64bd18c74ec34a0b720e05ef46f44740784eaae4cb252873de95f
-Section: 微信插件
-Priority: optional
-Description: 微信消息屏蔽助手，屏蔽群内消息、私聊消息、群消息。
-Author: Mao
-Name: 消息屏蔽助手
-Sponsor: admin@25mao.com
-
-Package: com.25mao.WXUrlExpand
-Version: 0.2-0
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.25mao.wxurlexpand_0.2-0_iphoneos-arm.deb
-Size: 34144
-MD5sum: 3980cd57efe16a6a71c554f390273dfb
-SHA1: 3dbdae5f1f867f0a1221c5fa0532b6e60ac6da69
-SHA256: 77f55198d3192d06479501e34ce5b1d118705abb90f0b24f9a801b4ea0bd4c33
-Section: 微信插件
-Priority: optional
-Description: 扩展微信URLScheme，利用快捷指令做到定时群发，扩展接口weixin://aiwmao/user=用户id&msg=发送内容，小程序接口weixin://aiwmao/weapp=小程序账号原始ID,如weixin://aiwmao/weapp=gh_e2e620baa13a，打开聊天对话框weixin://aiwmao/chat=用户/群ID，打开网页weixin://aiwmao/url=网页链接，详见公众号懒猫趣推。
-Author: Mao
-Name: 微信URL扩展
-Sponsor: admin@25mao.com
-
-Package: com.25mao.WeAppTool
-Version: 0.1-8
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.25mao.weapptool_0.1-8_iphoneos-arm.deb
-Size: 26440
-MD5sum: e715c0979d8cb7b491ea56f06b2932ac
-SHA1: 60de65ace7d319b776e4f644878aab28d3c401be
-SHA256: 2772c128e50f88a9ca4135b1d3a49136b4be04befe889a345563b2948f80715b
-Section: 微信插件
-Priority: optional
-Description: 微信小程序助手，可复制小程序跳转链接，可自定义跳转的开发者ID。
-Author: Mao
-Name: 微信小程序助手
-Sponsor: admin@25mao.com
-
 Package: com.25mao.YouQuan
 Version: 2.2.8
 Architecture: iphoneos-arm
@@ -128,23 +60,6 @@ Priority: optional
 Description: 淘宝购物优惠券，插件无设置项，安装后生效。
 Author: Mao
 Name: 淘宝优惠券
-Sponsor: admin@25mao.com
-
-Package: com.25mao.wcplugins
-Version: 0.1-2
-Architecture: iphoneos-arm
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.25mao.wcplugins_0.1-2_iphoneos-arm.deb
-Size: 33940
-MD5sum: fe811d252047377e572aa121f610ecb7
-SHA1: b8e9f37091961371bef2290faef9daf2a4f5a11b
-SHA256: 582075eb392cd3c8c27ecc2c6cddbb9d494249cfced38baa0fd1b88b4be9133a
-Section: 微信插件
-Priority: optional
-Description: 微信插件收纳，可以将部分微信插件收纳至微信➡️我➡️插件页面，注意不是设置页面中的插件！
-Author: Mao
-Name: 微信插件管理
 Sponsor: admin@25mao.com
 
 Package: com.pxcex.cydia3dtouch
@@ -342,7 +257,7 @@ Architecture: iphoneos-arm
 Maintainer: xybp888 <8657156@qq.com>
 Installed-Size: 4912
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/魔术师(iOS15)_0.0.1-47-支持最新(修复支付宝闪退).deb
+Filename: ./debs/com.xybp888.magiciannojailbreak15_0.0.1-47_iphoneos-arm.deb
 Size: 662910
 MD5sum: bd7790b84bf8d85945c9a54642bf6459
 SHA1: 361a61e776f0ea331da943fbd8156d5cac72a340
@@ -1016,6 +931,25 @@ Description: Choicy 汉化包
 Author: By-Lengran
 Name: Choicy 汉化包
 
+Package: repo.lengran.colorbadges
+Version: 1.5.0
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Installed-Size: 537
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Conflicts: org.thebigboss.colorbadges
+Replaces: org.thebigboss.colorbadges
+Filename: ./debs/repo.lengran.colorbadges_1.5.0_iphoneos-arm.deb
+Size: 59720
+MD5sum: 6b32ded89600bda8bda641fa97d9a7bb
+SHA1: acd945f1755253782b46a4c51299f9a33a5ac2a7
+SHA256: e93529c3fca3e3d9d2f68781570da1ef3e677167f1f4a74c70809b5fedd2d494
+Section: Tweaks
+Description: Colorize your badges
+Author: David Goldman <help@golddavid.com>
+Icon: file:///Library/PreferenceBundles/cbprefs.bundle/CBCydiaIcon.png
+Name: ColorBadges
+
 Package: repo.lengran.colorbadges.cn
 Version: 1.3.2-1
 Architecture: iphoneos-arm
@@ -1043,6 +977,21 @@ SHA256: d54ac354ce4157346f7733d9304523e6508f325c5ae52d427f2f0a3d81f781c0
 Section: 汉化
 Description: ColorBadges 汉化包
 Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/cbprefs.bundle/CBCydiaIcon.png
+Name: ColorBadges 汉化包
+
+Package: repo.lengran.colorbadges.cn
+Version: 1.5.0
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.colorbadges.cn_1.5.0_iphoneos-arm.deb
+Size: 1820
+MD5sum: 59a39b5b59d45abc820e55a330a99159
+SHA1: 0405504d51d56e3d865e598dbc9b59caa623e3c9
+SHA256: 7b54ce0cf28ddee80778867316132d922a935b0e48510a4247892aa6d4906c7b
+Section: 汉化
+Description: ColorBadges 汉化包
+Author: 妖刀
 Icon: file:///Library/PreferenceBundles/cbprefs.bundle/CBCydiaIcon.png
 Name: ColorBadges 汉化包
 
@@ -1619,6 +1568,22 @@ Size: 2772
 MD5sum: e55d134b7f401063cb18f55e66871b73
 SHA1: fc3b6118c1db4a5ebe8a039162e1d1f20124ca76
 SHA256: 13b6febf669289bcb2ed53f72233fb0255e4162165fdc42d89f6521318f48d05
+Section: 汉化
+Description: Shadow 汉化包
+Author: 妖刀
+Icon: file:///Library/PreferenceBundles/ShadowSettings.bundle/icon@2x.png
+Name: Shadow 汉化包
+
+Package: repo.lengran.shadow.cn
+Version: 3.6.0
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Depends: me.jjolano.shadow
+Filename: ./debs/repo.lengran.shadow.cn_3.6.0_iphoneos-arm.deb
+Size: 2860
+MD5sum: 5a40dc47eabfe9c3b1ac2496eb5094e2
+SHA1: 5cb3b4236c90c3b3d134e57138163b509254bd59
+SHA256: 71980996076d68d469e51cba550162d74facffeda24a4052c8f6a91a41dfb6a7
 Section: 汉化
 Description: Shadow 汉化包
 Author: 妖刀
