@@ -62,6 +62,24 @@ Author: Mao
 Name: 淘宝优惠券
 Sponsor: admin@25mao.com
 
+Package: com.lenglengyu.xmlyautoplay
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 208
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.xmlyautoplay_0.0.1_iphoneos-arm.deb
+Size: 32392
+MD5sum: 14b38952595886e4a3a1d1b747c2fd23
+SHA1: 292a574e7eb3b7f896d0dc94c9f95b48643449c1
+SHA256: f34c6684f2a4aa8c81d37beffecfc5781019a09a7f604e2b6c6961f63996e87e
+Section: Tweaks
+Description: 打开APP后自动播放。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/xmlyautoplay.html
+Name: 喜马拉雅自动播放
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/xmlyautoplaysileo
+
 Package: com.pxcex.cydia3dtouch
 Version: 0.0.4
 Architecture: iphoneos-arm
@@ -246,6 +264,22 @@ Size: 187432
 MD5sum: 951df924d4b4d742db37c228042f22dd
 SHA1: 9f12c23795d4d2d6f62f8ef894238da33942f6cf
 SHA256: f49ba5761587ccf1d019a8c2013ceac778807ea348d466c7b179a737d6d4f1cb
+Section: Tweaks
+Description: xina越狱黑名单专用
+Author: xina520 <3608063@qq.com>
+Name: XinaBlackList
+
+Package: com.xina.blacklist
+Version: 0.0.1-61+debug
+Architecture: iphoneos-arm
+Maintainer: xina520 <3608063@qq.com>
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xina.blacklist_0.0.1-61+debug_iphoneos-arm.deb
+Size: 32948
+MD5sum: 015c7dbe0917c83a5c9e45bca8ba6e40
+SHA1: e7ef05f6ac969a6ed02f7fb023a3c5ad41237dac
+SHA256: 848776ac7155396dd7a5fa6c969b34f6b8ea15645f4afdb70e8d93e96a37179d
 Section: Tweaks
 Description: xina越狱黑名单专用
 Author: xina520 <3608063@qq.com>
@@ -523,6 +557,22 @@ Section: Netskao-NoAds
 Description: 知乎去除启动广告，去除信息流中广告，去除答案中的广告，去除评论广告，去除随机弹出的推广窗口
 Author: Netskao
 Name: 知乎 NoAds
+
+Package: org.coolstar.sileonightly
+Version: 2.4+20230108.1673203183.0c456e3
+Architecture: iphoneos-arm
+Maintainer: Amy While <me@anamy.gay>
+Filename: ./debs/org.coolstar.sileonightly_2.4+20230108.1673203183.0c456e3_iphoneos-arm.deb
+Size: 2367984
+MD5sum: b81a4e1108381c9f6cb3a22ed21dbe59
+SHA1: 739dcf35178a6c9292ef8de3723946152f059956
+SHA256: 4c3c863a0c65f782b3ca8b05b93e787d5546a8eb8107ed15abdf60180768b407
+Section: Packaging
+Description: A modern APT package manager frontend
+Author: Amy While <me@anamy.gay>
+Icon: https://github.com/Sileo/Sileo/raw/stable/Icons/Nightly/Nightly_iOS.png
+Name: Sileo (Nightly Channel)
+Sileodepiction: https://featuredpage.getsileo.app/depiction.json
 
 Package: rcom.lengran.basevpn.crack
 Version: 1.0.0
@@ -1139,6 +1189,21 @@ Description: DockX 汉化包
 Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/DockXPrefs.bundle/DockX@2x.png
 Name: DockX 汉化包
+
+Package: repo.lengran.dynamicpeninsula.cn
+Version: 0.1-169
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.dynamicpeninsula.cn_0.1-169_iphoneos-arm.deb
+Size: 1420
+MD5sum: 1f409e21446380d60a22aa4aa788e776
+SHA1: 5e523852f635e1626d76ef15a788716095ad5792
+SHA256: 11ea6297eaec2176c148fe73362acbaa9fd8933f9d4622cca056ca142b7b1386
+Section: 汉化
+Description: DynamicPeninsula 汉化包
+Author: 妖刀
+Icon: file:///Library/PreferenceBundles/DynamicPeninsula.bundle/icon@3x.png
+Name: DynamicPeninsula 汉化包
 
 Package: repo.lengran.easyapporientation.cn
 Version: 0.0.7
@@ -1794,6 +1859,20 @@ Description: TrollStore 汉化包
 Author: By-Lengran
 Name: TrollStore 汉化包
 
+Package: repo.lengran.trollstore.cn
+Version: 1.5.0
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.trollstore.cn_1.5.0_iphoneos-arm.deb
+Size: 10672
+MD5sum: 38c3afd9eaf33990855ffdba4ad11ab4
+SHA1: 777452f7f5e9aa9ec94c54a80b9319aa78fed692
+SHA256: 257ab768fad20a1642949dabaa671f9e5d1c71951fd6ecc9ef107bd6cec611f1
+Section: 汉化
+Description: TrollStore 汉化包
+Author: By-Lengran
+Name: TrollStore 汉化包
+
 Package: repo.lengran.ultrasound.cn
 Version: 1.2.13
 Architecture: iphoneos-arm
@@ -1889,4 +1968,19 @@ Description: Winter Mode for Apple Watch 汉化包
 Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/WinterModeSettings.bundle/icon@2x.png
 Name: Winter Mode for Apple Watch 汉化包
+
+Package: zp.lintui
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: xina520 <3608063@qq.com>
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/zp.lintui_0.0.1-2+debug_iphoneos-arm.deb
+Size: 5248
+MD5sum: 5d27f399ada43bd8ca8087d6d237f65d
+SHA1: fb4c1c58e84f5d75977f0200d4441592f1bd48c7
+SHA256: aef83a84ff8c9a4513accbfc5e4c7a7936a579ce0230d6f5327698d960221fd3
+Section: Tweaks
+Description: xina越狱长按临退
+Author: zp
+Name: Xina长按临退
 
