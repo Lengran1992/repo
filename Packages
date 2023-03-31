@@ -981,6 +981,20 @@ Description: Choicy 汉化包
 Author: By-Lengran
 Name: Choicy 汉化包
 
+Package: repo.lengran.choicy.cn.rootless
+Version: 1.4.6
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.choicy.cn.rootless_1.4.6_iphoneos-arm64.deb
+Size: 4192
+MD5sum: fba41890abd9f5706b30f9ccbeabfd3b
+SHA1: 68f668ba8dfd3b348162175a4aae6af24be03421
+SHA256: 262f419415adae713d5ef828d5229d94619993b4cf1471d546a0cf0b3efcb7cf
+Section: 汉化
+Description: Choicy 汉化包（rootless）
+Author: By-Lengran
+Name: Choicy 汉化包（rootless）
+
 Package: repo.lengran.colorbadges
 Version: 1.5.0
 Architecture: iphoneos-arm
