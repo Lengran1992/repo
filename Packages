@@ -80,24 +80,6 @@ Depiction: https://repo.lenglengyu.top/packageInfo/xmlyautoplay.html
 Name: 喜马拉雅自动播放
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/xmlyautoplaysileo
 
-Package: com.ps.batteryhealthenabler
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: PoomSmart
-Installed-Size: 136
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.3)
-Filename: ./debs/com.ps.batteryhealthenabler_1.0.0_iphoneos-arm64.deb
-Size: 5244
-MD5sum: c1a143b634d99670a8abbf0296b208a1
-SHA1: 81212f6a83e5a616c300fab0678a85923c1f9cf0
-SHA256: 43de8f65e6168628556482d8848fd9863c18ad92b50391aec06327ecd0e413c7
-Section: Tweaks
-Description: Enable Battery Health on unsupported devices.
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/batteryhealthenabler.html
-Name: Battery Health Enabler
-Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/batteryhealthenabler.json
-
 Package: com.pxcex.cydia3dtouch
 Version: 0.0.4
 Architecture: iphoneos-arm
@@ -302,22 +284,6 @@ Section: Tweaks
 Description: xina越狱黑名单专用
 Author: xina520 <3608063@qq.com>
 Name: XinaBlackList
-
-Package: com.xybp888.magiciannojailbreak15
-Version: 0.0.1-47
-Architecture: iphoneos-arm
-Maintainer: xybp888 <8657156@qq.com>
-Installed-Size: 4912
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xybp888.magiciannojailbreak15_0.0.1-47_iphoneos-arm.deb
-Size: 662910
-MD5sum: bd7790b84bf8d85945c9a54642bf6459
-SHA1: 361a61e776f0ea331da943fbd8156d5cac72a340
-SHA256: a521dfe4a628a7c969be6a01f3d83a03fef0ee9fff06ff25ca5b6c80f7d76f79
-Section: Tweaks
-Description: 本插件仅供学习之用,请于24小时内卸载,一切法律责任与本插件和作者无关,支持最新版本的工行,农行,交通,中国银行,建设银行,南京银行,浦发银行,中信银行,广发银行,工行e联,邮政银行,光大银行,阳光慧生活,徽商银行,徽商信用卡,T3出行
-Author: xybp888 <8657156@qq.com>
-Name: 魔术师
 
 Package: dev.traurige.kayoko
 Version: 1.0
