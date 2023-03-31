@@ -986,13 +986,14 @@ Version: 1.4.6
 Architecture: iphoneos-arm64
 Maintainer: By-Lengran
 Filename: ./debs/repo.lengran.choicy.cn.rootless_1.4.6_iphoneos-arm64.deb
-Size: 4192
-MD5sum: fba41890abd9f5706b30f9ccbeabfd3b
-SHA1: 68f668ba8dfd3b348162175a4aae6af24be03421
-SHA256: 262f419415adae713d5ef828d5229d94619993b4cf1471d546a0cf0b3efcb7cf
+Size: 4072
+MD5sum: c22dc4ff7b72c451de0b0ac7fb11a27e
+SHA1: 49d3d4a978a894347c0b524e321ccc8dd2706db4
+SHA256: 1f607085d4fc025ea627e529768f94f2ba0565a7fee3fa222212dd94c1b4a132
 Section: 汉化
 Description: Choicy 汉化包（rootless）
 Author: By-Lengran
+Icon: file:///Library/PreferenceBundles/cbprefs.bundle/CBCydiaIcon.png
 Name: Choicy 汉化包（rootless）
 
 Package: repo.lengran.colorbadges
