@@ -574,6 +574,22 @@ Icon: https://github.com/Sileo/Sileo/raw/stable/Icons/Nightly/Nightly_iOS.png
 Name: Sileo (Nightly Channel)
 Sileodepiction: https://featuredpage.getsileo.app/depiction.json
 
+Package: org.coolstar.sileonightly
+Version: 2.4+20230108.1673203183.0c456e3
+Architecture: iphoneos-arm64
+Maintainer: Amy While <me@anamy.gay>
+Filename: ./debs/org.coolstar.sileonightly_2.4+20230108.1673203183.0c456e3_iphoneos-arm64.deb
+Size: 2368088
+MD5sum: e7283278e544491ba7999eee15367d26
+SHA1: 3de2672fefe30414d24ea0e5011af68b294be696
+SHA256: 3185604f1f701b0a5efc61e718568b7d750f0acf5354a896283f32f03d754811
+Section: Packaging
+Description: A modern APT package manager frontend
+Author: Amy While <me@anamy.gay>
+Icon: https://github.com/Sileo/Sileo/raw/stable/Icons/Nightly/Nightly_iOS.png
+Name: Sileo (Nightly Channel)
+Sileodepiction: https://featuredpage.getsileo.app/depiction.json
+
 Package: rcom.lengran.basevpn.crack
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -980,21 +996,6 @@ Section: 汉化
 Description: Choicy 汉化包
 Author: By-Lengran
 Name: Choicy 汉化包
-
-Package: repo.lengran.choicy.cn.rootless
-Version: 1.4.6
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.choicy.cn.rootless_1.4.6_iphoneos-arm64.deb
-Size: 4072
-MD5sum: c22dc4ff7b72c451de0b0ac7fb11a27e
-SHA1: 49d3d4a978a894347c0b524e321ccc8dd2706db4
-SHA256: 1f607085d4fc025ea627e529768f94f2ba0565a7fee3fa222212dd94c1b4a132
-Section: 汉化
-Description: Choicy 汉化包（rootless）
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/cbprefs.bundle/CBCydiaIcon.png
-Name: Choicy 汉化包（rootless）
 
 Package: repo.lengran.colorbadges
 Version: 1.5.0
