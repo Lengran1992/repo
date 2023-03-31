@@ -80,6 +80,24 @@ Depiction: https://repo.lenglengyu.top/packageInfo/xmlyautoplay.html
 Name: 喜马拉雅自动播放
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/xmlyautoplaysileo
 
+Package: com.ps.batteryhealthenabler
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.3)
+Filename: ./debs/com.ps.batteryhealthenabler_1.0.0_iphoneos-arm64.deb
+Size: 5244
+MD5sum: c1a143b634d99670a8abbf0296b208a1
+SHA1: 81212f6a83e5a616c300fab0678a85923c1f9cf0
+SHA256: 43de8f65e6168628556482d8848fd9863c18ad92b50391aec06327ecd0e413c7
+Section: Tweaks
+Description: Enable Battery Health on unsupported devices.
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/batteryhealthenabler.html
+Name: Battery Health Enabler
+Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/batteryhealthenabler.json
+
 Package: com.pxcex.cydia3dtouch
 Version: 0.0.4
 Architecture: iphoneos-arm
