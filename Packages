@@ -301,6 +301,26 @@ Description: Feature rich clipboard manager for iOS
 Author: Traurige <hello@traurige.dev>
 Name: Kayoko
 
+Package: ellekit
+Version: 0.3
+Architecture: iphoneos-arm64
+Maintainer: Evelyn
+Conflicts: com.ex.substitute, org.coolstar.libhooker, science.xnu.substitute, mobilesubstrate
+Replaces: com.ex.libsubstitute, org.coolstar.libhooker, mobilesubstrate
+Provides: mobilesubstrate (= 99), org.coolstar.libhooker (= 1.6.9)
+Filename: ./debs/ellekit_0.3_iphoneos-arm64.deb
+Size: 367368
+MD5sum: fa7ad404c3a1102282730f29f204ee54
+SHA1: 593ef585cddc466c761d309b16bd43026af41461
+SHA256: 2e63d1b514f244025009990bc31e811736f1730aa45b522abf549d7a7c63daa2
+Section: Tweak Injection
+Priority: optional
+Description: ElleKit tweak injection libraries and loader
+ ElleKit tweak injection libraries and loader. Currently in beta,
+ does not currently include a LaunchDaemon.
+Author: Evelyn
+Name: ElleKit (Beta)
+
 Package: kr.xsf1re.flyjbx
 Version: 1.2.5
 Architecture: iphoneos-arm
