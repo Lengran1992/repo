@@ -135,6 +135,40 @@ Author: Snail <mu514983786@gmail.com>
 Depiction: https://repo.snailovet.com/package/62
 Name: 位置自动允许一次 // AllowLocationOnce
 
+Package: com.snail.allowlocationonce.rootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.snail.allowlocationonce.rootless_1.0.0_iphoneos-arm64.deb
+Size: 4548
+MD5sum: b31bac2bb77f93784728f1c4192577da
+SHA1: 4cbb0969aedb3a677bd59cfb5086e473002f888b
+SHA256: 4963f9a5db10baf457b172fcddab4f5378dd601b6c9fba8816982a8665ae15f1
+Section: Rootless
+Description: 地理位置请求弹窗，自动"允许一次"。 此版本为rootless版本，不要安装哦~ // When Location request pop-up, Automatically "Allow once". This is rootless version, plz may attention.
+Author: Snail <mu514983786@gmail.com>
+Name: 位置自动允许一次 AllowLocationOnce
+
+Package: com.snail.allowlocationonce.rootless
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.snail.allowlocationonce.rootless_1.0.1_iphoneos-arm64.deb
+Size: 4664
+MD5sum: 0e30640fc331c4c1bec301aa120c7dd3
+SHA1: 4b70dbd166c286a0cc9c76559041f7836eced772
+SHA256: 6f58a33943ef7814e045682c798230679e6af43106a1e88b170c4e6db4f14035
+Section: Rootless
+Homepage: https://repo.snailovet.com/
+Description: 地理位置请求弹窗，自动"允许一次"。 此为Rootless版本，不要安装错了哦 // When Location request pop-up, Automatically "Allow once". This is rootless version, please may attention.
+Author: Snail <mu514983786@gmail.com>
+Depiction: https://repo.snailovet.com/package/103
+Name: 位置自动允许一次 // AllowLocationOnce
+
 Package: com.snail.cainiaonoad
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -169,6 +203,22 @@ Description: 按压APP图标3D Touch菜单快速开关消息通知
 Depiction: https://repo.snailovet.com/package/19
 Name: 3D开关APP消息通知
 
+Package: com.snail.easynotify.rootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.snail.easynotify.rootless_1.0.0_iphoneos-arm64.deb
+Size: 8140
+MD5sum: 48a44f3e32379fb65add0e23ff2ff45b
+SHA1: 06bcc6f98decad91f6b8d112ece6763a1ae7a4c9
+SHA256: d022d47d5dc9e6f0aae0b434ca03c1a228343664128e53a44147c90d5ae0c97e
+Section: Rootless
+Description: 按压APP图标3D Touch菜单快速开关消息通知。此为rootless版本，不要安装错哦~
+Author: Snail <mu514983786@gmail.com>
+Name: 3D开关APP消息通知 EasyNotify
+
 Package: com.snail.homeremovediscover
 Version: 1.0.2
 Architecture: iphoneos-arm
@@ -187,6 +237,23 @@ Author: Snail <mu514983786@gmail.com>
 Depiction: https://repo.snailovet.com/package/61
 Name: HomeRemoveDiscover
 
+Package: com.snail.homeremovediscover.rootless
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.snail.homeremovediscover.rootless_1.0.2_iphoneos-arm64.deb
+Size: 3920
+MD5sum: c0bfb5e919b041eb5b4bff839e10b68f
+SHA1: 57b6854df4f70a21a95395006acd2534fac97c18
+SHA256: 9a10111fa849f3fd88fd930e191c9f608a9035ed62b7bd2cbb4f07a58ec507cc
+Section: Rootless
+Description: 去掉家庭APP中的底栏的“发现”。// Remove the Home App Discover Tab.
+ 此为rootless版本，不要安装错哦~
+Author: Snail <mu514983786@gmail.com>
+Name: 家庭移除发现 HomeRemoveDiscover
+
 Package: com.snail.homeremoveexcepttips
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -202,6 +269,22 @@ Section: 系统优化
 Description: 去掉Home App中“配件尚未经过认证”的提示。
 Author: Snail <mu514983786@gmail.com>
 Name: HomeRemoveExcptTips
+
+Package: com.snail.photoskipdelandinfinitezoom.rootless
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.snail.photoskipdelandinfinitezoom.rootless_0.0.1_iphoneos-arm64.deb
+Size: 4372
+MD5sum: 48172d5bad349e9430b3085038cd89ad
+SHA1: 5673834ccd4afbef89c06699adc5f9ddd597b98d
+SHA256: d50ceeae5f544208de2db2e8c971c3abd78fe964a2ddf7fad10366ea672d15d2
+Section: Rootless
+Description: 照片APP图片删除操作无需确认，无限放大照片。此为rootless版本，不要安装错哦~
+Author: Snail <mu514983786@gmail.com>
+Name: 照片直接删除&无限放大 PhotoSkipDelAndInfiniteZoom
 
 Package: com.snail.smzdmnoad
 Version: 0.0.1
@@ -236,6 +319,22 @@ Description: 点击iOS顶部时间栏显示今日中国农历。// Tap Status Ba
 Author: Snail <mu514983786@gmail.com>
 Depiction: https://repo.snailovet.com/package/42
 Name: 点击时间栏显示农历 // StatusBarLunarDate
+
+Package: com.snail.statusbarlunardate.rootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.snail.statusbarlunardate.rootless_1.0.0_iphoneos-arm64.deb
+Size: 5476
+MD5sum: b7cd7708c554f1e37565758c57e79a17
+SHA1: 6ff516f51ed354b82902013ae25dd6f0c756210c
+SHA256: de11ffba720c82f487c5cfe0ae70458388e95122fb20927d4f6ee2b9167a0753
+Section: Rootless
+Description: 点击iOS顶部时间栏显示今日中国农历。此为rootless版本，不要安装错哦~ // Tap Status Bar Time to show chinese todays lunardate.
+Author: Snail <mu514983786@gmail.com>
+Name: 点击时间栏显示农历 StatusBarLunarDate
 
 Package: com.snail.xianyunoad
 Version: 0.0.1
