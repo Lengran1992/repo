@@ -416,6 +416,29 @@ Description: You can HIDE Doing jailbreak your iDevice.
 Author: XsF1re
 Name: FlyJB X
 
+Package: lunotech11.legizmo.kincaid-rootless
+Version: 4.1
+Architecture: iphoneos-arm64
+Maintainer: lunotech11 <support@legizmo.app>
+Installed-Size: 3736
+Depends: firmware (>= 15.0), gsc.telephony, mobilesubstrate, preferenceloader
+Conflicts: lunotech11.Legizmo
+Replaces: lunotech11.Legizmo
+Provides: lunotech11.Legizmo
+Filename: ./debs/lunotech11.legizmo.kincaid-rootless_4.1_iphoneos-arm64.deb
+Size: 466104
+MD5sum: 61b6e8e6ee0132b2d72a025e4b779f03
+SHA1: 7e1dc3610f50b746c2c2600f6573d3162513049a
+SHA256: 69913dfeb318edad05035b87f956141cbfd09a26871ce9e12fd9c9bfcbe2c491
+Section: Tweaks
+Description: Enables pairing, connecting and updating to incompatible versions of watchOS
+Tag: cydia::commercial, compatible::ios15
+Author: lunotech11 <support@legizmo.app>
+Header: https://legizmo.app/assets/images/banner-kincaid-rootless.jpg
+Icon: https://legizmo.app/assets/images/icon-kincaid-rootless.png
+Name: Legizmo Kincaid-Rootless
+Xbs-Build-Version: 23MA191500r
+
 Package: netskao.appstore++zhcn
 Version: 1.2-1
 Architecture: iphoneos-arm
@@ -861,6 +884,21 @@ Author: 妖刀
 Icon: file:///Library/PreferenceBundles/AmpereSettings.bundle/icon@2x.png
 Name: Ampere 汉化包
 
+Package: repo.lengran.appindex.cn.rootless
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: com.serena.appindex
+Filename: ./debs/repo.lengran.appindex.cn.rootless_1.0_iphoneos-arm64.deb
+Size: 2720
+MD5sum: 09f75dc7cd7bb428ef0eb71de9890c40
+SHA1: 60147ce7d66cd0f82a0d8af2f4c24232c6070e14
+SHA256: 06ba4f0366838575276af137ae1684032f0004aadf501053e7dc1340419ebb9a
+Section: 汉化
+Description: AppIndex 汉化包
+Author: By-Lengran
+Name: AppIndex 汉化包
+
 Package: repo.lengran.audiorecorderxs.cn
 Version: 3.0-78
 Architecture: iphoneos-arm
@@ -1075,6 +1113,21 @@ Size: 3980
 MD5sum: c50c94b4bbde5568d55d1a63b8fda193
 SHA1: 3f990c08d8aa9ad8cce1be047cfe30ffeae7fe82
 SHA256: 2b95dfe5489fed52a6043c46165dd376bdafa09518e8c980c7e017815af5373a
+Section: 汉化
+Description: Choicy 汉化包
+Author: By-Lengran
+Name: Choicy 汉化包
+
+Package: repo.lengran.choicy.cn.rootless
+Version: 1.4.7
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: com.opa334.choicy
+Filename: ./debs/repo.lengran.choicy.cn.rootless_1.4.7_iphoneos-arm64.deb
+Size: 4028
+MD5sum: b1c1e963fe8f479a3284cc2f7c46009c
+SHA1: fbe00d7ee8894a91d5a0813dd608bd5a611eef26
+SHA256: ea5fb69e1b68e6a5890d7b9404675f2054b5169259d1e8c25cde36e8901e47a0
 Section: 汉化
 Description: Choicy 汉化包
 Author: By-Lengran
@@ -1612,6 +1665,21 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPPRootIcon@2x.png
 Name: Safari Plus 汉化包
 
+Package: repo.lengran.settingsrevamp.cn.rootless
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: com.sop.settingsrevamp
+Filename: ./debs/repo.lengran.settingsrevamp.cn.rootless_2.0_iphoneos-arm64.deb
+Size: 2752
+MD5sum: 3f196835406c17a37e3cfec04991afa5
+SHA1: e279e8358ef6d8d4cfcd7f02c0c563718697d6e7
+SHA256: d2c8bf1c6a1e8a62796d501a45197f71abe0fa2a937efc7f4f984ca1b24fa968
+Section: 汉化
+Description: SettingsRevamp 汉化包
+Author: By-Lengran
+Name: SettingsRevamp 汉化包
+
 Package: repo.lengran.settingswidgets.cn
 Version: 1.1
 Architecture: iphoneos-arm
@@ -1865,6 +1933,20 @@ Description: Shuffle 汉化包
 Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@2x.png
 Name: Shuffle 汉化包
+
+Package: repo.lengran.sileo.cn.rootless
+Version: 2.4
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.sileo.cn.rootless_2.4_iphoneos-arm64.deb
+Size: 7560
+MD5sum: ad5a77398c2a7f0b1ce55994fea2064f
+SHA1: 0b8132f11632dd25ad239506ca98d7943af46290
+SHA256: 197fccea4b73f67d7b199ff9b002f9d13430139ffd0b700bfa41d4691e177bd7
+Section: 汉化
+Description: AppIndex 汉化增补包
+Author: By-Lengran
+Name: Sileo 汉化增补包
 
 Package: repo.lengran.slices3.cn
 Version: 3.1.3
