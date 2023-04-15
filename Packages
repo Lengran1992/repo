@@ -664,38 +664,6 @@ Description: 知乎去除启动广告，去除信息流中广告，去除答案�
 Author: Netskao
 Name: 知乎 NoAds
 
-Package: org.coolstar.sileonightly
-Version: 2.4+20230108.1673203183.0c456e3
-Architecture: iphoneos-arm
-Maintainer: Amy While <me@anamy.gay>
-Filename: ./debs/org.coolstar.sileonightly_2.4+20230108.1673203183.0c456e3_iphoneos-arm.deb
-Size: 2367984
-MD5sum: b81a4e1108381c9f6cb3a22ed21dbe59
-SHA1: 739dcf35178a6c9292ef8de3723946152f059956
-SHA256: 4c3c863a0c65f782b3ca8b05b93e787d5546a8eb8107ed15abdf60180768b407
-Section: Packaging
-Description: A modern APT package manager frontend
-Author: Amy While <me@anamy.gay>
-Icon: https://github.com/Sileo/Sileo/raw/stable/Icons/Nightly/Nightly_iOS.png
-Name: Sileo (Nightly Channel)
-Sileodepiction: https://featuredpage.getsileo.app/depiction.json
-
-Package: org.coolstar.sileonightly
-Version: 2.4+20230108.1673203183.0c456e3
-Architecture: iphoneos-arm64
-Maintainer: Amy While <me@anamy.gay>
-Filename: ./debs/org.coolstar.sileonightly_2.4+20230108.1673203183.0c456e3_iphoneos-arm64.deb
-Size: 2368088
-MD5sum: e7283278e544491ba7999eee15367d26
-SHA1: 3de2672fefe30414d24ea0e5011af68b294be696
-SHA256: 3185604f1f701b0a5efc61e718568b7d750f0acf5354a896283f32f03d754811
-Section: Packaging
-Description: A modern APT package manager frontend
-Author: Amy While <me@anamy.gay>
-Icon: https://github.com/Sileo/Sileo/raw/stable/Icons/Nightly/Nightly_iOS.png
-Name: Sileo (Nightly Channel)
-Sileodepiction: https://featuredpage.getsileo.app/depiction.json
-
 Package: rcom.lengran.basevpn.crack
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -1935,16 +1903,16 @@ Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@2x.png
 Name: Shuffle 汉化包
 
 Package: repo.lengran.sileo.cn.rootless
-Version: 2.4
+Version: 2.4.2
 Architecture: iphoneos-arm64
 Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.sileo.cn.rootless_2.4_iphoneos-arm64.deb
-Size: 7560
-MD5sum: ad5a77398c2a7f0b1ce55994fea2064f
-SHA1: 0b8132f11632dd25ad239506ca98d7943af46290
-SHA256: 197fccea4b73f67d7b199ff9b002f9d13430139ffd0b700bfa41d4691e177bd7
+Filename: ./debs/repo.lengran.sileo.cn.rootless_2.4.2_iphoneos-arm64.deb
+Size: 8336
+MD5sum: ef55db04897b52f8d331399d8fd75e7d
+SHA1: 7ce91db0edd6f60d3b2837f88487f80822e6bcc3
+SHA256: cc7ca0527bc4e8086b148ab8a1ceaf358b96cff714b363eaaadeb799b4ed0600
 Section: 汉化
-Description: AppIndex 汉化增补包
+Description: Sileo 汉化增补包
 Author: By-Lengran
 Name: Sileo 汉化增补包
 
