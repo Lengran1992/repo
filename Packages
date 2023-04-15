@@ -1902,15 +1902,29 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@2x.png
 Name: Shuffle 汉化包
 
+Package: repo.lengran.sileo.cn
+Version: 2.4.2
+Architecture: iphoneos-arm
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.sileo.cn_2.4.2_iphoneos-arm.deb
+Size: 7688
+MD5sum: 1663d29d37d1d3140f95c3363fbb37c0
+SHA1: 54575d2e38caa7c6844de635e4378054e5228440
+SHA256: 272a33c976ddda345dec4cca53e15aad5b56d4a3c13a2a866bb347e5fa0a80fc
+Section: 汉化
+Description: Sileo 汉化增补包
+Author: By-Lengran
+Name: Sileo 汉化增补包
+
 Package: repo.lengran.sileo.cn.rootless
 Version: 2.4.2
 Architecture: iphoneos-arm64
 Maintainer: By-Lengran
 Filename: ./debs/repo.lengran.sileo.cn.rootless_2.4.2_iphoneos-arm64.deb
-Size: 7736
-MD5sum: 1e3d3493e150f1af8ae833a484733002
-SHA1: 36133ba82d41e51a914e151ca973c811d52d044c
-SHA256: 0fb5651a8e998d87a14ed2fd8e689f4b9d2f23228227bb7c84da973c2f695085
+Size: 7732
+MD5sum: 93a97fe6ab71521a6460db4c3f59e384
+SHA1: cdd14073f43d91646124005b64e8a51815fcab5c
+SHA256: f22b0fba02cbd4b2697e294ff961f9ab054cdf7e232e26457d81099a4511bb54
 Section: 汉化
 Description: Sileo 汉化增补包
 Author: By-Lengran
