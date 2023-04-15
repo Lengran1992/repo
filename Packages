@@ -1907,10 +1907,10 @@ Version: 2.4.2
 Architecture: iphoneos-arm64
 Maintainer: By-Lengran
 Filename: ./debs/repo.lengran.sileo.cn.rootless_2.4.2_iphoneos-arm64.deb
-Size: 8336
-MD5sum: ef55db04897b52f8d331399d8fd75e7d
-SHA1: 7ce91db0edd6f60d3b2837f88487f80822e6bcc3
-SHA256: cc7ca0527bc4e8086b148ab8a1ceaf358b96cff714b363eaaadeb799b4ed0600
+Size: 7736
+MD5sum: 1e3d3493e150f1af8ae833a484733002
+SHA1: 36133ba82d41e51a914e151ca973c811d52d044c
+SHA256: 0fb5651a8e998d87a14ed2fd8e689f4b9d2f23228227bb7c84da973c2f695085
 Section: 汉化
 Description: Sileo 汉化增补包
 Author: By-Lengran
