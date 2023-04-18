@@ -977,6 +977,21 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/BetterCCXI.bundle/SettingsIcon@2x.png
 Name: BetterCCXI 汉化包
 
+Package: repo.lengran.bioprotect.cn.rootless
+Version: 4.6-30
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: net.limneos.bioprotectxs-rootless
+Filename: ./debs/repo.lengran.bioprotect.cn.rootless_4.6-30_iphoneos-arm64.deb
+Size: 5684
+MD5sum: 2f67f2b9aa7e04bf899c5c0b21226804
+SHA1: 853ccd7a569718f34e56212d19aa4930dab6d6fb
+SHA256: 732e3419ab42c3eb86debae4dd5a17fe573c3911345d3a1d3bde4ada9d947836
+Section: 汉化
+Description: BioProtect(rootless) 汉化包
+Author: Sandy0 & Ball
+Name: BioProtect(rootless) 汉化包
+
 Package: repo.lengran.bioprotectxs.nox.cn
 Version: 4.0-71
 Architecture: iphoneos-arm
@@ -1340,6 +1355,21 @@ Author: 妖刀
 Icon: file:///Library/PreferenceBundles/DynamicPeninsula.bundle/icon@3x.png
 Name: DynamicPeninsula 汉化包
 
+Package: repo.lengran.dynamicpeninsula.cn.rootless
+Version: 0.6-19
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: net.limneos.dynamicpeninsula-rootless
+Filename: ./debs/repo.lengran.dynamicpeninsula.cn.rootless_0.6-19_iphoneos-arm64.deb
+Size: 1584
+MD5sum: d75a5ae09c7c9b70f61cb41305acc6fb
+SHA1: dbc724e8cbab7ac5c7a714383b9e6c4698c1d2b5
+SHA256: 4f6f9c4add64c0c3d92d643d7c1ae58007895442848c1e32bb56e04745e2e379
+Section: 汉化
+Description: DynamicPeninsula(rootless) 汉化包
+Author: 妖刀
+Name: DynamicPeninsula(rootless) 汉化包
+
 Package: repo.lengran.easyapporientation.cn
 Version: 0.0.7
 Architecture: iphoneos-arm
@@ -1354,6 +1384,20 @@ Description: EasyAppOrientation 汉化包
 Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/EasyAppOrientationPrefs.bundle/EasyAppOrientation@2x.png
 Name: EasyAppOrientation 汉化包
+
+Package: repo.lengran.evolve.theme.rootless
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.evolve.theme.rootless_2.0_iphoneos-arm64.deb
+Size: 2169248
+MD5sum: 9cc483ddd4bdd30b63ad881d37aa6561
+SHA1: f250363b090dcad7d1f4088f9c3e861ca1b6c1e4
+SHA256: 42bbd4266882fc599379f4f18ad4df4352407148a858d323978f90a2077663b6
+Section: Themes
+Description: Evolve 主题
+Author: By-Lengran
+Name: Evolve 主题
 
 Package: repo.lengran.filza.cn
 Version: 4.0
@@ -1688,6 +1732,21 @@ Size: 3916
 MD5sum: 46f40c3d5aa8edb4212876b499492617
 SHA1: 3f514fd37a04b5554068b405bc09a3de6b9edb90
 SHA256: a7b69932a2d9e58f0d404f36a46584c0d31b1266bd3fe42b82713d4ae53a44b6
+Section: 汉化
+Description: SettingsRevamp 汉化包
+Author: 妖刀
+Name: SettingsRevamp 汉化包
+
+Package: repo.lengran.settingsrevamp.cn.rootless
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: com.sop.settingsrevamp
+Filename: ./debs/repo.lengran.settingsrevamp.cn.rootless_2.0.2_iphoneos-arm64.deb
+Size: 3864
+MD5sum: a6a474cfdd942c2a5e443ea1d83be4c3
+SHA1: 9e0997e36a2d7f81f8ac4f87529102a9e0ff7b67
+SHA256: ed0fae2a887bf8cbe2bf5e256463a375c33816efd32b79b1a833186564878bff
 Section: 汉化
 Description: SettingsRevamp 汉化包
 Author: 妖刀
@@ -2114,6 +2173,20 @@ Description: Ultrasound 汉化包
 Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/UltrasoundSettings.bundle/icon@2x.png
 Name: Ultrasound 汉化包
+
+Package: repo.lengran.veexillum.theme.rootless
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.veexillum.theme.rootless_1.3_iphoneos-arm64.deb
+Size: 49049104
+MD5sum: a0ffc43258a0b7c3d53f850ed219ecae
+SHA1: 4f05880083a3a3cb5a90c37df8827b2b8226d056
+SHA256: 951f7e936447c6569966f5de98a820c8b4295b3ba1e51b498fb3d98ace6ac03d
+Section: Themes
+Description: Veexillum 主题
+Author: By-Lengran
+Name: Veexillum 主题
 
 Package: repo.lengran.vesta.cn
 Version: 1.0.8
