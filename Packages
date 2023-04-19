@@ -981,12 +981,12 @@ Package: repo.lengran.bioprotect.cn.rootless
 Version: 4.6-30
 Architecture: iphoneos-arm64
 Maintainer: By-Lengran
-Depends: net.limneos.bioprotectxs-rootless
+Depends: net.limneos.bioprotectxs-rootless, oldabi
 Filename: ./debs/repo.lengran.bioprotect.cn.rootless_4.6-30_iphoneos-arm64.deb
-Size: 5684
-MD5sum: 2f67f2b9aa7e04bf899c5c0b21226804
-SHA1: 853ccd7a569718f34e56212d19aa4930dab6d6fb
-SHA256: 732e3419ab42c3eb86debae4dd5a17fe573c3911345d3a1d3bde4ada9d947836
+Size: 13212
+MD5sum: e0c380d5b39814641e49b366ca0030d0
+SHA1: 9999835053de242a0df188e804f609aee5905302
+SHA256: d30749147e00cd5c7e94fb16f0f69da0b3f64601d1a517eb39e7fdb89e8a39b5
 Section: 汉化
 Description: BioProtect(rootless) 汉化包
 Author: Sandy0 & Ball
