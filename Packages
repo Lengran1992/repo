@@ -169,6 +169,23 @@ Author: Snail <mu514983786@gmail.com>
 Depiction: https://repo.snailovet.com/package/103
 Name: 位置自动允许一次 // AllowLocationOnce
 
+Package: com.snail.bilibilinoad.rootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.snail.bilibilinoad.rootless_1.0.0_iphoneos-arm64.deb
+Size: 2944
+MD5sum: 7e0b9b55d5edb8ce6e7e2022339ce877
+SHA1: 3ae9cc028a6bec8127e3c59b732c1ed4052841f7
+SHA256: 301633dc43d966febc42ebf175b6349172fc14fbf7c0612eb7a242ea075707fe
+Section: Rootless
+Description: 去掉哔哩哔哩首页广告。Remove the home ad of BiliBili
+ 这是rootless版本，不要安装错~
+Author: Snail <mu514983786@gmail.com>
+Name: 哔哩哔哩去首页广告 BiliBiliNoAd
+
 Package: com.snail.cainiaonoad
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -286,6 +303,23 @@ Description: 照片APP图片删除操作无需确认，无限放大照片。此�
 Author: Snail <mu514983786@gmail.com>
 Name: 照片直接删除&无限放大 PhotoSkipDelAndInfiniteZoom
 
+Package: com.snail.qqmusicnoad.rootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.snail.qqmusicnoad.rootless_1.0.0_iphoneos-arm64.deb
+Size: 3172
+MD5sum: 63bcfde01dfe4671939964842a15bb3a
+SHA1: e798055ed694d65a89a32ef09fe79277e8ce9e5c
+SHA256: 078a65a10d5dcae560f10fb7b71e98a260c3a287ca435f894a8b8515b999a876
+Section: Rootless
+Description: 去掉QQ音乐首页启动广告。Remove the home ad of QQ Music.
+ Rootless版本，不要安装错哦~
+Author: Snail <mu514983786@gmail.com>
+Name: QQMusic去首页广告 // QQMusicNoAd
+
 Package: com.snail.smzdmnoad
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -301,6 +335,23 @@ Section: 广告净化
 Description: 什么值得买APP去广告，支持所有版本。
 Author: Snail <snailsohi@gmail.com>
 Name: 什么值得买APP去广告
+
+Package: com.snail.smzdmnoad.rootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.snail.smzdmnoad.rootless_1.0.0_iphoneos-arm64.deb
+Size: 3112
+MD5sum: 7c218c72379ec8265c119e1949d2f371
+SHA1: dc0a4880d710275ac6342ac901b3c22df73e8db7
+SHA256: 4532b1e2d025c0723cd3f66955254d36fe0eb4f5b3bdec918d8b5e1718e0c788
+Section: Rootless
+Description: 去掉什么值得买APP首页广告。Remove Home Ad of SMZDM App
+ 此为rootless版本，不要安装错哦~
+Author: Snail <mu514983786@gmail.com>
+Name: 什么值得买去首页广告 // SMZDMNOAD
 
 Package: com.snail.statusbarlunardate
 Version: 1.0.0
