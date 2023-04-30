@@ -1248,6 +1248,34 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/ConditionalWiFi4.bundle/icon@2x.png
 Name: ConditionalWiFi4 设置图标包
 
+Package: repo.lengran.copylog.cn.rootless
+Version: 1.5.6
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.copylog.cn.rootless_1.5.6_iphoneos-arm64.deb
+Size: 6352
+MD5sum: 92ceba1c8d7502690d407b00e43df57d
+SHA1: ee57e1af1978a8d0a5c0809d0e0d9ddc826b017d
+SHA256: 758be569b4c7d9855dedc8cd4e0267358c55f29183737ff1f559c35ca57e22ea
+Section: 汉化
+Description: CopyLog 汉化包
+Author: Hi客源
+Name: CopyLog 汉化包
+
+Package: repo.lengran.crane.cn.rootless
+Version: 1.3.9
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.crane.cn.rootless_1.3.9_iphoneos-arm64.deb
+Size: 11568
+MD5sum: e5afa018965956787fa4a05530747f61
+SHA1: 7060b34b55565dfd2f13428fa90aae0ca33658fb
+SHA256: 7ac9a31e8cd9a7f908c487c55db0ec75d211a2713c482b333241594e9bd6db6e
+Section: 汉化
+Description: Crane 汉化包
+Author: 妖刀
+Name: Crane 汉化包
+
 Package: repo.lengran.cydown.cn
 Version: 6.9.7
 Architecture: iphoneos-arm
@@ -1798,6 +1826,36 @@ Size: 3864
 MD5sum: a6a474cfdd942c2a5e443ea1d83be4c3
 SHA1: 9e0997e36a2d7f81f8ac4f87529102a9e0ff7b67
 SHA256: ed0fae2a887bf8cbe2bf5e256463a375c33816efd32b79b1a833186564878bff
+Section: 汉化
+Description: SettingsRevamp 汉化包
+Author: 妖刀
+Name: SettingsRevamp 汉化包
+
+Package: repo.lengran.settingsrevamp.cn.rootless
+Version: 2.0.4
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: com.sop.settingsrevamp
+Filename: ./debs/repo.lengran.settingsrevamp.cn.rootless_2.0.4_iphoneos-arm64.deb
+Size: 3872
+MD5sum: 0277ad9c42967156fa75df924d532724
+SHA1: 7715215f3775bf7a9a11f803ae2711f363bedc42
+SHA256: 5eab74ab1036c447b5a6634e92a6e5fcaf1acbcb8beb18afbd16d1385a064286
+Section: 汉化
+Description: SettingsRevamp 汉化包
+Author: 妖刀
+Name: SettingsRevamp 汉化包
+
+Package: repo.lengran.settingsrevamp.cn.rootless
+Version: 2.0.5
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: com.sop.settingsrevamp
+Filename: ./debs/repo.lengran.settingsrevamp.cn.rootless_2.0.5_iphoneos-arm64.deb
+Size: 3880
+MD5sum: ff7624ed785c93269ef272535de1d25c
+SHA1: 6e10c646d3d077eb9289f28d3589dd436b8e262f
+SHA256: ff789217e069f6bdbf3a1082ff3a7da60d691c053c816bc63832bcce4358ca7c
 Section: 汉化
 Description: SettingsRevamp 汉化包
 Author: 妖刀
