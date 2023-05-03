@@ -467,29 +467,6 @@ Description: You can HIDE Doing jailbreak your iDevice.
 Author: XsF1re
 Name: FlyJB X
 
-Package: lunotech11.legizmo.kincaid-rootless
-Version: 4.1
-Architecture: iphoneos-arm64
-Maintainer: lunotech11 <support@legizmo.app>
-Installed-Size: 3736
-Depends: firmware (>= 15.0), gsc.telephony, mobilesubstrate, preferenceloader
-Conflicts: lunotech11.Legizmo
-Replaces: lunotech11.Legizmo
-Provides: lunotech11.Legizmo
-Filename: ./debs/lunotech11.legizmo.kincaid-rootless_4.1_iphoneos-arm64.deb
-Size: 466104
-MD5sum: 61b6e8e6ee0132b2d72a025e4b779f03
-SHA1: 7e1dc3610f50b746c2c2600f6573d3162513049a
-SHA256: 69913dfeb318edad05035b87f956141cbfd09a26871ce9e12fd9c9bfcbe2c491
-Section: Tweaks
-Description: Enables pairing, connecting and updating to incompatible versions of watchOS
-Tag: cydia::commercial, compatible::ios15
-Author: lunotech11 <support@legizmo.app>
-Header: https://legizmo.app/assets/images/banner-kincaid-rootless.jpg
-Icon: https://legizmo.app/assets/images/icon-kincaid-rootless.png
-Name: Legizmo Kincaid-Rootless
-Xbs-Build-Version: 23MA191500r
-
 Package: netskao.appstore++zhcn
 Version: 1.2-1
 Architecture: iphoneos-arm
@@ -823,6 +800,21 @@ Author: 妖刀
 Icon: file:///Library/PreferenceBundles/AFontPrefs.bundle/icon@2x.png
 Name: A-Font 汉化包
 
+Package: repo.lengran.a-font.cn.rootless
+Version: 1.9.3
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: com.rpgfarm.a-font
+Filename: ./debs/repo.lengran.a-font.cn.rootless_1.9.3_iphoneos-arm64.deb
+Size: 2360
+MD5sum: 2ef41ae20d433921865b6278e603f387
+SHA1: 53ed9f17dc906d38ea2167f3cdf2dff4963f3fcd
+SHA256: 23f6cc2f99b02e453d3729b2827a64bc07a66a0f110615c48155619a6be92fa6
+Section: 汉化
+Description: A-Font 汉化包
+Author: 妖刀
+Name: A-Font 汉化包
+
 Package: repo.lengran.aim.cn
 Version: 1.2
 Architecture: iphoneos-arm
@@ -966,6 +958,21 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/AutoUnlockXPrefs.bundle/icon@2x.png
 Name: AutoUnlockX 汉化包
 
+Package: repo.lengran.axon.cn.rootless
+Version: 1.4-1
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: me.nepeta.axon, oldabi
+Filename: ./debs/repo.lengran.axon.cn.rootless_1.4-1_iphoneos-arm64.deb
+Size: 7288
+MD5sum: c985359483f8be8d4d755286125e1ef8
+SHA1: 748f763a12dd57943b18cb9eab2852dc4cba68f3
+SHA256: 0c65c759c1d0217781e29797f62b8df3e8fb5486051b18d5de36c6daa66ebfdf
+Section: 汉化
+Description: Axon 汉化包
+Author: 妖刀
+Name: Axon 汉化包
+
 Package: repo.lengran.batterypercent12.cn
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -1012,6 +1019,20 @@ Description: Bazzi 2 汉化包
 Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/Bazzi2Settings.bundle/bazzi2@2x.png
 Name: Bazzi 2 汉化包
+
+Package: repo.lengran.betteralarm.cn.rootless
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.betteralarm.cn.rootless_1.4.1_iphoneos-arm64.deb
+Size: 2760
+MD5sum: 8a6567478a8e6bc73f507686bf94be37
+SHA1: ce347b0af545e831b083bd6dd63a9566dbb9240f
+SHA256: 960103c0760d6a7987d79d4429beb9d85fe6dedd3e57dd1d837ea81ea833584d
+Section: 汉化
+Description: BetterAlarm 汉化包
+Author: 妖刀
+Name: BetterAlarm 汉化包
 
 Package: repo.lengran.betterccxi.cn
 Version: 1.4.10
@@ -1253,10 +1274,10 @@ Version: 1.5.6
 Architecture: iphoneos-arm64
 Maintainer: By-Lengran
 Filename: ./debs/repo.lengran.copylog.cn.rootless_1.5.6_iphoneos-arm64.deb
-Size: 6352
-MD5sum: 92ceba1c8d7502690d407b00e43df57d
-SHA1: ee57e1af1978a8d0a5c0809d0e0d9ddc826b017d
-SHA256: 758be569b4c7d9855dedc8cd4e0267358c55f29183737ff1f559c35ca57e22ea
+Size: 6428
+MD5sum: ae085f6471b7619f5c4a7bdbdcfecd55
+SHA1: b374687901bd53b74439ca96cb7e03abe911547b
+SHA256: 0573c3978bcf7ee219e5ed9b23472841e6adfb00816a5675842deedee83bad1a
 Section: 汉化
 Description: CopyLog 汉化包
 Author: Hi客源
@@ -1630,6 +1651,21 @@ Description: Limneos 所有插件全功能破解，BioProtect、CallBar、通话
 Author: By-Lengran
 Depiction: Limneos 所有插件全功能破解，BioProtect、CallBar、通话录音、灵动岛等。
 Name: Limneos Crack
+
+Package: repo.lengran.nfcwriterx.cn.rootless
+Version: 4.0-3+debug
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: net.limneos.nfcwriterx-rootless, oldabi
+Filename: ./debs/repo.lengran.nfcwriterx.cn.rootless_4.0-3+debug_iphoneos-arm64.deb
+Size: 10308
+MD5sum: 4d58171501e8295d0275a77e5f09e697
+SHA1: 3d27bdc816d0cb4e2cd7b04c1f375c199161febd
+SHA256: bc6f688fb20d85d1f32073bb948948103a87f4faf89d1ddadb7371f04d0e4be8
+Section: 汉化
+Description: NFCWriter XS 汉化包
+Author: Ball
+Name: NFCWriter XS 汉化包
 
 Package: repo.lengran.pencilchargingindicator.cn
 Version: 1.2~b6
@@ -2246,6 +2282,20 @@ Size: 10672
 MD5sum: 38c3afd9eaf33990855ffdba4ad11ab4
 SHA1: 777452f7f5e9aa9ec94c54a80b9319aa78fed692
 SHA256: 257ab768fad20a1642949dabaa671f9e5d1c71951fd6ecc9ef107bd6cec611f1
+Section: 汉化
+Description: TrollStore 汉化包
+Author: By-Lengran
+Name: TrollStore 汉化包
+
+Package: repo.lengran.trollstore.cn.rootless
+Version: 1.5.1
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.trollstore.cn.rootless_1.5.1_iphoneos-arm64.deb
+Size: 10864
+MD5sum: 74ca0e7e184fe72d4e2a3013f9a23e1e
+SHA1: b477ade8c4657fdaf2ae8fa026c7fd4949e1cabf
+SHA256: 081baf49a5da9c8a38f6380ab2f85ae59aa2a03148d8f2dbaf1c19d5171a2e29
 Section: 汉化
 Description: TrollStore 汉化包
 Author: By-Lengran
