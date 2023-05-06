@@ -1026,13 +1026,13 @@ Architecture: iphoneos-arm64
 Maintainer: By-Lengran
 Filename: ./debs/repo.lengran.betteralarm.cn.rootless_1.4.1_iphoneos-arm64.deb
 Size: 2760
-MD5sum: 8a6567478a8e6bc73f507686bf94be37
-SHA1: ce347b0af545e831b083bd6dd63a9566dbb9240f
-SHA256: 960103c0760d6a7987d79d4429beb9d85fe6dedd3e57dd1d837ea81ea833584d
+MD5sum: 05b7dc8b3ecdb66470f0be427891322f
+SHA1: 593ad26f442adc08ced1ba797c2a60412bfec34c
+SHA256: 47c9cdf43fb93f2ca355de0b1f1b27aad75812c5af08210f70c21b0a764dfe02
 Section: 汉化
-Description: BetterAlarm 汉化包
+Description: betterAlarm 汉化包
 Author: 妖刀
-Name: BetterAlarm 汉化包
+Name: betterAlarm 汉化包
 
 Package: repo.lengran.betterccxi.cn
 Version: 1.4.10
@@ -2164,6 +2164,21 @@ Section: 汉化
 Description: Shuffle 汉化包
 Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@2x.png
+Name: Shuffle 汉化包
+
+Package: repo.lengran.shuffle.cn.rootless
+Version: 1.6.2
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: com.creaturecoding.shuffle
+Filename: ./debs/repo.lengran.shuffle.cn.rootless_1.6.2_iphoneos-arm64.deb
+Size: 429720
+MD5sum: 52d48ff0a11dc5adb0c2c0f47764741e
+SHA1: 354d2cdf38e7b73a325a52a54ab58518ea5872ae
+SHA256: e8d098a1a66b46510e47d05a704610fe9a334f5065c2bf3b281d3c55b1c73679
+Section: 汉化
+Description: Shuffle 汉化包
+Author: By-Lengran
 Name: Shuffle 汉化包
 
 Package: repo.lengran.slices3.cn
