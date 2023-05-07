@@ -901,10 +901,10 @@ Architecture: iphoneos-arm64
 Maintainer: By-Lengran
 Depends: com.yan.anouk
 Filename: ./debs/repo.lengran.anouk.cn.rootless_1.1_iphoneos-arm64.deb
-Size: 186088
-MD5sum: d462f23f4ca8ecc8e85db98b8b9e64f2
-SHA1: f02944d3718597c015bdb33a3eb7c73ad5d77bcd
-SHA256: c01eb0b1bd0a1c8ad9c13517d6e6cc7f96a7b44bbbb578a4d8e429387a34432f
+Size: 1208
+MD5sum: 8b73c987928b8408a7cf58d028a62ceb
+SHA1: a60ab552aabe23daa10d9b65320d7bb0bdcf8c53
+SHA256: f83618241f033a3d86afa3c72392ceac316e9f7777530c6d3c49b1bdad7d649b
 Section: 汉化
 Description: Anouk 汉化包
 Author: By-Lengran
