@@ -895,6 +895,21 @@ Author: 妖刀
 Icon: file:///Library/PreferenceBundles/AmpereSettings.bundle/icon@2x.png
 Name: Ampere 汉化包
 
+Package: repo.lengran.anouk.cn.rootless
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: com.yan.anouk
+Filename: ./debs/repo.lengran.anouk.cn.rootless_1.1_iphoneos-arm64.deb
+Size: 186088
+MD5sum: d462f23f4ca8ecc8e85db98b8b9e64f2
+SHA1: f02944d3718597c015bdb33a3eb7c73ad5d77bcd
+SHA256: c01eb0b1bd0a1c8ad9c13517d6e6cc7f96a7b44bbbb578a4d8e429387a34432f
+Section: 汉化
+Description: Anouk 汉化包
+Author: By-Lengran
+Name: Anouk 汉化包
+
 Package: repo.lengran.appindex.cn.rootless
 Version: 1.0
 Architecture: iphoneos-arm64
