@@ -62,6 +62,26 @@ Author: Mao
 Name: 淘宝优惠券
 Sponsor: admin@25mao.com
 
+Package: com.exile90.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
+Size: 1117388
+MD5sum: d9c3c89fbe339b2603d135a3ab1317fc
+SHA1: d52123470cdfc141ea52645100f29e1f77106d56
+SHA256: 51495181524326d9ee4fc8b021ee3ab23e251d834e95a9a2440ed1ec6ea7e17f
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
 Package: com.lenglengyu.xmlyautoplay
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -973,6 +993,21 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/AutoUnlockXPrefs.bundle/icon@2x.png
 Name: AutoUnlockX 汉化包
 
+Package: repo.lengran.autounlockx.cn.rootless
+Version: 1.1.0-rootless
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: com.spark.autounlockx
+Filename: ./debs/repo.lengran.autounlockx.cn.rootless_1.1.0-rootless_iphoneos-arm64.deb
+Size: 1500
+MD5sum: 27c6b5e8e53184e86e3979e2587c68bc
+SHA1: c3417e0cc9fbe2ae084bd157c63ea8f0290e7281
+SHA256: b7d85c3dc34abc7e0c0fc5776711de6b0ce45fa9fb0fb3ef770ee487c2aabe5d
+Section: 汉化
+Description: AutoUnlockX 汉化包
+Author: Sandy0
+Name: AutoUnlockX 汉化包
+
 Package: repo.lengran.axon.cn.rootless
 Version: 1.4-1
 Architecture: iphoneos-arm64
@@ -1068,12 +1103,12 @@ Package: repo.lengran.bioprotect.cn.rootless
 Version: 4.6-30
 Architecture: iphoneos-arm64
 Maintainer: By-Lengran
-Depends: net.limneos.bioprotectxs-rootless, oldabi
+Depends: net.limneos.bioprotectxs-rootless
 Filename: ./debs/repo.lengran.bioprotect.cn.rootless_4.6-30_iphoneos-arm64.deb
-Size: 13212
-MD5sum: e0c380d5b39814641e49b366ca0030d0
-SHA1: 9999835053de242a0df188e804f609aee5905302
-SHA256: d30749147e00cd5c7e94fb16f0f69da0b3f64601d1a517eb39e7fdb89e8a39b5
+Size: 12932
+MD5sum: b5cba2dfd81e2f8d333d17359cc80b3c
+SHA1: f4b9b797b6939db6d1bbeb4110a63c56ce0ad340
+SHA256: 8d1280b11ea8d59092033dce5e2d142a19cc75524da60c4f654f5ab7adb41b9f
 Section: 汉化
 Description: BioProtect(rootless) 汉化包
 Author: Sandy0 & Ball
@@ -1283,6 +1318,21 @@ Description: 补全 ConditionalWiFi4 设置图标
 Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/ConditionalWiFi4.bundle/icon@2x.png
 Name: ConditionalWiFi4 设置图标包
+
+Package: repo.lengran.coolcc.cn.rootless
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: alias20.coolcc
+Filename: ./debs/repo.lengran.coolcc.cn.rootless_2.0_iphoneos-arm64.deb
+Size: 1576
+MD5sum: 0293b9accccb5239d2550adaab3bade3
+SHA1: c9aa4ee95e83037dc5dd83cd44cc01489c39566e
+SHA256: ba7eea4d938f201c7103891a227ef3d572ef4a2dfac1bf9e983d5eda5d0445a0
+Section: 汉化
+Description: CoolCC Reborn 汉化包
+Author: 妖刀
+Name: CoolCC Reborn 汉化包
 
 Package: repo.lengran.copylog.cn.rootless
 Version: 1.5.6
@@ -1711,6 +1761,21 @@ Description: PencilChargingIndicator 汉化包
 Author: CDSQ.Tech <cdsq.deb@gmail.com>
 Icon: file:///Library/PreferenceBundles/PencilChargingIndicatorPreferences.bundle/icon@2x.png
 Name: PencilChargingIndicator 汉化包
+
+Package: repo.lengran.power4options.cn.rootless
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: alias20.power4options
+Filename: ./debs/repo.lengran.power4options.cn.rootless_3.0_iphoneos-arm64.deb
+Size: 1376
+MD5sum: fe56527f3d7d0a806af92b4ebaa387b9
+SHA1: 3e0e9cefe2e89d9be27836f321996ed380e632f7
+SHA256: 582d3a2c030b8201c499aa2ef39e9cef759d29379d37121c9327a5ffe9693904
+Section: 汉化
+Description: Power4Options 汉化包
+Author: By-Lengran
+Name: Power4Options 汉化包
 
 Package: repo.lengran.powerselector11.cn
 Version: 1.2.6
@@ -2226,6 +2291,21 @@ Description: Snapper 2 汉化补充包
 Author: 妖刀
 Icon: file:///Library/PreferenceBundles/Snapper2Preferences.bundle/images/settings/SnapperPreferences@2x.png
 Name: Snapper 2 汉化补充包
+
+Package: repo.lengran.snowboard.cn.rootless
+Version: 1.5.13-Beta3-rootless
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: com.spark.snowboard
+Filename: ./debs/repo.lengran.snowboard.cn.rootless_1.5.13-Beta3-rootless_iphoneos-arm64.deb
+Size: 3472
+MD5sum: 57febefb92664fb771060440d0170fe1
+SHA1: 9c008f86550a81750708f6f145ca1b21fd76c3c2
+SHA256: f4f3de20c497112bdffe70e5a35e77ddf2334001ebf7c42224c9736f05887746
+Section: 汉化
+Description: SnowBoard 汉化包
+Author: 妖刀
+Name: SnowBoard 汉化包
 
 Package: repo.lengran.snowboard.cn.rootless
 Version: 1.5.9-Beta3-rootless
