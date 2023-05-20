@@ -915,6 +915,21 @@ Author: 妖刀
 Icon: file:///Library/PreferenceBundles/AmpereSettings.bundle/icon@2x.png
 Name: Ampere 汉化包
 
+Package: repo.lengran.ampere.cn.rootless
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: com.mtac.ampere
+Filename: ./debs/repo.lengran.ampere.cn.rootless_1.1_iphoneos-arm64.deb
+Size: 5704
+MD5sum: e2fa5d75db5d26e2cea5d965153ce660
+SHA1: 8e7202a2bfaeb1eb52d7d9441c56b7ff0ee00fbc
+SHA256: 3c9d88dc430e579665e41a19f18e174efae2f3c73d5f991d2cbe60e49c266bce
+Section: 汉化
+Description: Ampere 汉化包
+Author: 妖刀
+Name: Ampere 汉化包
+
 Package: repo.lengran.anouk.cn.rootless
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -1652,6 +1667,21 @@ Description: Kayoko 汉化包
 Author: Traurige
 Icon: file:///Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
 Name: Kayoko 汉化包
+
+Package: repo.lengran.kbapp.cn.rootless
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: jp.dcsyhi.kbappdock
+Filename: ./debs/repo.lengran.kbapp.cn.rootless_1.5_iphoneos-arm64.deb
+Size: 5836
+MD5sum: 36f139bdb14dd9f241fb1f35869d0d0b
+SHA1: ba5cd555a98ae4e751f70af7a5785cbc06ef635e
+SHA256: 9cdf937a7dd0f57a18e6ea0e5d27b4028ec12b47f8d07c136786ca67ca194049
+Section: 汉化
+Description: KBApp 汉化包
+Author: 妖刀
+Name: KBApp 汉化包
 
 Package: repo.lengran.latchkey.cn
 Version: 2.1
