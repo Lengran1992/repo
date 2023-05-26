@@ -62,26 +62,6 @@ Author: Mao
 Name: 淘宝优惠券
 Sponsor: admin@25mao.com
 
-Package: com.exile90.icleanerpro
-Version: 7.10.0
-Architecture: iphoneos-arm64
-Maintainer: Ivano Bilenchi <support@ib-soft.net>
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs/com.exile90.icleanerpro_7.10.0_iphoneos-arm64.deb
-Size: 1117388
-MD5sum: d9c3c89fbe339b2603d135a3ab1317fc
-SHA1: d52123470cdfc141ea52645100f29e1f77106d56
-SHA256: 51495181524326d9ee4fc8b021ee3ab23e251d834e95a9a2440ed1ec6ea7e17f
-Section: Utilities
-Homepage: http://ib-soft.net/icleaner
-Description: The first real iOS system cleanup and management utility
-Author: Ivano Bilenchi <support@ib-soft.net>
-Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
-Icon: file:///Applications/iCleaner.app/Icon.png
-Name: iCleaner Pro
-
 Package: com.lenglengyu.xmlyautoplay
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -1209,6 +1189,21 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/CCMusicArtworkPrefs.bundle/icon@2x.png
 Name: CCMusicArtwork 汉化包
 
+Package: repo.lengran.ccmusicartwork.cn.rootless
+Version: 2.4.0-rootless
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: com.spark.ccmusicartwork
+Filename: ./debs/repo.lengran.ccmusicartwork.cn.rootless_2.4.0-rootless_iphoneos-arm64.deb
+Size: 1316
+MD5sum: b9bc8fec6bdb0943118b5401ed4bd299
+SHA1: bcf40fbf9d09f960ec9cf3212d519589e97d29ee
+SHA256: 88d61f065a2a0251b582ddf4199bb07f47a40c48de96f2ed1afa29ae83883c8e
+Section: 汉化
+Description: CCMusicArtwork 汉化包
+Author: 妖刀
+Name: CCMusicArtwork 汉化包
+
 Package: repo.lengran.ccplus15
 Version: 1.0.3
 Architecture: iphoneos-arm
@@ -1362,6 +1357,21 @@ Section: 汉化
 Description: CopyLog 汉化包
 Author: Hi客源
 Name: CopyLog 汉化包
+
+Package: repo.lengran.cracktool5.cn.rootless
+Version: 5.0
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: com.julioverne.cracktool5
+Filename: ./debs/repo.lengran.cracktool5.cn.rootless_5.0_iphoneos-arm64.deb
+Size: 2200
+MD5sum: 0b8d36223c3a50b6a7530814e6e030c6
+SHA1: b206c2017fae69605aa36ba96f2a1c0e9b1d17c5
+SHA256: f9c908997751647134dd57934b10573d37bf6a1d299f2481956df528f06c4bff
+Section: 汉化
+Description: CrackTool5 汉化包
+Author: 妖刀
+Name: CrackTool5 汉化包
 
 Package: repo.lengran.crane.cn.rootless
 Version: 1.3.9
@@ -1592,6 +1602,20 @@ Section: 汉化
 Description: Filza 汉化补充包
 Author: Mo/妖刀
 Name: Filza 汉化补充包
+
+Package: repo.lengran.filza.cn.rootless
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.filza.cn.rootless_4.0_iphoneos-arm64.deb
+Size: 10764
+MD5sum: 318e89282febae889f079d1055e0c950
+SHA1: 7561d5c141b580123cf78f21b830c682368d8d53
+SHA256: 2bcf71175dc540a8fd6adb9faf2ac70b6b76c6da8f0b1766de068eece414cec8
+Section: 汉化
+Description: Filza 汉化增补包
+Author: Mo/妖刀
+Name: Filza 汉化增补包
 
 Package: repo.lengran.flex3fix.ios15
 Version: 1.0
@@ -2290,6 +2314,20 @@ Section: 汉化
 Description: Shuffle 汉化包
 Author: By-Lengran
 Name: Shuffle 汉化包
+
+Package: repo.lengran.sileo.cn.rootless
+Version: 2.4.5
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.sileo.cn.rootless_2.4.5_iphoneos-arm64.deb
+Size: 7732
+MD5sum: 4b7280ea96545e439580876b6d3e09ab
+SHA1: 0b217cc5d0dac2a2b28cbe0243a9519002a08d91
+SHA256: 85056a9991f2823bbac342f56023a8749408d07233f820d1144ab7fc75f3ecfc
+Section: 汉化
+Description: Sileo 汉化增补包
+Author: 妖刀
+Name: Sileo 汉化增补包
 
 Package: repo.lengran.slices3.cn
 Version: 3.1.3
