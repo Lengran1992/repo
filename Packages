@@ -473,6 +473,22 @@ Description: xina越狱黑名单专用
 Author: xina520 <3608063@qq.com>
 Name: XinaBlackList
 
+Package: com.xx.dyhook
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 808
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/抖音图层_1.1.1_arm64.deb
+Size: 223436
+MD5sum: e0b5a0c0331518b8666b961f48b35246
+SHA1: f1b68cbb8df7a101c78a25ef43fb332e5fa3fb5d
+SHA256: e919841295147ef13302657131bac4ddcecf9eff11351a6484378f2087400f80
+Section: Tweaks
+Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
+Author: x✨
+Name: 抖音图层一些调整
+
 Package: dev.traurige.kayoko
 Version: 1.0
 Architecture: iphoneos-arm
