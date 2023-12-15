@@ -525,6 +525,102 @@ Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右�
 Author: x✨
 Name: 抖音图层一些调整
 
+Package: com.xx.dyhook
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 808
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.dyhook_1.1.1_arm.deb
+Size: 224966
+MD5sum: 39f874f7d150aaed55480a56e9fec1e3
+SHA1: bc794561e95018b832089f7c7ed0c78c3f6d3bdb
+SHA256: 1208f8e65085dd72904bf9beff57f6c9789140faa37639864bd7e15e89811ea2
+Section: Tweaks
+Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
+Author: x✨
+Name: 抖音图层一些调整
+
+Package: com.xx.dyhook
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 808
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.dyhook_1.1.1_arm64.deb
+Size: 223436
+MD5sum: e0b5a0c0331518b8666b961f48b35246
+SHA1: f1b68cbb8df7a101c78a25ef43fb332e5fa3fb5d
+SHA256: e919841295147ef13302657131bac4ddcecf9eff11351a6484378f2087400f80
+Section: Tweaks
+Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
+Author: x✨
+Name: 抖音图层一些调整
+
+Package: com.xx.dyhook
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 840
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.dyhook_1.1.2_arm.deb
+Size: 230892
+MD5sum: e04e41ee020d1de8fdf8bbdfa01e260b
+SHA1: e4c4263809436b9ad5cc62bd942512cdc9dd698e
+SHA256: 39084b3d2f72544b47533092040197bdb912efcffa6a2694601a744ae3c472ae
+Section: Tweaks
+Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
+Author: x✨
+Name: 抖音图层一些调整
+
+Package: com.xx.dyhook
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 840
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.dyhook_1.1.2_arm64.deb
+Size: 231526
+MD5sum: 9bb674716ca00a4154ebf2ebcb937807
+SHA1: cd5d0f0f87ac43be02e438823479b3c22a9980c8
+SHA256: 914238d0ce65d6f3b4c753494626d889b5ef755a071fa9443f0884b3d87781a5
+Section: Tweaks
+Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
+Author: x✨
+Name: 抖音图层一些调整
+
+Package: com.xx.dyhook
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 840
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.dyhook_1.1.3_arm64.deb
+Size: 228826
+MD5sum: a43e17b67bfdfc397b784f2e9a860cf5
+SHA1: 13d7c318abb0480a218f8fe2c1bec62450eab7dd
+SHA256: f6f5126772b12cc09fbec80c13fb974f284bc9e14a1b1dd4ca4a064596d04ef8
+Section: Tweaks
+Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
+Author: x✨
+Name: 抖音图层一些调整
+
+Package: com.xx.dyhook
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 840
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.dyhook_1.1.3_arm.deb
+Size: 231036
+MD5sum: 9e35d6c115c46df2ae8f9db4f282eedc
+SHA1: 0b0a6806e69a9c7ca31b7cdcbc16a80ad97b31de
+SHA256: fde3379e9ea832a1582cdbedc18751160ecb50558a031b2fbd8ec83f340fe574
+Section: Tweaks
+Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
+Author: x✨
+Name: 抖音图层一些调整
+
 Package: dev.traurige.kayoko
 Version: 1.0
 Architecture: iphoneos-arm
