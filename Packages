@@ -510,16 +510,16 @@ Author: xina520 <3608063@qq.com>
 Name: XinaBlackList
 
 Package: com.xx.dyhook
-Version: 1.1.1
+Version: 1.1.0
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 808
+Installed-Size: 776
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/抖音图层_1.1.1_arm64.deb
-Size: 223436
-MD5sum: e0b5a0c0331518b8666b961f48b35246
-SHA1: f1b68cbb8df7a101c78a25ef43fb332e5fa3fb5d
-SHA256: e919841295147ef13302657131bac4ddcecf9eff11351a6484378f2087400f80
+Filename: ./debs/com.xx.dyhook_1.1.0-arm64.deb
+Size: 211814
+MD5sum: efacebf629e0d4d0cd4a3354667a3b59
+SHA1: 73b216b09b005b9eeeb105257fb9bf59d2245fc8
+SHA256: 9ea58527995b61dc95a7d113d2cbfaac00462617336b362b2e4b1db582f47e48
 Section: Tweaks
 Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
 Author: x✨
