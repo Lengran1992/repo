@@ -98,6 +98,70 @@ Author: Mao
 Name: 淘宝优惠券
 Sponsor: admin@25mao.com
 
+Package: com.bandarhl.bhtwitter
+Version: 4.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: Bandar Alruwaili
+Installed-Size: 23836
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.bandarhl.bhtwitter_4.2-1+debug_iphoneos-arm.deb
+Size: 8688734
+MD5sum: 1d6fca94074ae47b1413633351e4a2ac
+SHA1: ab84d8271f56e720ce6faacb224a0d3f91fc58af
+SHA256: 9c7e8998a6bfc2bf0ca318036fe105fefd0a2c00c9784cdd8280ca574f4ae872
+Section: Tweaks
+Description: Awesome tweak for Twitter
+Author: Bandar Alruwaili
+Name: BHTwitter
+
+Package: com.bandarhl.bhtwitter
+Version: 4.2-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Installed-Size: 23836
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.bandarhl.bhtwitter_4.2-1+debug_iphoneos-arm64.deb
+Size: 8688854
+MD5sum: 8decbae799d4355cf31508d1e5ac884d
+SHA1: 14c02f7263e48139765c0305356cec06b26319ad
+SHA256: efa818c37fdc5409e1deaa0abf20b35b0267deea1ed1840e31d4303ce459c5b3
+Section: Tweaks
+Description: Awesome tweak for Twitter
+Author: Bandar Alruwaili
+Name: BHTwitter
+
+Package: com.coolmarket
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: M哥
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.coolmarket_1.2_iphoneos-arm.deb
+Size: 3640
+MD5sum: 39574b25a0b317f7185fda51cb92201d
+SHA1: 9f299c34b5f648c73e0564c9097b246c81872f3a
+SHA256: 25223ed8bac74bc838d1b0867502e756fbc72e1054a3e28d20bca5b627e751b6
+Section: Tweaks
+Description: 酷安去广告
+Author: M哥
+Name: 酷安NoAd
+
+Package: com.coolmarket
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 88
+Depends: mobilesubstrate
+Filename: ./debs/com.coolmarket_1.2_iphoneos-arm64.deb
+Size: 3696
+MD5sum: 473e69a64085f46610232b8a9910483b
+SHA1: 8f700690bb9227bea82e1d07304f270561a2ce20
+SHA256: 750183e71e6757dc7641d149b226b6c8d2b6e46b03d2291f6b6adf58b30eb928
+Section: Tweaks
+Description: 酷安去广告
+Author: M哥
+Name: 酷安NoAd
+
 Package: com.lenglengyu.xmlyautoplay
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -476,6 +540,22 @@ Section: 广告净化
 Description: 咸鱼去广告，支持所有版本。
 Author: Snail <snailsohi@gmail.com>
 Name: 闲鱼去广告
+
+Package: com.sogouinput
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: M哥
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.sogouinput_1.0_iphoneos-arm64.deb
+Size: 5734
+MD5sum: 9c784d32dd3126c771fb9d0099e67050
+SHA1: b56199579bb26188089248e8b1be57501b94c66f
+SHA256: b91e915827210f3bdcef10fc9bb1ed269d2a80759e53a306326dcdb5c3ce01ee
+Section: Tweaks
+Description: 搜狗输入法去广告
+Author: M哥
+Name: 搜狗
 
 Package: com.xina.blacklist
 Version: 0.0.1-59+debug
