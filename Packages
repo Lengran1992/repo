@@ -28,6 +28,42 @@ Author: By-Lengran
 Depiction: Veexillum
 Name: Veexillum
 
+Package: co.vulcanlabs.moodtracker
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Ravand
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/co.vulcanlabs.moodtracker_1.0.0_iphoneos-arm.deb
+Size: 18356
+MD5sum: 548833d8369fbe12f08f3a1b110c639d
+SHA1: f2b0bc73dff57388c01de30f397b7925a6366098
+SHA256: 2eb919243ffa290e5b5dc8ba1654c01416906261b83a4d24aad980c2c20a6691
+Section: Tweaks
+Description: 破解补丁作者是 Ravand
+Author: Ravand <Ravand0010@gmail.com>
+Depiction: https://github.com/Ravandr
+Name: AI Smith Premium
+Sileodepiction: https://github.com/Ravandr
+
+Package: co.vulcanlabs.moodtracker
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Ravand
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/co.vulcanlabs.moodtracker_1.0.0_iphoneos-arm64.deb
+Size: 17784
+MD5sum: cadb60831e916b47b5d13952ce4b5f76
+SHA1: e388ddb2e51eaed831ad80bbd95563d23ffe4cd0
+SHA256: 8781b87f73b49cad114698a51f6e3d6e405cd0e2115f8aa15da06598701ee579
+Section: Tweaks
+Description: 破解补丁作者是 Ravand
+Author: Ravand
+Depiction: https://github.com/Ravandr
+Name: AI Smith Premium 破解补丁
+Sileodepiction: https://github.com/Ravandr
+
 Package: com.25mao.JDQuan
 Version: 0.3-0
 Architecture: iphoneos-arm
