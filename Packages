@@ -98,6 +98,36 @@ Author: Mao
 Name: 淘宝优惠券
 Sponsor: admin@25mao.com
 
+Package: com.HBWechatHelper.ailun
+Version: 1.6.7
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_1.6.7_arm64.deb
+Size: 9542916
+MD5sum: 29e3d0e676f38e0819c96a24eb191532
+SHA1: 2ef76745c85ec02a0efe7c52d549bd6d0627e3c6
+SHA256: 320b6cdff33cfb2ef7329cceb254d48a8d90fc73cb9e02803e7e4b3d34f3e069
+Section: Mao
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)-Rootless
+
+Package: com.HBWechatHelper.ailun
+Version: 1.6.7
+Architecture: iphoneos-arm
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_1.6.7_arm.deb
+Size: 9712200
+MD5sum: 5d2be17ac3a1f63c609211712b332615
+SHA1: f6dd7fd1ab0614e6bc9b7fd43f4ffbd161e633bf
+SHA256: f0d37a9da7721b0033d0109a3bf938c48e6a40cf48b83a632af13c65a1d1958e
+Section: Mao
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)
+
 Package: com.bandarhl.bhtwitter
 Version: 4.2-1+debug
 Architecture: iphoneos-arm
