@@ -162,6 +162,22 @@ Description: 酷安去广告
 Author: M哥
 Name: 酷安NoAd
 
+Package: com.langkhach.goodnotescrackedbylangkhach
+Version: 1.0.0-A
+Architecture: iphoneos-arm64
+Maintainer: pxx917144686
+Installed-Size: 76
+Depends: firmware (>= 12.0),mobilesubstrate,preferenceloader,com.opa334.altlist
+Filename: ./debs/com.langkhach.goodnotescrackedbylangkhach_1.0.0-A_arm64.deb
+Size: 4832
+MD5sum: 27e697edf11b161500dc5bc1d5f2b1da
+SHA1: faf1aa7e3a954782c41cf721c118c4e79a720913
+SHA256: dc39c257ae6d8b669132c2d672b5ec9b4d96e3a4cda87365bb9d52b7b09fa9d3
+Section: Rootless
+Description: goodnotes 6 破解永久权限(注意：按照APP引导选项步骤进入）
+Author: pxx917144686
+Name: goodnotes6（多巴胺）
+
 Package: com.lenglengyu.xmlyautoplay
 Version: 0.0.1
 Architecture: iphoneos-arm
