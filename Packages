@@ -28,6 +28,21 @@ Author: By-Lengran
 Depiction: Veexillum
 Name: Veexillum
 
+Package: cn.Bswbw.time
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: gblw
+Installed-Size: 123
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.Bswbw.time_1.0_iphoneos-arm64.deb
+Size: 19872
+MD5sum: ee50be198eb14af84351d85337df1ec0
+SHA1: 0fd263a6c0c11ac360e81755e5a9382e1dcc0adb
+SHA256: 3b4aeb3e2b81e56f8e5ecd073b16bc9916a14ca436e9fa9ff0818ba62409ab30
+Description: 微信净化，抖音净化解除时间限制
+Author: gblw
+Name: 解除时间限制
+
 Package: co.vulcanlabs.moodtracker
 Version: 1.0.0
 Architecture: iphoneos-arm
