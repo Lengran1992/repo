@@ -1,0 +1,37 @@
+{
+    "name": "Lengran's Source",
+    "subtitle": "A source for all of my apps",
+    "description": "欢迎订阅我的巨魔APP频道，所有资源来源于网络。",
+    "iconURL": "https://avatars.githubusercontent.com/u/35867569?v=4",
+    "headerURL": "https://avatars.githubusercontent.com/u/35867569?v=4",
+    "website": "https://lengran1992.github.io/repo/",
+    "tintColor": "#F54F32",
+    "featuredApps": ["org.haxi0.KillMyOTA", "org.haxi0.Derootifier", "org.haxi0.TrollLock"],
+    "apps": [
+        {
+            "name": "KillMyOTA",
+          "bundleIdentifier": "org.haxi0.KillMyOTA",
+          "developerName": "haxi0",
+          "subtitle": "Disable OTA updates on iOS 15.0-16.1.2 using the MDC exploit.",
+          "localizedDescription": "Disable OTA updates on iOS 15.0-16.1.2 using the MDC exploit.",
+          "iconURL": "https://raw.githubusercontent.com/haxi0/KillMyOTA/master/KillMyOTA/Assets.xcassets/AppIcon.appiconset/ios-marketing.png",
+          "tintColor": "#FF8B29",
+          "screenshotURLs": [
+              "https://raw.githubusercontent.com/TheResonanceTeam/.default-sources/main/screenshots/org.haxi0.KillMyOTA/KillMyOTA.png"
+          ],
+          "versions": [
+              {
+                "version": "1.1",
+                "date": "2023-01-30",
+                "localizedDescription": "Disable OTA updates on iOS 15.0-16.1.2 using the MDC exploit.",
+                "downloadURL": "https://github.com/haxi0/KillMyOTA/releases/download/1.1/KillMyOTA-1.1.ipa",
+                "size": 331000,
+                "minOSVersion": "15.0",
+                "maxOSVersion": "16.1.2"
+              }
+            ],
+          "appPermissions": {}
+        }
+    ],
+    "news": []
+  }
