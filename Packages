@@ -223,6 +223,24 @@ Description: goodnotes 6 破解永久权限(注意：按照APP引导选项步骤
 Author: pxx917144686
 Name: goodnotes6（多巴胺）
 
+Package: com.lenglengyu.baidudisksvip-rootless
+Version: 2.0.2K
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 596
+Depends: mobilesubstrate, com.lenglengyu.libsupervipp-rootless
+Filename: ./debs/com.lenglengyu.baidudisksvip-rootless_2.0.2K_iphoneos-arm64.deb
+Size: 150604
+MD5sum: 134d1efd130a0381185ec9da739a70f2
+SHA1: 5c32f9ade2b783288387a5f7aaf78aa1ae9db462
+SHA256: 117d11c2d62bece0b264177f4ff84d34c9a4dc6875aed0143c6575cae84ea99b
+Section: Fugu15
+Description: 解锁SVIP加速下载，仅供会员使用。
+Author: lenglengyu
+Depiction: https://repo.lenglengyu.top/packageInfo/baidudisksvip.html
+Name: 百度网盘-Rootless【极速下载】
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/baidudisksvipsileo
+
 Package: com.lenglengyu.xmlyautoplay
 Version: 0.0.1
 Architecture: iphoneos-arm
