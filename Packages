@@ -28,6 +28,38 @@ Author: By-Lengran
 Depiction: Veexillum
 Name: Veexillum
 
+Package: ch.xxtou.hudapp
+Version: 1.9.5
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 404
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.7000)
+Filename: ./debs/ch.xxtou.hudapp_1.9.5_iphoneos-arm.deb
+Size: 125286
+MD5sum: d3db90566ef5262e058b094a313410de
+SHA1: 68e130a61e2365ad002821a1e529368d2b1dcbd2
+SHA256: 546af79f0fb9ac0b527133714a07423c064fb8a4a9f742ea9178c149e395a288
+Section: Tweaks
+Description: Troll speed, but jailbroken.
+Author: Lessica <82flex@gmail.com>
+Name: HUD App
+
+Package: ch.xxtou.hudapp
+Version: 1.9.5
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 404
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.7000)
+Filename: ./debs/ch.xxtou.hudapp_1.9.5_iphoneos-arm64.deb
+Size: 125374
+MD5sum: baefe4d817a1ea62c8ee57a06fc4d366
+SHA1: 5fc0f46eb130019817e63d6973384200018a610c
+SHA256: b9477b6c0c23734bd3c761c64bdec5d056998b67b02e11250d4e29a203951ca3
+Section: Tweaks
+Description: Troll speed, but jailbroken.
+Author: Lessica <82flex@gmail.com>
+Name: HUD App
+
 Package: cn.Bswbw.time
 Version: 1.0
 Architecture: iphoneos-arm64
