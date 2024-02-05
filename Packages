@@ -60,6 +60,22 @@ Description: Troll speed, but jailbroken.
 Author: Lessica <82flex@gmail.com>
 Name: HUD App
 
+Package: chaoge.AlDente
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: chaoge
+Depends: firmware (>= 5.0)
+Filename: ./debs/chaoge.AlDente_0.1-1_iphoneos-arm.deb
+Size: 2448060
+MD5sum: f3dff60fa132287f549bdbe2bb4ec401
+SHA1: f8ffff30e20f896fcb3a389cd3a83818c274ffc7
+SHA256: 02294055f7b29912e0c9d3a47e6310d68f8932dfa828b03b474677cc2f5010ff
+Section: System
+Priority: optional
+Description: AlDente
+Author: chaoge
+Name: AlDente
+
 Package: cn.Bswbw.time
 Version: 1.0
 Architecture: iphoneos-arm64
