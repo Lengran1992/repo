@@ -285,6 +285,456 @@ Description: 酷安去广告
 Author: M哥
 Name: 酷安NoAd
 
+Package: com.dvntm.infuseplus
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.0_iphoneos-arm.deb
+Size: 103592
+MD5sum: 8833a540c031e5d700ec1439f39498ea
+SHA1: dc423a14753cf4707577728f346350e4b9619ef7
+SHA256: b0995dcf88e847fb2af31845f8525db01e4aeaa4c82ca71a11ed49404682babd
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Name: Infuse Plus
+
+Package: com.dvntm.infuseplus
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.0_iphoneos-arm64.deb
+Size: 103676
+MD5sum: 999c4115f417bfbd46f6c3fcab637912
+SHA1: 01592c57a90a43487112718c7e0dbc343e7eb758
+SHA256: 5bc0a5f8401b387bc1529c55aabcd08f2a74b4c9cb96f6456af8b3c689627f4a
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Name: Infuse Plus
+
+Package: com.dvntm.infuseplus
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 248
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.0.1_iphoneos-arm64.deb
+Size: 103858
+MD5sum: 49fb9b5d729bce6cc460de6a54cf499b
+SHA1: 493b41ad9dfa7fc9b8e09d1cc960959432829656
+SHA256: 6beb9583654929a5bc57f7cc93dc6859f682b95ec36ea07e501d213dcea5d66e
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://i.imgur.com/C5MLSXo.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
+
+Package: com.dvntm.infuseplus
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 248
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.0.1_iphoneos-arm.deb
+Size: 103822
+MD5sum: 8153ece4e3539d874a5370e41e132949
+SHA1: 39fa32fd1103b10cb3a5e2b7ee7c1687668b468d
+SHA256: 31eaf653186d738d21f725705aec511abf0f568d7ba158888ab873d901ae7555
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://i.imgur.com/C5MLSXo.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
+
+Package: com.dvntm.infuseplus
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.0.2_iphoneos-arm.deb
+Size: 104462
+MD5sum: 3353f8cc1cf0ee92d3d35d958ae7e7cb
+SHA1: f3b62a398aacc0962193e78db05c88b81a419534
+SHA256: ae928e292af877326e0bcaaca36601560a41889412b47eaad3043baf37a844a2
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://i.imgur.com/C5MLSXo.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
+
+Package: com.dvntm.infuseplus
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.0.2_iphoneos-arm64.deb
+Size: 104506
+MD5sum: 87712407a52aefb380814be08639d58a
+SHA1: 671615ce168bc642407e103037700cff028ab586
+SHA256: adbbb0cda7c2491339de279d0ae586029467f216c76732dfe873a88477790f57
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://i.imgur.com/C5MLSXo.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
+
+Package: com.dvntm.infuseplus
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 296
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.1.1_iphoneos-arm64.deb
+Size: 110678
+MD5sum: 7383f6b848f6cb1c8ffd5e8a8ca9b622
+SHA1: f9b5c840633f8227138b26587e11ebc293c07c22
+SHA256: 40d7c1a23ec59a68ff68f525fc06089464347c03f5286294f3106bba69af4718
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://i.imgur.com/C5MLSXo.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
+
+Package: com.dvntm.infuseplus
+Version: 1.1.1
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 296
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.1.1_iphoneos-arm.deb
+Size: 110578
+MD5sum: c7c4c6036798c9a7da04c0fa3cb2221b
+SHA1: 0fbc6a6b0da4b2093607e1e9b9d90431fdcac798
+SHA256: f081040026370e5c04a532f7720bbf38350fdd1ee5b4948d5d933e137b649285
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://i.imgur.com/C5MLSXo.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
+
+Package: com.dvntm.infuseplus
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 316
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.1.2_iphoneos-arm.deb
+Size: 115984
+MD5sum: c224df2118100fb27ca84726fca72f96
+SHA1: 5b3c5d99e2470ac854b0e4f91161803328fd8da0
+SHA256: a58b222c7ed3039d3f32ba054cb603871eb7161b26018347f9c08ef97ffe5304
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://i.imgur.com/C5MLSXo.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
+
+Package: com.dvntm.infuseplus
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 324
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.1.3_iphoneos-arm.deb
+Size: 114672
+MD5sum: a8f03e5383595cd0af38d3f7bd84b6ba
+SHA1: 9dbcc57b0868f7f6202e642d5e2ff01ca05d3140
+SHA256: 9a7fb551b3400e0108b616d324e2f309631a384789510fab253e24e347c66fb9
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://i.imgur.com/C5MLSXo.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
+
+Package: com.dvntm.infuseplus
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 324
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.1.3_iphoneos-arm64.deb
+Size: 114766
+MD5sum: 69678340d138f120330283ce4d714057
+SHA1: dec873a6f7393d4a0bb8e2d5a4758aed0fb51589
+SHA256: 879d1e5e6f7bb355c43788875dbadedee5dd6350b71ff058afa41d9027e10261
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://i.imgur.com/C5MLSXo.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
+
+Package: com.dvntm.ytlite
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_1.0_iphoneos-arm.deb
+Size: 13972
+MD5sum: c30f63045772edc42cdca013ba3dab3e
+SHA1: a97a80163c8e6d999fe97c1275d9e966a8c4e2ab
+SHA256: 34017591ac1d88d11d1738df37af7f3c824d87564e2795571a11b43cadae0238
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Name: YTLite
+
+Package: com.dvntm.ytlite
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_1.0_iphoneos-arm64.deb
+Size: 14018
+MD5sum: 6a3f2cac736ffca30a94915d2ac3c8c8
+SHA1: c64776a888159602748b571c490ef703b05cb2d9
+SHA256: b2820bd25dc6b5a873bfd19238e064a77b953e2a2ac4b52638445c732fabc989
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Name: YTLite
+
+Package: com.dvntm.ytlite
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 160
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_2.0_iphoneos-arm.deb
+Size: 33136
+MD5sum: b84ac6bb6edd1975ccd6cd281e4d92e5
+SHA1: 46ba0f61c636ab918d5316670b7e373b32a35daf
+SHA256: 2b95ca2932da8572a4e1dbca3807db862c30bf6f3edf9e58269e0291a56dc745
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Name: YTLite
+
+Package: com.dvntm.ytlite
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 160
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_2.0_iphoneos-arm64.deb
+Size: 33260
+MD5sum: a1ebca8c82bb0c0ceece4740af773af3
+SHA1: 03ccbfccee5de9bc8a4258245c3c126963065894
+SHA256: 619988c22756c458a4dc5cc78b35cfcd00e982a5a1f72a469e6cc1e330223f68
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Name: YTLite
+
+Package: com.dvntm.ytlite
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 164
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_2.1_iphoneos-arm.deb
+Size: 35446
+MD5sum: c120c485d58ea08ffdbfd9ab3ad79b3c
+SHA1: 7daa728aa744641e5c84e6e39d5d6a5f2eda33e1
+SHA256: e3f23c25f1fcdd4b36aef65973b798dc1c8ed35ccb37db30c85d6670dbebc68b
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Name: YTLite
+
+Package: com.dvntm.ytlite
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 164
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_2.1_iphoneos-arm64.deb
+Size: 35374
+MD5sum: b55f912799a107f8dce0728bb8d295b0
+SHA1: 8fe84866e650b60ea170a770e0ec915c3f0ac062
+SHA256: dc49a686d34e7857349310782e3d4336ffa8854b422d9f3352ad9a7c5b4cf5fa
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Name: YTLite
+
+Package: com.dvntm.ytlite
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 180
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_2.2_iphoneos-arm64.deb
+Size: 37138
+MD5sum: 0c5b17a3557746e0cea386a4af8cd584
+SHA1: 8cfe9abcfab95d30376402af39ed2396589d8e46
+SHA256: 079da077e16b8bf54b04facfe10a2b9d852b8545bcb124d9507da708e70a34d9
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Name: YTLite
+
+Package: com.dvntm.ytlite
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 180
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_2.2_iphoneos-arm.deb
+Size: 36984
+MD5sum: 7e47557c01615a8d62de093812a18ad0
+SHA1: dbece01b8c04467f9ab38c52f236a9713dd91f01
+SHA256: 559156847b0e4de480e4dcab9a90045f7f5362d8b4fc59d27b5f47f6fca35230
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Name: YTLite
+
+Package: com.dvntm.ytlite
+Version: 2.2.1
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_2.2.1_iphoneos-arm.deb
+Size: 46940
+MD5sum: 1616c3558d41c61bafcec3e798f0616f
+SHA1: c9967dc6232ebbeb0d8526d551617293757fb3f1
+SHA256: 8c308092a69a26ee5fec81dda06b2e80cd77afc2ed079e580a0df8cbea7c873c
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Name: YTLite
+
+Package: com.dvntm.ytlite
+Version: 2.2.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_2.2.1_iphoneos-arm64.deb
+Size: 47162
+MD5sum: 188fb9834f2cb156375de20fe6200241
+SHA1: 67310cf9e9b66563af46f1ef5dedbd3901fc8aa4
+SHA256: d3f88bc2415fb630a2f8f987f0b7a011b22c3727fb7a33428788d56496122d0d
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Name: YTLite
+
+Package: com.dvntm.ytlite
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 224
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_2.3_iphoneos-arm64.deb
+Size: 49858
+MD5sum: b32e82dfbca54acb551db72ffdf39c65
+SHA1: cfd5d3c93077e4f196a27f9e671303dac8869b41
+SHA256: 493b7aa523fff0f5b13a912e46084bde82b10b9d5990a6d8314fa11cca49ca28
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Name: YTLite
+
+Package: com.dvntm.ytlite
+Version: 2.3
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 224
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_2.3_iphoneos-arm.deb
+Size: 49612
+MD5sum: 1020a0cb9f12389edae791187e280116
+SHA1: dc3478b7688ea073e695cc5d442a0b24d3eb764b
+SHA256: d0238aa156451cb9e13c3b99c5bb7346613f819d6ae0ab3d861409241d82ecf0
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Name: YTLite
+
+Package: com.dvntm.ytlite
+Version: 2.3.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_2.3.1_iphoneos-arm64.deb
+Size: 53326
+MD5sum: 37805da100dc4969a34c7259a5bdd5ee
+SHA1: 61f1d99bf925d96c412d9e52aa2aa2203d347da5
+SHA256: 05ce3a8fd88a1dc1e6568f76c60c65d70f981ccab7e9d978a1700d433c0c68eb
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Name: YTLite
+
+Package: com.dvntm.ytlite
+Version: 2.3.1
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_2.3.1_iphoneos-arm.deb
+Size: 53398
+MD5sum: e921d82465d431b3fbe7dde3fbc7abdb
+SHA1: 8321c37381eb7c673be4c90ef238d6c1375cace3
+SHA256: ce27fd1f59804f28ae278448f8e4f57435feb4953da3af8f662e84d418a4a44e
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Name: YTLite
+
+Package: com.dvntm.ytlite
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_2.4_iphoneos-arm.deb
+Size: 53948
+MD5sum: 3be4329f71713c2a9a736d638b54bc10
+SHA1: 34028078e9e6542d78b2bc5854b28aef06ea006f
+SHA256: b139bf769f850f64210ab84638065fce40688fdeb3cb98ff556dabe38a3cdbd3
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Name: YTLite
+
+Package: com.dvntm.ytlite
+Version: 2.4
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_2.4_iphoneos-arm64.deb
+Size: 53950
+MD5sum: e11a72d0559fba87f69da36cc38fd9b9
+SHA1: 746161adeda8412adb9a102d53dfd95202898a37
+SHA256: d96621b0be2fc80c78514d147a18a920d48cd084cb67b705af15d91951cf179a
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Name: YTLite
+
 Package: com.langkhach.goodnotescrackedbylangkhach
 Version: 1.0.0-A
 Architecture: iphoneos-arm64
