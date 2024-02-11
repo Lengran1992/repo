@@ -76,6 +76,22 @@ Description: AlDente
 Author: chaoge
 Name: AlDente
 
+Package: chaoge.AlDente
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: chaoge
+Depends: firmware (>= 5.0)
+Filename: ./debs/chaoge.AlDente_1.1_iphoneos-arm.deb
+Size: 2282556
+MD5sum: 26b3f6af5b1857b32d41df7762c69c36
+SHA1: 61e3970226b21ee3c7e6e3f81f9ee9ecbfc69896
+SHA256: 95b59ec075fe8a1f5728dd95113ec1d6cffdc12951db4c12e3f6a2fe42809092
+Section: System
+Priority: optional
+Description: AlDente
+Author: chaoge
+Name: AlDente
+
 Package: cn.Bswbw.time
 Version: 1.0
 Architecture: iphoneos-arm64
