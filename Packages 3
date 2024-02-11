@@ -161,70 +161,6 @@ Author: Mao
 Name: 淘宝优惠券
 Sponsor: admin@25mao.com
 
-Package: com.34306.mineland
-Version: 1.0-1+debug
-Architecture: iphoneos-arm64e
-Maintainer: Little 34306
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
-Filename: ./debs/com.34306.mineland_1.0_iphoneos-arm64e.deb
-Size: 5426
-MD5sum: 874f0fd67dfe42f883d4a0e0109aa15f
-SHA1: 0667563453b38ad565aeb939ed2e572025cda016
-SHA256: 9d44fad725b0865ec6c7f9f58919935044d3e233ab771c63aac188287f42ec67
-Section: Tweaks
-Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
-Author: 34306, KhanhDuyTran
-Name: Mineland
-
-Package: com.34306.mineland
-Version: 1.0-5+debug
-Architecture: iphoneos-arm64
-Maintainer: Little 34306
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
-Filename: ./debs/com.34306.mineland_1.0_iphoneos-arm64.deb
-Size: 5466
-MD5sum: ab5bc9d9d2f8ec62c126c2b5a18dbef5
-SHA1: 898253db8b719827b6e11a7ad0dc195b2f41ec97
-SHA256: 11e468834451ed42a37ab7948f5998ba03a1c6968ce85e96a2e9f3eb341dab65
-Section: Tweaks
-Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
-Author: 34306, KhanhDuyTran
-Name: Mineland
-
-Package: com.34306.mineland
-Version: 1.1-1+debug
-Architecture: iphoneos-arm64
-Maintainer: Little 34306
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
-Filename: ./debs/com.34306.mineland_1.1_iphoneos-arm64.deb
-Size: 5464
-MD5sum: bcf166bf502abd9a1509a79a19e0f28e
-SHA1: 16b0bf9690f12b368d9ecb874a29f2465c563531
-SHA256: 228344bcc18c5cc1cd950a46d9176fe4f32b11338046ec88da27eb7506887fff
-Section: Tweaks
-Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
-Author: 34306, KhanhDuyTran
-Name: Mineland
-
-Package: com.34306.mineland
-Version: 1.1-2+debug
-Architecture: iphoneos-arm64e
-Maintainer: Little 34306
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
-Filename: ./debs/com.34306.mineland_1.1_iphoneos-arm64e.deb
-Size: 5428
-MD5sum: b6e47568f2336a031dd3034bb41967ca
-SHA1: d6bbb987a3020877322d168de3aa4f68e2e8cfa9
-SHA256: 1cadc4c7b3a84b21a341f723400c88423fa926a8269fac451b63e268ab741628
-Section: Tweaks
-Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
-Author: 34306, KhanhDuyTran
-Name: Mineland
-
 Package: com.HBWechatHelper.ailun
 Version: 1.6.7
 Architecture: iphoneos-arm64
@@ -543,42 +479,6 @@ Icon: https://i.imgur.com/C5MLSXo.png
 Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
 
-Package: com.dvntm.infuseplus
-Version: 1.1.4
-Architecture: iphoneos-arm64
-Maintainer: dvntm
-Installed-Size: 496
-Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.infuseplus_1.1.4_iphoneos-arm64.deb
-Size: 169452
-MD5sum: a03ea87289ad244ac8bea6a403a8bf3d
-SHA1: dde41fc7749c8ce0f65215408832f609ff31fd47
-SHA256: 47b478971cee6cb81e3c64b10d454fbac2c1385fda291bd69611bd54196aa361
-Section: Tweaks
-Description: Enhancer for Infuse app
-Author: dvntm
-Icon: https://i.imgur.com/C5MLSXo.png
-Name: Infuse Plus
-Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
-
-Package: com.dvntm.infuseplus
-Version: 1.1.4
-Architecture: iphoneos-arm
-Maintainer: dvntm
-Installed-Size: 496
-Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.infuseplus_1.1.4_iphoneos-arm.deb
-Size: 169520
-MD5sum: 6889b5dc7703e7ca45b765ca458b7cef
-SHA1: 18823cb8d09ad1e7dbf602d72c9333ef4b5ee8bc
-SHA256: 250038da8b78cfdc81de887aeb6c0cc5bd383808e44bbe73efece9fc1278d3f5
-Section: Tweaks
-Description: Enhancer for Infuse app
-Author: dvntm
-Icon: https://i.imgur.com/C5MLSXo.png
-Name: Infuse Plus
-Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
-
 Package: com.dvntm.ytlite
 Version: 1.0
 Architecture: iphoneos-arm
@@ -814,22 +714,6 @@ Size: 53948
 MD5sum: 3be4329f71713c2a9a736d638b54bc10
 SHA1: 34028078e9e6542d78b2bc5854b28aef06ea006f
 SHA256: b139bf769f850f64210ab84638065fce40688fdeb3cb98ff556dabe38a3cdbd3
-Section: Tweaks
-Description: Lightweight YouTube Enhancer
-Author: dvntm
-Name: YTLite
-
-Package: com.dvntm.ytlite
-Version: 2.4
-Architecture: iphoneos-arm64
-Maintainer: dvntm
-Installed-Size: 240
-Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.ytlite_2.4_iphoneos-arm64 (1).deb
-Size: 53950
-MD5sum: e11a72d0559fba87f69da36cc38fd9b9
-SHA1: 746161adeda8412adb9a102d53dfd95202898a37
-SHA256: d96621b0be2fc80c78514d147a18a920d48cd084cb67b705af15d91951cf179a
 Section: Tweaks
 Description: Lightweight YouTube Enhancer
 Author: dvntm
