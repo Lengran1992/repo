@@ -124,6 +124,38 @@ Description: ChargeLimiter
 Author: chaoge
 Name: ChargeLimiter
 
+Package: chaoge.ChargeLimiter
+Version: 1.4
+Architecture: iphoneos-arm64
+Maintainer: chaoge
+Depends: firmware (>= 5.0)
+Filename: ./debs/chaoge.ChargeLimiter_1.4_iphoneos-arm64.deb
+Size: 1901874
+MD5sum: 371d0098a4c7e347637b986b45a54619
+SHA1: 4f195839ac9d974008b7778fb5c109e51f82d34e
+SHA256: 85a64da5948a7b0ef6f4a9bc1cbd5035b5176c80a2508f85d3133963abc7a172
+Section: System
+Priority: optional
+Description: ChargeLimiter
+Author: chaoge
+Name: ChargeLimiter
+
+Package: chaoge.ChargeLimiter
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: chaoge
+Depends: firmware (>= 5.0)
+Filename: ./debs/chaoge.ChargeLimiter_1.4_iphoneos-arm.deb
+Size: 1901926
+MD5sum: 3386413bb9fd9a596c9e158db8c01e91
+SHA1: 798dad406adb6e2a418171385227f597f519efe6
+SHA256: 554e6d771ee3a7bfcb776b2ded5bac042f79cadc99de48c2fe4cb3db1b168b8f
+Section: System
+Priority: optional
+Description: ChargeLimiter
+Author: chaoge
+Name: ChargeLimiter
+
 Package: cn.Bswbw.time
 Version: 1.0
 Architecture: iphoneos-arm64
