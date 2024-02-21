@@ -397,6 +397,36 @@ Description: 黄白助手-微信插件                                          
 Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信插件)
 
+Package: com.HBWechatHelper.ailun
+Version: 1.6.9
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_1.6.9_iphoneos-arm64.deb
+Size: 9088332
+MD5sum: 3de6e4cbe1ff00ebedd06cb26d3d8609
+SHA1: e524d74fe206dd4f440809280e12e2d3783079ae
+SHA256: ed82701d54569c64bf54de08eff7eb60e1eee7a571bf172a2ce12db9c605892a
+Section: Mao
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)-Rootless
+
+Package: com.HBWechatHelper.ailun
+Version: 1.6.9
+Architecture: iphoneos-arm
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_1.6.9_iphoneos-arm.deb
+Size: 9258448
+MD5sum: 756aab880d4c57834fcce3d64b4a4d55
+SHA1: 7dde63b92a0dc81fe1f812564b5f7ba6585e762e
+SHA256: 3bdb26a8dd9df93594dd9db4b76ba5e8d7f4dcc9940f5d625efad014493588a4
+Section: Mao
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)
+
 Package: com.bandarhl.bhtwitter
 Version: 4.2-1+debug
 Architecture: iphoneos-arm
@@ -958,6 +988,102 @@ Size: 53950
 MD5sum: e11a72d0559fba87f69da36cc38fd9b9
 SHA1: 746161adeda8412adb9a102d53dfd95202898a37
 SHA256: d96621b0be2fc80c78514d147a18a920d48cd084cb67b705af15d91951cf179a
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Name: YTLite
+
+Package: com.dvntm.ytlite
+Version: 2.5
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_2.5_iphoneos-arm.deb
+Size: 59570
+MD5sum: 33bbbe50d574fc5cb7e99d6b489a63c4
+SHA1: 61465e4a03eee8062af17cbef54dd8d6064cf34b
+SHA256: 9ffb099b51a76b0a5613d2def8efe68fffcb5c29e258333622a9beb68e423d12
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Name: YTLite
+
+Package: com.dvntm.ytlite
+Version: 2.5
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_2.5_iphoneos-arm64.deb
+Size: 59600
+MD5sum: 393516d716bea04c9dc7c73301991411
+SHA1: 236ea974df4b4d8d7b5cbb68f91ed2c73fcb064a
+SHA256: c985e4391a4f1fa48a54276b82677326193a077240e862bfe2457a39c5740e77
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Name: YTLite
+
+Package: com.dvntm.ytlite
+Version: 2.6
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_2.6_iphoneos-arm64.deb
+Size: 65436
+MD5sum: 241a2faa87e7e0184ff525e97895fe18
+SHA1: 43ae9445532e16674862c2333ffad39f9e756ece
+SHA256: 1f52a10e66bbf2ae2278f11a79bd0a4ed7e3f567b09948f1d2c9849be6c10009
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Name: YTLite
+
+Package: com.dvntm.ytlite
+Version: 2.6
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 304
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_2.6_iphoneos-arm.deb
+Size: 65286
+MD5sum: 8c6c3db11c88dce26a3021eb12304cdc
+SHA1: a75b16bab4011f3bcf2e85383bdea644d7b2d154
+SHA256: 4fa996d87733dbd00eaf1db350e2004ccd58e6e013a16e463327393e0535b0c1
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Name: YTLite
+
+Package: com.dvntm.ytlite
+Version: 2.6.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 320
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_2.6.1_iphoneos-arm64.deb
+Size: 69832
+MD5sum: b8b8ade51349ce01b4b73676f5741a5d
+SHA1: c9e568302733a52370c0ca14e461ed3873e9af88
+SHA256: 6ea707e2fb0f7e9086e5c6b7a63648ff488fe35e7b1432d9692a307802ff847f
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Name: YTLite
+
+Package: com.dvntm.ytlite
+Version: 2.6.1
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 320
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_2.6.1_iphoneos-arm.deb
+Size: 69890
+MD5sum: f116c92ce7a7ceacace2056a25d81194
+SHA1: 4b5a4fa862ed9f64bdf118206ae142e6e0f8ae36
+SHA256: 2ad29e52459a15e550247e13800155e2055611cc5181d1de765a063922fcaed3
 Section: Tweaks
 Description: Lightweight YouTube Enhancer
 Author: dvntm
