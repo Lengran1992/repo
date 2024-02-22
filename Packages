@@ -241,6 +241,21 @@ Author: Mao
 Name: 淘宝优惠券
 Sponsor: admin@25mao.com
 
+Package: com.34306.betaalertremove
+Version: 1.0-2+debug
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟 h_h_x_t
+Depends: mobilesubstrate
+Filename: ./debs/com.34306.betaalertremove_1.0-2+debug_iphoneos-arm64.deb.deb
+Size: 3708
+MD5sum: 2ab7fa5b5770058687627059029c789d
+SHA1: a2c71491bf6112514c05d45e26e50522daa545a0
+SHA256: a86aed02909a25ac7b65a9bb53c1a2e2394285197147ab803a736d057cbdd1e8
+Section: rootless修复插件
+Description: Beta alert remove
+Author: 34306
+Name: BetaAlertRemove
+
 Package: com.34306.mineland
 Version: 1.0-1+debug
 Architecture: iphoneos-arm64e
@@ -1140,6 +1155,22 @@ Author: lenglengyu
 Depiction: https://repo.lenglengyu.top/packageInfo/xmlyautoplay.html
 Name: 喜马拉雅自动播放
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/xmlyautoplaysileo
+
+Package: com.nahtedetihw.airpodscompanion
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 1036
+Depends: preferenceloader
+Filename: ./debs/com.nahtedetihw.airpodscompanion_1.0_iphoneos-arm64.deb
+Size: 456236
+MD5sum: 54a66973a8b4548ec9110c93b5f682f8
+SHA1: eab6b22d43b1017a60ccdbb9d5d7338ad82bfe33
+SHA256: b0367c393671d2ad566d94a3500fe4b873f98c5d1869273b03eafbf0d2f75fb4
+Section: Tweaks
+Description: Floating Noise Cancellation control next to volume slider
+Author: Ethan Whited
+Name: AirpodsCompanion
 
 Package: com.officialscheduler.mterminal-rootless
 Version: 1.4-1
