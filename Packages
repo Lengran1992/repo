@@ -1138,6 +1138,24 @@ Depiction: https://repo.lenglengyu.top/packageInfo/baidudisksvip.html
 Name: 百度网盘-Rootless【极速下载】
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/baidudisksvipsileo
 
+Package: com.lenglengyu.bilibilihz-rootless
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 244
+Depends: mobilesubstrate
+Filename: ./debs/com.lenglengyu.bilibilihz-rootless_0.0.1_iphoneos-arm64.deb
+Size: 63988
+MD5sum: a2ff27395210acd13680f82848b4542b
+SHA1: 7b9bb83e696f33ff4aeed67f1aef5c831c730e0d
+SHA256: d941660f278379169e6bfbaa3ac1619a9fd66279f6e8e68753f63e76bd227af1
+Section: Fugu15
+Description: 解锁大会员画质。
+Author: lenglengyu <lenglengyu@126.com>
+Depiction: https://repo.lenglengyu.top/packageInfo/bilibilihz.html
+Name: 哔哩哔哩解锁大会员画质-Rootless
+Sileodepiction: https://repo.lenglengyu.top/packageInfo/bilibilihzsileo
+
 Package: com.lenglengyu.xmlyautoplay
 Version: 0.0.1
 Architecture: iphoneos-arm
