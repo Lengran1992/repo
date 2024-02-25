@@ -5109,10 +5109,10 @@ Architecture: iphoneos-arm64
 Maintainer: By-Lengran
 Depends: com.creaturecoding.shuffle
 Filename: ./debs/repo.lengran.shuffle.cn.rootless_1.6.2_iphoneos-arm64.deb
-Size: 429720
-MD5sum: 52d48ff0a11dc5adb0c2c0f47764741e
-SHA1: 354d2cdf38e7b73a325a52a54ab58518ea5872ae
-SHA256: e8d098a1a66b46510e47d05a704610fe9a334f5065c2bf3b281d3c55b1c73679
+Size: 437404
+MD5sum: 8c6741aa9147d6eed4cfee9f32748ae6
+SHA1: cc51238105f35860344d9baac9b62c3e194e9633
+SHA256: 7ea99d6ad966f4f5200972c263f3cfa7cc73df8dd079247f2ccef0c9831762e0
 Section: 汉化
 Description: Shuffle 汉化包
 Author: By-Lengran
