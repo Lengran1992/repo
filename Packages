@@ -156,6 +156,38 @@ Description: ChargeLimiter
 Author: chaoge
 Name: ChargeLimiter
 
+Package: chaoge.ChargeLimiter
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: chaoge
+Depends: firmware (>= 5.0)
+Filename: ./debs/chaoge.ChargeLimiter_1.4.1_iphoneos-arm64.deb
+Size: 2155826
+MD5sum: 74f08569afff674b37e3edaa7d0d4332
+SHA1: bb980d59881532f1b3eeda8b21a1536ce71aea4b
+SHA256: 17c24dcaaf556bd910122d0a6203a47c0cf009f908882b7c677b049773cd69ea
+Section: System
+Priority: optional
+Description: ChargeLimiter
+Author: chaoge
+Name: ChargeLimiter
+
+Package: chaoge.ChargeLimiter
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: chaoge
+Depends: firmware (>= 5.0)
+Filename: ./debs/chaoge.ChargeLimiter_1.4.1_iphoneos-arm.deb
+Size: 2140008
+MD5sum: 40d1ec9c852ed2ae6aee4232bf8368c0
+SHA1: 1f1b159131dd548712769bd4d0dcdc94dc8d694a
+SHA256: 65ada13fe9fea756f1e5f31b3b21e625bae77f8d0727e150e965f09fec8d77c0
+Section: System
+Priority: optional
+Description: ChargeLimiter
+Author: chaoge
+Name: ChargeLimiter
+
 Package: cn.Bswbw.time
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -351,6 +383,102 @@ Section: Tweaks
 Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
 Author: 34306, KhanhDuyTran
 Name: mineland
+
+Package: com.34306.watched
+Version: 1.0-3+debug
+Architecture: iphoneos-arm64
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debs/com.34306.watched_1.0_rootless_iphoneos-arm64.deb
+Size: 5552
+MD5sum: c1817a419792e703f498d8cc41120840
+SHA1: 71a3bd2c12e5cd85da637e166df2057d11e9e675
+SHA256: a682745fe14f4c3e136793402fc8204eb04c147c5a19e666fd946a5c16648414
+Section: Tweaks
+Description: Paired your Apple Watch on new watchOS with older iOS
+Author: 34306
+Name: watched
+
+Package: com.34306.watched
+Version: 1.0-4+debug
+Architecture: iphoneos-arm64e
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debs/com.34306.watched_1.0_roothide_iphoneos-arm64e.deb
+Size: 5518
+MD5sum: a27991ff18810b74073c13395366c10b
+SHA1: 8215ba55e0b27f6f7668f5749c7b85aed8ef2781
+SHA256: f6c91d2a66f8fcb6e888da06194958b9b334b1a6fc7a6dbc099090f84fabb1aa
+Section: Tweaks
+Description: Paired your Apple Watch on new watchOS with older iOS
+Author: 34306
+Name: watched
+
+Package: com.34306.watched
+Version: 1.0-5+debug
+Architecture: iphoneos-arm
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Filename: ./debs/com.34306.watched_1.0_rootful_iphoneos-arm.deb
+Size: 5506
+MD5sum: c393ea9bcd0beebf86c5e38bdbfee77f
+SHA1: e7db9d6b962a9fceb3699656150d42a3e618de1b
+SHA256: cf8c12b6b3b7ba2377a390e88810823f85610e9466648e6007febe0e3d2fa6a0
+Section: Tweaks
+Description: Paired your Apple Watch on new watchOS with older iOS
+Author: 34306
+Name: watched
+
+Package: com.34306.watched
+Version: 1.1-10+debug
+Architecture: iphoneos-arm64e
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.34306.watched_1.1_roothide_iphoneos-arm64e.deb
+Size: 5792
+MD5sum: b133709066391ab7b0cd97ec759d74d2
+SHA1: 3d52afa5f0d3243ebd360e893636dbbb96ebaf4a
+SHA256: 5fcdf7ead8d2c005a4855538828c94a448442af0c51a402594d4c598f0f47d5d
+Section: Tweaks
+Description: Paired your Apple Watch on new watchOS with older iOS
+Author: 34306
+Name: watched
+
+Package: com.34306.watched
+Version: 1.1-8+debug
+Architecture: iphoneos-arm
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.34306.watched_1.1_rootful_iphoneos-arm.deb
+Size: 5778
+MD5sum: d554b349eaec33e19ce3aeb1ab0a2db5
+SHA1: 5dc3aa40ab19a5436c38f85df27f93a6c2ef073c
+SHA256: ea9920a93e38b56c5c87acb83d839cd5f4538c412472c7dc1ad0bfff674db356
+Section: Tweaks
+Description: Paired your Apple Watch on new watchOS with older iOS
+Author: 34306
+Name: watched
+
+Package: com.34306.watched
+Version: 1.1-9+debug
+Architecture: iphoneos-arm64
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.34306.watched_1.1_rootless_iphoneos-arm64.deb
+Size: 5834
+MD5sum: 63ef9d32a9811580d64abb480304248f
+SHA1: 6d73f4130b8f468aeea9f950cfb5dfdc42c61bb5
+SHA256: 1345c8a8bb6f61bd8928a9eededaf2de4329eb759598c4381838ecbff3c6c6cd
+Section: Tweaks
+Description: Paired your Apple Watch on new watchOS with older iOS
+Author: 34306
+Name: watched
 
 Package: com.HBWechatHelper.ailun
 Version: 1.6.7
