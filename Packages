@@ -864,6 +864,42 @@ Icon: https://i.imgur.com/C5MLSXo.png
 Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
 
+Package: com.dvntm.infuseplus
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 496
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.1.5_iphoneos-arm.deb
+Size: 171404
+MD5sum: 15961abaf7641548cc98f8c164ae03e6
+SHA1: 55dc9599d45abc7ec74803f176a527bb5e2e3fc9
+SHA256: 9303b5a4e70faad65ab078db8185d6c5d519e3e160baf1d347e0923f46e77506
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://i.imgur.com/C5MLSXo.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
+
+Package: com.dvntm.infuseplus
+Version: 1.1.5
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 496
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.1.5_iphoneos-arm64.deb
+Size: 171382
+MD5sum: fb2cba2c76585a740f6df5eaf7fbd128
+SHA1: 62d231bbfee862fa2251850380a42bd4645e1016
+SHA256: 296e94a1f1cc4bd8c47efc3ad5af4a560c68bed9dfbf68a0c0f139cd1836bf07
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://i.imgur.com/C5MLSXo.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
+
 Package: com.dvntm.ytlite
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1231,6 +1267,42 @@ Section: Tweaks
 Description: Lightweight YouTube Enhancer
 Author: dvntm
 Name: YTLite
+
+Package: com.dvntm.ytlite
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 464
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_3.0.1_iphoneos-arm64.deb
+Size: 116030
+MD5sum: 8526cfad9151406eaa9e5c59463559ca
+SHA1: 21716dc026967e23c8a2229f000484999107b697
+SHA256: 67a72adbb13cee749a9257877b9b1957ac3a2e1611054cd783035104fb4bf976
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
+Version: 3.0.1
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 464
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_3.0.1_iphoneos-arm.deb
+Size: 116020
+MD5sum: 683f44d461c07fc455b96bb437c1733b
+SHA1: 776ff267eb12cc94df58e932a932b69ee69639b2
+SHA256: 6ba94fdcbcff1c130eb8e2d3034cc2f8580bea38cdd18b1b312739f40feb29e2
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
 Package: com.langkhach.goodnotescrackedbylangkhach
 Version: 1.0.0-A
