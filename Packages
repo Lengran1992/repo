@@ -1457,6 +1457,39 @@ Description: add 3D Touch gestures to Cydia IOS 12 (unc0ver).
 Author: pxcex
 Name: Cydia3DTouch 12
 
+Package: com.rahwan3d.TrollUnreal
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: rahwan3d
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/com.rahwan3d.TrollUnreal_1.0_iphoneos-arm64.deb
+Size: 1158296
+MD5sum: 5472a470013a45559f9fa6cc3851f70d
+SHA1: ea9993f0f97b21b926f31e582f8650930e2b3330
+SHA256: 2baf1e535370cd316d107b341e78a264698b49d973bc267f1f185a0136e3b12e
+Section: Themes
+Description: A beautiful Theme to spice up Trollstore
+Author: rahwan3d
+Icon: https://drive.google.com/uc?id=1-N5AQ4odx77Po1hv3OOavK668Bjo8CUH
+Name: TrollUnreal
+
+Package: com.rahwan3d.TrollUnreal
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: rahwan3d
+Filename: ./debs/com.rahwan3d.TrollUnreal_1.0.1_iphoneos-arm64.deb
+Size: 1430876
+MD5sum: 9e59a2aac9c39443e1d6b5cb615fc3b6
+SHA1: 2fe37a84b8018ee13b55cc14b8925e56560f7ece
+SHA256: ec186cfa1c25a3263d443020b1a65fe6d4a18e3d2357ff577994729054b952cc
+Section: Themes
+Description: A beatutiful Theme to spice up Trollstore
+Author: rahwan3d
+Depiction: https://rahwan3d.github.io/repo/depictions/?p=TrollUnreal
+Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/TrollUnrealIcon.png
+Name: TrollUnreal
+Sileodepiction: https://rahwan3d.github.io/repo/sileodepictions/TrollUnreal/depiction.json
+
 Package: com.rileytestut.altdaemon
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -5623,6 +5656,21 @@ Description: Winter Mode for Apple Watch 汉化包
 Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/WinterModeSettings.bundle/icon@2x.png
 Name: Winter Mode for Apple Watch 汉化包
+
+Package: xyz.hhls.zomigle
+Version: 0.1.0-beta1
+Architecture: iphoneos-arm64
+Maintainer: HAHALOSAH
+Depends: firmware (>= 14.0)
+Filename: ./debs/xyz.hhls.zomigle_0.1.0-beta1_iphoneos-arm64.deb
+Size: 16860
+MD5sum: 2d88ef9fd674949130e2c5eece3c8134
+SHA1: 1129b6486dbcc9c1f951eb76ee0805ee4731775a
+SHA256: 529c89ebab5f9809adb7129318c5c3d213694c2526d80c73610788c84ab478d4
+Section: Tweaks
+Description: Removes the 3 app limit for free developer accounts
+Author: HAHALOSAH
+Name: Zomigle
 
 Package: zp.lintui
 Version: 0.0.1-2+debug
