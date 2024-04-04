@@ -220,6 +220,38 @@ Description: ChargeLimiter
 Author: chaoge
 Name: ChargeLimiter
 
+Package: chaoge.ChargeLimiter
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: chaoge
+Depends: firmware (>= 5.0)
+Filename: ./debs/chaoge.ChargeLimiter_1.5_iphoneos-arm.deb
+Size: 2035198
+MD5sum: 372f16890ec303622c67207c79e226ed
+SHA1: 7b84d74ff7570006690a975eb30fabb90c38a985
+SHA256: a16f500576832df9e32b4e96849ff440c66faa512d1d328f6adf3b729622d399
+Section: Applications
+Priority: optional
+Description: ChargeLimiter
+Author: chaoge
+Name: ChargeLimiter
+
+Package: chaoge.ChargeLimiter
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: chaoge
+Depends: firmware (>= 5.0)
+Filename: ./debs/chaoge.ChargeLimiter_1.5_iphoneos-arm64.deb
+Size: 2384166
+MD5sum: ab3ab9686a5eba26d7cf4fc84ad6daf3
+SHA1: d13c6a39b503c689b0276442366ac0788be287e5
+SHA256: c150e6d288bfe1d43d8cdc162642ae0100164e4d66973231787a366bbdb4f1cc
+Section: Applications
+Priority: optional
+Description: ChargeLimiter
+Author: chaoge
+Name: ChargeLimiter
+
 Package: cn.Bswbw.time
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -1421,6 +1453,22 @@ Section: Tweaks
 Description: Floating Noise Cancellation control next to volume slider
 Author: Ethan Whited
 Name: AirpodsCompanion
+
+Package: com.nightwind.sileorespringfix
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.nightwind.sileorespringfix_0.0.1_iphoneos-arm64.deb
+Size: 4526
+MD5sum: ca0d0d62abd5d73ab7b2b21a07155558
+SHA1: 85887028c2fbb3b96fcce597d1b785124c66b139
+SHA256: 6ed1adcf587f9f4343727316d2e794419326aa2ad40b5319222fe9a059ff8be6
+Section: Tweaks
+Description: Changes "sbreload" in Sileo to "killall SpringBoard" to avoid a bug in Dopamine where a black screen happens.
+Author: Nightwind
+Name: SileoRespringFix
 
 Package: com.officialscheduler.mterminal-rootless
 Version: 1.4-1
