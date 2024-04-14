@@ -1368,6 +1368,23 @@ Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 Name: YTLite
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
+Package: com.jontelang.bigshotsnapper3plugin
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Jonathan Winger-lang
+Installed-Size: 536
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper
+Filename: ./debs/com.jontelang.bigshotsnapper3plugin_1.1_iphoneos-arm64.deb
+Size: 21012
+MD5sum: d721f4ae3aec565d55801d301928bc73
+SHA1: 9b4a644d54eb86ed6082195ee7252e52ade57fa1
+SHA256: 894df49bc6df185d87ecdeb5c7241b2238bad10da00903292da6382cf118e1f1
+Section: Tweaks
+Description: BigShot for iOS 15/16 (and Snapper 3)
+Author: Jonathan Winger-lang
+Name: BigShot for Snapper 3 and CCSupport
+
 Package: com.langkhach.goodnotescrackedbylangkhach
 Version: 1.0.0-A
 Architecture: iphoneos-arm64
