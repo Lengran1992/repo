@@ -634,6 +634,36 @@ Description: 黄白助手-微信插件                                          
 Author: HuangBai <QQ:1343309363@qq.com>
 Name: 黄白助手(微信插件)
 
+Package: com.HBWechatHelper.ailun
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun _1.7.1_iphoneos-arm64.deb
+Size: 9419648
+MD5sum: b00e07f64b28b921759c0ed97b4bf7ad
+SHA1: 594988c89270c59b3099b2367bc56952bb63b181
+SHA256: 73b4936a01c2bb178a4d41957473b72acea4b4bfe2a2a9a9b5812a89b9a1f0d2
+Section: Mao
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)-Rootless
+
+Package: com.HBWechatHelper.ailun
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun _1.7.1_iphoneos-arm.deb
+Size: 9418520
+MD5sum: d6aea44c61a47e382b24e47b5440e3c8
+SHA1: 090d737725cb3f3381d4a061bf7a56301dde06b6
+SHA256: 6d0116a33eaf2d0caed9aea82992026013021b9b5b8bbd872cffaaf7d9bbe544
+Section: Mao
+Description: 黄白助手-微信插件                                                                                                                                                                 一个微信插件文本转语音以及点歌朋友圈一键点赞等诸多功能（发送网络语录舔狗日记骂人等文案或者4K原图手绘壁纸等，抢私聊红包，自定义信息尾巴，自定义拍一拍 百变小尾巴 实时尾巴时间等功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)
+
 Package: com.bandarhl.bhtwitter
 Version: 4.2-1+debug
 Architecture: iphoneos-arm
@@ -1505,6 +1535,54 @@ Homepage: https://bitbucket.org/lordscotland/mterminal
 Description: A MobileTerminal fork. Full Screen Support
 Author: lordscotland
 Name: MTerminal-Rootless
+
+Package: com.ps.cahighfps
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 348
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.opa334.altlist (>= 1.0.4)
+Filename: ./debs/com.ps.cahighfps_2.0.0_iphoneos-arm64.deb
+Size: 9690
+MD5sum: cc763d8483d5563af8a4ce8486f9f8a0
+SHA1: 1acdedf6d8cfb70aed71d118c238318455f242b3
+SHA256: 179461ef17fbbc223a30def6f1e1219dce28f9b15d3ffa68143602e8e5f42c76
+Section: Tweaks
+Description: Make CoreAnimation apps use the highest available FPS. Custom FPS option added by uz.ra (@ChromiumCandy)
+Author: PoomSmart
+Name: CAHighFPS
+
+Package: com.ps.cahighfps
+Version: 2.1.0
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.opa334.altlist (>= 1.0.4)
+Filename: ./debs/com.ps.cahighfps_2.1.0_iphoneos-arm64.deb
+Size: 12220
+MD5sum: 77ea16ee2ac28f0c90069502716aa432
+SHA1: 0bc32f5039cbc0116b76a026508d84b00a1a4186
+SHA256: 3a9fb40afad3d6fd5b3276f9b8f578df690802cc280fcffe5afcbf65b13e9dd8
+Section: Tweaks
+Description: Make CoreAnimation apps use the highest available FPS. Custom FPS option added by uz.ra (@ChromiumCandy)
+Author: PoomSmart
+Name: CAHighFPS
+
+Package: com.ps.cahighfps
+Version: 2.1.2
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.opa334.altlist (>= 1.0.4)
+Filename: ./debs/com.ps.cahighfps_2.1.2_iphoneos-arm64.deb
+Size: 12308
+MD5sum: efdca27e6c77604b6c39a3cfe226d7a5
+SHA1: c80744b8919d1c88b4b127def1c81b1aec3c7fa3
+SHA256: b45a8f55c2441249d7572b93fcb62406ea3071b6b4ed07de72435e4b175dac9a
+Section: Tweaks
+Description: Make CoreAnimation apps use the highest available FPS. Custom FPS option added by uz.ra (@ChromiumCandy)
+Author: PoomSmart
+Name: CAHighFPS
 
 Package: com.pxcex.cydia3dtouch
 Version: 0.0.4
