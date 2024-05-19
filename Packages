@@ -1024,6 +1024,42 @@ Icon: https://i.imgur.com/C5MLSXo.png
 Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
 
+Package: com.dvntm.infuseplus
+Version: 1.1.6
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 500
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.1.6_iphoneos-arm64.deb
+Size: 167138
+MD5sum: f6f100a056a9b0b0453e0000ae455082
+SHA1: 470afd6ae8d597547c7d02a3214feefe4b7c3797
+SHA256: 7f11ea08362e907792f023a0dfe5230c4f81e8301fe65e1d0e83a9fd04030504
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://i.imgur.com/C5MLSXo.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
+
+Package: com.dvntm.infuseplus
+Version: 1.1.6
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 500
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.1.6_iphoneos-arm.deb
+Size: 167084
+MD5sum: 01431ac471d4e5e5f903a23ee0c61c65
+SHA1: 6f4279c747c51f035ea22e42e9392378852cf1e0
+SHA256: b690fc7f19958e534b001952950ec35300599b7b9e29aad439e08c9476207ec6
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://i.imgur.com/C5MLSXo.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
+
 Package: com.dvntm.ytlite
 Version: 1.0
 Architecture: iphoneos-arm
@@ -3932,6 +3968,70 @@ Section: Netskao-NoAds
 Description: 小红书去除启动广告, 去除信息流视频流广告, 修改原始按钮保存无水印视频和图片和live图和评论区图片, 解除部分视频无法下载, 添加长按文案快捷复制作者名或文案, 仅支持8.5及以上版本
 Author: Netskao
 Name: 小红书 NoAds-Rootless
+
+Package: org.coolstar.classicfolders2
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: CoolStar
+Installed-Size: 2592
+Depends: mobilesubstrate
+Filename: ./debs/org.coolstar.classicfolders2_3.0.1_iphoneos-arm64.deb
+Size: 1672044
+MD5sum: 4f92e0522d9d3bddf93c5fcd2d8da674
+SHA1: 6a52f7863d9bc5fb960bb9c6a3462cc339ec354b
+SHA256: ef77f077cc32b2bf968b23f80da27949d73f8118e0a6f3a040eeada22880c17a
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: CoolStar
+Name: ClassicFolders 2
+
+Package: org.coolstar.classicfolders2
+Version: 3.0.2
+Architecture: iphoneos-arm64
+Maintainer: CoolStar
+Installed-Size: 4496
+Depends: mobilesubstrate
+Filename: ./debs/org.coolstar.classicfolders2_3.0.2_iphoneos-arm64.deb
+Size: 3313794
+MD5sum: c2d1bea31c98f2629452dc5272c61ed7
+SHA1: d0de686830f502931fdf2f46df0e55ad0b124be8
+SHA256: 70ab1ecd372df8749057232886b9b3f39d4c751012e44311dfcc5bb1888216ad
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: CoolStar
+Name: ClassicFolders 2
+
+Package: org.coolstar.classicfolders2
+Version: 3.0.3
+Architecture: iphoneos-arm64
+Maintainer: CoolStar
+Installed-Size: 4496
+Depends: mobilesubstrate
+Filename: ./debs/org.coolstar.classicfolders2_3.0.3_iphoneos-arm64.deb
+Size: 3314564
+MD5sum: f214bfd6d9ccf49b999d0bd69de836a3
+SHA1: ed02802b20f552bea7e0acb43217e945f5d2543a
+SHA256: e9cb39f28f755bc2a16ba76622fbbd94b0b7763be646e9b1a879a033f03bb70e
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: CoolStar
+Name: ClassicFolders 2
+
+Package: org.coolstar.classicfolders2
+Version: 3.0.4
+Architecture: iphoneos-arm64
+Maintainer: CoolStar
+Installed-Size: 4496
+Depends: mobilesubstrate
+Filename: ./debs/org.coolstar.classicfolders2_3.0.4_iphoneos-arm64.deb
+Size: 3316574
+MD5sum: 156bf5717ab4894f1a6db5fa2e59ddf5
+SHA1: 8d0247b613d595b9ed96ba69faa65764d809d808
+SHA256: a50de41fa91c67839dac3d53fa4123a74caf22c49344d42b7cd1d34e61d59a60
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: CoolStar
+Name: ClassicFolders 2
 
 Package: rcom.lengran.basevpn.crack
 Version: 1.0.0
