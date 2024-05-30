@@ -5930,6 +5930,38 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/WinterModeSettings.bundle/icon@2x.png
 Name: Winter Mode for Apple Watch 汉化包
 
+Package: wiki.qaq.trapp.jb
+Version: 1.9.7-183
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 11792
+Depends: firmware (>= 15.0)
+Filename: ./debs/wiki.qaq.trapp.jb_1.9.7-183_iphoneos-arm64.deb
+Size: 3461584
+MD5sum: 4bb679e958005ebbed8ac4460505eda7
+SHA1: 3903391349802ce6ff2118a24b33b1009db4ed55
+SHA256: e4091cf050a2365c66f506fa6d212e21ff44842662bb8cd3147e2cdfda615a33
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 1.9.7-183
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 11792
+Depends: firmware (>= 15.0)
+Filename: ./debs/wiki.qaq.trapp.jb_1.9.7-183_iphoneos-arm.deb
+Size: 3461736
+MD5sum: b20d524de749bb662aa4369fb3c83d65
+SHA1: f2b66ae6d5ee7516c8d314679ae5e1fcc017df2d
+SHA256: d1eaed0ae1fa65731a98e4fe97338062a9ae44f80821c064943b20fe4fd22c50
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
 Package: xyz.hhls.zomigle
 Version: 0.1.0-beta1
 Architecture: iphoneos-arm64
