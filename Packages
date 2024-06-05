@@ -1464,6 +1464,24 @@ Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 Name: YTLite
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
+Package: com.huayuarc.flex3beta92
+Version: 1:3~Beta92
+Architecture: iphoneos-arm64
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>= 12.2) | org.swift.libswift (>= 5.0), firmware (>= 9.0)
+Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
+Replaces: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
+Filename: ./debs/com.huayuarc.flex3beta92.deb
+Size: 14058398
+MD5sum: 021c4bb1eb401f7d5e874bed29f8cc02
+SHA1: 32b143feb5cb6b2c44f34d18c40be30630a17826
+SHA256: 09b601469d25bf3243d2e98f006f126a5369aa4d2f9e13f20739363685dec8c5
+Section: 插件
+Description: Flex 3 是越狱后的一款强大的工具｜创建补丁｜下载补丁｜实现强大的功能｜例如修改 App｜或去除广告｜或增强 App 体验等｜开发自己的调整｜并在 Flex 社区云上共享
+Author: John Coates
+Name: Flex 3 Beta-Rootless
+Sponsor: John Coates
+
 Package: com.jontelang.bigshotsnapper3plugin
 Version: 1.1
 Architecture: iphoneos-arm64
