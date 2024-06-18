@@ -92,6 +92,70 @@ Description: Troll your speed, but jailbroken.
 Author: Lessica <82flex@gmail.com>
 Name: TrollSpeed
 
+Package: ch.xxtou.hudapp.jb
+Version: 1.12.0
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 428
+Depends: firmware (>= 14.0)
+Filename: ./debs/ch.xxtou.hudapp.jb_1.12.0_iphoneos-arm.deb
+Size: 133344
+MD5sum: 657f9715dd5af863fb93e04db9da87c6
+SHA1: 8a3025a3a8c5c2f55a095ed76ba63d2362dd723b
+SHA256: fae2827cf6f46fcc18fc02cc504a74f94434fc9856c37a7cee707ff77991356d
+Section: Tweaks
+Description: Troll your speed, but jailbroken.
+Author: Lessica <82flex@gmail.com>
+Name: TrollSpeed JB
+
+Package: ch.xxtou.hudapp.jb
+Version: 1.12.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 428
+Depends: firmware (>= 14.0)
+Filename: ./debs/ch.xxtou.hudapp.jb_1.12.0_iphoneos-arm64.deb
+Size: 133358
+MD5sum: 734d3cf5df14a63e6c544f0640707b67
+SHA1: 209694004953474c5fb829919fa4a20ce68063d7
+SHA256: 0ff20e4bf262eacbe82912eb74920740d042eadec548a960e33990c41b611c66
+Section: Tweaks
+Description: Troll your speed, but jailbroken.
+Author: Lessica <82flex@gmail.com>
+Name: TrollSpeed JB
+
+Package: ch.xxtou.hudapp.jb
+Version: 1.12.1
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 636
+Depends: firmware (>= 14.0)
+Filename: ./debs/ch.xxtou.hudapp.jb_1.12.1_iphoneos-arm.deb
+Size: 161720
+MD5sum: 8b7f676fa2efcc5f3471bbe6655ee0cc
+SHA1: 48984dfcc1073d954a47d2aecaac818e76261cbc
+SHA256: bc23b786e2d0558a517893f5bd28b59e52c87d4c028d59f335495be83bd211d6
+Section: Tweaks
+Description: Troll your speed, but jailbroken.
+Author: Lessica <82flex@gmail.com>
+Name: TrollSpeed JB
+
+Package: ch.xxtou.hudapp.jb
+Version: 1.12.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 636
+Depends: firmware (>= 14.0)
+Filename: ./debs/ch.xxtou.hudapp.jb_1.12.1_iphoneos-arm64.deb
+Size: 161582
+MD5sum: 36b3acc7be14f4f768a6538ade43f6f4
+SHA1: 23687866431b260fc3adc1c3928c4de35d66ba7b
+SHA256: ac8fdeb7f2947693d36f7b8c0d8ba74e7075feffa0bb0fd1a0f2fdac2786af79
+Section: Tweaks
+Description: Troll your speed, but jailbroken.
+Author: Lessica <82flex@gmail.com>
+Name: TrollSpeed JB
+
 Package: chaoge.AlDente
 Version: 0.1-1
 Architecture: iphoneos-arm
@@ -6039,6 +6103,102 @@ Size: 4038466
 MD5sum: 7163de9aab883e7a10be250a56b70976
 SHA1: 7347ad6607d8d471559c4e315a10085e483b415b
 SHA256: 496ed64c578a47debb4cd0b88764430c408c01f6f9971481b6cecf955a01ac74
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 1.10.3-283
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 13344
+Depends: firmware (>= 15.0)
+Filename: ./debs/wiki.qaq.trapp.jb_1.10.3-283_iphoneos-arm64.deb
+Size: 4060878
+MD5sum: 97df5b3e264b9df4d91cb3b8f8d22f55
+SHA1: 7356d9270d048acee29bb46b0a4fffb398965850
+SHA256: e37ed4ef2ef4a5ede30fc37efb327ae5ce21621797bd0e26987f39c6a35c3c13
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 1.10.3-283
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 13344
+Depends: firmware (>= 15.0)
+Filename: ./debs/wiki.qaq.trapp.jb_1.10.3-283_iphoneos-arm.deb
+Size: 4060586
+MD5sum: 6bf71271820bf483e48cd0349f509084
+SHA1: a87600ab35473c29e7c8cb74543fe37f4726594f
+SHA256: 7bf28df180caf466306983365e302584d71626bd539ceb90d95fef7b46630ce7
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 1.12.0-285
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 13484
+Depends: firmware (>= 15.0)
+Filename: ./debs/wiki.qaq.trapp.jb_1.12.0-285_iphoneos-arm.deb
+Size: 4081684
+MD5sum: 1c8a6aa08ce87fd10d3ee0dec2584737
+SHA1: 2a4bb86d76981fae0d03302eb4a23e63c16f0ac9
+SHA256: 3510aa28539393097da9c528fb6528ed57f0759a3d43e1d09d549b0062e1f2bb
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 1.12.0-285
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 13500
+Depends: firmware (>= 15.0)
+Filename: ./debs/wiki.qaq.trapp.jb_1.12.0-285_iphoneos-arm64.deb
+Size: 4083906
+MD5sum: c14adafc92f2b03bc626fc11d7937ad4
+SHA1: 427b4083b94ab864fd39d0532d5a2557279cd3e5
+SHA256: 5cb3a185573947c7d25d1cabffa03a5cd6b45332c16dd7718ec246dd13c3031e
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 1.12.1-290
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 13388
+Depends: firmware (>= 15.0)
+Filename: ./debs/wiki.qaq.trapp.jb_1.12.1-290_iphoneos-arm.deb
+Size: 4072168
+MD5sum: 52ffcd4f1adcc2a161adb0e8c5743c4f
+SHA1: 60e08edb82cfa52ee4228cee2ae093901cd0dbee
+SHA256: b6a8783ef732d663a3f2ed8f5072b4ee66a46378101b0fe0107f821b55786c3f
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 1.12.1-290
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 13388
+Depends: firmware (>= 15.0)
+Filename: ./debs/wiki.qaq.trapp.jb_1.12.1-290_iphoneos-arm64.deb
+Size: 4074294
+MD5sum: 00223f51d2e0fb1d5f3a607ea9b090fa
+SHA1: 85ccf9e7a3145c863e11a6b7bff643c5332c8c17
+SHA256: 9f456e07e0f54424df11ab65302ca27d82f128aeb2d5bd1d98ee29f6d9f36a97
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
