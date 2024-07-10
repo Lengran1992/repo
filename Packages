@@ -1604,10 +1604,10 @@ Maintainer: lenglengyu <lenglengyu@126.com>
 Installed-Size: 244
 Depends: mobilesubstrate
 Filename: ./debs/com.lenglengyu.bilibilihz-rootless_0.0.1_iphoneos-arm64.deb
-Size: 63988
-MD5sum: a2ff27395210acd13680f82848b4542b
-SHA1: 7b9bb83e696f33ff4aeed67f1aef5c831c730e0d
-SHA256: d941660f278379169e6bfbaa3ac1619a9fd66279f6e8e68753f63e76bd227af1
+Size: 64068
+MD5sum: c67dfa14aa85c86377ff6a37b4e68ead
+SHA1: 3a84c73f1dbdbefedaef64a7fc9fb61d17f49b27
+SHA256: b3a0d0fc4f9d557501086f9d775bd05c8451aec027a90a2a84e9833ef7d5e2be
 Section: Fugu15
 Description: 解锁大会员画质。
 Author: lenglengyu <lenglengyu@126.com>
