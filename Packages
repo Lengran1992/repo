@@ -316,6 +316,38 @@ Description: ChargeLimiter
 Author: chaoge
 Name: ChargeLimiter
 
+Package: chaoge.ChargeLimiter
+Version: 1.6.1
+Architecture: iphoneos-arm64
+Maintainer: chaoge
+Depends: firmware (>= 5.0)
+Filename: ./debs/chaoge.ChargeLimiter_1.6.1_iphoneos-arm64.deb
+Size: 2433494
+MD5sum: 211f45ab8be8b0a024799a41fe269af8
+SHA1: 013d45c8fdf9e0d0d253327a9947eb1898cffe4d
+SHA256: 3f22efa9c3789893238faf0c9a9850baa4b6c59cb2ed58d56479a16d115c0916
+Section: Applications
+Priority: optional
+Description: ChargeLimiter
+Author: chaoge
+Name: ChargeLimiter
+
+Package: chaoge.ChargeLimiter
+Version: 1.6.1
+Architecture: iphoneos-arm
+Maintainer: chaoge
+Depends: firmware (>= 5.0)
+Filename: ./debs/chaoge.ChargeLimiter_1.6.1_iphoneos-arm.deb
+Size: 2437710
+MD5sum: ce549d085a0771595644076bcb26896e
+SHA1: caa7b7facc8588eb81bb4a9f603b5b0ed8284b3d
+SHA256: 249a9edf82a1b03580b79fc9a60bf6483997773091a9b0b010554cbf12c1064b
+Section: Applications
+Priority: optional
+Description: ChargeLimiter
+Author: chaoge
+Name: ChargeLimiter
+
 Package: cn.Bswbw.time
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -6359,6 +6391,70 @@ Size: 4128552
 MD5sum: 06e411b152c27feea83dbda39f8a1949
 SHA1: c361d8c988ebabf6c251faed9730e790bd72a8aa
 SHA256: 412c3b303a233c341eac7c468efcc9f575113b64046ae5e141c09b0b64f9b654
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 1.16.2-344
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 13980
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/wiki.qaq.trapp.jb_1.16.2-344_iphoneos-arm.deb
+Size: 4155404
+MD5sum: 96f69fff4dd7ee6a4958ca2558b143a8
+SHA1: 916346919b195bf11d55011382e95904f1fa632e
+SHA256: 8b9da49bd69b597e746815cc64d6b7f06b7b0645485e223259cd0f3ae1605a0e
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 1.16.2-344
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 13980
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/wiki.qaq.trapp.jb_1.16.2-344_iphoneos-arm64.deb
+Size: 4155034
+MD5sum: aeac7fa3dab3362727c6a94ea69fb9ca
+SHA1: 83d76ce9f6ac2119fedf4cc119e5719b244ff552
+SHA256: 43bfa3d246c7bc3d8c5b724b553d40c6b70b714fb1c494f6ad4e3f7c09ee154d
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 1.18.0-352
+Architecture: iphoneos-arm
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 14576
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/wiki.qaq.trapp.jb_1.18.0-352_iphoneos-arm.deb
+Size: 4292464
+MD5sum: fc3ffedf16db13488d83d8686cbed01b
+SHA1: 7bed6dc5f6522bfb83eef72dfb08492fce05ea8b
+SHA256: fe122a443f6ef589ab0963f3eec090403a65666f961ed3a10e545cd8ac53d2c4
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 1.18.0-352
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 14576
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/wiki.qaq.trapp.jb_1.18.0-352_iphoneos-arm64.deb
+Size: 4293130
+MD5sum: 28b9bed2887afd3e30e4ca939c7630ec
+SHA1: f6b3806e77df3422994abf374df4e1ffc0a2daf9
+SHA256: 65bc8bad5993a84835bf194df143746bd254fb87be184630b586e264a8c377f9
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
