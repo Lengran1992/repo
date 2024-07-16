@@ -1156,6 +1156,42 @@ Icon: https://i.imgur.com/C5MLSXo.png
 Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
 
+Package: com.dvntm.infuseplus
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 420
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.2.0_iphoneos-arm64.deb
+Size: 125280
+MD5sum: fee899c4a2b4254669f2327b7d349bf3
+SHA1: eb98046e58e4b45e2f3beacec785cf8180c863bf
+SHA256: c8c8af3b38c8dcc2c4f5511dd20ee05e62bfaa9cbc3e9026a6dbe4280198721a
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://i.imgur.com/C5MLSXo.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
+
+Package: com.dvntm.infuseplus
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 420
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.2.0_iphoneos-arm.deb
+Size: 125208
+MD5sum: ff77f13a3b6d591b582a2e36cfa04023
+SHA1: 4c7a19ca3c8b81ad22e6e172c484f9c7cf3fd262
+SHA256: 20e9444451ba78c88ba6e609a85e49ce185f2456a77b163daa9af590885b2945
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://i.imgur.com/C5MLSXo.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
+
 Package: com.dvntm.ytlite
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1560,6 +1596,78 @@ Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 Name: YTLite
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
+Package: com.dvntm.ytlite
+Version: 4.0
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 15572
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_4.0_iphoneos-arm.deb
+Size: 5828160
+MD5sum: 46f4fcd0acbef3d86703144e7c501dec
+SHA1: 1f318f12f636fd3450ef3ae60ab2b000ac198c7c
+SHA256: 4617f65d81ce867b3a28dc0b49fdd74f2ad5c274988a3a98bca15cb616dce5d2
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
+Version: 4.0
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 15572
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_4.0_iphoneos-arm64.deb
+Size: 5830064
+MD5sum: 0a74183d82a30948bbf6e687d122acb6
+SHA1: 3bc7f8409a2f2d04c8d7a7b5431f3902015f742b
+SHA256: 1223c213be76da03de783cd2a2bed605b8f08fe0892321440cf20121c371b0cb
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
+Version: 4.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 15596
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_4.0.1_iphoneos-arm64.deb
+Size: 5830388
+MD5sum: 16ecf76fec228ac2e49cb69fee4232ef
+SHA1: 41bbd7e6db964253d3991ae9d005126d482de28f
+SHA256: 14491bcaafde39f623dfc5080b05725788ad5a587bf365d4de532ddbd0f50462
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
+Version: 4.0.1
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 15596
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_4.0.1_iphoneos-arm.deb
+Size: 5827340
+MD5sum: b9176c8620fc3470646c73bf0ac4b82b
+SHA1: 2dd39306db6f1c724a73fc9744d9ca10d846b9b4
+SHA256: d79a910ee8b7841f91044f9ff01a5c531e9940099a5b62e767d9490df3995c29
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
 Package: com.huayuarc.flex3beta92
 Version: 1:3~Beta92
 Architecture: iphoneos-arm64
@@ -1665,22 +1773,6 @@ Depiction: https://repo.lenglengyu.top/packageInfo/xmlyautoplay.html
 Name: 喜马拉雅自动播放
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/xmlyautoplaysileo
 
-Package: com.nahtedetihw.airpodscompanion
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Ethan Whited
-Installed-Size: 1036
-Depends: preferenceloader
-Filename: ./debs/com.nahtedetihw.airpodscompanion_1.0_iphoneos-arm64.deb
-Size: 456236
-MD5sum: 54a66973a8b4548ec9110c93b5f682f8
-SHA1: eab6b22d43b1017a60ccdbb9d5d7338ad82bfe33
-SHA256: b0367c393671d2ad566d94a3500fe4b873f98c5d1869273b03eafbf0d2f75fb4
-Section: Tweaks
-Description: Floating Noise Cancellation control next to volume slider
-Author: Ethan Whited
-Name: AirpodsCompanion
-
 Package: com.nightwind.sileorespringfix
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -1697,73 +1789,6 @@ Description: Changes "sbreload" in Sileo to "killall SpringBoard" to avoid a bug
 Author: Nightwind
 Name: SileoRespringFix
 
-Package: com.officialscheduler.mterminal-rootless
-Version: 1.4-1
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 2232
-Pre-Depends: dpkg (>= 1.14.25-8)
-Depends: firmware (>= 15.0), gettext-localizations, system-cmds, bash | zsh
-Conflicts: mterminal, oldabi
-Filename: ./debs/com.officialscheduler.mterminal-rootless_1.4-1_iphoneos-arm64.deb
-Size: 507200
-MD5sum: 1f1bd15c91708249a089957c574bdb84
-SHA1: 6120b3f94fb16dde4136b4b7bd29565f6563fa93
-SHA256: 6b116f09f8e8e922dbd8585b78db035df5140331da43477502517b56eceb94c5
-Section: Netskao-Tweaks
-Homepage: https://bitbucket.org/lordscotland/mterminal
-Description: A MobileTerminal fork. Full Screen Support
-Author: lordscotland
-Name: MTerminal-Rootless
-
-Package: com.ps.cahighfps
-Version: 2.0.0
-Architecture: iphoneos-arm64
-Maintainer: PoomSmart
-Installed-Size: 348
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.opa334.altlist (>= 1.0.4)
-Filename: ./debs/com.ps.cahighfps_2.0.0_iphoneos-arm64.deb
-Size: 9690
-MD5sum: cc763d8483d5563af8a4ce8486f9f8a0
-SHA1: 1acdedf6d8cfb70aed71d118c238318455f242b3
-SHA256: 179461ef17fbbc223a30def6f1e1219dce28f9b15d3ffa68143602e8e5f42c76
-Section: Tweaks
-Description: Make CoreAnimation apps use the highest available FPS. Custom FPS option added by uz.ra (@ChromiumCandy)
-Author: PoomSmart
-Name: CAHighFPS
-
-Package: com.ps.cahighfps
-Version: 2.1.0
-Architecture: iphoneos-arm64
-Maintainer: PoomSmart
-Installed-Size: 352
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.opa334.altlist (>= 1.0.4)
-Filename: ./debs/com.ps.cahighfps_2.1.0_iphoneos-arm64.deb
-Size: 12220
-MD5sum: 77ea16ee2ac28f0c90069502716aa432
-SHA1: 0bc32f5039cbc0116b76a026508d84b00a1a4186
-SHA256: 3a9fb40afad3d6fd5b3276f9b8f578df690802cc280fcffe5afcbf65b13e9dd8
-Section: Tweaks
-Description: Make CoreAnimation apps use the highest available FPS. Custom FPS option added by uz.ra (@ChromiumCandy)
-Author: PoomSmart
-Name: CAHighFPS
-
-Package: com.ps.cahighfps
-Version: 2.1.2
-Architecture: iphoneos-arm64
-Maintainer: PoomSmart
-Installed-Size: 352
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.opa334.altlist (>= 1.0.4)
-Filename: ./debs/com.ps.cahighfps_2.1.2_iphoneos-arm64.deb
-Size: 12308
-MD5sum: efdca27e6c77604b6c39a3cfe226d7a5
-SHA1: c80744b8919d1c88b4b127def1c81b1aec3c7fa3
-SHA256: b45a8f55c2441249d7572b93fcb62406ea3071b6b4ed07de72435e4b175dac9a
-Section: Tweaks
-Description: Make CoreAnimation apps use the highest available FPS. Custom FPS option added by uz.ra (@ChromiumCandy)
-Author: PoomSmart
-Name: CAHighFPS
-
 Package: com.pxcex.cydia3dtouch
 Version: 0.0.4
 Architecture: iphoneos-arm
@@ -1779,74 +1804,6 @@ Section: Tweaks
 Description: add 3D Touch gestures to Cydia IOS 12 (unc0ver).
 Author: pxcex
 Name: Cydia3DTouch 12
-
-Package: com.rahwan3d.TrollUnreal
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: rahwan3d
-Depends: com.anemonetheming.anemone | com.spark.snowboard
-Filename: ./debs/com.rahwan3d.TrollUnreal_1.0_iphoneos-arm64.deb
-Size: 1158296
-MD5sum: 5472a470013a45559f9fa6cc3851f70d
-SHA1: ea9993f0f97b21b926f31e582f8650930e2b3330
-SHA256: 2baf1e535370cd316d107b341e78a264698b49d973bc267f1f185a0136e3b12e
-Section: Themes
-Description: A beautiful Theme to spice up Trollstore
-Author: rahwan3d
-Icon: https://drive.google.com/uc?id=1-N5AQ4odx77Po1hv3OOavK668Bjo8CUH
-Name: TrollUnreal
-
-Package: com.rahwan3d.TrollUnreal
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: rahwan3d
-Filename: ./debs/com.rahwan3d.TrollUnreal_1.0.1_iphoneos-arm64.deb
-Size: 1430876
-MD5sum: 9e59a2aac9c39443e1d6b5cb615fc3b6
-SHA1: 2fe37a84b8018ee13b55cc14b8925e56560f7ece
-SHA256: ec186cfa1c25a3263d443020b1a65fe6d4a18e3d2357ff577994729054b952cc
-Section: Themes
-Description: A beatutiful Theme to spice up Trollstore
-Author: rahwan3d
-Depiction: https://rahwan3d.github.io/repo/depictions/?p=TrollUnreal
-Icon: https://raw.githubusercontent.com/rahwan3d/repo/gh-pages/assets/TweakIcons/TrollUnrealIcon.png
-Name: TrollUnreal
-Sileodepiction: https://rahwan3d.github.io/repo/sileodepictions/TrollUnreal/depiction.json
-
-Package: com.rileytestut.altdaemon
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Riley Testut <support@altstore.io>
-Installed-Size: 2560
-Depends: firmware (>= 12.2)
-Filename: ./debs/com.rileytestut.altdaemon_1.0.1_iphoneos-arm.deb
-Size: 597754
-MD5sum: 86b026f3f838e0ca193b086898e7152a
-SHA1: ec653b6067c8dd8daa2d1fad29ebcbb0c054bbbd
-SHA256: e30852d1e922dbf83222dd1a35d726491f19ff0f25a4415846638a4f99eac695
-Section: System
-Description: AltDaemon allows AltStore to install and refresh apps without a computer.
-Tag: compatible_min::ios12.2
-Author: Riley Testut <support@altstore.io>
-Depiction: https://chariz.com/get/altdaemon
-Icon: https://cdn.chariz.cloud/icon/altdaemon/icon@3x.png
-Name: AltDaemon
-
-Package: com.shepgoba.settingswidgets
-Version: 1.2.3
-Architecture: iphoneos-arm64
-Maintainer: shepgoba
-Installed-Size: 512
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.shepgoba.settingswidgets_1.2.3_iphoneos-arm64.deb
-Size: 73112
-MD5sum: 027515e2b64bde33c6ed50fda9f18e48
-SHA1: 619943a5e2039deeff8099b4e8d6589c25224ca4
-SHA256: f73caac05a4ea62031233e6dfae9b55d60537f5fba6519db8161ca866db2d5ae
-Section: Tweaks
-Description: Bring good looking widgets to the front page of settings!
-Author: shepgoba
-Name: SettingsWidgets
 
 Package: com.snail.aemuloautoemulate
 Version: 1.0.0
@@ -1920,40 +1877,6 @@ Description: 地理位置请求弹窗，自动"允许一次"。 此为Rootless�
 Author: Snail <mu514983786@gmail.com>
 Depiction: https://repo.snailovet.com/package/103
 Name: 位置自动允许一次 // AllowLocationOnce
-
-Package: com.snail.bilibilinoad.rootless
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: Snail <mu514983786@gmail.com>
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.snail.bilibilinoad.rootless_1.0.0_iphoneos-arm64.deb
-Size: 2944
-MD5sum: 7e0b9b55d5edb8ce6e7e2022339ce877
-SHA1: 3ae9cc028a6bec8127e3c59b732c1ed4052841f7
-SHA256: 301633dc43d966febc42ebf175b6349172fc14fbf7c0612eb7a242ea075707fe
-Section: Rootless
-Description: 去掉哔哩哔哩首页广告。Remove the home ad of BiliBili
- 这是rootless版本，不要安装错~
-Author: Snail <mu514983786@gmail.com>
-Name: 哔哩哔哩去首页广告 BiliBiliNoAd
-
-Package: com.snail.cainiaonoad
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Snail <mu514983786@gmail.com>
-Installed-Size: 216
-Depends: mobilesubstrate
-Filename: ./debs/com.snail.cainiaonoad_0.0.1_iphoneos-arm.deb
-Size: 4948
-MD5sum: 4c116f163bad45fd85e45df30c52666d
-SHA1: 712c9f7ea5a3885bbf686d1fb48baf57e3774014
-SHA256: ccefac395251da904342e66d8660657702aa31e5c915f26d0858cecfc2763406
-Section: 广告净化
-Description: 去掉菜鸟不必要的广告
- 支持所有菜鸟版本
-Author: Snail <snailsohi@gmail.com>
-Name: 菜鸟去广告
 
 Package: com.snail.easynotify
 Version: 1.0.0
@@ -2154,22 +2077,6 @@ Section: 广告净化
 Description: 咸鱼去广告，支持所有版本。
 Author: Snail <snailsohi@gmail.com>
 Name: 闲鱼去广告
-
-Package: com.sogouinput
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: M哥
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/com.sogouinput_1.0_iphoneos-arm64.deb
-Size: 5734
-MD5sum: 9c784d32dd3126c771fb9d0099e67050
-SHA1: b56199579bb26188089248e8b1be57501b94c66f
-SHA256: b91e915827210f3bdcef10fc9bb1ed269d2a80759e53a306326dcdb5c3ce01ee
-Section: Tweaks
-Description: 搜狗输入法去广告
-Author: M哥
-Name: 搜狗
 
 Package: com.xina.blacklist
 Version: 0.0.1-59+debug
@@ -2627,22 +2534,6 @@ Section: Netskao-Tweaks
 Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具，此版本由站长完整汉化并修改优化。修改优化:增加简单版降级应用，增加可选向下滑动唤出，增加查看应用加密状态，增加面板可选去除面板分割线，增加长按面板图标以安全模式启动，修改原版卸载应用为真实卸载不保留数据，修改原版清除缓存后未同步刷新总数据显示问题，修复原版更多信息页面长按复制的信息错误问题，修改原版重置数据为包括重置程序组内文件夹数据，修改原版重置数据栏数据大小显示为包括程序组内文件夹数据，修改原版重置数据后未同步刷新缓存数据显示和权限个数显示问题，修改原版在非AppStore中下载的应用唤出时无法使用重置数据/重置权限/卸载应用(修改后仅在系统应用上禁止)
 Author: Fouad Raheb
 Name: AppData
-
-Package: netskao.appdata-rootless
-Version: 1.4.1
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 23032
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./debs/netskao.appdata-rootless_1.4.1_iphoneos-arm64.deb
-Size: 5071872
-MD5sum: 695c66f99c658bbe810d0d9db4046e58
-SHA1: 9628ae3121faf10420ab52a9c7573a736a70fa07
-SHA256: f4a1c250af67279f7a138203fdaf06966b426c2e2a5b4d3d21aa35c571ec9b8c
-Section: Netskao-Tweaks
-Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具，此版本由站长完整汉化并修改优化。修改优化:增加简单版降级应用，增加可选向下滑动唤出，增加查看应用加密状态，增加面板可选去除面板分割线，增加长按面板图标以安全模式启动，修改原版卸载应用为真实卸载不保留数据，修改原版清除缓存后未同步刷新总数据显示问题，修复原版更多信息页面长按复制的信息错误问题，修改原版重置数据为包括重置程序组内文件夹数据，修改原版重置数据栏数据大小显示为包括程序组内文件夹数据，修改原版重置数据后未同步刷新缓存数据显示和权限个数显示问题，修改原版在非AppStore中下载的应用唤出时无法使用重置数据/重置权限/卸载应用(修改后仅在系统应用上禁止)
-Author: Fouad Raheb
-Name: AppData-Rootless
 
 Package: netskao.autoclosefolder
 Version: 1.1-2
@@ -3108,23 +2999,6 @@ Homepage: https://tigisoftware.com/cydia/
 Description: Filza unlock full functionality, the main program please install in the official source
 Author: Netskao
 Name: Filza Crack
-
-Package: netskao.filzacrack-rootless
-Version: 1.1-8
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 72
-Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
-Filename: ./debs/netskao.filzacrack-rootless_1.1-8_iphoneos-arm64.deb
-Size: 5124
-MD5sum: 229c12f843d8f68e71a2c1459a40e6ff
-SHA1: 839f19211c34754ca88b9a14194cef8a63c4174f
-SHA256: c88951669408509bd2b3d324c72f93baad62229f227c02279c9a85d8621c97a0
-Section: Netskao-Cracks
-Homepage: https://tigisoftware.com/cydia/
-Description: Filza unlock full functionality, the main program please install in the official source
-Author: Netskao
-Name: Filza Crack-Rootless
 
 Package: netskao.flexlist
 Version: 1.3-8
@@ -3675,22 +3549,6 @@ Description: A better way to multitask! Fix support for iOS15+
 Author: c1d3r
 Name: PullOver Pro
 
-Package: netskao.qqnotiavatar
-Version: 1.1-7
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 236
-Depends: firmware (>= 15.0), firmware (<< 16.0), mobilesubstrate
-Filename: ./debs/netskao.qqnotiavatar_1.1-7_iphoneos-arm64.deb
-Size: 38684
-MD5sum: 3b6d4e51ad6fd1e9241fd0cea57264e6
-SHA1: 89800f87ea52d99fad2aa15ddea7a9d0abd0c818
-SHA256: 2b1126e8ba10598c07f83b09629cea58106137e98869e29e77d43db253073ed0
-Section: Netskao-Tweaks
-Description: Display Notification Avatars for QQ App using iOS15 APIs
-Author: Netskao
-Name: QQNotiAvatar
-
 Package: netskao.quantumultxlauncher
 Version: 1.1-2
 Architecture: iphoneos-arm
@@ -3772,23 +3630,6 @@ Description: Small Notification Banners. Support iOS13-15
 Author: Netskao
 Name: SmallBanners
 
-Package: netskao.smallbanners-rootless
-Version: 1.2-6
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 1444
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: it.dreamcode.picobanners2, netskao.picobanners2
-Filename: ./debs/netskao.smallbanners-rootless_1.2-6_iphoneos-arm64.deb
-Size: 366452
-MD5sum: 0bc6a9504e9e50d131fe0c978c86b5e4
-SHA1: f760f6e7306ea56b605a906e79d5391902f0092f
-SHA256: 4709ee1a341dd55d436c94afdaae24e34f4c8b5492f6a7babd5e2f8460b92035
-Section: Netskao-Tweaks
-Description: Small Notification Banners
-Author: Netskao
-Name: SmallBanners-Rootless
-
 Package: netskao.storeswitchaccounts
 Version: 1.1-2
 Architecture: iphoneos-arm
@@ -3804,22 +3645,6 @@ Section: Netskao-Tweaks
 Description: Conveniently switch between logged-in accounts, long press the desktop AppStore icon to switch
 Author: Netskao
 Name: StoreSwitchAccounts
-
-Package: netskao.storeswitchaccounts-rootless
-Version: 1.1-2
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 232
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/netskao.storeswitchaccounts-rootless_1.1-2_iphoneos-arm64.deb
-Size: 51584
-MD5sum: d5e61f841f2af5c7e205c2cfd011d7f8
-SHA1: 91a883636e15315795f73bfb849321bcc1edf512
-SHA256: df3dc1357b7aee13fe1d1bf2d90e3e876454b80b55b863942851828ec7882c6d
-Section: Netskao-Tweaks
-Description: Conveniently switch between logged-in accounts, long press the desktop AppStore icon to switch
-Author: Netskao
-Name: StoreSwitchAccounts-Rootless
 
 Package: netskao.tinyccmodules-rootless
 Version: 1.1-1
@@ -3919,41 +3744,6 @@ Section: Netskao-Tweaks
 Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
 Author: Netskao
 Name: 微信净化
-
-Package: netskao.wcpureextension-rootless
-Version: 4.2-6
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 19660
-Depends: mobilesubstrate, firmware (>= 15.0)
-Conflicts: netskao.wechatpurification-rootless
-Replaces: netskao.wechatpurification-rootless
-Provides: netskao.wechatpurification-rootless
-Filename: ./debs/netskao.wcpureextension-rootless_4.2-6_iphoneos-arm64.deb
-Size: 7084492
-MD5sum: 2419d66b639cf5380bce669e9dc80c0d
-SHA1: 3a6c7410c3ae31bcc4e7ee5e6022c605c973d370
-SHA256: 9df8a617821624f60c67f2b959b594d149a64573e3bddb6d80fa870668ae4b80
-Section: Netskao-Tweaks
-Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
-Author: Netskao
-Name: 微信净化-Rootless
-
-Package: netskao.wechatnotiavatar
-Version: 1.1-7
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 1140
-Depends: firmware (>= 15.0), firmware (<< 16.0), mobilesubstrate
-Filename: ./debs/netskao.wechatnotiavatar_1.1-7_iphoneos-arm64.deb
-Size: 222180
-MD5sum: 2a1ba05c730282467bd4332b2fdc37e3
-SHA1: 57d4c0ff05b2b2e6cff7d326be18cb79e1505589
-SHA256: 3aa65a003bdad04f2345898cf53989a7b4fff20fb91b08f935b4791038eb9a2c
-Section: Netskao-Tweaks
-Description: Display Notification Avatars for WeChat App using iOS15 APIs
-Author: Netskao
-Name: WeChatNotiAvatar
 
 Package: netskao.wechatscan
 Version: 1.2-2
@@ -4177,20 +3967,6 @@ Author: By-Lengran
 Icon: file:///Library/PreferenceBundles/DoubleTapLockPrefs.bundle/icon@2x.png
 Name: DoubleTapLock 汉化包
 
-Package: repo.lengran.35updatesblock
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.35updatesblock_1.0_iphoneos-arm.deb
-Size: 1252
-MD5sum: 27e5af911aed9b75d91d58510851cbb9
-SHA1: c57fc480384393b4b561509828500c03f270c473
-SHA256: fb18bcab55499705e095c442801ad1e54daa66078d92485f49fd359eecbb1bee
-Section: Tweaks
-Description: 针对XinaA15越狱公测阶段，屏蔽Procursus源自带的35个更新。卸载插件后即可恢复，生效需要重启Sileo。
-Author: By-Lengran
-Name: XinaA15 越狱屏蔽更新
-
 Package: repo.lengran.Killxpro.cn
 Version: 2.1.2
 Architecture: iphoneos-arm
@@ -4301,38 +4077,6 @@ Description: AIM 汉化包
 Author: 妖刀
 Icon: file:///Library/PreferenceBundles/AIMPrefs.bundle/icon@2x.png
 Name: AIM 汉化包
-
-Package: repo.lengran.airpodpopupconnect.cn
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.nicho1asdev.airpodpopupconnect
-Filename: ./debs/repo.lengran.airpodpopupconnect.cn_1.1_iphoneos-arm.deb
-Size: 1590
-MD5sum: 26de68bc8dde75545a68d970e337ec6b
-SHA1: 96b529a62b965ea7099cce001eca2f8289fd8ac1
-SHA256: 140c35b9e2f7ff4eed0f1032318801f980e0727cea0968253fd0ac7316f5c49b
-Section: 汉化
-Description: AirPopupConnect 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/AirPopupConnectPrefs.bundle/icon@2x.png
-Name: AirPopupConnect 汉化包
-
-Package: repo.lengran.airpodscaselowbattery.cn
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: me.scenicjaguar101.tweak.airpodscaselowbattery
-Filename: ./debs/repo.lengran.airpodscaselowbattery.cn_1.0.0_iphoneos-arm.deb
-Size: 1488
-MD5sum: 842599f59cf12a492262569bc1840d4c
-SHA1: c7afea57c47ae2f52e49a24f002e20842dafa37a
-SHA256: 3f0237c1fa9e4355e6b35a4a553a2ccffc1865cf94f2c4bde3dd36fee65dabbc
-Section: 汉化
-Description: AirPods Case Low Battery 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/AirPodsCaseLowBatteryPrefs.bundle/icon@2x.png
-Name: AirPods Case Low Battery 汉化包
 
 Package: repo.lengran.ampere.cn
 Version: 1.0.5
