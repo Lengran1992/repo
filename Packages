@@ -1,33 +1,3 @@
-Package: Evolve
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: Lengran
-Filename: ./debs/Evolve_2.0.deb
-Size: 2145988
-MD5sum: ee1c0a09cc7ea2ffcce4aae0521f469b
-SHA1: 2ca36dbaf735e1edd9b0f47a09a752c031b3272f
-SHA256: 06105becb7a770ee155687eb26b14c66c7b293d2729b6b2eb48708fd8f5ca112
-Section: Themes
-Description: Evolve 主题，配合 Anemone 或者 SnowBoard 使用。
-Author: By-Lengran
-Depiction: Evolve
-Name: Evolve
-
-Package: Veexillum
-Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: Lengran
-Filename: ./debs/Veexillum_1.3.deb
-Size: 49040492
-MD5sum: 2bb2a0f3b91f70daa633d1057e3b429b
-SHA1: bfbdaea6ff2a256a1d685f383c55758bd8a69a89
-SHA256: 2139a8fd3325792d0a4f190cd2f905bf0e529a6d5d7989b2907034f775b3d3ea
-Section: Themes
-Description: Veexillum 主题，配合 Anemone 或者 SnowBoard 使用。
-Author: By-Lengran
-Depiction: Veexillum
-Name: Veexillum
-
 Package: ch.xxtou.hudapp
 Version: 1.11.11
 Architecture: iphoneos-arm64
@@ -39,22 +9,6 @@ Size: 133172
 MD5sum: 64d4245d79781b33b09e0699086081a2
 SHA1: 3e693bf2d830c853215dd9b18a9219aac4c7dada
 SHA256: d900cbde9ce34e3a833af1a1b2c612ee2b60ac2f527cc98d8a5e46d745a45cd6
-Section: Tweaks
-Description: Troll your speed, but jailbroken.
-Author: Lessica <82flex@gmail.com>
-Name: TrollSpeed
-
-Package: ch.xxtou.hudapp
-Version: 1.11.11
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 428
-Depends: firmware (>= 14.0)
-Filename: ./debs/ch.xxtou.hudapp_1.11.11_iphoneos-arm.deb
-Size: 133114
-MD5sum: 805d356557dd53cd0d6594b83a80bce1
-SHA1: 1075f2e8e63ea03fedcc02e7422793cc2a05d27f
-SHA256: ade2ca7a73cafd2c0457b08e772688b8b9339a4d4ae76f59115945a0363dd8a3
 Section: Tweaks
 Description: Troll your speed, but jailbroken.
 Author: Lessica <82flex@gmail.com>
@@ -76,38 +30,6 @@ Description: Troll your speed, but jailbroken.
 Author: Lessica <82flex@gmail.com>
 Name: TrollSpeed
 
-Package: ch.xxtou.hudapp
-Version: 1.11.9
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 428
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.7000)
-Filename: ./debs/ch.xxtou.hudapp_1.11.9_iphoneos-arm.deb
-Size: 131308
-MD5sum: c5d10b7f36cc280d6951ae7ec3b1bb7a
-SHA1: be2326ceb479c19a2e6a0f88219653f85a4d1874
-SHA256: a65d61cabd3aac175178550dabafd47b2ae4bc0e3a8efb1e27052bb73b0bd89d
-Section: Tweaks
-Description: Troll your speed, but jailbroken.
-Author: Lessica <82flex@gmail.com>
-Name: TrollSpeed
-
-Package: ch.xxtou.hudapp.jb
-Version: 1.12.0
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 428
-Depends: firmware (>= 14.0)
-Filename: ./debs/ch.xxtou.hudapp.jb_1.12.0_iphoneos-arm.deb
-Size: 133344
-MD5sum: 657f9715dd5af863fb93e04db9da87c6
-SHA1: 8a3025a3a8c5c2f55a095ed76ba63d2362dd723b
-SHA256: fae2827cf6f46fcc18fc02cc504a74f94434fc9856c37a7cee707ff77991356d
-Section: Tweaks
-Description: Troll your speed, but jailbroken.
-Author: Lessica <82flex@gmail.com>
-Name: TrollSpeed JB
-
 Package: ch.xxtou.hudapp.jb
 Version: 1.12.0
 Architecture: iphoneos-arm64
@@ -119,22 +41,6 @@ Size: 133358
 MD5sum: 734d3cf5df14a63e6c544f0640707b67
 SHA1: 209694004953474c5fb829919fa4a20ce68063d7
 SHA256: 0ff20e4bf262eacbe82912eb74920740d042eadec548a960e33990c41b611c66
-Section: Tweaks
-Description: Troll your speed, but jailbroken.
-Author: Lessica <82flex@gmail.com>
-Name: TrollSpeed JB
-
-Package: ch.xxtou.hudapp.jb
-Version: 1.12.1
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 636
-Depends: firmware (>= 14.0)
-Filename: ./debs/ch.xxtou.hudapp.jb_1.12.1_iphoneos-arm.deb
-Size: 161720
-MD5sum: 8b7f676fa2efcc5f3471bbe6655ee0cc
-SHA1: 48984dfcc1073d954a47d2aecaac818e76261cbc
-SHA256: bc23b786e2d0558a517893f5bd28b59e52c87d4c028d59f335495be83bd211d6
 Section: Tweaks
 Description: Troll your speed, but jailbroken.
 Author: Lessica <82flex@gmail.com>
@@ -156,38 +62,6 @@ Description: Troll your speed, but jailbroken.
 Author: Lessica <82flex@gmail.com>
 Name: TrollSpeed JB
 
-Package: chaoge.AlDente
-Version: 0.1-1
-Architecture: iphoneos-arm
-Maintainer: chaoge
-Depends: firmware (>= 5.0)
-Filename: ./debs/chaoge.AlDente_0.1-1_iphoneos-arm.deb
-Size: 2448060
-MD5sum: f3dff60fa132287f549bdbe2bb4ec401
-SHA1: f8ffff30e20f896fcb3a389cd3a83818c274ffc7
-SHA256: 02294055f7b29912e0c9d3a47e6310d68f8932dfa828b03b474677cc2f5010ff
-Section: System
-Priority: optional
-Description: AlDente
-Author: chaoge
-Name: AlDente
-
-Package: chaoge.AlDente
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: chaoge
-Depends: firmware (>= 5.0)
-Filename: ./debs/chaoge.AlDente_1.1_iphoneos-arm.deb
-Size: 2282556
-MD5sum: 26b3f6af5b1857b32d41df7762c69c36
-SHA1: 61e3970226b21ee3c7e6e3f81f9ee9ecbfc69896
-SHA256: 95b59ec075fe8a1f5728dd95113ec1d6cffdc12951db4c12e3f6a2fe42809092
-Section: System
-Priority: optional
-Description: AlDente
-Author: chaoge
-Name: AlDente
-
 Package: chaoge.ChargeLimiter
 Version: 1.3
 Architecture: iphoneos-arm64
@@ -198,22 +72,6 @@ Size: 1328732
 MD5sum: 49db02208f842320d6ce21c96edb5f57
 SHA1: d0fbbba4297b21c0ea0f1b2fb3d42c1ba3b5d011
 SHA256: 45a9745a9d42c2ca87c2337b07dab9a1339bfeb75b055154e57aa00e00d732d4
-Section: System
-Priority: optional
-Description: ChargeLimiter
-Author: chaoge
-Name: ChargeLimiter
-
-Package: chaoge.ChargeLimiter
-Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: chaoge
-Depends: firmware (>= 5.0)
-Filename: ./debs/chaoge.ChargeLimiter_1.3_iphoneos-arm.deb
-Size: 1442922
-MD5sum: df561983fb2ae99ca2e6b046c6952b10
-SHA1: 6930c86637e447b54f1e94f8c743c0ccae851d38
-SHA256: 39b3ba4f3895fd676688f7ae44268c2f1ea6b52a024bf03ab41a47acb7dc0513
 Section: System
 Priority: optional
 Description: ChargeLimiter
@@ -237,22 +95,6 @@ Author: chaoge
 Name: ChargeLimiter
 
 Package: chaoge.ChargeLimiter
-Version: 1.4
-Architecture: iphoneos-arm
-Maintainer: chaoge
-Depends: firmware (>= 5.0)
-Filename: ./debs/chaoge.ChargeLimiter_1.4_iphoneos-arm.deb
-Size: 1901926
-MD5sum: 3386413bb9fd9a596c9e158db8c01e91
-SHA1: 798dad406adb6e2a418171385227f597f519efe6
-SHA256: 554e6d771ee3a7bfcb776b2ded5bac042f79cadc99de48c2fe4cb3db1b168b8f
-Section: System
-Priority: optional
-Description: ChargeLimiter
-Author: chaoge
-Name: ChargeLimiter
-
-Package: chaoge.ChargeLimiter
 Version: 1.4.1
 Architecture: iphoneos-arm64
 Maintainer: chaoge
@@ -263,38 +105,6 @@ MD5sum: 74f08569afff674b37e3edaa7d0d4332
 SHA1: bb980d59881532f1b3eeda8b21a1536ce71aea4b
 SHA256: 17c24dcaaf556bd910122d0a6203a47c0cf009f908882b7c677b049773cd69ea
 Section: System
-Priority: optional
-Description: ChargeLimiter
-Author: chaoge
-Name: ChargeLimiter
-
-Package: chaoge.ChargeLimiter
-Version: 1.4.1
-Architecture: iphoneos-arm
-Maintainer: chaoge
-Depends: firmware (>= 5.0)
-Filename: ./debs/chaoge.ChargeLimiter_1.4.1_iphoneos-arm.deb
-Size: 2140008
-MD5sum: 40d1ec9c852ed2ae6aee4232bf8368c0
-SHA1: 1f1b159131dd548712769bd4d0dcdc94dc8d694a
-SHA256: 65ada13fe9fea756f1e5f31b3b21e625bae77f8d0727e150e965f09fec8d77c0
-Section: System
-Priority: optional
-Description: ChargeLimiter
-Author: chaoge
-Name: ChargeLimiter
-
-Package: chaoge.ChargeLimiter
-Version: 1.5
-Architecture: iphoneos-arm
-Maintainer: chaoge
-Depends: firmware (>= 5.0)
-Filename: ./debs/chaoge.ChargeLimiter_1.5_iphoneos-arm.deb
-Size: 2035198
-MD5sum: 372f16890ec303622c67207c79e226ed
-SHA1: 7b84d74ff7570006690a975eb30fabb90c38a985
-SHA256: a16f500576832df9e32b4e96849ff440c66faa512d1d328f6adf3b729622d399
-Section: Applications
 Priority: optional
 Description: ChargeLimiter
 Author: chaoge
@@ -332,22 +142,6 @@ Description: ChargeLimiter
 Author: chaoge
 Name: ChargeLimiter
 
-Package: chaoge.ChargeLimiter
-Version: 1.6.1
-Architecture: iphoneos-arm
-Maintainer: chaoge
-Depends: firmware (>= 5.0)
-Filename: ./debs/chaoge.ChargeLimiter_1.6.1_iphoneos-arm.deb
-Size: 2437710
-MD5sum: ce549d085a0771595644076bcb26896e
-SHA1: caa7b7facc8588eb81bb4a9f603b5b0ed8284b3d
-SHA256: 249a9edf82a1b03580b79fc9a60bf6483997773091a9b0b010554cbf12c1064b
-Section: Applications
-Priority: optional
-Description: ChargeLimiter
-Author: chaoge
-Name: ChargeLimiter
-
 Package: cn.Bswbw.time
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -362,24 +156,6 @@ SHA256: 3b4aeb3e2b81e56f8e5ecd073b16bc9916a14ca436e9fa9ff0818ba62409ab30
 Description: 微信净化，抖音净化解除时间限制
 Author: gblw
 Name: 解除时间限制
-
-Package: co.vulcanlabs.moodtracker
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Ravand
-Installed-Size: 280
-Depends: mobilesubstrate
-Filename: ./debs/co.vulcanlabs.moodtracker_1.0.0_iphoneos-arm.deb
-Size: 18356
-MD5sum: 548833d8369fbe12f08f3a1b110c639d
-SHA1: f2b0bc73dff57388c01de30f397b7925a6366098
-SHA256: 2eb919243ffa290e5b5dc8ba1654c01416906261b83a4d24aad980c2c20a6691
-Section: Tweaks
-Description: 破解补丁作者是 Ravand
-Author: Ravand <Ravand0010@gmail.com>
-Depiction: https://github.com/Ravandr
-Name: AI Smith Premium
-Sileodepiction: https://github.com/Ravandr
 
 Package: co.vulcanlabs.moodtracker
 Version: 1.0.0
@@ -404,7 +180,7 @@ Version: 1.0-2+debug
 Architecture: iphoneos-arm64
 Maintainer: 来了老弟 h_h_x_t
 Depends: mobilesubstrate
-Filename: ./debs/com.34306.betaalertremove_1.0-2+debug_iphoneos-arm64.deb.deb
+Filename: ./debs/com.34306.betaalertremove_1.0-2+debug_iphoneos-arm64.deb
 Size: 3708
 MD5sum: 2ab7fa5b5770058687627059029c789d
 SHA1: a2c71491bf6112514c05d45e26e50522daa545a0
@@ -413,22 +189,6 @@ Section: rootless修复插件
 Description: Beta alert remove
 Author: 34306
 Name: BetaAlertRemove
-
-Package: com.34306.mineland
-Version: 1.0-1+debug
-Architecture: iphoneos-arm64e
-Maintainer: Little 34306
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
-Filename: ./debs/com.34306.mineland_1.0_iphoneos-arm64e.deb
-Size: 5426
-MD5sum: 874f0fd67dfe42f883d4a0e0109aa15f
-SHA1: 0667563453b38ad565aeb939ed2e572025cda016
-SHA256: 9d44fad725b0865ec6c7f9f58919935044d3e233ab771c63aac188287f42ec67
-Section: Tweaks
-Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
-Author: 34306, KhanhDuyTran
-Name: Mineland
 
 Package: com.34306.mineland
 Version: 1.0-5+debug
@@ -463,22 +223,6 @@ Author: 34306, KhanhDuyTran
 Name: Mineland
 
 Package: com.34306.mineland
-Version: 1.1-2+debug
-Architecture: iphoneos-arm64e
-Maintainer: Little 34306
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
-Filename: ./debs/com.34306.mineland_1.1_iphoneos-arm64e.deb
-Size: 5428
-MD5sum: b6e47568f2336a031dd3034bb41967ca
-SHA1: d6bbb987a3020877322d168de3aa4f68e2e8cfa9
-SHA256: 1cadc4c7b3a84b21a341f723400c88423fa926a8269fac451b63e268ab741628
-Section: Tweaks
-Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
-Author: 34306, KhanhDuyTran
-Name: Mineland
-
-Package: com.34306.mineland
 Version: 2.0-6+debug
 Architecture: iphoneos-arm64
 Maintainer: Little 34306
@@ -489,22 +233,6 @@ Size: 43446
 MD5sum: 3926db983c726f7f3504b903399f2496
 SHA1: 2cc0cb705c5dff32b5e90ad9bcfe95cca4fb77fc
 SHA256: d3a3f5f8c54b359de2ae916287c3f006f95699637127b0eca1d238db34fd9458
-Section: Tweaks
-Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
-Author: 34306, KhanhDuyTran
-Name: mineland
-
-Package: com.34306.mineland
-Version: 2.0-7+debug
-Architecture: iphoneos-arm64e
-Maintainer: Little 34306
-Installed-Size: 388
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
-Filename: ./debs/com.34306.mineland_2.0_iphoneos-arm64e.deb
-Size: 43418
-MD5sum: e664ec4c8ee99d334786aeba46f7ff82
-SHA1: 885e19b84187169ef4d9b60777e9647eff8b33ca
-SHA256: 81fe82734f39439003964dc6f5435fb93bfec2f134dd26beb91fd0f9b5d3a37c
 Section: Tweaks
 Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
 Author: 34306, KhanhDuyTran
@@ -543,54 +271,6 @@ Author: 34306
 Name: watched
 
 Package: com.34306.watched
-Version: 1.0-5+debug
-Architecture: iphoneos-arm
-Maintainer: Little 34306
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Filename: ./debs/com.34306.watched_1.0_rootful_iphoneos-arm.deb
-Size: 5506
-MD5sum: c393ea9bcd0beebf86c5e38bdbfee77f
-SHA1: e7db9d6b962a9fceb3699656150d42a3e618de1b
-SHA256: cf8c12b6b3b7ba2377a390e88810823f85610e9466648e6007febe0e3d2fa6a0
-Section: Tweaks
-Description: Paired your Apple Watch on new watchOS with older iOS
-Author: 34306
-Name: watched
-
-Package: com.34306.watched
-Version: 1.1-10+debug
-Architecture: iphoneos-arm64e
-Maintainer: Little 34306
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
-Filename: ./debs/com.34306.watched_1.1_roothide_iphoneos-arm64e.deb
-Size: 5792
-MD5sum: b133709066391ab7b0cd97ec759d74d2
-SHA1: 3d52afa5f0d3243ebd360e893636dbbb96ebaf4a
-SHA256: 5fcdf7ead8d2c005a4855538828c94a448442af0c51a402594d4c598f0f47d5d
-Section: Tweaks
-Description: Paired your Apple Watch on new watchOS with older iOS
-Author: 34306
-Name: watched
-
-Package: com.34306.watched
-Version: 1.1-8+debug
-Architecture: iphoneos-arm
-Maintainer: Little 34306
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
-Filename: ./debs/com.34306.watched_1.1_rootful_iphoneos-arm.deb
-Size: 5778
-MD5sum: d554b349eaec33e19ce3aeb1ab0a2db5
-SHA1: 5dc3aa40ab19a5436c38f85df27f93a6c2ef073c
-SHA256: ea9920a93e38b56c5c87acb83d839cd5f4538c412472c7dc1ad0bfff674db356
-Section: Tweaks
-Description: Paired your Apple Watch on new watchOS with older iOS
-Author: 34306
-Name: watched
-
-Package: com.34306.watched
 Version: 1.1-9+debug
 Architecture: iphoneos-arm64
 Maintainer: Little 34306
@@ -606,21 +286,181 @@ Description: Paired your Apple Watch on new watchOS with older iOS
 Author: 34306
 Name: watched
 
-Package: com.dvntm.infuseplus
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: dvntm
-Installed-Size: 252
-Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.infuseplus_1.0_iphoneos-arm.deb
-Size: 103592
-MD5sum: 8833a540c031e5d700ec1439f39498ea
-SHA1: dc423a14753cf4707577728f346350e4b9619ef7
-SHA256: b0995dcf88e847fb2af31845f8525db01e4aeaa4c82ca71a11ed49404682babd
+Package: com.82flex.removewidgetbg
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 200
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.82flex.removewidgetbg_0.0.2_iphoneos-arm64.deb
+Size: 7550
+MD5sum: ab3a3169fe164b33ea79bed390e41257
+SHA1: 7c475aacde35b44c6cf97b08fae49a0d4371f4d8
+SHA256: d64e5c30c74b0b1fb3f27d3c54e8bf3aa93dc4a3787467279df485eb8d4cc773
 Section: Tweaks
-Description: Enhancer for Infuse app
-Author: dvntm
-Name: Infuse Plus
+Description: 已适配系统自带小组件和 Top Widgets⁺ 小组件，移除小组件背景，让桌面更干净。
+Author: Lessica <82flex@gmail.com>
+Name: 移除小组件背景
+
+Package: com.82flex.removewidgetbg
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 200
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.82flex.removewidgetbg_0.0.3_iphoneos-arm64.deb
+Size: 8174
+MD5sum: 6114feccfae02ed8c084ad26507e9b49
+SHA1: 0ffb57435d5fd57be6055f261f6053168804e21f
+SHA256: 524e345d4c893d6bde475913c7ab73e1b4810c5978450226dadb3eb7eae722ff
+Section: Tweaks
+Description: 已适配系统自带小组件和 Top Widgets⁺ 小组件，移除小组件背景，让桌面更干净。
+Author: Lessica <82flex@gmail.com>
+Name: 移除小组件背景
+
+Package: com.82flex.removewidgetbg
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 200
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.82flex.removewidgetbg_0.0.4_iphoneos-arm64.deb
+Size: 8798
+MD5sum: 6f0a2476e66bf4f1aff7200478207969
+SHA1: 1d29318504108b09f7b278aee6cdbe4b50ce51aa
+SHA256: 34e0c7e27f429157fe9b6ec23e9b4fc6bdce016be40b74b4ebb0e70eaede73a5
+Section: Tweaks
+Description: 已适配系统自带小组件和 Top Widgets⁺ 小组件，移除小组件背景，让桌面更干净。
+Author: Lessica <82flex@gmail.com>
+Name: 移除小组件背景
+
+Package: com.82flex.removewidgetbg
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 420
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Filename: ./debs/com.82flex.removewidgetbg_1.0_iphoneos-arm64.deb
+Size: 28872
+MD5sum: 14a0d70db969197dadbfd3afac3cbf6d
+SHA1: 572be097fdb7b8e7977e0b401c8a26baef258827
+SHA256: 20a22e16ae930d522b83ff75e8c50ff234b731ba8fd61d7e5f1e33060e524a1c
+Section: Tweaks
+Description: 移除小组件背景，让桌面更干净。
+Author: Lessica <82flex@gmail.com>
+Name: 移除小组件背景
+
+Package: com.82flex.removewidgetbg
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 420
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Filename: ./debs/com.82flex.removewidgetbg_1.1_iphoneos-arm64.deb
+Size: 29436
+MD5sum: b837bfa91a38a8f90b03d5cbfb9dbe71
+SHA1: 4f0fd0116266fca4f2eec0301e7fcdba10acc566
+SHA256: 737396cbd5b296320251f6d6565f2f64e9bbe81c05069f9980214400c00b6537
+Section: Tweaks
+Description: 移除小组件背景，让桌面更干净。
+Author: Lessica <82flex@gmail.com>
+Name: 移除小组件背景
+
+Package: com.82flex.removewidgetbg
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 436
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
+Filename: ./debs/com.82flex.removewidgetbg_1.3_iphoneos-arm64.deb
+Size: 30074
+MD5sum: 52fe99462743af729b2579844a0de388
+SHA1: 452b2f456cf0c1b796a20017acc5d52fb8793817
+SHA256: ff4c716f469da80c818bcf3b4750cf59cb9a3503ce57aaf959a0dc8b9b82ddd7
+Section: Tweaks
+Description: 移除小组件背景，让桌面更干净。
+Author: Lessica <82flex@gmail.com>
+Name: 移除小组件背景
+
+Package: com.82flex.wtvrbglauncher
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.82flex.wtvrbglauncher_0.0.1_iphoneos-arm64.deb
+Size: 4708
+MD5sum: 3ade6ce40695209caed08fe5ef5d9b26
+SHA1: 5b8a03c6d0bf3aac15ee9cdbf5920b0dae3dfc30
+SHA256: 16f13e5c593cf135ce825b9471d08089b97c0690ede931309c4e93b9fac10730
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Lessica
+Name: WTVRBGLauncher
+
+Package: com.82flex.wtvrbglauncher
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.82flex.wtvrbglauncher_0.0.2_iphoneos-arm64.deb
+Size: 5426
+MD5sum: bbb1d87a0fdc8a47138f230f4768012e
+SHA1: 2531cfda53e7770d1b1dd45cc3edc5332f00cd69
+SHA256: 5345e8f514664a6ae0c315a834812bd74d75e5efc8d8cf22de9bdafbcaa349d9
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Lessica
+Name: WTVRBGLauncher
+
+Package: com.82flex.wtvrbglauncher
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.82flex.wtvrbglauncher_0.0.3_iphoneos-arm64.deb
+Size: 5720
+MD5sum: ee5af9622a0f30d1529130cb318a0988
+SHA1: 4add62a6fb9a2c72dd8d81273d9bb127aaa23d5d
+SHA256: 2ef224011db05f329c2a7a2b13176b4deb07268949bbd9d584daa25b3ac79d73
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Lessica
+Name: WTVRBGLauncher
+
+Package: com.82flex.wtvrbglauncher
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 400
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.82flex.wtvrbglauncher_1.0_iphoneos-arm64.deb
+Size: 22806
+MD5sum: 9dd40ee3a1f38d0309c5521c20427ee1
+SHA1: 6b1babb05c0d09eb0661921cd5a5ceac87bb70a6
+SHA256: 43a4b878940a5f986d26559b71d6e11d5c485e73836218082ea446622cdb1c04
+Section: Tweaks
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
+Author: Lessica
+Name: 语音转文字免跳转
+
+Package: com.82flex.wtvrbglauncher
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 404
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.82flex.wtvrbglauncher_1.1_iphoneos-arm64.deb
+Size: 23110
+MD5sum: f8d9cab6047df775de991cbf18485793
+SHA1: dc01469063c2181611cb9aeb3f881692676fa427
+SHA256: 2cbb75ef557754343f5f366b17fa0da794d56f1cb4ed5265427c54a305307bc4
+Section: Tweaks
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
+Author: Lessica
+Name: 语音转文字免跳转
 
 Package: com.dvntm.infuseplus
 Version: 1.0
@@ -649,42 +489,6 @@ Size: 103858
 MD5sum: 49fb9b5d729bce6cc460de6a54cf499b
 SHA1: 493b41ad9dfa7fc9b8e09d1cc960959432829656
 SHA256: 6beb9583654929a5bc57f7cc93dc6859f682b95ec36ea07e501d213dcea5d66e
-Section: Tweaks
-Description: Enhancer for Infuse app
-Author: dvntm
-Icon: https://i.imgur.com/C5MLSXo.png
-Name: Infuse Plus
-Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
-
-Package: com.dvntm.infuseplus
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: dvntm
-Installed-Size: 248
-Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.infuseplus_1.0.1_iphoneos-arm.deb
-Size: 103822
-MD5sum: 8153ece4e3539d874a5370e41e132949
-SHA1: 39fa32fd1103b10cb3a5e2b7ee7c1687668b468d
-SHA256: 31eaf653186d738d21f725705aec511abf0f568d7ba158888ab873d901ae7555
-Section: Tweaks
-Description: Enhancer for Infuse app
-Author: dvntm
-Icon: https://i.imgur.com/C5MLSXo.png
-Name: Infuse Plus
-Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
-
-Package: com.dvntm.infuseplus
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: dvntm
-Installed-Size: 252
-Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.infuseplus_1.0.2_iphoneos-arm.deb
-Size: 104462
-MD5sum: 3353f8cc1cf0ee92d3d35d958ae7e7cb
-SHA1: f3b62a398aacc0962193e78db05c88b81a419534
-SHA256: ae928e292af877326e0bcaaca36601560a41889412b47eaad3043baf37a844a2
 Section: Tweaks
 Description: Enhancer for Infuse app
 Author: dvntm
@@ -747,42 +551,6 @@ Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
 
 Package: com.dvntm.infuseplus
-Version: 1.1.2
-Architecture: iphoneos-arm
-Maintainer: dvntm
-Installed-Size: 316
-Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.infuseplus_1.1.2_iphoneos-arm.deb
-Size: 115984
-MD5sum: c224df2118100fb27ca84726fca72f96
-SHA1: 5b3c5d99e2470ac854b0e4f91161803328fd8da0
-SHA256: a58b222c7ed3039d3f32ba054cb603871eb7161b26018347f9c08ef97ffe5304
-Section: Tweaks
-Description: Enhancer for Infuse app
-Author: dvntm
-Icon: https://i.imgur.com/C5MLSXo.png
-Name: Infuse Plus
-Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
-
-Package: com.dvntm.infuseplus
-Version: 1.1.3
-Architecture: iphoneos-arm
-Maintainer: dvntm
-Installed-Size: 324
-Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.infuseplus_1.1.3_iphoneos-arm.deb
-Size: 114672
-MD5sum: a8f03e5383595cd0af38d3f7bd84b6ba
-SHA1: 9dbcc57b0868f7f6202e642d5e2ff01ca05d3140
-SHA256: 9a7fb551b3400e0108b616d324e2f309631a384789510fab253e24e347c66fb9
-Section: Tweaks
-Description: Enhancer for Infuse app
-Author: dvntm
-Icon: https://i.imgur.com/C5MLSXo.png
-Name: Infuse Plus
-Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
-
-Package: com.dvntm.infuseplus
 Version: 1.1.3
 Architecture: iphoneos-arm64
 Maintainer: dvntm
@@ -811,42 +579,6 @@ Size: 169452
 MD5sum: a03ea87289ad244ac8bea6a403a8bf3d
 SHA1: dde41fc7749c8ce0f65215408832f609ff31fd47
 SHA256: 47b478971cee6cb81e3c64b10d454fbac2c1385fda291bd69611bd54196aa361
-Section: Tweaks
-Description: Enhancer for Infuse app
-Author: dvntm
-Icon: https://i.imgur.com/C5MLSXo.png
-Name: Infuse Plus
-Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
-
-Package: com.dvntm.infuseplus
-Version: 1.1.4
-Architecture: iphoneos-arm
-Maintainer: dvntm
-Installed-Size: 496
-Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.infuseplus_1.1.4_iphoneos-arm.deb
-Size: 169520
-MD5sum: 6889b5dc7703e7ca45b765ca458b7cef
-SHA1: 18823cb8d09ad1e7dbf602d72c9333ef4b5ee8bc
-SHA256: 250038da8b78cfdc81de887aeb6c0cc5bd383808e44bbe73efece9fc1278d3f5
-Section: Tweaks
-Description: Enhancer for Infuse app
-Author: dvntm
-Icon: https://i.imgur.com/C5MLSXo.png
-Name: Infuse Plus
-Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
-
-Package: com.dvntm.infuseplus
-Version: 1.1.5
-Architecture: iphoneos-arm
-Maintainer: dvntm
-Installed-Size: 496
-Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.infuseplus_1.1.5_iphoneos-arm.deb
-Size: 171404
-MD5sum: 15961abaf7641548cc98f8c164ae03e6
-SHA1: 55dc9599d45abc7ec74803f176a527bb5e2e3fc9
-SHA256: 9303b5a4e70faad65ab078db8185d6c5d519e3e160baf1d347e0923f46e77506
 Section: Tweaks
 Description: Enhancer for Infuse app
 Author: dvntm
@@ -891,24 +623,6 @@ Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
 
 Package: com.dvntm.infuseplus
-Version: 1.1.6
-Architecture: iphoneos-arm
-Maintainer: dvntm
-Installed-Size: 500
-Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.infuseplus_1.1.6_iphoneos-arm.deb
-Size: 167084
-MD5sum: 01431ac471d4e5e5f903a23ee0c61c65
-SHA1: 6f4279c747c51f035ea22e42e9392378852cf1e0
-SHA256: b690fc7f19958e534b001952950ec35300599b7b9e29aad439e08c9476207ec6
-Section: Tweaks
-Description: Enhancer for Infuse app
-Author: dvntm
-Icon: https://i.imgur.com/C5MLSXo.png
-Name: Infuse Plus
-Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
-
-Package: com.dvntm.infuseplus
 Version: 1.2.0
 Architecture: iphoneos-arm64
 Maintainer: dvntm
@@ -919,24 +633,6 @@ Size: 125280
 MD5sum: fee899c4a2b4254669f2327b7d349bf3
 SHA1: eb98046e58e4b45e2f3beacec785cf8180c863bf
 SHA256: c8c8af3b38c8dcc2c4f5511dd20ee05e62bfaa9cbc3e9026a6dbe4280198721a
-Section: Tweaks
-Description: Enhancer for Infuse app
-Author: dvntm
-Icon: https://i.imgur.com/C5MLSXo.png
-Name: Infuse Plus
-Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
-
-Package: com.dvntm.infuseplus
-Version: 1.2.0
-Architecture: iphoneos-arm
-Maintainer: dvntm
-Installed-Size: 420
-Depends: mobilesubstrate
-Filename: ./debs/com.dvntm.infuseplus_1.2.0_iphoneos-arm.deb
-Size: 125208
-MD5sum: ff77f13a3b6d591b582a2e36cfa04023
-SHA1: 4c7a19ca3c8b81ad22e6e172c484f9c7cf3fd262
-SHA256: 20e9444451ba78c88ba6e609a85e49ce185f2456a77b163daa9af590885b2945
 Section: Tweaks
 Description: Enhancer for Infuse app
 Author: dvntm
@@ -1031,24 +727,6 @@ Depiction: https://repo.lenglengyu.top/packageInfo/bilibilihz.html
 Name: 哔哩哔哩解锁大会员画质-Rootless
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/bilibilihzsileo
 
-Package: com.lenglengyu.xmlyautoplay
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: lenglengyu <lenglengyu@126.com>
-Installed-Size: 208
-Depends: mobilesubstrate
-Filename: ./debs/com.lenglengyu.xmlyautoplay_0.0.1_iphoneos-arm.deb
-Size: 32392
-MD5sum: 14b38952595886e4a3a1d1b747c2fd23
-SHA1: 292a574e7eb3b7f896d0dc94c9f95b48643449c1
-SHA256: f34c6684f2a4aa8c81d37beffecfc5781019a09a7f604e2b6c6961f63996e87e
-Section: Tweaks
-Description: 打开APP后自动播放。
-Author: lenglengyu
-Depiction: https://repo.lenglengyu.top/packageInfo/xmlyautoplay.html
-Name: 喜马拉雅自动播放
-Sileodepiction: https://repo.lenglengyu.top/packageInfo/xmlyautoplaysileo
-
 Package: com.nightwind.sileorespringfix
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -1064,61 +742,6 @@ Section: Tweaks
 Description: Changes "sbreload" in Sileo to "killall SpringBoard" to avoid a bug in Dopamine where a black screen happens.
 Author: Nightwind
 Name: SileoRespringFix
-
-Package: com.pxcex.cydia3dtouch
-Version: 0.0.4
-Architecture: iphoneos-arm
-Maintainer: pxcex
-Installed-Size: 144
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/Cydia3DTouch_0.04.deb
-Size: 14748
-MD5sum: 97e4785581ee397024e38a7281c29705
-SHA1: ba78755ba286ad483d720084cca14265164fc83b
-SHA256: ccf4ff9708269ff431eea821f273998d5a080420beeaf99e59f918e78040de5c
-Section: Tweaks
-Description: add 3D Touch gestures to Cydia IOS 12 (unc0ver).
-Author: pxcex
-Name: Cydia3DTouch 12
-
-Package: com.snail.aemuloautoemulate
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Snail <mu514983786@gmail.com>
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/com.snail.aemuloautoemulate_1.0.0_iphoneos-arm.deb
-Size: 3024
-MD5sum: c48befda202119b7c5a84bb36b823866
-SHA1: 1850f6e2deaa763a2a344c8be6ef5c360dab057c
-SHA256: d1bf4c3e51fbda8e9c3a3287c3857bed2bf9bd971bfadfe4b6a4eb5ac9ba8105
-Section: 软件优化
-Homepage: https://repo.snailovet.com/
-Description: Aemulo打开时，自动模拟。 // When Aemulo is opened, it will emulate automaticlly.
- 重要的事情说三遍，这只是Aemulo的优化插件，请先下载Aemulo Trial。
- 重要的事情说三遍，这只是Aemulo的优化插件，请先下载Aemulo Trial。
- 重要的事情说三遍，这只是Aemulo的优化插件，请先下载Aemulo Trial。
-Author: Snail <mu514983786@gmail.com>
-Depiction: https://repo.snailovet.com/package/64
-Name: Aemulo自动模拟 // AemuloAutoEmulate
-
-Package: com.snail.allowlocationonce
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Snail <mu514983786@gmail.com>
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/com.snail.allowlocationonce_1.0.0_iphoneos-arm.deb
-Size: 3996
-MD5sum: 4f39f6586374463ca598472250faef98
-SHA1: 8ff40fdcd6813ea3b1a50daa3a91da90fd385b65
-SHA256: 346a10a593d71fb166b0919adccec4a7772325413648c93a8394cf348fae0f80
-Section: 系统优化
-Homepage: https://repo.snailovet.com/
-Description: 地理位置请求弹窗，自动"允许一次"。 // When Location request pop-up, Automatically "Allow once".
-Author: Snail <mu514983786@gmail.com>
-Depiction: https://repo.snailovet.com/package/62
-Name: 位置自动允许一次 // AllowLocationOnce
 
 Package: com.snail.allowlocationonce.rootless
 Version: 1.0.0
@@ -1154,23 +777,6 @@ Author: Snail <mu514983786@gmail.com>
 Depiction: https://repo.snailovet.com/package/103
 Name: 位置自动允许一次 // AllowLocationOnce
 
-Package: com.snail.easynotify
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Snail <mu514983786@gmail.com>
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/com.snail.easynotify_1.0.0_iphoneos-arm.deb
-Size: 7540
-MD5sum: e0250faf24e8734ac0e9391c72600bd1
-SHA1: e1c0fe357d4d3a5a8ed30b97af34c4a994d9cd94
-SHA256: 6b0a84150ebb47a9010a9ec3063cc0e2108b5c7667efee6ef7bd57de09c4ad60
-Section: 系统优化
-Description: 按压APP图标3D Touch菜单快速开关消息通知
- Press the app icon 3D Touch menu to quickly switch on/off message notifications for specificed app.
-Depiction: https://repo.snailovet.com/package/19
-Name: 3D开关APP消息通知
-
 Package: com.snail.easynotify.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -1186,24 +792,6 @@ Section: Rootless
 Description: 按压APP图标3D Touch菜单快速开关消息通知。此为rootless版本，不要安装错哦~
 Author: Snail <mu514983786@gmail.com>
 Name: 3D开关APP消息通知 EasyNotify
-
-Package: com.snail.homeremovediscover
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: Snail <mu514983786@gmail.com>
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/com.snail.homeremovediscover_1.0.2_iphoneos-arm.deb
-Size: 3764
-MD5sum: 03945989870f5d8239126db6361fe5ad
-SHA1: a893b006cdcdf77d2de797312f53735efafdf7c9
-SHA256: e60d7d446e29d7ab6fe1295ce48249018bfc9849a7af1f5b10d5f92c2032a56c
-Section: 系统优化
-Homepage: https://repo.snailovet.com/
-Description: 去掉家庭APP中的底栏的“发现”。// Remove the Home App Discover Tab.
-Author: Snail <mu514983786@gmail.com>
-Depiction: https://repo.snailovet.com/package/61
-Name: HomeRemoveDiscover
 
 Package: com.snail.homeremovediscover.rootless
 Version: 1.0.2
@@ -1221,22 +809,6 @@ Description: 去掉家庭APP中的底栏的“发现”。// Remove the Home App
  此为rootless版本，不要安装错哦~
 Author: Snail <mu514983786@gmail.com>
 Name: 家庭移除发现 HomeRemoveDiscover
-
-Package: com.snail.homeremoveexcepttips
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/com.snail.homeremoveexcepttips_0.0.1_iphoneos-arm.deb
-Size: 3776
-MD5sum: 28f6e4f2735f3f97e124389ab63d7d51
-SHA1: 4e4de07ff331b4065746c5159b3e12849081c642
-SHA256: f93821810743109db19d5cd807b0d73a88ca6c05b15eb978e17b6b39a81603cf
-Section: 系统优化
-Description: 去掉Home App中“配件尚未经过认证”的提示。
-Author: Snail <mu514983786@gmail.com>
-Name: HomeRemoveExcptTips
 
 Package: com.snail.photoskipdelandinfinitezoom.rootless
 Version: 0.0.1
@@ -1271,22 +843,6 @@ Description: 去掉QQ音乐首页启动广告。Remove the home ad of QQ Music.
 Author: Snail <mu514983786@gmail.com>
 Name: QQMusic去首页广告 // QQMusicNoAd
 
-Package: com.snail.smzdmnoad
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Snail <mu514983786@gmail.com>
-Installed-Size: 216
-Depends: mobilesubstrate
-Filename: ./debs/com.snail.smzdmnoad_0.0.1_iphoneos-arm.deb
-Size: 3712
-MD5sum: 359a20a65a82998a7a55b5c5484e498e
-SHA1: 039f1f3e5e6fa839bdb45ce710b562000fb85a1b
-SHA256: 610ac3a6d697b1c3b96ada5c5465b9be054b9d5dc29570c79681cd5ebc5f9ae2
-Section: 广告净化
-Description: 什么值得买APP去广告，支持所有版本。
-Author: Snail <snailsohi@gmail.com>
-Name: 什么值得买APP去广告
-
 Package: com.snail.smzdmnoad.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -1304,24 +860,6 @@ Description: 去掉什么值得买APP首页广告。Remove Home Ad of SMZDM App
 Author: Snail <mu514983786@gmail.com>
 Name: 什么值得买去首页广告 // SMZDMNOAD
 
-Package: com.snail.statusbarlunardate
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Snail <mu514983786@gmail.com>
-Installed-Size: 216
-Depends: mobilesubstrate
-Filename: ./debs/com.snail.statusbarlunardate_1.0.0_iphoneos-arm.deb
-Size: 7516
-MD5sum: 94f0ee0fb4f514e6999e8f1e6e3bbbf2
-SHA1: 9af1e6c821de28700e1beddc7264b048513d411e
-SHA256: 61dde69b5c92228195ca6c7b7dadedc4207f6d91503ffcdeec86a9d879f1675f
-Section: 系统优化
-Homepage: https://repo.snailovet.com/
-Description: 点击iOS顶部时间栏显示今日中国农历。// Tap Status Bar Time to show chinese today's lunardate.
-Author: Snail <mu514983786@gmail.com>
-Depiction: https://repo.snailovet.com/package/42
-Name: 点击时间栏显示农历 // StatusBarLunarDate
-
 Package: com.snail.statusbarlunardate.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -1337,344 +875,6 @@ Section: Rootless
 Description: 点击iOS顶部时间栏显示今日中国农历。此为rootless版本，不要安装错哦~ // Tap Status Bar Time to show chinese todays lunardate.
 Author: Snail <mu514983786@gmail.com>
 Name: 点击时间栏显示农历 StatusBarLunarDate
-
-Package: com.snail.xianyunoad
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Snail <mu514983786@gmail.com>
-Installed-Size: 216
-Depends: mobilesubstrate
-Filename: ./debs/com.snail.xianyunoad_0.0.1_iphoneos-arm.deb
-Size: 4316
-MD5sum: cbc4361aba068ae87a5141e14f039ee5
-SHA1: 2f06311e532af078bb6b24219f5a74b1f7ad6088
-SHA256: bfdb45efa244c216b8f5806f8d26dd42bcdf584e8c5100fb67900d477d9482a0
-Section: 广告净化
-Description: 咸鱼去广告，支持所有版本。
-Author: Snail <snailsohi@gmail.com>
-Name: 闲鱼去广告
-
-Package: com.xina.blacklist
-Version: 0.0.1-59+debug
-Architecture: iphoneos-arm
-Maintainer: xina520 <3608063@qq.com>
-Installed-Size: 184
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xina.blacklist_0.0.1-59+debug_iphoneos-arm.deb
-Size: 187432
-MD5sum: 951df924d4b4d742db37c228042f22dd
-SHA1: 9f12c23795d4d2d6f62f8ef894238da33942f6cf
-SHA256: f49ba5761587ccf1d019a8c2013ceac778807ea348d466c7b179a737d6d4f1cb
-Section: Tweaks
-Description: xina越狱黑名单专用
-Author: xina520 <3608063@qq.com>
-Name: XinaBlackList
-
-Package: com.xina.blacklist
-Version: 0.0.1-61+debug
-Architecture: iphoneos-arm
-Maintainer: xina520 <3608063@qq.com>
-Installed-Size: 184
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xina.blacklist_0.0.1-61+debug_iphoneos-arm.deb
-Size: 32948
-MD5sum: 015c7dbe0917c83a5c9e45bca8ba6e40
-SHA1: e7ef05f6ac969a6ed02f7fb023a3c5ad41237dac
-SHA256: 848776ac7155396dd7a5fa6c969b34f6b8ea15645f4afdb70e8d93e96a37179d
-Section: Tweaks
-Description: xina越狱黑名单专用
-Author: xina520 <3608063@qq.com>
-Name: XinaBlackList
-
-Package: com.xx.dyhook
-Version: 1.1.0
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 776
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.dyhook_1.1.0-arm64.deb
-Size: 211814
-MD5sum: efacebf629e0d4d0cd4a3354667a3b59
-SHA1: 73b216b09b005b9eeeb105257fb9bf59d2245fc8
-SHA256: 9ea58527995b61dc95a7d113d2cbfaac00462617336b362b2e4b1db582f47e48
-Section: Tweaks
-Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
-Author: x✨
-Name: 抖音图层一些调整
-
-Package: com.xx.dyhook
-Version: 1.1.1
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 808
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.dyhook_1.1.1_arm.deb
-Size: 224966
-MD5sum: 39f874f7d150aaed55480a56e9fec1e3
-SHA1: bc794561e95018b832089f7c7ed0c78c3f6d3bdb
-SHA256: 1208f8e65085dd72904bf9beff57f6c9789140faa37639864bd7e15e89811ea2
-Section: Tweaks
-Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
-Author: x✨
-Name: 抖音图层一些调整
-
-Package: com.xx.dyhook
-Version: 1.1.1
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 808
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.dyhook_1.1.1_arm64.deb
-Size: 223436
-MD5sum: e0b5a0c0331518b8666b961f48b35246
-SHA1: f1b68cbb8df7a101c78a25ef43fb332e5fa3fb5d
-SHA256: e919841295147ef13302657131bac4ddcecf9eff11351a6484378f2087400f80
-Section: Tweaks
-Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
-Author: x✨
-Name: 抖音图层一些调整
-
-Package: com.xx.dyhook
-Version: 1.1.2
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 840
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.dyhook_1.1.2_arm.deb
-Size: 230892
-MD5sum: e04e41ee020d1de8fdf8bbdfa01e260b
-SHA1: e4c4263809436b9ad5cc62bd942512cdc9dd698e
-SHA256: 39084b3d2f72544b47533092040197bdb912efcffa6a2694601a744ae3c472ae
-Section: Tweaks
-Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
-Author: x✨
-Name: 抖音图层一些调整
-
-Package: com.xx.dyhook
-Version: 1.1.2
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 840
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.dyhook_1.1.2_arm64.deb
-Size: 231526
-MD5sum: 9bb674716ca00a4154ebf2ebcb937807
-SHA1: cd5d0f0f87ac43be02e438823479b3c22a9980c8
-SHA256: 914238d0ce65d6f3b4c753494626d889b5ef755a071fa9443f0884b3d87781a5
-Section: Tweaks
-Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
-Author: x✨
-Name: 抖音图层一些调整
-
-Package: com.xx.dyhook
-Version: 1.1.3
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 840
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.dyhook_1.1.3_arm64.deb
-Size: 228826
-MD5sum: a43e17b67bfdfc397b784f2e9a860cf5
-SHA1: 13d7c318abb0480a218f8fe2c1bec62450eab7dd
-SHA256: f6f5126772b12cc09fbec80c13fb974f284bc9e14a1b1dd4ca4a064596d04ef8
-Section: Tweaks
-Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
-Author: x✨
-Name: 抖音图层一些调整
-
-Package: com.xx.dyhook
-Version: 1.1.3
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 840
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.dyhook_1.1.3_arm.deb
-Size: 231036
-MD5sum: 9e35d6c115c46df2ae8f9db4f282eedc
-SHA1: 0b0a6806e69a9c7ca31b7cdcbc16a80ad97b31de
-SHA256: fde3379e9ea832a1582cdbedc18751160ecb50558a031b2fbd8ec83f340fe574
-Section: Tweaks
-Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
-Author: x✨
-Name: 抖音图层一些调整
-
-Package: com.xx.dyhook
-Version: 1.1.5
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 956
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.dyhook_1.1.5_arm64.deb
-Size: 258018
-MD5sum: 747f904a56cabd0982d73ee7ecab7550
-SHA1: 97feed9e6466def72ed1b8fce08375d343b60dca
-SHA256: 667727842a8bfd12be2c3c412727c20154780013d76fd190df5222a5c2dff454
-Section: Tweaks
-Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
-Author: x✨
-Name: 抖音图层一些调整
-Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
-
-Package: com.xx.dyhook
-Version: 1.1.5
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 956
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.dyhook_1.1.5_arm.deb
-Size: 261704
-MD5sum: bf87a0fed7c84b6f8e064d120f4f8d2b
-SHA1: d2ac479bc8ccca7b9a240ca5ecab70673c21a403
-SHA256: 406ed0dc0523d10f7fa6c92688a4285115c7a7190b8d162357081171377c76fb
-Section: Tweaks
-Description: 自用 首页视频界面双指双击弹出设置UI-或在"我-右上角打开" && 本人刚学一点 有问题请大佬多指教
-Author: x✨
-Name: 抖音图层一些调整
-Sileodepiction: https://flyx099.github.io/sileodepiction/com.xx.dyhook/js.json
-
-Package: com.xx.xhshook
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 324
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.xhshook_1.0.0_arm64.deb
-Size: 96794
-MD5sum: 9fca3d90918e3a7909f62052b7b7793d
-SHA1: b0c4bcb12e3baae066fbfc22beac9c0d0256d142
-SHA256: 2ba97bf620307b8549f66b1f91032fd4a6ec60cb42a66d11202d41870c5daa59
-Section: Tweaks
-Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 无水印保存图片-视频-live图 -- 长按复制文案标题(关注板块需要长按外面的视图 里面无效)
-Author: x✨
-Name: 小红薯调整
-
-Package: com.xx.xhshook
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 324
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.xhshook_1.0.0_arm.deb
-Size: 96944
-MD5sum: 02f68b4d011d25b18e32f6657667df3a
-SHA1: dc3f2c6be71ac65c161752e7472dab9b8d9ee6db
-SHA256: 3082b0be62b3198295fedaea34e3a84a230442d647e09eac9904e6fe2a8b6603
-Section: Tweaks
-Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 无水印保存图片-视频-live图 -- 长按复制文案标题(关注板块需要长按外面的视图 里面无效)
-Author: x✨
-Name: 小红薯调整
-
-Package: com.xx.xhshook
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 308
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.xhshook_1.0.1_arm64.deb
-Size: 92650
-MD5sum: 08bc3278983ee4f93472a888fae46016
-SHA1: 87ede51110fc98b14cf45951bdf3289996c3a99c
-SHA256: 9eb98a4dc39f1c3058293e326bb661e73441ece9993fc155528fbff1ec814156
-Section: Tweaks
-Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片-视频-live图 -- 长按复制文案 new: 1.0.1修复图文文案无法复制问题
-Author: x✨
-Name: 小红薯调整
-
-Package: com.xx.xhshook
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 308
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.xhshook_1.0.1_arm.deb
-Size: 92040
-MD5sum: d342bb3a9d8474e4b27b89c540165e4f
-SHA1: 049390d9853f58db622c0fa449d3c4c6a6704353
-SHA256: 6bb3146765894f083ec279d2536166403a8d833f410ed0fbc73f583c5b66b930
-Section: Tweaks
-Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片-视频-live图 -- 长按复制文案 new: 1.0.1修复图文文案无法复制问题
-Author: x✨
-Name: 小红薯调整
-
-Package: com.xx.xhshook
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 308
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.xhshook_1.0.2_arm64.deb
-Size: 92742
-MD5sum: 59c542a22bd3bee02cf569908a9bbd5b
-SHA1: 4a799f172f332b421bc5d0a6a39db6a7e73ca877
-SHA256: 1d1885e2735d3f27e7e71545a8103e74c1ad62c5e6d90a60159ab797a16abfa2
-Section: Tweaks
-Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片-视频-live图 -- 长按复制文案 new: 1.0.1修复图文文案无法复制问题. 1.0.2 尝试修复部分账号无法保存评论区图片的问题.
-Author: x✨
-Name: 小红薯调整
-
-Package: com.xx.xhshook
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 308
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.xx.xhshook_1.0.2_arm.deb
-Size: 92230
-MD5sum: 213152fea86d9e44b8b03c07a1319c3c
-SHA1: a0985d90720b457ec08aba83d3142873dce6fcd7
-SHA256: 937b8cf8f0ff2a619bce47bc5ee0a5bbf4d1a7058a5caabd82c097168188db5a
-Section: Tweaks
-Description: 朋友需要才制作了此插件.APP设置界面双指长按出现菜单 功能：默认移除一些广告 -- 原生按钮无水印保存图片-视频-live图 -- 长按复制文案 new: 1.0.1修复图文文案无法复制问题. 1.0.2 尝试修复部分账号无法保存评论区图片的问题.
-Author: x✨
-Name: 小红薯调整
-
-Package: dev.traurige.kayoko
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Traurige <hello@traurige.dev>
-Installed-Size: 848
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
-Filename: ./debs/dev.traurige.kayoko_1.0_iphoneos-arm.deb
-Size: 73586
-MD5sum: cdaa11e53cb742238576f927c07bbe15
-SHA1: e749554e0055d7308f0714a50842079e2d6d882a
-SHA256: 587a872d34ec50e011059e61d22ec95d7e749467b9a566b4d0bcff822b9391d0
-Section: Tweaks
-Description: Feature rich clipboard manager for iOS
-Author: Traurige <hello@traurige.dev>
-Name: Kayoko
-
-Package: kr.xsf1re.flyjbx
-Version: 1.2.5
-Architecture: iphoneos-arm
-Maintainer: XsF1re
-Depends: mobilesubstrate
-Conflicts: kr.xsf1re.flyjb (<<1.2.5)
-Filename: ./debs/kr.xsf1re.flyjbx_1.2.5.deb
-Size: 766132
-MD5sum: 050946345f372683c225b621789994f3
-SHA1: 3ac123b3e38f6d6d51013c20b942ef26cb6b4e44
-SHA256: 7c2af316eeab63ffeea78464d7ce4dbf506c85b45e52ce2d17704699b34ab379
-Section: Tweaks
-Description: You can HIDE Doing jailbreak your iDevice.
-Author: XsF1re
-Name: FlyJB X
-
-Package: netskao.3dnetworkfixer
-Version: 1.1-8
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 448
-Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/netskao.3dnetworkfixer_1.1-8_iphoneos-arm.deb
-Size: 78296
-MD5sum: e6b28cf53ab4d6dabf75ad073007ace6
-SHA1: ee1636edd057edbb39d4f0ba0d1abd0e37cfd524
-SHA256: 828f52be61675756d9e135ce0eefa7f65d846a3fc1102c531a9194342de1d1b7
-Section: Netskao-Tweaks
-Description: 3D desktop menu, quick fix for the app networking permissions, Supports iOS13-iOS15
-Author: Netskao
-Name: 3DNetworkFixer
 
 Package: netskao.3dnetworkfixer-rootless
 Version: 1.1-8
@@ -1708,22 +908,6 @@ Description: Undo, redo, select all, copy, cut and paste actions on bottom of ke
 Author: Netskao
 Name: ActionBar Reborn
 
-Package: netskao.alipayhooks
-Version: 1.1-3
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 328
-Depends: firmware (>= 11.0), mobilesubstrate
-Filename: ./debs/netskao.alipayhooks_1.1-3_iphoneos-arm.deb
-Size: 72180
-MD5sum: efd49f153bdc4934f9ce4737c7fbf40b
-SHA1: 6f73c994ccf3810218eb7173a89eb130bfae4c5c
-SHA256: f8b25a4289574846446c06aec932b4e8233b3422de5cf2036ccd02ed73bc8330
-Section: Netskao-Tweaks
-Description: 支付宝去除底部理财选项(理财是不可能理财的, 只有收收钱勉强维持生活), 固定每天10w步
-Author: Netskao
-Name: 支付宝 Hooks
-
 Package: netskao.alipayhooks-rootless
 Version: 1.1-3
 Architecture: iphoneos-arm64
@@ -1739,22 +923,6 @@ Section: Netskao-Tweaks
 Description: 支付宝去除底部理财选项(理财是不可能理财的, 只有收收钱勉强维持生活), 固定每天10w步
 Author: Netskao
 Name: 支付宝 Hooks-Rootless
-
-Package: netskao.alipayscan
-Version: 1.2-2
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 144
-Depends: firmware (>= 11.0), mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/netskao.alipayscan_1.2-2_iphoneos-arm.deb
-Size: 15724
-MD5sum: 860fbeb5fe545356898aac1d3f802a7a
-SHA1: 8863a6e263b93c602b693ca14053361b1e2d53f8
-SHA256: a0eb3c5343bc3be6b4b74533cd951afc92d37ff8e4e1f007a59c5fd2ccfd7a57
-Section: Netskao-Tweaks
-Description: 通过控制中心快捷打开支付宝扫一扫，设置-控制中心-自定控制内添加后使用
-Author: Netskao
-Name: AlipayScan
 
 Package: netskao.alipayscan-rootless
 Version: 1.2-2
@@ -1772,77 +940,6 @@ Description: 通过控制中心快捷打开支付宝扫一扫，设置-控制中
 Author: Netskao
 Name: AlipayScan-Rootless
 
-Package: netskao.altstorepatch
-Version: 1.1-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 136
-Depends: firmware (>= 13.0), mobilesubstrate, com.rileytestut.altdaemon
-Conflicts: netskao.altstore
-Filename: ./debs/netskao.altstorepatch_1.1-1_iphoneos-arm.deb
-Size: 8680
-MD5sum: 8367fe5f7399b25732d9d56b17f8faf6
-SHA1: a1743e1bcc1105f64c84f23efadc825269e3c9d8
-SHA256: 8b927777173563c1e059ef69b07db435bf721202ffe3030ca22331cf26d215e5
-Section: Netskao-Tweaks
-Homepage: https://netskao.lanzoui.com/i4OWGvh9j9a
-Description: AltStorePatch，无需连接一次电脑和无需手动修改ALTDeviceID即可正常使用AltStore签名
- 1.点击更多信息安装AltStore主程序，或者自己随便哪里安装AltStore主程序
- 2.安装本AltStorePatch，源https://repo.initnil.com
- 3.安装守护AltDaemon，源https://chariz.com/
- 4.注销手机，然后进入AltStore直接正常使用吧
- 很惭愧做了一点微小的工作
-Author: Netskao
-Name: AltStorePatch
-
-Package: netskao.appdata
-Version: 1.4.1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 2456
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Filename: ./debs/netskao.appdata_1.4.1_iphoneos-arm.deb
-Size: 673816
-MD5sum: 90a7163ee3d29d7a97e26ac439a6c8a0
-SHA1: 5bf998bc82e22ce2d04347a1bb6b2b743a900ed9
-SHA256: c4c9025cd69678c46bce06ad1d58ca1160960cb4c9d155e82e74a42295a310dc
-Section: Netskao-Tweaks
-Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据快捷工具，此版本由站长完整汉化并修改优化。修改优化:增加简单版降级应用，增加可选向下滑动唤出，增加查看应用加密状态，增加面板可选去除面板分割线，增加长按面板图标以安全模式启动，修改原版卸载应用为真实卸载不保留数据，修改原版清除缓存后未同步刷新总数据显示问题，修复原版更多信息页面长按复制的信息错误问题，修改原版重置数据为包括重置程序组内文件夹数据，修改原版重置数据栏数据大小显示为包括程序组内文件夹数据，修改原版重置数据后未同步刷新缓存数据显示和权限个数显示问题，修改原版在非AppStore中下载的应用唤出时无法使用重置数据/重置权限/卸载应用(修改后仅在系统应用上禁止)
-Author: Fouad Raheb
-Name: AppData
-
-Package: netskao.autoclosefolder
-Version: 1.1-2
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 136
-Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./debs/netskao.autoclosefolder_1.1-2_iphoneos-arm.deb
-Size: 6472
-MD5sum: b68ed486326e7e2ee5402137530ad260
-SHA1: a5c2f47f121fa3b188e0bc6e635aa941ebfef771
-SHA256: ff53364b2961a852a5c1bc26094c2f3d2e1e2255a7e72cd9f25881525068f6c7
-Section: Netskao-Tweaks
-Description: 点击文件夹内应用后自动关闭文件夹，不会出现应用动画从左边出现的问题
-Author: Netskao
-Name: AutoCloseFolder
-
-Package: netskao.autofaceunlock
-Version: 1.1-6
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 340
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Filename: ./debs/netskao.autofaceunlock_1.1-6_iphoneos-arm.deb
-Size: 67808
-MD5sum: c8652c4c892a540b7dd530ad543ca888
-SHA1: 20e8c48e4929e6091a51badbc3c11de3b3825471
-SHA256: d7dceb4819d03e0c8ad745dc85c4f23f26d469ab3a0011e561f4da4f885d1fcf
-Section: Netskao-Tweaks
-Description: 面容识别成功自动解锁无需滑动，原生函数更为节电，可设置锁屏收到通知时不自动解锁，锁屏正在播放音乐时不自动解锁，锁屏手电筒打开时不自动解锁，面容识别失败后自动重试，面容延时解锁，请勿和其他类似插件一同食用
-Author: Netskao
-Name: AutoFaceUnlock
-
 Package: netskao.autofaceunlock-rootless
 Version: 1.1-7
 Architecture: iphoneos-arm64
@@ -1858,22 +955,6 @@ Section: Netskao-Tweaks
 Description: 面容识别成功自动解锁无需滑动，原生函数更为节电，可设置锁屏收到通知时不自动解锁，锁屏正在播放音乐时不自动解锁，锁屏手电筒打开时不自动解锁，面容识别失败后自动重试，面容延时解锁，请勿和其他类似插件一同食用
 Author: Netskao
 Name: AutoFaceUnlock-Rootless
-
-Package: netskao.awemepurification
-Version: 2.9-6
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 2432
-Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./debs/netskao.awemepurification_2.9-6_iphoneos-arm.deb
-Size: 1175364
-MD5sum: 9120015834f05cfa279e995ed12aafd2
-SHA1: f90c485ba2227ed109023dfb20cfc1a4a3e0ac1b
-SHA256: 074cd137f3b8ec7fe4ef637d04c4cd01b69aeff828445e6a0c8f2e8b601cf7ff
-Section: Netskao-Tweaks
-Description: 抖音净化！设置位于抖音-设置，仅支持25.8.0及以上版本抖音
-Author: Netskao
-Name: 抖音净化
 
 Package: netskao.awemepurification-rootless
 Version: 2.9-6
@@ -1891,38 +972,6 @@ Description: 抖音净化！设置位于抖音-设置，仅支持25.8.0及以上
 Author: Netskao
 Name: 抖音净化-Rootless
 
-Package: netskao.barbatteryinfo
-Version: 1.2-3
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 172
-Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/netskao.barbatteryinfo_1.2-3_iphoneos-arm.deb
-Size: 25432
-MD5sum: 2c0daf85a82205af7de87f4f28967a11
-SHA1: 683a5eb09b5cb6d9a48336d58211a7ac7c0449f7
-SHA256: b31b710de5852bb585d0a8d35267b8cef22d58dc3669c0991b5b27f32ea84188
-Section: Netskao-Tweaks
-Description: 通过单击状态栏电池图标快捷展示显示电池常用信息参数，点击参数窗口即可刷新参数，长按参数窗口即可复制参数(此插件没有什么准与不准，所有数据均获取于设备底层参数)
-Author: Netskao
-Name: BarBatteryInfo
-
-Package: netskao.batterypercentx
-Version: 1.1-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 136
-Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/netskao.batterypercentx_1.1-1_iphoneos-arm.deb
-Size: 5784
-MD5sum: 5a7b1f28c66e9c28cc827bb01dfe3e72
-SHA1: a1db2a7cdb2d3037fb28982eb05eb162fc7141d6
-SHA256: a709382478ed7ed29d9604278fb16f08cba3e1e7eef97a7650d02208b8d173a9
-Section: Netskao-Tweaks
-Description: BatteryPercentX启用系统原生电池百分比，加深边框颜色，加深充电时电池颜色
-Author: Netskao
-Name: BatteryPercentX
-
 Package: netskao.batterypercentx-rootless
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -1938,38 +987,6 @@ Section: Netskao-Tweaks
 Description: BatteryPercentX启用系统原生电池百分比，加深边框颜色，加深充电时电池颜色
 Author: Netskao
 Name: BatteryPercentX-Rootless
-
-Package: netskao.bdwphooks
-Version: 1.1-7
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 856
-Depends: firmware (>= 11.0), mobilesubstrate
-Filename: ./debs/netskao.bdwphooks_1.1-7_iphoneos-arm.deb
-Size: 188360
-MD5sum: 2416c8acd5c843e7334d843fb7d56ca9
-SHA1: f41ae3431db462a51170c621290226cc133d6783
-SHA256: 9898e664c20935ec41c33ea4b8ce714f593fb094b8702c427e34d78b9d60dd7b
-Section: Netskao-Tweaks
-Description: 为百度网盘下载文件列表增加直接分享文件功能和快速在Filza中查看该文件功能，免去每次进入路径寻找文件的繁琐方式，使用方式:长按已下载文件即可。另外附加去除所有广告等，仅支持11.20.0及以上版本
-Author: Netskao
-Name: 百度网盘 Hooks
-
-Package: netskao.blblnoads
-Version: 1.1-2
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 328
-Depends: firmware (>= 11.0), mobilesubstrate
-Filename: ./debs/netskao.blblnoads_1.1-2_iphoneos-arm.deb
-Size: 73316
-MD5sum: 2c3d6dd8df0573f4627f4e0306551915
-SHA1: 2fc7c61b25cee76ea31f2edd9e526ca91425bfcd
-SHA256: 3ea847f55d958a78d1aac47eece6050182f3aa13ca6e31f2f030820132e65499
-Section: Netskao-NoAds
-Description: 哔哩哔哩去除启动广告, 去除青少年提示, 去除AppStore评分提示, 去除底部动态\发布\会员购按钮, 去除瀑布流中插入广告, 去除视频详情页面推荐视频中的创作推广, 去除评论区顶部会员推广, 我的页面推广等, 仅支持7.48.0及以上版本
-Author: Netskao
-Name: 哔哩哔哩 NoAds
 
 Package: netskao.blblnoads-rootless
 Version: 1.1-2
@@ -1987,22 +1004,6 @@ Description: 哔哩哔哩去除启动广告, 去除青少年提示, 去除AppSto
 Author: Netskao
 Name: 哔哩哔哩 NoAds-Rootless
 
-Package: netskao.ccbadgeclear-rootless
-Version: 1.2-5
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 240
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/netskao.ccbadgeclear-rootless_1.2-5_iphoneos-arm64.deb
-Size: 34504
-MD5sum: 1bdeab8cedbc65993dd4b19422838ac4
-SHA1: fe9e302fc507a151d894ce9bd20d789fe7e59b3e
-SHA256: 00ec1e3568971e2ba1bd50ec49aa8ea69c27b063c746607606dc5839d2b72e15
-Section: Netskao-Tweaks
-Description: Quickly clean up all red badge on desktop via Control Center, Support iOS11-15
-Author: Netskao
-Name: CCBadgeClear-Rootless
-
 Package: netskao.cccellularrate-rootless
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -2018,22 +1019,6 @@ Section: Netskao-Tweaks
 Description: Quickly switch the type of cellular data 2/3/4/5G currently in use via the Control Center, only the types supported in the current device settings will be displayed
 Author: Netskao
 Name: CCCellularRate-Rootless
-
-Package: netskao.ccpower
-Version: 1.9-3
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 2700
-Depends: firmware (>= 11.0), mobilesubstrate, com.opa334.ccsupport (>= 1.3)
-Filename: ./debs/netskao.ccpower_1.9-3_iphoneos-arm.deb
-Size: 1018940
-MD5sum: d9ac609e5c67e5867a468b85b268b790
-SHA1: 11cad23e5519e92bf950da245bfb066a6755d55a
-SHA256: 2f60d4b0ef0cb29bd1dbbcd5febaede47c30da87a25593b135e8d4493a142b96
-Section: Netskao-Tweaks
-Description: Control Center Quick Power Tool, Supports iOS11-iOS15
-Author: Netskao
-Name: CCPower
 
 Package: netskao.ccpower-rootless
 Version: 1.9-4
@@ -2083,22 +1068,6 @@ Description: For dual-SIM cards, the selected cellular network can be switched q
 Author: Netskao
 Name: CCSwitchData-Rootless
 
-Package: netskao.classickeyboardxs
-Version: 1.1-6
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 356
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Filename: ./debs/netskao.classickeyboardxs_1.1-6_iphoneos-arm.deb
-Size: 61436
-MD5sum: eef558b4c89e3c68ce21c6606effc776
-SHA1: 50690fb141ef649309bc3fb381770c174fc08952
-SHA256: 4b88f49e956a2fdf29efb8f1deab1741e6f9254e91051113dad586a1b42b3dc4
-Section: Netskao-Tweaks
-Description: 自定义X键盘底部高度，地球底部高度等
-Author: Netskao
-Name: ClassicKeyboardXS
-
 Package: netskao.classickeyboardxs-rootless
 Version: 1.1-7
 Architecture: iphoneos-arm64
@@ -2114,22 +1083,6 @@ Section: Netskao-Tweaks
 Description: 自定义X键盘底部高度，地球底部高度等
 Author: Netskao
 Name: ClassicKeyboardXS-Rootless
-
-Package: netskao.deletephotoscompletely
-Version: 1.2-2
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 136
-Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./debs/netskao.deletephotoscompletely_1.2-2_iphoneos-arm.deb
-Size: 5616
-MD5sum: 4ef5e058cd4c92bc9d2df46192e57911
-SHA1: 225c0682ce2b507cbce24000e00d7368a9b5f959
-SHA256: b39563ab01c5e925935d056aa1e015ae3931be9c572820ab959efd80a353213a
-Section: Netskao-Tweaks
-Description: 为相册添加彻底删除照片选项
-Author: Netskao
-Name: DeletePhotosCompletely
 
 Package: netskao.deletephotoscompletely-rootless
 Version: 1.2-2
@@ -2163,22 +1116,6 @@ Description: Disable telephony welcome notifications
 Author: Netskao
 Name: DisableCTNotifyUI-Rootless
 
-Package: netskao.disablepastetips
-Version: 1.1-5
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 168
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/netskao.disablepastetips_1.1-5_iphoneos-arm.deb
-Size: 3152
-MD5sum: de7ccb01009d4d09b34ef772074cf0ed
-SHA1: be66a007579d09842734713dfc363d039ae3cca3
-SHA256: a74d380127354ae38041586a52d46024e3b4d40af06c499f89d9d29c19d85c28
-Section: Netskao-Tweaks
-Description: Disable paste tips, Support iOS14-iOS15
-Author: Netskao
-Name: DisablePasteTips
-
 Package: netskao.disablepastetips-rootless
 Version: 1.1-5
 Architecture: iphoneos-arm64
@@ -2194,38 +1131,6 @@ Section: Netskao-Tweaks
 Description: Disable paste tips, Support iOS14-iOS15
 Author: Netskao
 Name: DisablePasteTips-Rootless
-
-Package: netskao.disableshuttersound
-Version: 1.1-2
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 136
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./debs/netskao.disableshuttersound_1.1-2_iphoneos-arm.deb
-Size: 3772
-MD5sum: 34d86562f0e142ea048a46f74ffcb174
-SHA1: 7fd4a6f9d869201e82ff18443abb46b1097df8a1
-SHA256: d4646d35fb8ce51ff203aa26a03db67e332afef37e054239d7eb4ee79db0e9bf
-Section: Netskao-Tweaks
-Description: Disable shutter sound
-Author: Netskao
-Name: DisableShutterSound
-
-Package: netskao.disabletestflightblock
-Version: 1.1-4
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 104
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/netskao.disabletestflightblock_1.1-4_iphoneos-arm.deb
-Size: 12916
-MD5sum: b1d5231dd53d25e84f79be88596f9584
-SHA1: 63a0724e5af13b373440d9041c308966b7426075
-SHA256: ca7e46aecadddf4a872c333c52e9d3a1b8730fc619fef75e37f0a8254554ffa5
-Section: Netskao-Tweaks
-Description: 解除国区账号无法下载国区AppSrore内已下架或者未上架国区的对应TestFlight应用
-Author: Netskao
-Name: DisableTestFlightBlock
 
 Package: netskao.disabletestflightblock-rootless
 Version: 1.1-4
@@ -2243,55 +1148,6 @@ Description: 解除国区账号无法下载国区AppSrore内已下架或者未�
 Author: Netskao
 Name: DisableTestFlightBlock-Rootless
 
-Package: netskao.dndbannerpypass
-Version: 1.1-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 420
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debs/netskao.dndbannerpypass_1.1-1_iphoneos-arm.deb
-Size: 75184
-MD5sum: d0fb302bedc57aa0248a4e40873b91d0
-SHA1: beb57105985dea0a7316112d57821a614991706a
-SHA256: 38309a55c29843cbd2486e5dbb354df77674d84950329ff9db01a2024d9e2569
-Section: Netskao-Tweaks
-Description: 勿扰模式启用时允许你选择的应用正常发送通知，前往设置自行选择需要允许通知的应用
-Author: Netskao
-Name: DNDBannerBypass
-
-Package: netskao.filzacrack
-Version: 1.1-8
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 136
-Depends: mobilesubstrate, com.tigisoftware.filza64bit
-Filename: ./debs/netskao.filzacrack_1.1-8_iphoneos-arm.deb
-Size: 7316
-MD5sum: a94215a8d139160a2a83dbfe2fd513f3
-SHA1: 1f2888aef332bb09bdb0899eec1ad7806dfab295
-SHA256: 432c0bfd28b4c468e6ae8d5b580bd23403d39d9d7dec97eecf1e82dc055cd6a9
-Section: Netskao-Cracks
-Homepage: https://tigisoftware.com/cydia/
-Description: Filza unlock full functionality, the main program please install in the official source
-Author: Netskao
-Name: Filza Crack
-
-Package: netskao.flexlist
-Version: 1.3-8
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 3764
-Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
-Filename: ./debs/netskao.flexlist_1.3-8_iphoneos-arm.deb
-Size: 832764
-MD5sum: d9f06aa00c648c84dd87c48852c2304d
-SHA1: 50cb153bce8cd8a8b1089bf24f9bbb03c25b4d2e
-SHA256: dfff8cf2293d11d1ab271cc775f9c2a4802cfe820a8579568fe9a0fae105c192
-Section: Netskao-Tweaks
-Description: FLEXList is a wrapper tool for FLEX Tool
-Author: Netskao
-Name: FLEXList
-
 Package: netskao.flexlist-rootless
 Version: 1.4-1
 Architecture: iphoneos-arm64
@@ -2307,22 +1163,6 @@ Section: Netskao-Tweaks
 Description: FLEXList is a wrapper tool for FLEX Tool
 Author: Netskao
 Name: FLEXList-Rootless
-
-Package: netskao.hideallbar
-Version: 2.1-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 104
-Depends: mobilesubstrate
-Filename: ./debs/netskao.hideallbar_2.1-1_iphoneos-arm.deb
-Size: 5040
-MD5sum: adc5f368af4117289890d0f0ecfcdbee
-SHA1: 3b82e87f6bc46787f39fed2e535783bbfc467ff2
-SHA256: 06337a05559522a1696bfb7f382a48a3494e4947f12556d3a17655ee848be288
-Section: Netskao-Tweaks
-Description: 隐藏X的所有地方的黑条，且没有任何影响（例如横屏游戏时依旧需要上滑两次退出）
-Author: Netskao
-Name: HideAllBar
 
 Package: netskao.hideallbar-rootless
 Version: 2.1-1
@@ -2372,22 +1212,6 @@ Description: 隐藏截图时左下角预览，保留闪屏无延迟
 Author: Netskao
 Name: HideScreenshotPreview-Rootless
 
-Package: netskao.hpyybhooks
-Version: 1.1-2
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 428
-Depends: firmware (>= 10.0), mobilesubstrate
-Filename: ./debs/netskao.hpyybhooks_1.1-2_iphoneos-arm.deb
-Size: 100720
-MD5sum: 776f1d2aca96595529bfcd6516218639
-SHA1: a0264674a41803d0255c72b4657438ff07584efd
-SHA256: 7799f0a25d02e9e7d1e1ddf3aa9868f095620d23aa43d992635dfc45a2f70229
-Section: Netskao-Tweaks
-Description: 很皮语音包Hooks, 解锁VIP语音包, 去除所有广告, 增加长按语音下载
-Author: Netskao
-Name: 很皮语音包 Hooks
-
 Package: netskao.hpyybhooks-rootless
 Version: 1.1-2
 Architecture: iphoneos-arm64
@@ -2403,22 +1227,6 @@ Section: Netskao-Tweaks
 Description: 很皮语音包Hooks, 解锁VIP语音包, 去除所有广告, 增加长按语音下载
 Author: Netskao
 Name: 很皮语音包 Hooks-Rootless
-
-Package: netskao.imgplaycrack
-Version: 1.1-5
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 440
-Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/netskao.imgplaycrack_1.1-5_iphoneos-arm.deb
-Size: 110864
-MD5sum: 27bdf5b72ff6510436e2cbb837dfca02
-SHA1: f3d3a4dfd3dc8f131b121397b13274ba0cdb8470
-SHA256: f90866327bf780648cb5cf1fc03b416f450ce0e5000ab4a53ee363ef5a5b6d28
-Section: Netskao-Cracks
-Description: ImgPlay解锁全功能，仅支持6.3.2及以上版本
-Author: Netskao
-Name: ImgPlay Crack
 
 Package: netskao.imgplaycrack-rootless
 Version: 1.1-5
@@ -2436,23 +1244,6 @@ Description: ImgPlay解锁全功能，仅支持6.3.2及以上版本
 Author: Netskao
 Name: ImgPlay Crack-Rootless
 
-Package: netskao.injectipa
-Version: 1.4-4
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 3492
-Depends: firmware (>= 11.0)
-Filename: ./debs/netskao.injectipa_1.4-4_iphoneos-arm.deb
-Size: 945992
-MD5sum: 1805db997e80bba1f365ee0289093bca
-SHA1: 9e856e889526659979ffa59b6b73f13ca3ebab81
-SHA256: bd868f54e7864ff76d9ee55eaa9a80c1ecab6f107407831a8160604b39cf2c8d
-Section: Netskao-Tweaks
-Homepage: https://github.com/Netskao/MacOS-Utils
-Description: injectipa是一款命令行一键注入dylib到ipa工具. 用法: injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可), 其它参数执行injectipa查看即可, 注入完成后的IPA需要签名使用
-Author: Netskao
-Name: injectipa
-
 Package: netskao.injectipa-rootless
 Version: 1.4-4
 Architecture: iphoneos-arm64
@@ -2468,22 +1259,6 @@ Section: Netskao-Tweaks
 Description: injectipa是一款命令行一键注入dylib到ipa工具. 用法: injectipa ipa路径 dylib路径 (如有多个dylib依次填写在末尾即可), 其它参数执行injectipa查看即可, 注入完成后的IPA需要签名使用
 Author: Netskao
 Name: injectipa-Rootless
-
-Package: netskao.killapps
-Version: 1.2-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 2400
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./debs/netskao.killapps_1.2-1_iphoneos-arm.deb
-Size: 941948
-MD5sum: be3a2ccda42bd168817bc4887b2d4413
-SHA1: eb24ade86b3abdbf6c0cb8d0e8dad87fd3bcba48
-SHA256: 875a70c35c5b1a54b3806aaf2d2c3b4c67311f756e69f001c807ea12c9cf16b2
-Section: Netskao-Tweaks
-Description: Add quick clean all background function for background switcher. Support clean up whitelist, support slide up blacklist
-Author: Netskao
-Name: KillApps
 
 Package: netskao.killapps-rootless
 Version: 1.2-2
@@ -2501,22 +1276,6 @@ Description: Add quick clean all background function for background switcher. Su
 Author: Netskao
 Name: KillApps-Rootless
 
-Package: netskao.limneoscrack
-Version: 1.1-3
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 136
-Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./debs/netskao.limneoscrack_1.1-3_iphoneos-arm.deb
-Size: 4796
-MD5sum: cb343f9fb861e0697d49696d3bab4d62
-SHA1: b8c2a050829e87184047a5ccfa64107e6433b67c
-SHA256: 629773b6b4706aadbfc736dda366cac66b5c91d532578c3cc5fa06e56dc49952
-Section: Netskao-Cracks
-Description: 解锁Limneos所有插件全功能
-Author: Netskao
-Name: Limneos Crack
-
 Package: netskao.limneoscrack-rootless
 Version: 1.1-3
 Architecture: iphoneos-arm64
@@ -2532,23 +1291,6 @@ Section: Netskao-Cracks
 Description: 解锁Limneos所有插件全功能
 Author: Netskao
 Name: Limneos Crack-Rootless
-
-Package: netskao.lookinloader
-Version: 1.2-0
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 1420
-Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/netskao.lookinloader_1.2-0_iphoneos-arm.deb
-Size: 266620
-MD5sum: ef572573652d4830a02bec03eaf3bd1c
-SHA1: 1a1f8a9039fdfeea45612b8c4ff749bc4edfacf0
-SHA256: fdec83e32e1902fea5794ff4be6917fc99f8fc64dbf18f95247e588b2164fc25
-Section: Netskao-Tweaks
-Homepage: https://github.com/QMUI/LookinServer
-Description: LookinServer dynamic loading tool, loaded by desktop long press icon to bring up the menu
-Author: Netskao
-Name: LookinLoader
 
 Package: netskao.lookinloader-rootless
 Version: 1.2-0
@@ -2567,22 +1309,6 @@ Description: LookinServer dynamic loading tool, loaded by desktop long press ico
 Author: Netskao
 Name: LookinLoader-Rootless
 
-Package: netskao.mgtvnoads
-Version: 1.1-2
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 376
-Depends: firmware (>= 11.0), mobilesubstrate
-Filename: ./debs/netskao.mgtvnoads_1.1-2_iphoneos-arm.deb
-Size: 84308
-MD5sum: 13f81bc3cc957d5b89290a9b55b65acd
-SHA1: c922dd882fcbea52147afba663adbdb41db03a71
-SHA256: 30b8499d2d0f9aa2518d0ccaa24c7d0bad25cd527b146ed727ec42eebc87decb
-Section: Netskao-NoAds
-Description: 芒果TV去除启动广告，去除暂停广告，去除悬浮广告等
-Author: Netskao
-Name: 芒果TV NoAds
-
 Package: netskao.mgtvnoads-rootless
 Version: 1.1-2
 Architecture: iphoneos-arm64
@@ -2598,38 +1324,6 @@ Section: Netskao-NoAds
 Description: 芒果TV去除启动广告，去除暂停广告，去除悬浮广告等
 Author: Netskao
 Name: 芒果TV NoAds-Rootless
-
-Package: netskao.noteswordcount
-Version: 1.1-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 136
-Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./debs/netskao.noteswordcount_1.1-1_iphoneos-arm.deb
-Size: 4476
-MD5sum: 1304cb035e8320cc67c9aab093378f86
-SHA1: a144eece9658942f668ce0a7cf704b0caa4e0cfb
-SHA256: 8c0d213f3341a1bc28aa289a7797a9c687477ecfb9ab28942e79cbbd7ed191f6
-Section: Netskao-Tweaks
-Description: 在备忘录文本顶部显示当前文本总字数统计
-Author: Netskao
-Name: NotesWordCount
-
-Package: netskao.perfectgrabber
-Version: 1.1-6
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 360
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: ./debs/netskao.perfectgrabber_1.1-6_iphoneos-arm.deb
-Size: 71016
-MD5sum: b52b1937ed53f21f32b82c739914bade
-SHA1: 245b65148be489d98c8fbbafe43e570ba88ecec5
-SHA256: 50ad184248f5a5c4990dc8541fdccae2b0dc06559431b6eb82494ae7412a2096
-Section: Netskao-Tweaks
-Description: 在横屏游戏下拉一次时显示时间和电量（某些游戏不规范会无法唤出），支持自定义字体颜色，背景颜色，字体大小，字体样式，震动反馈等
-Author: Netskao
-Name: PerfectGrabber
 
 Package: netskao.perfectgrabber-rootless
 Version: 1.1-7
@@ -2647,38 +1341,6 @@ Description: 在横屏游戏下拉一次时显示时间和电量（某些游戏�
 Author: Netskao
 Name: PerfectGrabber-Rootless
 
-Package: netskao.perfectstatusbar
-Version: 1.1-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 404
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Filename: ./debs/netskao.perfectstatusbar_1.1-1_iphoneos-arm.deb
-Size: 86872
-MD5sum: b795df80b9139101de6f27beee0b2e6a
-SHA1: 2916bbc893eb3fdb9c5efd2f7ca68816e236c513
-SHA256: df68603b9dee3fc8e3605a454000e1aaccd2e7b08287e7d2fabebe84d6a57f09
-Section: Netskao-Tweaks
-Description: 更棒的X状态栏显示，缩小药丸的大小。录屏(红点)，电话(绿点)，定位(蓝点)
-Author: Netskao
-Name: PerfectStatusBar
-
-Package: netskao.perfectxtime
-Version: 1.1-3
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 136
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: ./debs/netskao.perfectxtime_1.1-3_iphoneos-arm.deb
-Size: 10228
-MD5sum: 563c385cd552556e6a65bed8501032f0
-SHA1: 10519b73d2aef4fb140858673bc5aa0229a5896e
-SHA256: ea1938ab1193899e4b279cb2101452cbfb5cd28d4e538ff33090f58158989491
-Section: Netskao-Tweaks
-Description: PerfectXTime修改于PerfectTimeXS，无设置，仅时间+星期格式，纯自用，录屏时自动恢复默认时间
-Author: Netskao
-Name: PerfectXTime
-
 Package: netskao.perfectxtime-rootless
 Version: 1.1-3
 Architecture: iphoneos-arm64
@@ -2694,22 +1356,6 @@ Section: Netskao-Tweaks
 Description: PerfectXTime修改于PerfectTimeXS，修复13之后的小问题，无设置，仅时间+星期格式，纯自用，录屏时自动恢复默认时间，以免错位
 Author: Netskao
 Name: PerfectXTime-Rootless
-
-Package: netskao.picsartcrack
-Version: 1.1-5
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 376
-Depends: firmware (>= 12.2), mobilesubstrate
-Filename: ./debs/netskao.picsartcrack_1.1-5_iphoneos-arm.deb
-Size: 88400
-MD5sum: ae0ffdd48e7f46b69120e77e864c1289
-SHA1: d9febf817cf015d8d32d383971daf1decf294564
-SHA256: 7c96da2928e29ee514c90e5f9a39087255762b8471c336e3f89dc207ffa7bde9
-Section: Netskao-Cracks
-Description: PicsArt美易解锁全功能，仅支持中国区20.7.9及以上版本
-Author: Netskao
-Name: PicsArt Crack
 
 Package: netskao.picsartcrack-rootless
 Version: 1.1-5
@@ -2727,22 +1373,6 @@ Description: PicsArt美易解锁全功能，仅支持中国区20.7.9及以上版
 Author: Netskao
 Name: PicsArt Crack-Rootless
 
-Package: netskao.ppxnoads
-Version: 1.5-5
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 344
-Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./debs/netskao.ppxnoads_1.5-5_iphoneos-arm.deb
-Size: 76416
-MD5sum: 18d43165377a5da2b3d390a6b8a5a9f8
-SHA1: 50730c5df94b7aee3ee75c5b75747065104513fd
-SHA256: d7c60da38a67c69144873d942f4637096f09cb8b351c99607892b1e890b865b5
-Section: Netskao-NoAds
-Description: 皮皮虾去除启动广告，去除评论广告，去除视频流广告，去除推荐信息流中直播，去除长视频播放完后结尾广告，去除视频流中皮皮虾官方活动横幅，去除随机弹出评分提示和版本内测更新提示，去除部分视频左下角商品广告，去除测试版更新提示，去除AppStore评分提示，去除青少年提示，修改非详情页面时始终显示插眼而非弹幕开关，所有视频可保存为动态壁纸，保存视频和图片去水印，保存视频和图片去水印，使用原始按钮保存即可(播放时和查看时就有水印的视频不属于去水印范围)，仅支持4.7.5及以上版本
-Author: Netskao
-Name: 皮皮虾 NoAds
-
 Package: netskao.ppxnoads-rootless
 Version: 1.5-5
 Architecture: iphoneos-arm64
@@ -2758,22 +1388,6 @@ Section: Netskao-NoAds
 Description: 皮皮虾去除启动广告，去除评论广告，去除视频流广告，去除推荐信息流中直播，去除长视频播放完后结尾广告，去除视频流中皮皮虾官方活动横幅，去除随机弹出评分提示和版本内测更新提示，去除部分视频左下角商品广告，去除测试版更新提示，去除AppStore评分提示，去除青少年提示，修改非详情页面时始终显示插眼而非弹幕开关，所有视频可保存为动态壁纸，保存视频和图片去水印，保存视频和图片去水印，使用原始按钮保存即可(播放时和查看时就有水印的视频不属于去水印范围)，仅支持4.7.5及以上版本
 Author: Netskao
 Name: 皮皮虾 NoAds-Rootless
-
-Package: netskao.pullclearnc
-Version: 1.1-8
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 168
-Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/netskao.pullclearnc_1.1-8_iphoneos-arm.deb
-Size: 8196
-MD5sum: 07f492166158cabd42ca229ade6474fd
-SHA1: 0906a1b334a5264e96a6943ceacd759023604c66
-SHA256: cce8e14384e2229fba063fcedf3e0b03b624614a98586b7ea77066848ff7376c
-Section: Netskao-Tweaks
-Description: Notifications page quick drop down to clean up all notifications
-Author: Netskao
-Name: PullClearNC
 
 Package: netskao.pullclearnc-rootless
 Version: 1.1-8
@@ -2793,23 +1407,6 @@ Name: PullClearNC-Rootless
 
 Package: netskao.pulloverpro
 Version: 2.1.4-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 1480
-Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
-Conflicts: com.c1d3r.pulloverpro
-Filename: ./debs/netskao.pulloverpro_2.1.4-1_iphoneos-arm.deb
-Size: 337544
-MD5sum: b8d2cc20d1db089adeddabb9aeb14351
-SHA1: 49f81c489a375a942552e1822cbec6fefd7f90c7
-SHA256: 75b5fc46c6cb5dfa782df18f4f3c68fc4c9e43caa2630b5ac84d57760473d70e
-Section: Netskao-Tweaks
-Description: A better way to multitask! Fix support for iOS14-iOS15
-Author: c1d3r
-Name: PullOver Pro
-
-Package: netskao.pulloverpro
-Version: 2.1.4-1
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 3528
@@ -2824,22 +1421,6 @@ Section: Netskao-Tweaks
 Description: A better way to multitask! Fix support for iOS15+
 Author: c1d3r
 Name: PullOver Pro
-
-Package: netskao.quantumultxlauncher
-Version: 1.1-2
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 148
-Depends: firmware (>= 11.0), mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/netskao.quantumultxlauncher_1.1-2_iphoneos-arm.deb
-Size: 17560
-MD5sum: 65e6524f9701d4910f984bce62728c2f
-SHA1: 0751bad6f8aa7af6b7a77d19b2e45abdf0cf6471
-SHA256: 9ec085f257e152c8865cf9900aff374cac90063ca84f24c6adc388c8d965d32d
-Section: Netskao-Tweaks
-Description: 通过控制中心快捷进入QuantumultX
-Author: Netskao
-Name: QuantumultXLauncher
 
 Package: netskao.quantumultxlauncher-rootless
 Version: 1.1-2
@@ -2857,22 +1438,6 @@ Description: 通过控制中心快捷进入QuantumultX
 Author: Netskao
 Name: QuantumultXLauncher-Rootless
 
-Package: netskao.showtouch
-Version: 1.0.4-2
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 564
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: ./debs/netskao.showtouch_1.0.4-2_iphoneos-arm.deb
-Size: 94848
-MD5sum: 153f682f702e2a2934ec1c22c4645a99
-SHA1: 75c5547e7274282a4b2b0a13e93453ea221891c4
-SHA256: 1b6e93ce3893ae4015ab144bd08d01116f9f05c00f1a17b704a0fb208c6dc90f
-Section: Netskao-Tweaks
-Description: Shows where you touch the screen
-Author: LonestarX
-Name: ShowTouch
-
 Package: netskao.showtouch-rootless
 Version: 1.0.4-2
 Architecture: iphoneos-arm64
@@ -2888,39 +1453,6 @@ Section: Netskao-Tweaks
 Description: Shows where you touch the screen
 Author: LonestarX
 Name: ShowTouch-Rootless
-
-Package: netskao.smallbanners
-Version: 1.2-6
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 544
-Depends: mobilesubstrate, firmware (>= 13.0)
-Conflicts: it.dreamcode.picobanners2, netskao.picobanners2
-Filename: ./debs/netskao.smallbanners_1.2-6_iphoneos-arm.deb
-Size: 106260
-MD5sum: 5b69a74209ffeedbb564a2b5b9cb21d4
-SHA1: a049cfb08b51e209607f4930bf22e463d73b8cc7
-SHA256: c1dcd57ba206f001abc0f266531e7399dc668fd5970701836b80b636889e6afe
-Section: Netskao-Tweaks
-Description: Small Notification Banners. Support iOS13-15
-Author: Netskao
-Name: SmallBanners
-
-Package: netskao.storeswitchaccounts
-Version: 1.1-2
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 300
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/netskao.storeswitchaccounts_1.1-2_iphoneos-arm.deb
-Size: 41944
-MD5sum: 85ef4513e26da07068ce19a6759e62ee
-SHA1: b8760635292f68e8a86f83b88508e3150a9fd495
-SHA256: acac742ef518ca9855308e3dd48f6bb89ccdc341fdd5348e1f1e596e4ae793c8
-Section: Netskao-Tweaks
-Description: Conveniently switch between logged-in accounts, long press the desktop AppStore icon to switch
-Author: Netskao
-Name: StoreSwitchAccounts
 
 Package: netskao.tinyccmodules-rootless
 Version: 1.1-1
@@ -2938,22 +1470,6 @@ Description: Tiny CCModules. TinyDisplayModule and TinyMediaAudioModule
 Author: Netskao
 Name: TinyCCModules-Rootless
 
-Package: netskao.twitternoads
-Version: 1.4-5
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 456
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/netskao.twitternoads_1.4-5_iphoneos-arm.deb
-Size: 102720
-MD5sum: 7043e824256fba5a4369a25ab352e245
-SHA1: 2e6743ce99ea995730823590d82a7c7ddfd7cec3
-SHA256: 64fe00e54715983f6db56367624792ba241de8982faee4a485b65c503ff4c422
-Section: Netskao-NoAds
-Description: Twitter去除信息流中广告，去除搜索页面趋势信息流中广告，去除左侧中的广告选项和专业版选项，去除首页顶部视频和空间，禁用推特自定义字体，禁用链接跳转检查，修改搜索历史记录仅显示5条为显示所有，增加喜欢或撤销喜欢推文二次确定，增加瀑布流按钮保存视频或图片至相册，仅支持9.39及以上版本
-Author: Netskao
-Name: Twitter NoAds
-
 Package: netskao.twitternoads-rootless
 Version: 1.4-5
 Architecture: iphoneos-arm64
@@ -2969,22 +1485,6 @@ Section: Netskao-NoAds
 Description: Twitter去除信息流中广告，去除搜索页面趋势信息流中广告，去除左侧中的广告选项和专业版选项，去除首页顶部视频和空间，禁用推特自定义字体，禁用链接跳转检查，修改搜索历史记录仅显示5条为显示所有，增加喜欢或撤销喜欢推文二次确定，增加瀑布流按钮保存视频或图片至相册，仅支持9.39及以上版本
 Author: Netskao
 Name: Twitter NoAds-Rootless
-
-Package: netskao.vscocrack
-Version: 1.1-3
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 408
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/netskao.vscocrack_1.1-3_iphoneos-arm.deb
-Size: 93076
-MD5sum: e4a9b8554f869a5d8a350180401f7ce5
-SHA1: 662bfb805d1d160069aa8681ddc92040791cdab4
-SHA256: 6d358b5baa068445078cbdd8aa000c4b1d841a72028e752f9752c2d38bfec9b3
-Section: Netskao-Cracks
-Description: VSCO解锁全功能，仅支持316.0.0及以上版本
-Author: Netskao
-Name: VSCO Crack
 
 Package: netskao.vscocrack-rootless
 Version: 1.1-3
@@ -3002,41 +1502,6 @@ Description: VSCO解锁全功能，仅支持316.0.0及以上版本
 Author: Netskao
 Name: VSCO Crack-Rootless
 
-Package: netskao.wcpureextension
-Version: 4.2-6
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 19660
-Depends: mobilesubstrate, firmware (>= 12.0)
-Conflicts: netskao.wechatpurification
-Replaces: netskao.wechatpurification
-Provides: netskao.wechatpurification
-Filename: ./debs/netskao.wcpureextension_4.2-6_iphoneos-arm.deb
-Size: 7085216
-MD5sum: d0e3d9c840ba34e3a10ad8a89dc23881
-SHA1: a791d2c8710a20cdb7324ae94babb14ae1beb9ba
-SHA256: 34f7b0f60b73111f582e0c1c4f9cd03c6d98708ebb990bced833eb421742699a
-Section: Netskao-Tweaks
-Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
-Author: Netskao
-Name: 微信净化
-
-Package: netskao.wechatscan
-Version: 1.2-2
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 144
-Depends: firmware (>= 11.0), mobilesubstrate, com.opa334.ccsupport
-Filename: ./debs/netskao.wechatscan_1.2-2_iphoneos-arm.deb
-Size: 15880
-MD5sum: 9f71a324950ed797db410eaf8e249c94
-SHA1: 226d36162f12ca57500e50927d8c1034dfc628b0
-SHA256: 7d55fc652fbb72225933d3b6b3c83393a795f30e6310ca89ed9aedd6ad22aeb1
-Section: Netskao-Tweaks
-Description: 通过控制中心快捷打开微信扫一扫，设置-控制中心-自定控制内添加后使用
-Author: Netskao
-Name: WeChatScan
-
 Package: netskao.wechatscan-rootless
 Version: 1.2-2
 Architecture: iphoneos-arm64
@@ -3052,22 +1517,6 @@ Section: Netskao-Tweaks
 Description: 通过控制中心快捷打开微信扫一扫，设置-控制中心-自定控制内添加后使用
 Author: Netskao
 Name: WeChatScan-Rootless
-
-Package: netskao.weibonoads
-Version: 1.9-8
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 156
-Depends: firmware (>= 11.0), mobilesubstrate
-Filename: ./debs/netskao.weibonoads_1.9-8_iphoneos-arm.deb
-Size: 30628
-MD5sum: 392fce66a2af356412be62f39e3f9242
-SHA1: 0d03527e198cb95c9e8a6600a9ddbce28a6da960
-SHA256: 04eb33d937da279814cd8ad81498c3f292bfc579bf3cc2491c1c78b8145278d9
-Section: Netskao-NoAds
-Description: 微博去除启动广告, 去除各种信息流中广告, 仅支持微博13.9.0及以上版本
-Author: Netskao
-Name: 微博 NoAds
 
 Package: netskao.weibonoads-rootless
 Version: 1.9-8
@@ -3085,22 +1534,6 @@ Description: 微博去除启动广告, 去除各种信息流中广告, 仅支持
 Author: Netskao
 Name: 微博 NoAds-Rootless
 
-Package: netskao.wrecycrack
-Version: 1.1-1
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 376
-Depends: firmware (>= 12.0), mobilesubstrate
-Filename: ./debs/netskao.wrecycrack_1.1-1_iphoneos-arm.deb
-Size: 83756
-MD5sum: faaea367712fab71baca580ca9a7af17
-SHA1: 6496f7fa9a48549548caa84c7c813db190475d19
-SHA256: 5f49f918d582047730813f89f560c83e6b504799ab1cfed0a2ce64e6a7e6fbf0
-Section: Netskao-Cracks
-Description: 无染二次元去除所有广告
-Author: Netskao
-Name: 无染二次元 NoAds
-
 Package: netskao.wrecycrack-rootless
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -3116,22 +1549,6 @@ Section: Netskao-Cracks
 Description: 无染二次元去除所有广告
 Author: Netskao
 Name: 无染二次元 NoAds-Rootless
-
-Package: netskao.xhsnoads
-Version: 1.3-7
-Architecture: iphoneos-arm
-Maintainer: Nets
-Installed-Size: 392
-Depends: firmware (>= 11.0), mobilesubstrate
-Filename: ./debs/netskao.xhsnoads_1.3-7_iphoneos-arm.deb
-Size: 89340
-MD5sum: 814bbf648580ed3aeac99a158290b17c
-SHA1: 3fb4579ea43784419762cf41b504df762fef32f4
-SHA256: c0812fc0fda0ab5afa9c8cde1069989a36661ee4d75816daa98d3d6c3639214c
-Section: Netskao-NoAds
-Description: 小红书去除启动广告, 去除信息流视频流广告, 修改原始按钮保存无水印视频和图片和live图和评论区图片, 解除部分视频无法下载, 添加长按文案快捷复制作者名或文案, 仅支持8.5及以上版本
-Author: Netskao
-Name: 小红书 NoAds
 
 Package: netskao.xhsnoads-rootless
 Version: 1.3-7
@@ -3149,164 +1566,6 @@ Description: 小红书去除启动广告, 去除信息流视频流广告, 修改
 Author: Netskao
 Name: 小红书 NoAds-Rootless
 
-Package: org.coolstar.classicfolders2
-Version: 3.0.1
-Architecture: iphoneos-arm64
-Maintainer: CoolStar
-Installed-Size: 2592
-Depends: mobilesubstrate
-Filename: ./debs/org.coolstar.classicfolders2_3.0.1_iphoneos-arm64.deb
-Size: 1672044
-MD5sum: 4f92e0522d9d3bddf93c5fcd2d8da674
-SHA1: 6a52f7863d9bc5fb960bb9c6a3462cc339ec354b
-SHA256: ef77f077cc32b2bf968b23f80da27949d73f8118e0a6f3a040eeada22880c17a
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: CoolStar
-Name: ClassicFolders 2
-
-Package: org.coolstar.classicfolders2
-Version: 3.0.2
-Architecture: iphoneos-arm64
-Maintainer: CoolStar
-Installed-Size: 4496
-Depends: mobilesubstrate
-Filename: ./debs/org.coolstar.classicfolders2_3.0.2_iphoneos-arm64.deb
-Size: 3313794
-MD5sum: c2d1bea31c98f2629452dc5272c61ed7
-SHA1: d0de686830f502931fdf2f46df0e55ad0b124be8
-SHA256: 70ab1ecd372df8749057232886b9b3f39d4c751012e44311dfcc5bb1888216ad
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: CoolStar
-Name: ClassicFolders 2
-
-Package: org.coolstar.classicfolders2
-Version: 3.0.3
-Architecture: iphoneos-arm64
-Maintainer: CoolStar
-Installed-Size: 4496
-Depends: mobilesubstrate
-Filename: ./debs/org.coolstar.classicfolders2_3.0.3_iphoneos-arm64.deb
-Size: 3314564
-MD5sum: f214bfd6d9ccf49b999d0bd69de836a3
-SHA1: ed02802b20f552bea7e0acb43217e945f5d2543a
-SHA256: e9cb39f28f755bc2a16ba76622fbbd94b0b7763be646e9b1a879a033f03bb70e
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: CoolStar
-Name: ClassicFolders 2
-
-Package: org.coolstar.classicfolders2
-Version: 3.0.4
-Architecture: iphoneos-arm64
-Maintainer: CoolStar
-Installed-Size: 4496
-Depends: mobilesubstrate
-Filename: ./debs/org.coolstar.classicfolders2_3.0.4_iphoneos-arm64.deb
-Size: 3316574
-MD5sum: 156bf5717ab4894f1a6db5fa2e59ddf5
-SHA1: 8d0247b613d595b9ed96ba69faa65764d809d808
-SHA256: a50de41fa91c67839dac3d53fa4123a74caf22c49344d42b7cd1d34e61d59a60
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: CoolStar
-Name: ClassicFolders 2
-
-Package: rcom.lengran.basevpn.crack
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.basevpn.crack_1.0.0_iphoneos-arm.deb
-Size: 221752
-MD5sum: afc01842ccd50e3646ac397e1fc51926
-SHA1: 9e9f6a8fce069c2af5abbe5b3a98799075213b05
-SHA256: 72e170f6666e2af41e507bf8b797144c00a759eff66319ddeb9e4f8ec408e09b
-Section: Crack
-Description: BaseVpn Crack
-Author: By-Lengran
-Name: BaseVpn Crack
-
-Package: repo.feng.doubletaplock.cn
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.spark.doubletaplock
-Filename: ./debs/repo.lengran.doubletaplock.cn_1.0.1.deb
-Size: 1264
-MD5sum: 286f9a3a7c85a78f84deef8dc53950fd
-SHA1: f6d679579fab1ac444e5541220f1d702740d004b
-SHA256: 9942ac0beae323e44474eb98128deadbee8fe1b2b6386d47f8335b9aa26345ee
-Section: 汉化
-Description: DoubleTapLock 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/DoubleTapLockPrefs.bundle/icon@2x.png
-Name: DoubleTapLock 汉化包
-
-Package: repo.lengran.Killxpro.cn
-Version: 2.1.2
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.cemck.killx-pro
-Filename: ./debs/repo.lengran.killxpro.cn_2.1.2_iphoneos-arm.deb
-Size: 1964
-MD5sum: 121783cb9475abbc2b4244141a47387b
-SHA1: f4d762c47003c2638be8df150c70850a4b8230eb
-SHA256: 9ba9b5ebc43244e736b1830fedbdb2ef927e286ff5bcb204eddcb14292db31b5
-Section: 汉化
-Description: KillX Pro 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/KillXProPrefs.bundle/icon_pro@2x.png
-Name: KillX Pro 汉化包
-
-Package: repo.lengran.Killxpro.cn
-Version: 3.0.2
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.cemck.killx-pro
-Filename: ./debs/repo.lengran.killxpro.cn_3.0.2_iphoneos-arm.deb
-Size: 2928
-MD5sum: 728f7779abec4841288d52e918683ebe
-SHA1: 22a6607b26bddee75c3e68454ea9acf230eefa78
-SHA256: 428bcbb41c87e1e358755d80a08358065aa4d39cedef73a975e7d31b3311afd7
-Section: 汉化
-Description: KillX Pro 汉化补充包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/KillXProPrefs.bundle/icon_pro@2x.png
-Name: KillX Pro 汉化包
-
-Package: repo.lengran.a-bypass.cn
-Version: 1.5.7
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.rpgfarm.a-bypass
-Filename: ./debs/repo.lengran.a-bypass.cn_1.5.7_iphoneos-arm.deb
-Size: 2860
-MD5sum: f30704b8f09c3b05f12d47effa7393d4
-SHA1: 6d8f06b8a97b1377be40bfdc722e03114ac0f5cd
-SHA256: 1b69b6c2189f41a4e669dbdc215cff873d43795aacc5ecdfddab790152a9fbaf
-Section: 汉化
-Description: A-Bypass 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/ABypassPrefs.bundle/icon@2x.png
-Name: A-Bypass 汉化包
-
-Package: repo.lengran.a-font.cn
-Version: 1.9.6
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.rpgfarm.a-font
-Filename: ./debs/repo.lengran.a-font.cn_1.9.6_iphoneos-arm.deb
-Size: 2332
-MD5sum: 2bcf65e450d445f21ddda6fb8ce57dfd
-SHA1: 915b851e0dab2efe3b3e8df02e5aea1af508c2b7
-SHA256: 14fd57309b96101a22134d8c2f979c21d660b549c7e39578def68858dd4bc239
-Section: 汉化
-Description: A-Font 汉化包
-Author: 妖刀
-Icon: file:///Library/PreferenceBundles/AFontPrefs.bundle/icon@2x.png
-Name: A-Font 汉化包
-
 Package: repo.lengran.a-font.cn.rootless
 Version: 1.9.3
 Architecture: iphoneos-arm64
@@ -3321,54 +1580,6 @@ Section: 汉化
 Description: A-Font 汉化包
 Author: 妖刀
 Name: A-Font 汉化包
-
-Package: repo.lengran.aim.cn
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.ali.aim
-Filename: ./debs/repo.lengran.aim.cn_1.2_iphoneos-arm.deb
-Size: 5644
-MD5sum: 86504bd199ba77ee4cf419c74a0a98f4
-SHA1: d4d2f89af126358b1e872f59b05a617c10a62be6
-SHA256: 088d96286243de7e34b067fbc5eacbdb0b87ec0327074cff0e035dcb4012abe1
-Section: 汉化
-Description: AIM 汉化包
-Author: 妖刀
-Icon: file:///Library/PreferenceBundles/AIMPrefs.bundle/icon@2x.png
-Name: AIM 汉化包
-
-Package: repo.lengran.aim.cn
-Version: 1.2.5
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.ali.aim
-Filename: ./debs/repo.lengran.aim.cn_1.2.5_iphoneos-arm.deb
-Size: 6300
-MD5sum: 4f433470d48d6dd01da36fbf20ec82d1
-SHA1: 2403816283defdd245cc7c5ccce3bb35853bf6f3
-SHA256: b9cd6a849aa8eaa992902b9ce6713208cf8fdd4a8cf06c567b11e61f706973b9
-Section: 汉化
-Description: AIM 汉化包
-Author: 妖刀
-Icon: file:///Library/PreferenceBundles/AIMPrefs.bundle/icon@2x.png
-Name: AIM 汉化包
-
-Package: repo.lengran.ampere.cn
-Version: 1.0.5
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.mtac.ampere
-Filename: ./debs/repo.lengran.ampere.cn_1.0.5_iphoneos-arm.deb
-Size: 4776
-MD5sum: 6c5a5889f336bcac428ed4cba9861242
-SHA1: 81e985663cdd3936ca1295acc87f64a091935434
-SHA256: 386b945a945f39a6f42e9092f6a4c8dbc725d564be7d74ca3bff06344a96597e
-Section: 汉化
-Description: Ampere 汉化包
-Author: 妖刀
-Icon: file:///Library/PreferenceBundles/AmpereSettings.bundle/icon@2x.png
-Name: Ampere 汉化包
 
 Package: repo.lengran.ampere.cn.rootless
 Version: 1.1
@@ -3415,54 +1626,6 @@ Description: AppIndex 汉化包
 Author: By-Lengran
 Name: AppIndex 汉化包
 
-Package: repo.lengran.audiorecorderxs.cn
-Version: 3.0-78
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: mobilesubstrate
-Filename: ./debs/repo.lengran.audiorecorderxs.cn_3.0-78.deb
-Size: 7936
-MD5sum: 416acdd69b4b45dcef29906236e5f78a
-SHA1: 087a0d1b4f2f353c35b9f95c1c74df0413c73074
-SHA256: c722f096936f8f90e4d0f506b5ac418ee3370b68557dca30bf0e1b886607a142
-Section: 汉化
-Description: AudioRecorder XS 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/AudioRecorderPreferences.bundle/AudioRecorder@2x.png
-Name: AudioRecorder XS 汉化包
-
-Package: repo.lengran.autounlockx.cn
-Version: 1.0.12
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.spark.autounlockx
-Filename: ./debs/repo.lengran.autounlockx.cn_1.0.12.deb
-Size: 1768
-MD5sum: bebc8a9f0769e186c0b5122a1442f5c3
-SHA1: d2aa6203aa8e39f3e5281214d9d13ba3ab7e6458
-SHA256: 075f29d3aadc432dbc1ac8bee452021a95b9beaf34294bd6f7499d643299dcc7
-Section: 汉化
-Description: AutoUnlockX 汉化包
-Author: CDSQ.Tech <cdsq.deb@gmail.com>
-Icon: file:///Library/PreferenceBundles/AutoUnlockXPrefs.bundle/icon@2x.png
-Name: AutoUnlockX 汉化包
-
-Package: repo.lengran.autounlockx.cn
-Version: 1.0.6
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.spark.autounlockx
-Filename: ./debs/repo.lengran.autounlockx.cn_1.06.deb
-Size: 1428
-MD5sum: 289a8351561114af9048036d846d98ac
-SHA1: 45010e86cd8f69667837ce0b8b7cbc047f43cf75
-SHA256: 3be03e5382a8b997b48a02cea350c2d56c5c81592eea1a831c3e35e5601a6144
-Section: 汉化
-Description: AutoUnlockX 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/AutoUnlockXPrefs.bundle/icon@2x.png
-Name: AutoUnlockX 汉化包
-
 Package: repo.lengran.autounlockx.cn.rootless
 Version: 1.1.0-rootless
 Architecture: iphoneos-arm64
@@ -3493,53 +1656,6 @@ Description: Axon 汉化包
 Author: 妖刀
 Name: Axon 汉化包
 
-Package: repo.lengran.batterypercent12.cn
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.dpkg.batterypercent12
-Filename: ./debs/repo.lengran.batterypercent12.cn_1.0.1.deb
-Size: 1628
-MD5sum: 5f3fb71a6cae23d0043fa8a6efb7392b
-SHA1: 594056d526c861b25105f2b9a4757ec4fda57ba7
-SHA256: 0960b102e03a050363b7d986a0ff3e374b275d3ddec7ba5f6d01b5528e9d8925
-Section: 汉化
-Description: BatteryPercent12 汉化包。BatteryPercent12 是适用于 iPhone X 及以上设备的一款电池修改插件！
-Author: By-Lengran
-Icon: file:////Library/PreferenceBundles/BatteryPercent12.bundle/icon@2x.png
-Name: BatteryPercent12 汉化包
-
-Package: repo.lengran.batterypercentx.cn
-Version: 1.3.8-1
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: mobilesubstrate
-Filename: ./debs/repo.lengran.batterypercentx.cn_1.3.8-1.deb
-Size: 1828
-MD5sum: 3a690548d603bcfd7ee232f2d53f985a
-SHA1: 473ee7e507f707b278e56063d7d52d6620a63006
-SHA256: 57cdf105f338767b99898986a51edb3dcb89fd5dd245d2e7439542c696c17b79
-Section: 汉化
-Description: BatteryPercentX 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/batterypercentxprefs.bundle/icon@2x.png
-Name: BatteryPercentX 汉化包
-
-Package: repo.lengran.bazzi2.cn
-Version: 2.0.7.1
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.bazzi2.cn_2.0.7.1.deb
-Size: 1972
-MD5sum: 194556c6d867fb147e0c4d4fdd04da22
-SHA1: 511390964ce28a65667ded15572572e6ab3b66e2
-SHA256: d941e6595b9663eaac67f7cb6814739b3f7353b437642f449bc9179c710723e2
-Section: 汉化
-Description: Bazzi 2 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/Bazzi2Settings.bundle/bazzi2@2x.png
-Name: Bazzi 2 汉化包
-
 Package: repo.lengran.betteralarm.cn.rootless
 Version: 1.4.1
 Architecture: iphoneos-arm64
@@ -3553,21 +1669,6 @@ Section: 汉化
 Description: betterAlarm 汉化包
 Author: 妖刀
 Name: betterAlarm 汉化包
-
-Package: repo.lengran.betterccxi.cn
-Version: 1.4.10
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.betterccxi.cn_1.4.10.deb
-Size: 1436
-MD5sum: 4a3f881a3271f4e04814a8e37a4ae18c
-SHA1: 0049c6918ddb1a847ea718699773ae989fc38017
-SHA256: 2798f9ba4f5e6915d7a9e486b50f69dbc8d491237d05d16eb54789fec8cfd97a
-Section: 汉化
-Description: BetterCCXI 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/BetterCCXI.bundle/SettingsIcon@2x.png
-Name: BetterCCXI 汉化包
 
 Package: repo.lengran.bioprotect.cn.rootless
 Version: 4.6-30
@@ -3584,86 +1685,6 @@ Description: BioProtect(rootless) 汉化包
 Author: Sandy0 & Ball
 Name: BioProtect(rootless) 汉化包
 
-Package: repo.lengran.bioprotectxs.nox.cn
-Version: 4.0-71
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: mobilesubstrate
-Filename: ./debs/repo.lengran.bioprotectxs.nox.cn_4.0-71.deb
-Size: 7240
-MD5sum: 55d5517af0724a2354bc22b49260463f
-SHA1: 12711397a61943e0ff51025688f5c3580c1f9b4a
-SHA256: 1427505876589c719edcbc7c434d6dfaabd8e30ca79240fd386dbfb177eb7dbd
-Section: 汉化
-Description: BioProtect XS 汉化包（非X设备）
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect@2x.png
-Name: BioProtect XS 汉化包（非X设备）
-
-Package: repo.lengran.bioprotectxs.x.cn
-Version: 4.0-71
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: mobilesubstrate
-Filename: ./debs/repo.lengran.bioprotectxs.x.cn_4.0-71.deb
-Size: 7328
-MD5sum: 1423a6247a43770309749696a43ef2af
-SHA1: a5d78386e2aec1d97b27b1f2247ad0ad9726cda4
-SHA256: 1cd079c18859cd2047ecc25ec42981045c6f22cec993d00539a5f50a9e49718e
-Section: 汉化
-Description: BioProtect XS 汉化包（X设备）
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect@2x.png
-Name: BioProtect XS 汉化包（X设备）
-
-Package: repo.lengran.callbarxs.cn
-Version: 2.2-5
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: mobilesubstrate
-Filename: ./debs/repo.lengran.callbarxs.cn_2.2-5.deb
-Size: 2840
-MD5sum: f9928bd47a464fc54f29707aa07fa2f4
-SHA1: a13b81ce56c7d80ee4aa0442cb50d37d713afcea
-SHA256: f70ab893a8738f5f16c361671860e0732bfc30537c3ad4db6715d9f6b19375e0
-Section: 汉化
-Description: CallBar XS  汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
-Name: CallBar XS 汉化包
-
-Package: repo.lengran.callslicer.cn
-Version: 1.4
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.yuigawada.callslicer
-Filename: ./debs/repo.lengran.callslicer.cn_1.4.deb
-Size: 1178
-MD5sum: b375d6db8d75b5b795312126e09fa0f0
-SHA1: 9d85136d4e17bda96d714c1b307e3f35598e940d
-SHA256: 0509630956ebc37bb807a0530d142cb24224b85ad64cad8c827f894154ec32c3
-Section: 汉化
-Description: CallSlicer 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/CallSlicerPrefs.bundle/icon@2x.png
-Name: CallSlicer 汉化包
-
-Package: repo.lengran.ccmusicartwork.cn
-Version: 2.1.2
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.spark.ccmusicartwork
-Filename: ./debs/repo.lengran.ccmusicartwork.cn_2.1.2.deb
-Size: 1192
-MD5sum: 9e90812a5364c68694e105db1bb4b7e7
-SHA1: e3dca49f5b31bdf3ede2484dc2b65150d7467973
-SHA256: de1dde8247192cef219b9f2502f3dff1c90e37e9ca9a6125da34d2103ae51309
-Section: 汉化
-Description: CCMusicArtwork 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/CCMusicArtworkPrefs.bundle/icon@2x.png
-Name: CCMusicArtwork 汉化包
-
 Package: repo.lengran.ccmusicartwork.cn.rootless
 Version: 2.4.0-rootless
 Architecture: iphoneos-arm64
@@ -3679,35 +1700,6 @@ Description: CCMusicArtwork 汉化包
 Author: 妖刀
 Name: CCMusicArtwork 汉化包
 
-Package: repo.lengran.ccplus15
-Version: 1.0.3
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.ccplus15_1.0.3_iphoneos-arm.deb
-Size: 135184
-MD5sum: da2e900f9d11e2293494cdf0adfa6376
-SHA1: 5c1075c07841ed363c0f1aca07860a168cdc31f7
-SHA256: 77be3194d72e457786dec863460517f1dca600fc1808352c1ba7c47bc12e29b3
-Section: Tweaks
-Description: CC++
-Author: 妖刀
-Name: CC++
-
-Package: repo.lengran.choicy.cn
-Version: 1.4.4
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.opa334.choicy
-Filename: ./debs/repo.lengran.choicy.cn_1.4.4_iphoneos-arm.deb
-Size: 3980
-MD5sum: c50c94b4bbde5568d55d1a63b8fda193
-SHA1: 3f990c08d8aa9ad8cce1be047cfe30ffeae7fe82
-SHA256: 2b95dfe5489fed52a6043c46165dd376bdafa09518e8c980c7e017815af5373a
-Section: 汉化
-Description: Choicy 汉化包
-Author: By-Lengran
-Name: Choicy 汉化包
-
 Package: repo.lengran.choicy.cn.rootless
 Version: 1.4.7
 Architecture: iphoneos-arm64
@@ -3722,87 +1714,6 @@ Section: 汉化
 Description: Choicy 汉化包
 Author: 妖刀
 Name: Choicy 汉化包
-
-Package: repo.lengran.colorbadges
-Version: 1.5.0
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Installed-Size: 537
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
-Conflicts: org.thebigboss.colorbadges
-Replaces: org.thebigboss.colorbadges
-Filename: ./debs/repo.lengran.colorbadges_1.5.0_iphoneos-arm.deb
-Size: 59720
-MD5sum: 6b32ded89600bda8bda641fa97d9a7bb
-SHA1: acd945f1755253782b46a4c51299f9a33a5ac2a7
-SHA256: e93529c3fca3e3d9d2f68781570da1ef3e677167f1f4a74c70809b5fedd2d494
-Section: Tweaks
-Description: Colorize your badges
-Author: David Goldman <help@golddavid.com>
-Icon: file:///Library/PreferenceBundles/cbprefs.bundle/CBCydiaIcon.png
-Name: ColorBadges
-
-Package: repo.lengran.colorbadges.cn
-Version: 1.3.2-1
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.colorbadges.cn_1.3.2-1.deb
-Size: 1660
-MD5sum: 8305d9b75e10a04965cc2990ce8e294b
-SHA1: 695e444dfc77177e8f706c4c98a5a07c54fb9f4f
-SHA256: 945c2299e50d83e30e725f245d8a895e9cd1edeee453b345df10c67b1041d8cb
-Section: 汉化
-Description: ColorBadges 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/cbprefs.bundle/CBCydiaIcon.png
-Name: ColorBadges 汉化包
-
-Package: repo.lengran.colorbadges.cn
-Version: 1.4.4
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Filename: ./debs/com.lengran.colorbadges.cn_1.4.4.deb
-Size: 1772
-MD5sum: 27ae829d657fc73a3e31cc53e1b50747
-SHA1: 348281ffcf055de4a6d72fbb9d726cbb1ee198a5
-SHA256: d54ac354ce4157346f7733d9304523e6508f325c5ae52d427f2f0a3d81f781c0
-Section: 汉化
-Description: ColorBadges 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/cbprefs.bundle/CBCydiaIcon.png
-Name: ColorBadges 汉化包
-
-Package: repo.lengran.colorbadges.cn
-Version: 1.5.0
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: repo.lengran.colorbadges
-Filename: ./debs/repo.lengran.colorbadges.cn_1.5.0_iphoneos-arm.deb
-Size: 1828
-MD5sum: fd701dee67a4e5f195600c35d83e5a24
-SHA1: f651eb5acfb1c8902f3e63f272f78f686d081abf
-SHA256: f85fe5118cfd2715332ce628fa5ad9790d23be29ae1d49a661a3a04b1b1765a3
-Section: 汉化
-Description: ColorBadges 汉化包
-Author: 妖刀
-Icon: file:///Library/PreferenceBundles/cbprefs.bundle/CBCydiaIcon.png
-Name: ColorBadges 汉化包
-
-Package: repo.lengran.conditionalwifi4.icon
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.atwiiks.conditionalwifi4
-Filename: ./debs/repo.lengran.conditionalwifi4.icon_1.0.0.deb
-Size: 9372
-MD5sum: eb27c288388aa537fb07284469d30cb8
-SHA1: 25e8487fd20d9ac31c03733edf2e80897abf555e
-SHA256: 8adba76bbf4de6ed8efa3b9c1905f8f5a31fe308b62148fc7aa54bbaae8eeefd
-Section: Tweaks
-Description: 补全 ConditionalWiFi4 设置图标
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/ConditionalWiFi4.bundle/icon@2x.png
-Name: ConditionalWiFi4 设置图标包
 
 Package: repo.lengran.coolcc.cn.rootless
 Version: 2.0
@@ -3862,38 +1773,6 @@ Description: Crane 汉化包
 Author: 妖刀
 Name: Crane 汉化包
 
-Package: repo.lengran.cydown.cn
-Version: 6.9.7
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.julioverne.cydown
-Filename: ./debs/repo.lengran.cydown.cn_6.9.7.deb
-Size: 23076
-MD5sum: 25bea91732b176effaa0b8945951164a
-SHA1: 6d8ef2c29008d1760fc80f91eab4f6fc2bad5368
-SHA256: c8a6b5f7e2c05d2714849878d48ee4ca2c697e5ef8f5246c5a93551df14047af
-Section: 汉化
-Description: Cydown 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown.png
-Name: Cydown 汉化包
-
-Package: repo.lengran.cydown.cn
-Version: 7.0.6
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.julioverne.cydown
-Filename: ./debs/repo.lengran.cydown.cn_7.0.6.deb
-Size: 22136
-MD5sum: c22f6b7e22aac830684c96f42cccf4bf
-SHA1: dce03fe29eb5607c937ae744718d2fc2e5ba0eed
-SHA256: fc332bc21b5cce4616d186496ae5da9bf6d423e286968b357ffc922d55dff265
-Section: 汉化
-Description: Cydown 汉化包
-Author: CDSQ.Tech <cdsq.deb@gmail.com>
-Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown.png
-Name: Cydown 汉化包
-
 Package: repo.lengran.cylinderrebron.cn.rootless
 Version: 1.1.1
 Architecture: iphoneos-arm64
@@ -3908,117 +1787,6 @@ Section: 汉化
 Description: Cylinder Rebron 汉化增补包
 Author: 妖刀
 Name: Cylinder Rebron 汉化增补包
-
-Package: repo.lengran.datameter
-Version: 1.4.3
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
-Filename: ./debs/repo.lengran.datameter_1.4-3.deb
-Size: 243596
-MD5sum: 54d5a57682b204fbe5e0daf30e891f16
-SHA1: cee193f6ca45bb0a149ead90590bdbc859cb339e
-SHA256: f268ca9693ce8c746b9c2d88342d81b06bf926a8d9ec423a4ffe7a054ac2ca1e
-Section: Tweaks
-Description: wifi & data traffic Notification widget
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/DataMeterSettings.bundle/icon@2x.png
-Name: DataMeter
-
-Package: repo.lengran.dictmojix.cn
-Version: 1.4.15
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.udevs.dictmojix
-Filename: ./debs/repo.lengran.dictmojix.cn_1.4.15_iphoneos-arm.deb
-Size: 1408
-MD5sum: 3b95589093c6b979511dabae03e0cf97
-SHA1: 5a52fbdda227ad0edf5764881811d39385c6ecc8
-SHA256: ab7233e9d65bf650020cafc4c765b990fac87204fcaafa13ce56594ba712c791
-Section: 汉化
-Description: DictMojiX 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/DictMojiXPrefs.bundle/DictMojiX@2x.png
-Name: DictMojiX 汉化包
-
-Package: repo.lengran.dockx.cn
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.udevs.dockx
-Filename: ./debs/repo.lengran.dockx.cn_1.0.1_iphoneos-arm.deb
-Size: 1134
-MD5sum: 3eee5adfbb1f96947defbc5d86516b9b
-SHA1: 4487ed0ba724c78a3af558f91ae4f2ba1eb125a0
-SHA256: 498009208afe11239535727389485e83753b9543fae210c4d1045a97369229a6
-Section: 汉化
-Description: DockX 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/DockXPrefs.bundle/DockX@2x.png
-Name: DockX 汉化包
-
-Package: repo.lengran.dockx.cn
-Version: 1.2.0.1
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.udevs.dockx
-Filename: ./debs/repo.lengran.dockx.cn_1.2.0.1.deb
-Size: 1222
-MD5sum: 34da72e335f9ccbe50b8180f5b451c4c
-SHA1: a463994f0c4cce82ea3b06103c7849a3809bc579
-SHA256: b668dfbebde33a84e8c67366aac28a1f0449d3c19f9c9e238e82ba4fa437193f
-Section: 汉化
-Description: DockX 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/DockXPrefs.bundle/DockX@2x.png
-Name: DockX 汉化包
-
-Package: repo.lengran.dockx.cn
-Version: 1.5.0
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.udevs.dockx
-Filename: ./debs/repo.lengran.dockx.cn_1.5.0_iphoneos-arm.deb
-Size: 1514
-MD5sum: bad8eae2e082bce67ef419b6e1153681
-SHA1: 4f3bb813ac592eabc0faed7000a015487c3e0a07
-SHA256: 269e1ce7fc3f023844f159356a8200075cfb0f3affb7ec43b20e644ea4f7433a
-Section: 汉化
-Description: DockX 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/DockXPrefs.bundle/DockX@2x.png
-Name: DockX 汉化包
-
-Package: repo.lengran.dockx.cn
-Version: 2.4.2
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.udevs.dockx
-Filename: ./debs/repo.lengran.dockx.cn_2.4.2_iphoneos-arm.deb
-Size: 8106
-MD5sum: 6b42ee8fae1dd9bd914574139e7db018
-SHA1: 4c5c73c923e03bfdfb6c739f2d9b8cb86e404666
-SHA256: cfc61975fc7e9d9e95ff3188b5e3b654f21c139c77d7db1f39c1345d23e5a397
-Section: 汉化
-Description: DockX 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/DockXPrefs.bundle/DockX@2x.png
-Name: DockX 汉化包
-
-Package: repo.lengran.dynamicpeninsula.cn
-Version: 0.1-169
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.dynamicpeninsula.cn_0.1-169_iphoneos-arm.deb
-Size: 1420
-MD5sum: 1f409e21446380d60a22aa4aa788e776
-SHA1: 5e523852f635e1626d76ef15a788716095ad5792
-SHA256: 11ea6297eaec2176c148fe73362acbaa9fd8933f9d4622cca056ca142b7b1386
-Section: 汉化
-Description: DynamicPeninsula 汉化包
-Author: 妖刀
-Icon: file:///Library/PreferenceBundles/DynamicPeninsula.bundle/icon@3x.png
-Name: DynamicPeninsula 汉化包
 
 Package: repo.lengran.dynamicpeninsula.cn.rootless
 Version: 0.6-19
@@ -4035,21 +1803,6 @@ Description: DynamicPeninsula(rootless) 汉化包
 Author: 妖刀
 Name: DynamicPeninsula(rootless) 汉化包
 
-Package: repo.lengran.easyapporientation.cn
-Version: 0.0.7
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.easyapporientation.cn_0.0.7.deb
-Size: 1336
-MD5sum: 06e69203c98ae2efb66d8a3a1dc140a1
-SHA1: 265711de99f6a8f21eed8ea3314227c9697efc84
-SHA256: ac3198bbca67e87d07744e96ad727e01cbd5c1b2f3d25800b37666d228085f10
-Section: 汉化
-Description: EasyAppOrientation 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/EasyAppOrientationPrefs.bundle/EasyAppOrientation@2x.png
-Name: EasyAppOrientation 汉化包
-
 Package: repo.lengran.evolve.theme.rootless
 Version: 2.0
 Architecture: iphoneos-arm64
@@ -4063,81 +1816,6 @@ Section: Themes
 Description: Evolve 主题
 Author: By-Lengran
 Name: Evolve 主题
-
-Package: repo.lengran.flex3fix.ios15
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.flex3fix.ios15_1.0_iphoneos-arm.deb
-Size: 243960
-MD5sum: fbe9629c555dd237ae51fabce3adeda6
-SHA1: ad967571d4cd9baab1aedd24d9370e995ad05d67
-SHA256: 587d20ec9e63c70b18efd83130e913ba0d0432ccd406ef5c698d8a5f74dd7762
-Section: Tweaks
-Description: 修复Flex3在iOS15上的闪退
-Author: By-Lengran
-Name: Flex 3 Fix
-
-Package: repo.lengran.flyjbx.cn
-Version: 1.2.5
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: kr.xsf1re.flyjbx
-Filename: ./debs/repo.lengran.flyjbx.cn_1.2.5_iphoneos-arm.deb
-Size: 3092
-MD5sum: fe7b544aef95c8c463bd0ee29541e50e
-SHA1: f429b4df4b8ca3b2fc963c3778ce305b92bb67d4
-SHA256: 8f68cdca64eb3b1122cdf68b1b37af7dbc7168acb9d10b73229af424f8a5958e
-Section: 汉化
-Description: FlyJB X 汉化包
-Author: By-Lengran
-Icon: file:///Applications/FlyJB.app/AppIcon60x60@2x.png
-Name: FlyJB X 汉化包
-
-Package: repo.lengran.force3dappshortcuts.cn
-Version: 0.0.8
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.dgh0st.force3dappshortcuts
-Filename: ./debs/repo.lengran.force3dappshortcuts.cn_0.0.8.deb
-Size: 1872
-MD5sum: bd2d0b219b2db85dcdfee54b857a17ed
-SHA1: 262a5476ac642d79b2fc515555561ecaf1ad27f7
-SHA256: fc7f4afd20b1d00df75ec4b33820b0746c43f609c39e9b1065618fa17727b2e5
-Section: 汉化
-Description: Force3DAppShortcuts 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/Force3DAppShortcuts.bundle/icon@2x.png
-Name: Force3DAppShortcuts 汉化包
-
-Package: repo.lengran.inapp
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.inapp_1.0_iphoneos-arm.deb
-Size: 2976
-MD5sum: 0650d0ab53cac7c7beb3a7bf58dd600f
-SHA1: 05a53febaeb1d6e5602fc2594783bdc02346693f
-SHA256: 3ad9a87e88d0ee6bff6137f99645f88b1a998b3ad911eedc0a6b297377b50894
-Section: Crack
-Description: InApp
-Author: By-Lengran
-Name: InApp
-
-Package: repo.lengran.kayoko.cn
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.kayoko.cn_1.0_iphoneos-arm.deb
-Size: 2196
-MD5sum: 216c32b602bf1b5e27a1d8632e0f1712
-SHA1: 476a84eea078684c64343d602e818a34f70ff22a
-SHA256: 9f9fea609d6a11b6884d6a5b5471eabbf826a2ce4285ac39a5b2d54ea2152a5b
-Section: 汉化
-Description: Kayoko 汉化包
-Author: Traurige
-Icon: file:///Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
-Name: Kayoko 汉化包
 
 Package: repo.lengran.kbapp.cn.rootless
 Version: 1.5
@@ -4154,70 +1832,6 @@ Description: KBApp 汉化包
 Author: 妖刀
 Name: KBApp 汉化包
 
-Package: repo.lengran.latchkey.cn
-Version: 2.1
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: ch.mdaus.latchkey
-Filename: ./debs/repo.lengran.latchkey.cn_2.1.deb
-Size: 1524
-MD5sum: d2a9104225b0ec45fa58702015ea1283
-SHA1: 93ca1d9c7ce6b8c679b5e9467255c10972721551
-SHA256: 53f7bc98fffcb1695e650dba51eba664014bab237c775502f401c22f991f32dc
-Section: 汉化
-Description: LatchKey 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/LatchKey.bundle/latchkey@3x.png
-Name: LatchKey 汉化包
-
-Package: repo.lengran.letmeknow.cn
-Version: 1.4.1
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.imkpatil.letmeknow
-Filename: ./debs/repo.lengran.letmeknow.cn_1.4.1.deb
-Size: 1768
-MD5sum: 930d6a96c21b63103f52fb10ff5c05d7
-SHA1: 3fb79d82f31d5a802a72ff62c6afb0f47977900b
-SHA256: 5a7f201ef0a756774ba3dd2496feaf5d39020a939ab7954b680a8dbd1df2e928
-Section: 汉化
-Description: LetMeKnow 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/LetMeKnow.bundle/icon@2x.png
-Name: LetMeKnow 汉化包
-
-Package: repo.lengran.libertylite.cn
-Version: 0.2.12
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.libertylite.cn_0.2.12.deb
-Size: 1108
-MD5sum: 8ac374bfd73475d386e083f43d6eb94b
-SHA1: 129c06f95298dc8200f5a7c04b3022b3c0d5a29f
-SHA256: 6d2079c4d73f21337f7adeafe98e94cc72bf77df434392f1ac268be9c8519f6b
-Section: 汉化
-Description: Liberty Lite 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
-Name: Liberty Lite 汉化包
-
-Package: repo.lengran.limneoscrack
-Version: 2.0.2
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Installed-Size: 212
-Depends: mobilesubstrate
-Filename: ./debs/repo.lengran.limneoscrack_2.0.2_iphoneos-arm.deb
-Size: 24044
-MD5sum: 30bf171395970e9f77f54384114a216f
-SHA1: 79c2be843e9f197a62033c5209f37147da443594
-SHA256: 7c29afb0e4746067c629f3ea9f70281fab459c9d1791b2232b70e6158c6508a7
-Section: Crack
-Description: Limneos 所有插件全功能破解，BioProtect、CallBar、通话录音、灵动岛等。
-Author: By-Lengran
-Depiction: Limneos 所有插件全功能破解，BioProtect、CallBar、通话录音、灵动岛等。
-Name: Limneos Crack
-
 Package: repo.lengran.nfcwriterx.cn.rootless
 Version: 4.0-3+debug
 Architecture: iphoneos-arm64
@@ -4232,36 +1846,6 @@ Section: 汉化
 Description: NFCWriter XS 汉化包
 Author: Ball
 Name: NFCWriter XS 汉化包
-
-Package: repo.lengran.pencilchargingindicator.cn
-Version: 1.2~b6
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.pencilchargingindicator.cn_1.2~b6.deb
-Size: 2784
-MD5sum: a2e66e455e506b9fe9d4d8a89442b886
-SHA1: 3a793354cc1aa6c20f791637def6bfd312efd5cb
-SHA256: 73994155c9ef371aa5e52707d7cd432e85012fda9684a675d85926247f9c6330
-Section: 汉化
-Description: PencilChargingIndicator 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/PencilChargingIndicatorPreferences.bundle/icon@2x.png
-Name: PencilChargingIndicator 汉化包
-
-Package: repo.lengran.pencilchargingindicator.cn
-Version: 1.2~b7
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.pencilchargingindicator.cn_1.2~b7.deb
-Size: 2980
-MD5sum: bbeabe37c082100b20bf7228498ff24b
-SHA1: 78faa098b80529ff880382b2942b624a1324c806
-SHA256: 0a747dfae36178157b2e512c3971f5449a1bba5c65819970c6a3b680d286b5c4
-Section: 汉化
-Description: PencilChargingIndicator 汉化包
-Author: CDSQ.Tech <cdsq.deb@gmail.com>
-Icon: file:///Library/PreferenceBundles/PencilChargingIndicatorPreferences.bundle/icon@2x.png
-Name: PencilChargingIndicator 汉化包
 
 Package: repo.lengran.power4options.cn.rootless
 Version: 3.0
@@ -4278,38 +1862,6 @@ Description: Power4Options 汉化包
 Author: By-Lengran
 Name: Power4Options 汉化包
 
-Package: repo.lengran.powerselector11.cn
-Version: 1.2.6
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.ichitaso.powerselector11
-Filename: ./debs/repo.lengran.powerselector11.cn_1.2.6_iphoneos-arm.deb
-Size: 1130
-MD5sum: 64f603e05c84c47037ef811e190ecc2f
-SHA1: 8566d6318259e5bdb0aad90daa09ca3ff700a0be
-SHA256: 9dbba0d9b56e07f37c6662142601400325819df10944682661bb5c0a2ca34007
-Section: 汉化
-Description: PowerSelector 设置包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/PowerSelectorSettings.bundle/icon@2x.png
-Name: PowerSelector 设置包
-
-Package: repo.lengran.preferenceorganizer2.cn
-Version: 4.0.7
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: net.angelxwind.preferenceorganizer2
-Filename: ./debs/repo.lengran.preferenceorganizer2.cn_4.0.7.deb
-Size: 3300
-MD5sum: a61bf6e6c5043cbe3e25abb070d3e94b
-SHA1: 0d6b587fd8bc5d5987740ca77cf57f08119111b9
-SHA256: 8c693ce226c355dbd3f83321fb425497239214151ef05d7b929317d6a916960c
-Section: 汉化
-Description: PreferenceOrganizer 2 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/POPreferences.bundle/PreferenceOrganizer2@2x.png
-Name: PreferenceOrganizer 2 汉化包
-
 Package: repo.lengran.quickactions.cn.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -4324,84 +1876,6 @@ Section: 汉化
 Description: Quick Actions 汉化包
 Author: 妖刀
 Name: Quick Actions 汉化包
-
-Package: repo.lengran.quitall.cn
-Version: 3.1
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.daveapps.quitall
-Filename: ./debs/repo.lengran.quitall.cn_3.1_iphoneos-arm.deb
-Size: 1288
-MD5sum: 5eed0fa427768db7067948ed6903bf66
-SHA1: 549900275403a136d9169224dd621bad48e8016f
-SHA256: 5a7fa9b11a65fae19796d135ec201a6c02c0ee5f5baf95d37c1cf25c29c5e705
-Section: 汉化
-Description: QuitAll 汉化包
-Author: 妖刀
-Icon: file:///Library/PreferenceBundles/quitAllPrefs.bundle/icon@2x.png
-Name: QuitAll 汉化包
-
-Package: repo.lengran.safariplus.cn
-Version: 1.7.1-2
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.opa334.safariplus
-Filename: ./debs/repo.lengran.safariplus.cn_1.7.1-2.deb
-Size: 10172
-MD5sum: 5babb950ec12851a7c2d81dee9f61d66
-SHA1: 33f763192c05b05983f325201762d884f78036d1
-SHA256: 36d5d355884506983b08561c20abfe28556dab4a89aa4bbbafb54972632650f5
-Section: 汉化
-Description: Safari Plus 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPPRootIcon@2x.png
-Name: Safari Plus 汉化包
-
-Package: repo.lengran.safariplus.cn
-Version: 1.7.10
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.safariplus.cn_1.7.10.deb
-Size: 10132
-MD5sum: b91fca15a51c36c2f3d18020f6b2489e
-SHA1: 0d50a9c458664e0f314795cffd26f5c30048e173
-SHA256: 3037051f2bfa9497518b5acc44596b38c45dedcada825b521a548451fe81bef5
-Section: 汉化
-Description: Safari Plus 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPPRootIcon@2x.png
-Name: Safari Plus 汉化包
-
-Package: repo.lengran.safariplus.cn
-Version: 1.7.12
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.safariplus.cn_1.7.12.deb
-Size: 13028
-MD5sum: ffc5c8cb09e4dfbde4434e7b6d2ca034
-SHA1: 61f3ac623c97576a36025877406e765baf7b3b21
-SHA256: 9045f57897b0c45248d9b54cd9cce0183975eb3c3f016cc6db36e044a0f277ef
-Section: 汉化
-Description: Safari Plus 汉化包
-Author: CDSQ.Tech <cdsq.deb@gmail.com>
-Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPPRootIcon@2x.png
-Name: Safari Plus 汉化包
-
-Package: repo.lengran.safariplus.cn
-Version: 1.7.2
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.opa334.safariplus
-Filename: ./debs/repo.lengran.safariplus.cn_1.7.2.deb
-Size: 10320
-MD5sum: 3a87cabd602cd03148b81c1ba4f5477a
-SHA1: db365879761f7220c06308c929bd86d516be688f
-SHA256: dfa834a9ba887a29f637de53cd4fae54224650f756ad2fcbc1ea91ce76d2c4a5
-Section: 汉化
-Description: Safari Plus 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPPRootIcon@2x.png
-Name: Safari Plus 汉化包
 
 Package: repo.lengran.settingsrevamp.cn.rootless
 Version: 2.0
@@ -4478,149 +1952,6 @@ Description: SettingsRevamp 汉化包
 Author: 妖刀
 Name: SettingsRevamp 汉化包
 
-Package: repo.lengran.settingswidgets.cn
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.shepgoba.settingswidgets
-Filename: ./debs/repo.lengran.settingswidgets.cn_1.1.deb
-Size: 968
-MD5sum: deed4437257853a6cfadd9ecd625bd75
-SHA1: aa7842c3eb2207e56a55dbcf4af50846b749173f
-SHA256: cc096d0dffd4c90329e4ca2f1384c0b163d997c935d7db2d9b15ccf15a8f8aae
-Section: 汉化
-Description: SettingsWidgets 汉化包
-Author: By-Lengran
-Name: SettingsWidgets 汉化包
-
-Package: repo.lengran.shadow.cn
-Version: 2.0.20
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: me.jjolano.shadow
-Filename: ./debs/repo.lengran.shadow.cn_2.0.20.deb
-Size: 4364
-MD5sum: 2d92b24956513389ae880d11d8a82401
-SHA1: eabc72b8b394f7efa86de86bae3fb4f67c3117c6
-SHA256: 2d6b2e5a72f47f857c1fe1b5165d11ec2fa6469334c7173fffd6840115d5a20e
-Section: 汉化
-Description: Shadow 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/ShadowPreferences.bundle/Icon-Small@2x.png
-Name: Shadow 汉化包
-
-Package: repo.lengran.shadow.cn
-Version: 3.3.5
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: me.jjolano.shadow
-Filename: ./debs/repo.lengran.shadow.cn_3.3.5_iphoneos-arm.deb
-Size: 3924
-MD5sum: 6b9c55cab73ca754412185c4d75cf666
-SHA1: a56c06407f3b45a39b52f55b897a5df1bd612a9e
-SHA256: 829d65497e79449f2c7376d21df0afe9bc9135a80c2a2fc6d62e6cde63db82cd
-Section: 汉化
-Description: Shadow 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/ShadowPreferences.bundle/Icon-Small@2x.png
-Name: Shadow 汉化包
-
-Package: repo.lengran.shadow.cn
-Version: 3.4
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: me.jjolano.shadow
-Filename: ./debs/repo.lengran.shadow.cn_3.4_iphoneos-arm.deb
-Size: 3968
-MD5sum: 174ca12c063f35c261253a1f9a210192
-SHA1: 6ed256ea97b82821811c3314938d1e4d83ee4f28
-SHA256: 99565bae34d736c981a2a69d4521c28c642282b9e4ba0ed3a25082f5a761f739
-Section: 汉化
-Description: Shadow 汉化包
-Author: 妖刀
-Icon: file:///Library/PreferenceBundles/ShadowSettings.bundle/icon@2x.png
-Name: Shadow 汉化包
-
-Package: repo.lengran.shadow.cn
-Version: 3.5-1
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: me.jjolano.shadow
-Filename: ./debs/repo.lengran.shadow.cn_3.5-1_iphoneos-arm.deb
-Size: 7656
-MD5sum: 2cf2667fdfbc6ef63f8058cdabe1a22d
-SHA1: 1343507fbb15fa36eac6a36dbd66c561c0233168
-SHA256: c6ea0c6fc092fe084f6f431d21a90399f4329f486b942d6e21f9fb987cd698ac
-Section: 汉化
-Description: Shadow 汉化包
-Author: 妖刀
-Icon: file:///Library/PreferenceBundles/ShadowSettings.bundle/icon@2x.png
-Name: Shadow 汉化包
-
-Package: repo.lengran.shadow.cn
-Version: 3.5.1
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: me.jjolano.shadow
-Filename: ./debs/repo.lengran.shadow.cn_3.5.1_iphoneos-arm.deb
-Size: 7576
-MD5sum: 7bebb31b396285eb187152e74c482558
-SHA1: 8e0e96c32dad356bc5235b9a59d2035a73dd3f12
-SHA256: b9ba229ee7b2dda9a7c3ce414df7c2444b72c018128fe73afad2f23fe7451eab
-Section: 汉化
-Description: Shadow 汉化包
-Author: 妖刀
-Icon: file:///Library/PreferenceBundles/ShadowSettings.bundle/icon@2x.png
-Name: Shadow 汉化包
-
-Package: repo.lengran.shadow.cn
-Version: 3.5.4
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: me.jjolano.shadow
-Filename: ./debs/repo.lengran.shadow.cn_3.5.4_iphoneos-arm.deb
-Size: 5304
-MD5sum: 76061c0285372362127c14a1d8bac846
-SHA1: 7643c3a6d5008935ec940bc233615cc3d309b67d
-SHA256: 22691ad7094c72d3fbc528871c4177d6859742a3f862146f40da9ecf49f09221
-Section: 汉化
-Description: Shadow 汉化包
-Author: 妖刀
-Icon: file:///Library/PreferenceBundles/ShadowSettings.bundle/icon@2x.png
-Name: Shadow 汉化包
-
-Package: repo.lengran.shadow.cn
-Version: 3.5.6
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: me.jjolano.shadow
-Filename: ./debs/repo.lengran.shadow.cn_3.5.6_iphoneos-arm.deb
-Size: 2772
-MD5sum: e55d134b7f401063cb18f55e66871b73
-SHA1: fc3b6118c1db4a5ebe8a039162e1d1f20124ca76
-SHA256: 13b6febf669289bcb2ed53f72233fb0255e4162165fdc42d89f6521318f48d05
-Section: 汉化
-Description: Shadow 汉化包
-Author: 妖刀
-Icon: file:///Library/PreferenceBundles/ShadowSettings.bundle/icon@2x.png
-Name: Shadow 汉化包
-
-Package: repo.lengran.shadow.cn
-Version: 3.6.0
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: me.jjolano.shadow
-Filename: ./debs/repo.lengran.shadow.cn_3.6.0_iphoneos-arm.deb
-Size: 2860
-MD5sum: 5a40dc47eabfe9c3b1ac2496eb5094e2
-SHA1: 5cb3b4236c90c3b3d134e57138163b509254bd59
-SHA256: 71980996076d68d469e51cba550162d74facffeda24a4052c8f6a91a41dfb6a7
-Section: 汉化
-Description: Shadow 汉化包
-Author: 妖刀
-Icon: file:///Library/PreferenceBundles/ShadowSettings.bundle/icon@2x.png
-Name: Shadow 汉化包
-
 Package: repo.lengran.shadow.cn.rootless
 Version: 3.7.3
 Architecture: iphoneos-arm64
@@ -4635,117 +1966,6 @@ Section: 汉化
 Description: Shadow 汉化包
 Author: 妖刀
 Name: Shadow 汉化包
-
-Package: repo.lengran.shortlook.cn
-Version: 1.0.23
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: co.dynastic.ios.tweak.shortlook
-Filename: ./debs/repo.lengran.shortlook.cn_1.0.23_iphoneos-arm.deb
-Size: 2570
-MD5sum: 6cb35f112b3a8cc9c2c67d467ca0cebb
-SHA1: 2522438f3d94d4e5373b62248bd8729f88003ab9
-SHA256: 7f8e42c14debd7dcb2a17dd49dab7584322789ca3f4d75a92f5029ffd72f3b25
-Section: 汉化
-Description: ShortLook 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/ShortLookSettings.bundle/icon@2x.png
-Name: ShortLook 汉化包
-
-Package: repo.lengran.shuffle
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Conflicts: com.creaturecoding.libcspreferences, com.creaturecoding.shuffle
-Filename: ./debs/repo.lengran.shuffle_1.0.0_iphoneos-arm.deb
-Size: 901828
-MD5sum: 8a260f5421cc9e3599d4a37d8c7fae2e
-SHA1: 5b431ca78e955a00d09d93976c7015ce656f324c
-SHA256: d33085240f7625c34b2d266ab80f0d991011ae32b84d15e9146e07576a4f8031
-Section: Tweaks
-Description: Shuffle XinaA15 修复版
-Author: CreatureSurvive
-Name: Shuffle for XinaA15
-
-Package: repo.lengran.shuffle.cn
-Version: 1.0.4
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.creaturecoding.shuffle
-Filename: ./debs/repo.lengran.shuffle.cn_1.0.4.deb
-Size: 2828
-MD5sum: e1df154a19443fa5082b82fbd524115f
-SHA1: 3be2617a50bc4e208d5e59d01802c3bcfa7e77b5
-SHA256: 0133e931897a70d2381d5dc73a0d72f5e419a31b974bde2533f9f115ea835ed6
-Section: 汉化
-Description: Shuffle 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@2x.png
-Name: Shuffle 汉化包
-
-Package: repo.lengran.shuffle.cn
-Version: 1.1.4
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.creaturecoding.shuffle
-Filename: ./debs/com.lengran.shuffle.cn_1.1.4.deb
-Size: 3572
-MD5sum: 7056ee40f6a40aed5938d919dd83ad2d
-SHA1: af205fdfba05317ca2f595c0e5182e95135419d3
-SHA256: 731af620434a96bf42c901401bea9018552f28cff3f5cc9dbdde7a3b49467b09
-Section: 汉化
-Description: Shuffle 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@2x.png
-Name: Shuffle 汉化包
-
-Package: repo.lengran.shuffle.cn
-Version: 1.2.8
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.creaturecoding.shuffle
-Filename: ./debs/repo.lengran.shuffle.cn_1.2.8_iphoneos-arm.deb
-Size: 3176
-MD5sum: 9acf301c88982228750e123de6f38a0f
-SHA1: 2c6536674eac200a9f576ab8de6719f54bdac49d
-SHA256: d57887eb7837278e8f6f24cadb96370b6b3cca51795b42f5aa4eff06e6794c36
-Section: 汉化
-Description: Shuffle 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@2x.png
-Name: Shuffle 汉化包
-
-Package: repo.lengran.shuffle.cn
-Version: 1.2.9
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.creaturecoding.shuffle
-Filename: ./debs/repo.lengran.shuffle.cn_1.2.9_iphoneos-arm.deb
-Size: 3222
-MD5sum: 42bdb77bb48f6f2d0e98da63dcc748e6
-SHA1: 1b2715d93e804c5817b26bde156c28ff936fd486
-SHA256: 39041e331c01e2e96c6621c8d0a6999120d62452868d87f776b6b15cb60abf3d
-Section: 汉化
-Description: Shuffle 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@2x.png
-Name: Shuffle 汉化包
-
-Package: repo.lengran.shuffle.cn
-Version: 1.6.0
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.creaturecoding.shuffle
-Filename: ./debs/repo.lengran.shuffle.cn_1.6.0_iphoneos-arm.deb
-Size: 10756
-MD5sum: 7afbbfa65c24943f2af09b0b158f28e9
-SHA1: d232f1a8f81e1d8b002e6164f111391334e2651c
-SHA256: 68908c34441edbc819bc0b2c690a60b74d0bfac89ac320de7a6fd5d797a139e3
-Section: 汉化
-Description: Shuffle 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/shuffle.bundle/SettingsIcon@2x.png
-Name: Shuffle 汉化包
 
 Package: repo.lengran.shuffle.cn.rootless
 Version: 1.6.2
@@ -4775,37 +1995,6 @@ Section: 汉化
 Description: Sileo 汉化增补包
 Author: 妖刀
 Name: Sileo 汉化增补包
-
-Package: repo.lengran.slices3.cn
-Version: 3.1.3
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.rpgfarm.slices3
-Filename: ./debs/repo.lengran.slices3.cn_3.1.3_iphoneos-arm.deb
-Size: 1600
-MD5sum: 47b770c35e053bfa09ab9c6937b287f1
-SHA1: d4ff7b1ea03d766dbcd7f2bb381ddc59b626ee4f
-SHA256: 245c1cb90f6c1ad740714889817f1aa6fe052156b5c665556a8e817b895e2bd4
-Section: 汉化
-Description: Slices 3 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/SlicesPreferences.bundle/SlicesPreferences@2x.png
-Name: Slices 3 汉化包
-
-Package: repo.lengran.snapper2.cn
-Version: 2.5.12
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.snapper2.cn_2.5.12_iphoneos-arm.deb
-Size: 9808
-MD5sum: ee640fba3a1b0d75b21b43ef5bf77ffa
-SHA1: cc7ab3cdf482dd986327c99a6fa339546969fca8
-SHA256: 8efaf02caf8706353f019d5d0e5fcc23fe2ee919dc820434a8e6f1e92de98dfc
-Section: 汉化
-Description: Snapper 2 汉化补充包
-Author: 妖刀
-Icon: file:///Library/PreferenceBundles/Snapper2Preferences.bundle/images/settings/SnapperPreferences@2x.png
-Name: Snapper 2 汉化补充包
 
 Package: repo.lengran.snowboard.cn.rootless
 Version: 1.5.13-Beta3-rootless
@@ -4837,53 +2026,6 @@ Description: SnowBoard 汉化包
 Author: 妖刀
 Name: SnowBoard 汉化包
 
-Package: repo.lengran.substitute.cn
-Version: 2.3.1
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.substitute.cn_2.3.1_iphoneos-arm.deb
-Size: 5148
-MD5sum: 293a36ed0ea45bbd0e6d6e22be478189
-SHA1: 835802b571932996f49eac9295c928b800d88cc5
-SHA256: 7329b3d74617f7c963aa3c1c017b980d1b55cc2d63b90288283f3e26d3499937
-Section: 汉化
-Description: Substitute 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/SubstitutePrefs.bundle/Icon@2x.png
-Name: Substitute 汉化包
-
-Package: repo.lengran.swipeextenderx.cn
-Version: 1.5.3-1
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.qiop1379.swipeextenderx
-Filename: ./debs/repo.lengran.swipeextenderx.cn_1.5.3-1_iphoneos-arm.deb
-Size: 21308
-MD5sum: ee32b3604ea64f429d350ecc33dfddbe
-SHA1: a9212194abe8a5e6e4ebd81c7dda6496efe93935
-SHA256: acf23d2b6e371e8e97fe98d193b0ab924e8195b01ea34609cdaaa1cf6c7e2025
-Section: 汉化
-Description: SwipeExtenderX 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/Weed.bundle/icon@3x.png
-Name: SwipeExtenderX 汉化包
-
-Package: repo.lengran.swipeformore.cn
-Version: 1.1.10
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: mobilesubstrate, firmware (>= 8.0), cydia (>= 1.1.19), preferenceloader, org.thebigboss.swipeformore
-Filename: ./debs/repo.lengran.swipeformore.cn_1.1.10.deb
-Size: 2120
-MD5sum: b16dadbf1ecd0a1c2ec0bf07939639ac
-SHA1: fa6fedc0d43ac3a566296543a2f749423c49d0c7
-SHA256: 3b53153e9255dd59fd83b23d4deb08df200c167304ff3a825b123ee1aceffd59
-Section: 汉化
-Description: SwipeForMore 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceLoader/Preferences/SwipeForMore/SFM@2x.png
-Name: SwipeForMore 汉化包
-
 Package: repo.lengran.trollstore.cn.rootless
 Version: 1.5.1
 Architecture: iphoneos-arm64
@@ -4905,46 +2047,14 @@ Maintainer: By-Lengran
 Depends: com.creaturecoding.tweaksettings
 Filename: ./debs/repo.lengran.tweaksettings.cn.rootless_1.0.8_iphoneos-arm64.deb
 Size: 2064
-MD5sum: 59f8c8a8bf4ec2397c07b1166314ef8b
-SHA1: 5a08539a7128c15264d93a5bfa462b6d0eba8aaa
-SHA256: 01d93fcf409df540fd5d0488f5f57bb4aaaf13e6f9aa9c56ec5b26c616bf0666
+MD5sum: 24554fc142189c41009245a50e5c635f
+SHA1: 709b5924c602c5434d64bd9e6dbae0f3daf507f4
+SHA256: 722ae4efe9abe7b305f9c67c8f448d273f492de249a927d33765c61471219f32
 Section: 汉化
 Description: Tweak Settings 汉化包
 Author: By-冷然
 Icon: file:///var/jb/Applications/TweakSettings.app/AppIcon60x60@2x.png
 Name: Tweak Settings 汉化包
-
-Package: repo.lengran.ultrasound.cn
-Version: 1.2.13
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: applebetas.ios.tweak.willow
-Filename: ./debs/repo.lengran.ultrasound.cn_1.2.13.deb
-Size: 1928
-MD5sum: 45f95c55de45da765ec704bf8dc426a3
-SHA1: 00f1c00fe5391dfa0a2706595d097874496585ca
-SHA256: 1c6257e33acaa389f5484f250ad505f0e2af46bc0c24af6125311e4878a7ec4d
-Section: 汉化
-Description: Ultrasound 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/UltrasoundSettings.bundle/icon@2x.png
-Name: Ultrasound 汉化包
-
-Package: repo.lengran.ultrasound.cn
-Version: 1.2.9
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: applebetas.ios.tweak.willow
-Filename: ./debs/repo.lengran.ultrasound.cn_1.2.9.deb
-Size: 1832
-MD5sum: 3b6d482523eadaea66c60c3ec8cecc22
-SHA1: c36ed2a5dec979b9da0d8fc950a02188a7587bfc
-SHA256: 1ad4c5e53e42aad4f77006c9cef9b4682879dfa59f4f81b4705b7070684ae7b0
-Section: 汉化
-Description: Ultrasound 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/UltrasoundSettings.bundle/icon@2x.png
-Name: Ultrasound 汉化包
 
 Package: repo.lengran.veexillum.theme.rootless
 Version: 1.3
@@ -4960,70 +2070,6 @@ Description: Veexillum 主题
 Author: By-Lengran
 Name: Veexillum 主题
 
-Package: repo.lengran.vesta.cn
-Version: 1.0.8
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.spark.vesta
-Filename: ./debs/repo.lengran.vesta.cn_1.0.8.deb
-Size: 1536
-MD5sum: efe435e0b253c57d5be773870c3a6fb3
-SHA1: 6c5598258d96239ffe124a07d85836cb62a01094
-SHA256: bd2fa9c267cc5414535dd9951faefeebe0b21da7288d3d88b328b773ae6219c4
-Section: 汉化
-Description: Vesta 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/VestaPrefs.bundle/icon@2x.png
-Name: Vesta 汉化包
-
-Package: repo.lengran.watchsounds.cn
-Version: 1.1.2
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.gilshahar7.watchsounds
-Filename: ./debs/repo.lengran.watchsounds.cn_1.1.2.deb
-Size: 1906
-MD5sum: f47af6821fd590cde59030ae10779319
-SHA1: a212f8b9e02c47d0811dfaba173357dcbcaf43a8
-SHA256: adfe73aaeb982492839386c232f9debb19ca9f6ddea72503f29be94768753b4d
-Section: 汉化
-Description: WatchSounds 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/WatchSoundsprefs.bundle/icon@2x.png
-Name: WatchSounds 汉化包
-
-Package: repo.lengran.watchsounds.cn
-Version: 1.1.4
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: com.gilshahar7.watchsounds
-Filename: ./debs/repo.lengran.watchsounds.cn_1.1.4_iphoneos-arm.deb
-Size: 2004
-MD5sum: 6db1107cdc04d08d6eab3b0f037a9ec3
-SHA1: e950173ac228024288c6d5e9e29684c67ae14ca2
-SHA256: 9843a308bcc3baf447026b971d8444d951d1aa7ad7d6c975ecd291a1387fd934
-Section: 汉化
-Description: WatchSounds 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/WatchSoundsprefs.bundle/icon@2x.png
-Name: WatchSounds 汉化包
-
-Package: repo.lengran.wintermode.cn
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: By-Lengran
-Depends: dev.ayden.ios.tweak.wintermode
-Filename: ./debs/repo.lengran.wintermode.cn_1.0.1.deb
-Size: 1364
-MD5sum: 265a1dbfe2f0716c78328821e7da4413
-SHA1: 3607e8062f5fe7caf881ac717e8b5370b34dd348
-SHA256: 37fb7c9f34b7446b5219f306d180c6b899d53f754a8da50b07bcdc040db7ecf2
-Section: 汉化
-Description: Winter Mode for Apple Watch 汉化包
-Author: By-Lengran
-Icon: file:///Library/PreferenceBundles/WinterModeSettings.bundle/icon@2x.png
-Name: Winter Mode for Apple Watch 汉化包
-
 Package: wiki.qaq.trapp.jb
 Version: 1.10.0-266
 Architecture: iphoneos-arm64
@@ -5035,22 +2081,6 @@ Size: 3996422
 MD5sum: 4012973c7e69d9362f21a8e133c1fde3
 SHA1: de1d1080bfd85ce08c8e8fb1e220d35e60676957
 SHA256: 764ca848716bdfddb2258753f0139d420bdb1b70068812f28702afac21726950
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.10.0-266
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 12984
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.trapp.jb_1.10.0-266_iphoneos-arm.deb
-Size: 3995378
-MD5sum: 045ac95b2d20caa3d31bdbbe99b9aa0b
-SHA1: addb9b77982c204bac41a994b057120f8da15963
-SHA256: f1422281a87d8d70da811657bbb14c1a623dc709823ac4b8b07369c608c00c74
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -5073,22 +2103,6 @@ Author: Lessica <82flex@gmail.com>
 Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
-Version: 1.10.1-273
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 13220
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.trapp.jb_1.10.1-273_iphoneos-arm.deb
-Size: 4031428
-MD5sum: a6017c0d024262fcf10e16bcd4a7ecc2
-SHA1: bfde1ab79cef60c6aa8e25d91ba41a68df8c524a
-SHA256: 86820be64bdcc3689e7ef4e1fd69e9417b356bb00053e97771834611ba72e29d
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
 Version: 1.10.2-280
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
@@ -5105,22 +2119,6 @@ Author: Lessica <82flex@gmail.com>
 Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
-Version: 1.10.2-280
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 13240
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.trapp.jb_1.10.2-280_iphoneos-arm.deb
-Size: 4038466
-MD5sum: 7163de9aab883e7a10be250a56b70976
-SHA1: 7347ad6607d8d471559c4e315a10085e483b415b
-SHA256: 496ed64c578a47debb4cd0b88764430c408c01f6f9971481b6cecf955a01ac74
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
 Version: 1.10.3-283
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
@@ -5131,38 +2129,6 @@ Size: 4060878
 MD5sum: 97df5b3e264b9df4d91cb3b8f8d22f55
 SHA1: 7356d9270d048acee29bb46b0a4fffb398965850
 SHA256: e37ed4ef2ef4a5ede30fc37efb327ae5ce21621797bd0e26987f39c6a35c3c13
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.10.3-283
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 13344
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.trapp.jb_1.10.3-283_iphoneos-arm.deb
-Size: 4060586
-MD5sum: 6bf71271820bf483e48cd0349f509084
-SHA1: a87600ab35473c29e7c8cb74543fe37f4726594f
-SHA256: 7bf28df180caf466306983365e302584d71626bd539ceb90d95fef7b46630ce7
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.12.0-285
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 13484
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.trapp.jb_1.12.0-285_iphoneos-arm.deb
-Size: 4081684
-MD5sum: 1c8a6aa08ce87fd10d3ee0dec2584737
-SHA1: 2a4bb86d76981fae0d03302eb4a23e63c16f0ac9
-SHA256: 3510aa28539393097da9c528fb6528ed57f0759a3d43e1d09d549b0062e1f2bb
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -5186,22 +2152,6 @@ Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
 Version: 1.12.1-290
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 13388
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.trapp.jb_1.12.1-290_iphoneos-arm.deb
-Size: 4072168
-MD5sum: 52ffcd4f1adcc2a161adb0e8c5743c4f
-SHA1: 60e08edb82cfa52ee4228cee2ae093901cd0dbee
-SHA256: b6a8783ef732d663a3f2ed8f5072b4ee66a46378101b0fe0107f821b55786c3f
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.12.1-290
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 13388
@@ -5211,22 +2161,6 @@ Size: 4074294
 MD5sum: 00223f51d2e0fb1d5f3a607ea9b090fa
 SHA1: 85ccf9e7a3145c863e11a6b7bff643c5332c8c17
 SHA256: 9f456e07e0f54424df11ab65302ca27d82f128aeb2d5bd1d98ee29f6d9f36a97
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.12.2-291
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 13396
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.trapp.jb_1.12.2-291_iphoneos-arm.deb
-Size: 4074456
-MD5sum: fb38a05cfaa4ec2abb6d5640072ba027
-SHA1: d66d9edbe80fd3ac878a942b9ed347ddfc0077ab
-SHA256: 7badbce2a21ed29bdabb5a1a9b76b56acbdfa823a7eb06a964bb36f94dd99c49
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -5250,22 +2184,6 @@ Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
 Version: 1.12.3-295
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 13484
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.trapp.jb_1.12.3-295_iphoneos-arm.deb
-Size: 4108384
-MD5sum: 5ec8bf02ab30a16cf3470fe9994f657b
-SHA1: 6d0dab7b6563deb837f70ceb88fd725cb18bcd84
-SHA256: d7aceba628b823edb03de56a51854ef1ccb59140bff62efddeefa82958d5e4a2
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.12.3-295
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 13484
@@ -5275,22 +2193,6 @@ Size: 4108304
 MD5sum: 46a5ca5b975e02c82f66869adba9a807
 SHA1: 14045e7f6fe1c6cd98f64129e93be1d0c931e431
 SHA256: 426189bf422f09486e768ae04cbee1513405572cadb118cea9c4c9c11880b7e0
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.12.4-299
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 13652
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.trapp.jb_1.12.4-299_iphoneos-arm.deb
-Size: 4111318
-MD5sum: e1a560f8d9cd8914894d165b404a7daf
-SHA1: 96bd2be6ec36a96aa2f26f048c916f6d5124fc34
-SHA256: 314f8e425af8a6c9979f8f82db52df2d977ea51da417fa743182573debbaeda4
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -5329,38 +2231,6 @@ Author: Lessica <82flex@gmail.com>
 Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
-Version: 1.15.0-331
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 13668
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/wiki.qaq.trapp.jb_1.15.0-331_iphoneos-arm.deb
-Size: 4119028
-MD5sum: 031f2df90987e0237d199a95be6b3797
-SHA1: d84fab1abaeff70f569826f92340012a1b8fa9ee
-SHA256: df3f659c6ab19958d91d889e904e24e8f86c63c29647067d84b58651cfcfe2b4
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.16.0-338
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 13704
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/wiki.qaq.trapp.jb_1.16.0-338_iphoneos-arm.deb
-Size: 4123114
-MD5sum: a514d4918ab495d36d1541faea17436e
-SHA1: 280e6b8b60fce1a7c4b58675710d02329a95bf99
-SHA256: ec2b694e56e7d86413b6e5c9bdbf4f3427fd1e37ae764593d05c382558142895
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
 Version: 1.16.0-338
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
@@ -5378,22 +2248,6 @@ Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
 Version: 1.16.2-344
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 13980
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/wiki.qaq.trapp.jb_1.16.2-344_iphoneos-arm.deb
-Size: 4155404
-MD5sum: 96f69fff4dd7ee6a4958ca2558b143a8
-SHA1: 916346919b195bf11d55011382e95904f1fa632e
-SHA256: 8b9da49bd69b597e746815cc64d6b7f06b7b0645485e223259cd0f3ae1605a0e
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.16.2-344
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 13980
@@ -5403,22 +2257,6 @@ Size: 4155034
 MD5sum: aeac7fa3dab3362727c6a94ea69fb9ca
 SHA1: 83d76ce9f6ac2119fedf4cc119e5719b244ff552
 SHA256: 43bfa3d246c7bc3d8c5b724b553d40c6b70b714fb1c494f6ad4e3f7c09ee154d
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.18.0-352
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 14576
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/wiki.qaq.trapp.jb_1.18.0-352_iphoneos-arm.deb
-Size: 4292464
-MD5sum: fc3ffedf16db13488d83d8686cbed01b
-SHA1: 7bed6dc5f6522bfb83eef72dfb08492fce05ea8b
-SHA256: fe122a443f6ef589ab0963f3eec090403a65666f961ed3a10e545cd8ac53d2c4
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -5457,38 +2295,6 @@ Author: Lessica <82flex@gmail.com>
 Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
-Version: 1.18.1-354
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 14584
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/wiki.qaq.trapp.jb_1.18.1-354_iphoneos-arm.deb
-Size: 4293670
-MD5sum: f53baf7b6f67a3f851b0de4fe038a9bf
-SHA1: fe50f21162fe74a1b9c9555afc466f1ca3c95a4e
-SHA256: e397cd9a7fbc2747a5e851e6df0df3342a783a11ee3a6bbdbe62072dd33c3288
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.20-357
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 20248
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/wiki.qaq.trapp.jb_1.20-357_iphoneos-arm.deb
-Size: 6508296
-MD5sum: 8bf1c689b3db4038b0ba9498e4ead7c5
-SHA1: b83ec65776a387eb73cf72d0c43f4ac5716c622e
-SHA256: 7ff02ccb1799c6d4f2c45e2a2da30803f78dd6530679299e2422c180e5972131
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
 Version: 1.20-357
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
@@ -5499,22 +2305,6 @@ Size: 6507920
 MD5sum: f675967f1db9846fa46071cb2fdaf686
 SHA1: d49b357813dce9ae0f89552436fb07550bf338e2
 SHA256: 84170f4b3cfedc05283841cd0ffcf7c3e07ad6d40df4e4ca9e21c3f717bf2dbc
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.22-369
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 15532
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/wiki.qaq.trapp.jb_1.22-369_iphoneos-arm.deb
-Size: 4539254
-MD5sum: 4d2a5903ad944ca23a621fdfce9851f4
-SHA1: 397be48018375d2539c4acc7cf7ff23483702621
-SHA256: af95af6c152e3d563497e7c24469fba0c2a40291ba74e68d0d091f6f75fd755e
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
@@ -5553,38 +2343,6 @@ Author: Lessica <82flex@gmail.com>
 Name: TrollRecorder JB
 
 Package: wiki.qaq.trapp.jb
-Version: 1.9.7-183
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 11792
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.trapp.jb_1.9.7-183_iphoneos-arm.deb
-Size: 3461736
-MD5sum: b20d524de749bb662aa4369fb3c83d65
-SHA1: f2b66ae6d5ee7516c8d314679ae5e1fcc017df2d
-SHA256: d1eaed0ae1fa65731a98e4fe97338062a9ae44f80821c064943b20fe4fd22c50
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.9.8-236
-Architecture: iphoneos-arm
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 12024
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.trapp.jb_1.9.8-236_iphoneos-arm.deb
-Size: 3517602
-MD5sum: 97c4288c004107598bca7ddb7451407c
-SHA1: 798a7d14edea036a797bf6c0c356e0634ea243fb
-SHA256: 8f45f7d580f1b50ca6c1bf390c5fec802b292b3d855dab3988995ce5c29f464e
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
 Version: 1.9.8-236
 Architecture: iphoneos-arm64
 Maintainer: Lessica <82flex@gmail.com>
@@ -5614,19 +2372,4 @@ Section: Tweaks
 Description: Removes the 3 app limit for free developer accounts
 Author: HAHALOSAH
 Name: Zomigle
-
-Package: zp.lintui
-Version: 0.0.1-2+debug
-Architecture: iphoneos-arm
-Maintainer: xina520 <3608063@qq.com>
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/zp.lintui_0.0.1-2+debug_iphoneos-arm.deb
-Size: 5248
-MD5sum: 5d27f399ada43bd8ca8087d6d237f65d
-SHA1: fb4c1c58e84f5d75977f0200d4441592f1bd48c7
-SHA256: aef83a84ff8c9a4513accbfc5e4c7a7936a579ce0230d6f5327698d960221fd3
-Section: Tweaks
-Description: xina越狱长按临退
-Author: zp
-Name: Xina长按临退
 
