@@ -62,86 +62,6 @@ Description: Troll your speed, but jailbroken.
 Author: Lessica <82flex@gmail.com>
 Name: TrollSpeed JB
 
-Package: chaoge.ChargeLimiter
-Version: 1.3
-Architecture: iphoneos-arm64
-Maintainer: chaoge
-Depends: firmware (>= 5.0)
-Filename: ./debs/chaoge.ChargeLimiter_1.3_iphoneos-arm64.deb
-Size: 1328732
-MD5sum: 49db02208f842320d6ce21c96edb5f57
-SHA1: d0fbbba4297b21c0ea0f1b2fb3d42c1ba3b5d011
-SHA256: 45a9745a9d42c2ca87c2337b07dab9a1339bfeb75b055154e57aa00e00d732d4
-Section: System
-Priority: optional
-Description: ChargeLimiter
-Author: chaoge
-Name: ChargeLimiter
-
-Package: chaoge.ChargeLimiter
-Version: 1.4
-Architecture: iphoneos-arm64
-Maintainer: chaoge
-Depends: firmware (>= 5.0)
-Filename: ./debs/chaoge.ChargeLimiter_1.4_iphoneos-arm64.deb
-Size: 1901874
-MD5sum: 371d0098a4c7e347637b986b45a54619
-SHA1: 4f195839ac9d974008b7778fb5c109e51f82d34e
-SHA256: 85a64da5948a7b0ef6f4a9bc1cbd5035b5176c80a2508f85d3133963abc7a172
-Section: System
-Priority: optional
-Description: ChargeLimiter
-Author: chaoge
-Name: ChargeLimiter
-
-Package: chaoge.ChargeLimiter
-Version: 1.4.1
-Architecture: iphoneos-arm64
-Maintainer: chaoge
-Depends: firmware (>= 5.0)
-Filename: ./debs/chaoge.ChargeLimiter_1.4.1_iphoneos-arm64.deb
-Size: 2155826
-MD5sum: 74f08569afff674b37e3edaa7d0d4332
-SHA1: bb980d59881532f1b3eeda8b21a1536ce71aea4b
-SHA256: 17c24dcaaf556bd910122d0a6203a47c0cf009f908882b7c677b049773cd69ea
-Section: System
-Priority: optional
-Description: ChargeLimiter
-Author: chaoge
-Name: ChargeLimiter
-
-Package: chaoge.ChargeLimiter
-Version: 1.5
-Architecture: iphoneos-arm64
-Maintainer: chaoge
-Depends: firmware (>= 5.0)
-Filename: ./debs/chaoge.ChargeLimiter_1.5_iphoneos-arm64.deb
-Size: 2384166
-MD5sum: ab3ab9686a5eba26d7cf4fc84ad6daf3
-SHA1: d13c6a39b503c689b0276442366ac0788be287e5
-SHA256: c150e6d288bfe1d43d8cdc162642ae0100164e4d66973231787a366bbdb4f1cc
-Section: Applications
-Priority: optional
-Description: ChargeLimiter
-Author: chaoge
-Name: ChargeLimiter
-
-Package: chaoge.ChargeLimiter
-Version: 1.6.1
-Architecture: iphoneos-arm64
-Maintainer: chaoge
-Depends: firmware (>= 5.0)
-Filename: ./debs/chaoge.ChargeLimiter_1.6.1_iphoneos-arm64.deb
-Size: 2433494
-MD5sum: 211f45ab8be8b0a024799a41fe269af8
-SHA1: 013d45c8fdf9e0d0d253327a9947eb1898cffe4d
-SHA256: 3f22efa9c3789893238faf0c9a9850baa4b6c59cb2ed58d56479a16d115c0916
-Section: Applications
-Priority: optional
-Description: ChargeLimiter
-Author: chaoge
-Name: ChargeLimiter
-
 Package: cn.Bswbw.time
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -191,52 +111,68 @@ Author: 34306
 Name: BetaAlertRemove
 
 Package: com.34306.mineland
-Version: 1.0-5+debug
+Version: 2.1-4+debug
 Architecture: iphoneos-arm64
 Maintainer: Little 34306
-Installed-Size: 152
+Installed-Size: 360
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
-Filename: ./debs/com.34306.mineland_1.0_iphoneos-arm64.deb
-Size: 5466
-MD5sum: ab5bc9d9d2f8ec62c126c2b5a18dbef5
-SHA1: 898253db8b719827b6e11a7ad0dc195b2f41ec97
-SHA256: 11e468834451ed42a37ab7948f5998ba03a1c6968ce85e96a2e9f3eb341dab65
+Filename: ./debs/com.34306.mineland_2.1_rootless_iphoneos-arm64.deb
+Size: 49044
+MD5sum: 6420b16f39fa4cca156a89660faabcbc
+SHA1: b0f361827d080c0d1c63ab0ce97f7e2eb958745f
+SHA256: 2303cac380267bde83f38ea397ba3f3a128d31af7198b133476fc8fd7ec4a215
 Section: Tweaks
 Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
-Author: 34306, KhanhDuyTran
-Name: Mineland
-
-Package: com.34306.mineland
-Version: 1.1-1+debug
-Architecture: iphoneos-arm64
-Maintainer: Little 34306
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
-Filename: ./debs/com.34306.mineland_1.1_iphoneos-arm64.deb
-Size: 5464
-MD5sum: bcf166bf502abd9a1509a79a19e0f28e
-SHA1: 16b0bf9690f12b368d9ecb874a29f2465c563531
-SHA256: 228344bcc18c5cc1cd950a46d9176fe4f32b11338046ec88da27eb7506887fff
-Section: Tweaks
-Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
-Author: 34306, KhanhDuyTran
-Name: Mineland
-
-Package: com.34306.mineland
-Version: 2.0-6+debug
-Architecture: iphoneos-arm64
-Maintainer: Little 34306
-Installed-Size: 388
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
-Filename: ./debs/com.34306.mineland_2.0_iphoneos-arm64.deb
-Size: 43446
-MD5sum: 3926db983c726f7f3504b903399f2496
-SHA1: 2cc0cb705c5dff32b5e90ad9bcfe95cca4fb77fc
-SHA256: d3a3f5f8c54b359de2ae916287c3f006f95699637127b0eca1d238db34fd9458
-Section: Tweaks
-Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
-Author: 34306, KhanhDuyTran
+Author: 34306, DuyKhanhTran
 Name: mineland
+
+Package: com.34306.mineland
+Version: 2.1-6+debug
+Architecture: iphoneos-arm64e
+Maintainer: Little 34306
+Installed-Size: 360
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debs/com.34306.mineland_2.1_roothide_iphoneos-arm64e.deb
+Size: 48998
+MD5sum: 0ece0434bc0ff083cf7fd7b13ef64af6
+SHA1: 9c58b7ebab04f18f09ed7dbebfb14b8035bd0088
+SHA256: 0bd01cbdbd5eac1aafbab5a4cd0dde0499dcbc1f115e50954db8f99079d65fb7
+Section: Tweaks
+Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
+Author: 34306, DuyKhanhTran
+Name: mineland
+
+Package: com.34306.replaced
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.34306.replaced_1.0_iphoneos-arm64e.deb
+Size: 3052
+MD5sum: dc06e77e6126d9a06d31e7ad4ddb6485
+SHA1: 1f4c5e1d8a05eb3a12a6c64299491745244c2f6f
+SHA256: 622ef01822fad1e6f4ab57cf99045aaff607e26fb8413165d8437644bb0192d0
+Section: Tweaks
+Description: Remove the notification that the P
+Author: 34306
+Name: replaced
+
+Package: com.34306.replaced
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.34306.replaced_1.0_iphoneos-arm64.deb
+Size: 3094
+MD5sum: 9f36730b58f43f060d082b03b6f3ce32
+SHA1: 1d841504fbd18d9578b2ec260f47229b329f04a7
+SHA256: b05ba1d2a6ff672e9553462dfaa7da4c7fdad761cf6f516be5ab33adc007d4a7
+Section: Tweaks
+Description: Remove the notification that the P
+Author: 34306
+Name: replaced
 
 Package: com.34306.watched
 Version: 1.0-3+debug
@@ -271,6 +207,22 @@ Author: 34306
 Name: watched
 
 Package: com.34306.watched
+Version: 1.1-10+debug
+Architecture: iphoneos-arm64e
+Maintainer: Little 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.34306.watched_1.1_roothide_iphoneos-arm64e.deb
+Size: 5792
+MD5sum: b133709066391ab7b0cd97ec759d74d2
+SHA1: 3d52afa5f0d3243ebd360e893636dbbb96ebaf4a
+SHA256: 5fcdf7ead8d2c005a4855538828c94a448442af0c51a402594d4c598f0f47d5d
+Section: Tweaks
+Description: Paired your Apple Watch on new watchOS with older iOS
+Author: 34306
+Name: watched
+
+Package: com.34306.watched
 Version: 1.1-9+debug
 Architecture: iphoneos-arm64
 Maintainer: Little 34306
@@ -285,118 +237,6 @@ Section: Tweaks
 Description: Paired your Apple Watch on new watchOS with older iOS
 Author: 34306
 Name: watched
-
-Package: com.82flex.removewidgetbg
-Version: 0.0.2
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 200
-Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.82flex.removewidgetbg_0.0.2_iphoneos-arm64.deb
-Size: 7550
-MD5sum: ab3a3169fe164b33ea79bed390e41257
-SHA1: 7c475aacde35b44c6cf97b08fae49a0d4371f4d8
-SHA256: d64e5c30c74b0b1fb3f27d3c54e8bf3aa93dc4a3787467279df485eb8d4cc773
-Section: Tweaks
-Description: 已适配系统自带小组件和 Top Widgets⁺ 小组件，移除小组件背景，让桌面更干净。
-Author: Lessica <82flex@gmail.com>
-Name: 移除小组件背景
-
-Package: com.82flex.removewidgetbg
-Version: 0.0.3
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 200
-Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.82flex.removewidgetbg_0.0.3_iphoneos-arm64.deb
-Size: 8174
-MD5sum: 6114feccfae02ed8c084ad26507e9b49
-SHA1: 0ffb57435d5fd57be6055f261f6053168804e21f
-SHA256: 524e345d4c893d6bde475913c7ab73e1b4810c5978450226dadb3eb7eae722ff
-Section: Tweaks
-Description: 已适配系统自带小组件和 Top Widgets⁺ 小组件，移除小组件背景，让桌面更干净。
-Author: Lessica <82flex@gmail.com>
-Name: 移除小组件背景
-
-Package: com.82flex.removewidgetbg
-Version: 0.0.4
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 200
-Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.82flex.removewidgetbg_0.0.4_iphoneos-arm64.deb
-Size: 8798
-MD5sum: 6f0a2476e66bf4f1aff7200478207969
-SHA1: 1d29318504108b09f7b278aee6cdbe4b50ce51aa
-SHA256: 34e0c7e27f429157fe9b6ec23e9b4fc6bdce016be40b74b4ebb0e70eaede73a5
-Section: Tweaks
-Description: 已适配系统自带小组件和 Top Widgets⁺ 小组件，移除小组件背景，让桌面更干净。
-Author: Lessica <82flex@gmail.com>
-Name: 移除小组件背景
-
-Package: com.82flex.removewidgetbg
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 420
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
-Filename: ./debs/com.82flex.removewidgetbg_1.0_iphoneos-arm64.deb
-Size: 28872
-MD5sum: 14a0d70db969197dadbfd3afac3cbf6d
-SHA1: 572be097fdb7b8e7977e0b401c8a26baef258827
-SHA256: 20a22e16ae930d522b83ff75e8c50ff234b731ba8fd61d7e5f1e33060e524a1c
-Section: Tweaks
-Description: 移除小组件背景，让桌面更干净。
-Author: Lessica <82flex@gmail.com>
-Name: 移除小组件背景
-
-Package: com.82flex.removewidgetbg
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 420
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
-Filename: ./debs/com.82flex.removewidgetbg_1.1_iphoneos-arm64.deb
-Size: 29436
-MD5sum: b837bfa91a38a8f90b03d5cbfb9dbe71
-SHA1: 4f0fd0116266fca4f2eec0301e7fcdba10acc566
-SHA256: 737396cbd5b296320251f6d6565f2f64e9bbe81c05069f9980214400c00b6537
-Section: Tweaks
-Description: 移除小组件背景，让桌面更干净。
-Author: Lessica <82flex@gmail.com>
-Name: 移除小组件背景
-
-Package: com.82flex.removewidgetbg
-Version: 1.3
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 436
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
-Filename: ./debs/com.82flex.removewidgetbg_1.3_iphoneos-arm64.deb
-Size: 30074
-MD5sum: 52fe99462743af729b2579844a0de388
-SHA1: 452b2f456cf0c1b796a20017acc5d52fb8793817
-SHA256: ff4c716f469da80c818bcf3b4750cf59cb9a3503ce57aaf959a0dc8b9b82ddd7
-Section: Tweaks
-Description: 移除小组件背景，让桌面更干净。
-Author: Lessica <82flex@gmail.com>
-Name: 移除小组件背景
-
-Package: com.82flex.wtvrbglauncher
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: Lessica
-Installed-Size: 200
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.82flex.wtvrbglauncher_0.0.1_iphoneos-arm64.deb
-Size: 4708
-MD5sum: 3ade6ce40695209caed08fe5ef5d9b26
-SHA1: 5b8a03c6d0bf3aac15ee9cdbf5920b0dae3dfc30
-SHA256: 16f13e5c593cf135ce825b9471d08089b97c0690ede931309c4e93b9fac10730
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: Lessica
-Name: WTVRBGLauncher
 
 Package: com.82flex.wtvrbglauncher
 Version: 0.0.2
@@ -639,6 +479,42 @@ Author: dvntm
 Icon: https://i.imgur.com/C5MLSXo.png
 Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
+
+Package: com.dvntm.ytlite
+Version: 5.0.2
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 16124
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_5.0.2_iphoneos-arm64e.deb
+Size: 6099804
+MD5sum: 971dc6e215031ef7d4cf167f5b0c3944
+SHA1: 8e6c0645a3ae4684fe5258fbae33e4f8fb5ee399
+SHA256: eb3f94022e499fafe4c898e8f58c6da17c02f1d5c269761b1d1e19930c3409f5
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
+Version: 5.0.2
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 16140
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_5.0.2_iphoneos-arm64.deb
+Size: 6099626
+MD5sum: 0e980aabb1450344e5c83059d4015d6c
+SHA1: 51a039c64fc396cb18bfa31be88087f140ee8616
+SHA256: 7fa04949c8c7bb0ab2181c47da8392c877d7a702cd871e8cccd7cab297e132e7
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
 Package: com.huayuarc.flex3beta92
 Version: 1:3~Beta92
@@ -1566,6 +1442,22 @@ Description: 小红书去除启动广告, 去除信息流视频流广告, 修改
 Author: Netskao
 Name: 小红书 NoAds-Rootless
 
+Package: org.coolstar.classicfolders2
+Version: 3.0.5
+Architecture: iphoneos-arm64
+Maintainer: CoolStar
+Installed-Size: 4496
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
+Filename: ./debs/org.coolstar.classicfolders2_3.0.5_iphoneos-arm64.deb
+Size: 3316874
+MD5sum: ec3b60a3a4f44b61f9533ffd756c4ebf
+SHA1: 62fbb1c51dfd829880665a9a86ab051e32ff9319
+SHA256: 897884cbd4b8d446d4ad6e929c2239e891a3fb8983c3c73ba4fc865441c7e249
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: CoolStar
+Name: ClassicFolders 2
+
 Package: repo.lengran.a-font.cn.rootless
 Version: 1.9.3
 Architecture: iphoneos-arm64
@@ -1670,21 +1562,6 @@ Description: betterAlarm 汉化包
 Author: 妖刀
 Name: betterAlarm 汉化包
 
-Package: repo.lengran.bioprotect.cn.rootless
-Version: 4.6-30
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Depends: net.limneos.bioprotectxs-rootless
-Filename: ./debs/repo.lengran.bioprotect.cn.rootless_4.6-30_iphoneos-arm64.deb
-Size: 12932
-MD5sum: b5cba2dfd81e2f8d333d17359cc80b3c
-SHA1: f4b9b797b6939db6d1bbeb4110a63c56ce0ad340
-SHA256: 8d1280b11ea8d59092033dce5e2d142a19cc75524da60c4f654f5ab7adb41b9f
-Section: 汉化
-Description: BioProtect(rootless) 汉化包
-Author: Sandy0 & Ball
-Name: BioProtect(rootless) 汉化包
-
 Package: repo.lengran.ccmusicartwork.cn.rootless
 Version: 2.4.0-rootless
 Architecture: iphoneos-arm64
@@ -1788,21 +1665,6 @@ Description: Cylinder Rebron 汉化增补包
 Author: 妖刀
 Name: Cylinder Rebron 汉化增补包
 
-Package: repo.lengran.dynamicpeninsula.cn.rootless
-Version: 0.6-19
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Depends: net.limneos.dynamicpeninsula-rootless
-Filename: ./debs/repo.lengran.dynamicpeninsula.cn.rootless_0.6-19_iphoneos-arm64.deb
-Size: 1584
-MD5sum: d75a5ae09c7c9b70f61cb41305acc6fb
-SHA1: dbc724e8cbab7ac5c7a714383b9e6c4698c1d2b5
-SHA256: 4f6f9c4add64c0c3d92d643d7c1ae58007895442848c1e32bb56e04745e2e379
-Section: 汉化
-Description: DynamicPeninsula(rootless) 汉化包
-Author: 妖刀
-Name: DynamicPeninsula(rootless) 汉化包
-
 Package: repo.lengran.evolve.theme.rootless
 Version: 2.0
 Architecture: iphoneos-arm64
@@ -1816,36 +1678,6 @@ Section: Themes
 Description: Evolve 主题
 Author: By-Lengran
 Name: Evolve 主题
-
-Package: repo.lengran.kbapp.cn.rootless
-Version: 1.5
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Depends: jp.dcsyhi.kbappdock
-Filename: ./debs/repo.lengran.kbapp.cn.rootless_1.5_iphoneos-arm64.deb
-Size: 5836
-MD5sum: 36f139bdb14dd9f241fb1f35869d0d0b
-SHA1: ba5cd555a98ae4e751f70af7a5785cbc06ef635e
-SHA256: 9cdf937a7dd0f57a18e6ea0e5d27b4028ec12b47f8d07c136786ca67ca194049
-Section: 汉化
-Description: KBApp 汉化包
-Author: 妖刀
-Name: KBApp 汉化包
-
-Package: repo.lengran.nfcwriterx.cn.rootless
-Version: 4.0-3+debug
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Depends: net.limneos.nfcwriterx-rootless, oldabi
-Filename: ./debs/repo.lengran.nfcwriterx.cn.rootless_4.0-3+debug_iphoneos-arm64.deb
-Size: 10308
-MD5sum: 4d58171501e8295d0275a77e5f09e697
-SHA1: 3d27bdc816d0cb4e2cd7b04c1f375c199161febd
-SHA256: bc6f688fb20d85d1f32073bb948948103a87f4faf89d1ddadb7371f04d0e4be8
-Section: 汉化
-Description: NFCWriter XS 汉化包
-Author: Ball
-Name: NFCWriter XS 汉化包
 
 Package: repo.lengran.power4options.cn.rootless
 Version: 3.0
@@ -1877,96 +1709,6 @@ Description: Quick Actions 汉化包
 Author: 妖刀
 Name: Quick Actions 汉化包
 
-Package: repo.lengran.settingsrevamp.cn.rootless
-Version: 2.0
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Depends: com.sop.settingsrevamp
-Filename: ./debs/repo.lengran.settingsrevamp.cn.rootless_2.0_iphoneos-arm64.deb
-Size: 2752
-MD5sum: 3f196835406c17a37e3cfec04991afa5
-SHA1: e279e8358ef6d8d4cfcd7f02c0c563718697d6e7
-SHA256: d2c8bf1c6a1e8a62796d501a45197f71abe0fa2a937efc7f4f984ca1b24fa968
-Section: 汉化
-Description: SettingsRevamp 汉化包
-Author: By-Lengran
-Name: SettingsRevamp 汉化包
-
-Package: repo.lengran.settingsrevamp.cn.rootless
-Version: 2.0.1
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Depends: com.sop.settingsrevamp
-Filename: ./debs/repo.lengran.settingsrevamp.cn.rootless_2.0.1_iphoneos-arm64.deb
-Size: 3916
-MD5sum: 46f40c3d5aa8edb4212876b499492617
-SHA1: 3f514fd37a04b5554068b405bc09a3de6b9edb90
-SHA256: a7b69932a2d9e58f0d404f36a46584c0d31b1266bd3fe42b82713d4ae53a44b6
-Section: 汉化
-Description: SettingsRevamp 汉化包
-Author: 妖刀
-Name: SettingsRevamp 汉化包
-
-Package: repo.lengran.settingsrevamp.cn.rootless
-Version: 2.0.2
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Depends: com.sop.settingsrevamp
-Filename: ./debs/repo.lengran.settingsrevamp.cn.rootless_2.0.2_iphoneos-arm64.deb
-Size: 3864
-MD5sum: a6a474cfdd942c2a5e443ea1d83be4c3
-SHA1: 9e0997e36a2d7f81f8ac4f87529102a9e0ff7b67
-SHA256: ed0fae2a887bf8cbe2bf5e256463a375c33816efd32b79b1a833186564878bff
-Section: 汉化
-Description: SettingsRevamp 汉化包
-Author: 妖刀
-Name: SettingsRevamp 汉化包
-
-Package: repo.lengran.settingsrevamp.cn.rootless
-Version: 2.0.4
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Depends: com.sop.settingsrevamp
-Filename: ./debs/repo.lengran.settingsrevamp.cn.rootless_2.0.4_iphoneos-arm64.deb
-Size: 3872
-MD5sum: 0277ad9c42967156fa75df924d532724
-SHA1: 7715215f3775bf7a9a11f803ae2711f363bedc42
-SHA256: 5eab74ab1036c447b5a6634e92a6e5fcaf1acbcb8beb18afbd16d1385a064286
-Section: 汉化
-Description: SettingsRevamp 汉化包
-Author: 妖刀
-Name: SettingsRevamp 汉化包
-
-Package: repo.lengran.settingsrevamp.cn.rootless
-Version: 2.0.5
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Depends: com.sop.settingsrevamp
-Filename: ./debs/repo.lengran.settingsrevamp.cn.rootless_2.0.5_iphoneos-arm64.deb
-Size: 3880
-MD5sum: ff7624ed785c93269ef272535de1d25c
-SHA1: 6e10c646d3d077eb9289f28d3589dd436b8e262f
-SHA256: ff789217e069f6bdbf3a1082ff3a7da60d691c053c816bc63832bcce4358ca7c
-Section: 汉化
-Description: SettingsRevamp 汉化包
-Author: 妖刀
-Name: SettingsRevamp 汉化包
-
-Package: repo.lengran.shadow.cn.rootless
-Version: 3.7.3
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Depends: me.jjolano.shadow
-Filename: ./debs/repo.lengran.shadow.cn.rootless_3.7.3_iphoneos-arm64.deb
-Size: 2848
-MD5sum: 5be55b5e6a804bbc47ad7d7747b7ebb1
-SHA1: 6ff4f931c8c6bb679f041a4846095362f5f6f9a8
-SHA256: 135e58de80db44053d3438b37257a178322b37b862477715cd32d0a0ea90a398
-Section: 汉化
-Description: Shadow 汉化包
-Author: 妖刀
-Name: Shadow 汉化包
-
 Package: repo.lengran.shuffle.cn.rootless
 Version: 1.6.2
 Architecture: iphoneos-arm64
@@ -1981,64 +1723,6 @@ Section: 汉化
 Description: Shuffle 汉化包
 Author: By-Lengran
 Name: Shuffle 汉化包
-
-Package: repo.lengran.sileo.cn.rootless
-Version: 2.4.5
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.sileo.cn.rootless_2.4.5_iphoneos-arm64.deb
-Size: 7732
-MD5sum: 4b7280ea96545e439580876b6d3e09ab
-SHA1: 0b217cc5d0dac2a2b28cbe0243a9519002a08d91
-SHA256: 85056a9991f2823bbac342f56023a8749408d07233f820d1144ab7fc75f3ecfc
-Section: 汉化
-Description: Sileo 汉化增补包
-Author: 妖刀
-Name: Sileo 汉化增补包
-
-Package: repo.lengran.snowboard.cn.rootless
-Version: 1.5.13-Beta3-rootless
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Depends: com.spark.snowboard
-Filename: ./debs/repo.lengran.snowboard.cn.rootless_1.5.13-Beta3-rootless_iphoneos-arm64.deb
-Size: 3472
-MD5sum: 57febefb92664fb771060440d0170fe1
-SHA1: 9c008f86550a81750708f6f145ca1b21fd76c3c2
-SHA256: f4f3de20c497112bdffe70e5a35e77ddf2334001ebf7c42224c9736f05887746
-Section: 汉化
-Description: SnowBoard 汉化包
-Author: 妖刀
-Name: SnowBoard 汉化包
-
-Package: repo.lengran.snowboard.cn.rootless
-Version: 1.5.9-Beta3-rootless
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Depends: com.spark.snowboard
-Filename: ./debs/repo.lengran.snowboard.cn.rootless_1.5.9-Beta3-rootless_iphoneos-arm64.deb
-Size: 3412
-MD5sum: 48ec84f36e1bd31b5fabe2923f9278ba
-SHA1: a0b5ef1c4e1f7b2b5c5538a7a9628aabd4233ccc
-SHA256: 5b4ab69a459b6eaa7b06e50592fe847bb5f230e6212d48d432ca7aa530ae89dc
-Section: 汉化
-Description: SnowBoard 汉化包
-Author: 妖刀
-Name: SnowBoard 汉化包
-
-Package: repo.lengran.trollstore.cn.rootless
-Version: 1.5.1
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.trollstore.cn.rootless_1.5.1_iphoneos-arm64.deb
-Size: 10864
-MD5sum: 74ca0e7e184fe72d4e2a3013f9a23e1e
-SHA1: b477ade8c4657fdaf2ae8fa026c7fd4949e1cabf
-SHA256: 081baf49a5da9c8a38f6380ab2f85ae59aa2a03148d8f2dbaf1c19d5171a2e29
-Section: 汉化
-Description: TrollStore 汉化包
-Author: By-Lengran
-Name: TrollStore 汉化包
 
 Package: repo.lengran.tweaksettings.cn.rootless
 Version: 1.0.8
@@ -2070,306 +1754,63 @@ Description: Veexillum 主题
 Author: By-Lengran
 Name: Veexillum 主题
 
-Package: wiki.qaq.trapp.jb
-Version: 1.10.0-266
+Package: wiki.qaq.chromatic.rootless
+Version: 3.0-rootless-release-1724937362.2952e67
 Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 12984
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.trapp.jb_1.10.0-266_iphoneos-arm64.deb
-Size: 3996422
-MD5sum: 4012973c7e69d9362f21a8e133c1fde3
-SHA1: de1d1080bfd85ce08c8e8fb1e220d35e60676957
-SHA256: 764ca848716bdfddb2258753f0139d420bdb1b70068812f28702afac21726950
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools
+Conflicts: wiki.qaq.chromatic
+Filename: ./debs/chromatic.rel.ci.1724937362.2952e67.deb
+Size: 3411968
+MD5sum: 20c5115496dccc9d954ad774bca7939c
+SHA1: 03f42fbf0f0af1f34e09691bc9daea32f4c11004
+SHA256: 83641c56ba1f84ba4a02cc5d947d05f88c8f9ddc29798f4509c4adb96b79e04a
 Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: Modern. Fast. Beautiful.
+Author: Saily Team <support.0xa1@qaq.wiki>
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+Name: Saily (Rootless)
+Website: https://sailyteam.github.io/Saily/index.html
 
-Package: wiki.qaq.trapp.jb
-Version: 1.10.1-273
+Package: wiki.qaq.chromatic.rootless
+Version: 3.0-rootless-release-1724982255.ec2e0f1
 Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 13220
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.trapp.jb_1.10.1-273_iphoneos-arm64.deb
-Size: 4029752
-MD5sum: 418d90f244ef5afadb331d971ad67270
-SHA1: 7812183bc9375e76ee3d511a48c540301cdb4d8c
-SHA256: de4aadda653bfee846d470b1f9e06c52350be81dfe1a68bf616d85002f123cac
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools
+Conflicts: wiki.qaq.chromatic
+Filename: ./debs/chromatic.rel.ci.1724982255.ec2e0f1.deb
+Size: 3400476
+MD5sum: f3117a25a4536b1c4bc3297771a0618a
+SHA1: b965d0c61abbde8f929709d8e55701072ecbda55
+SHA256: 193e8119c6342bfd229602e9dbc850cf7173832412b000baf20f9e782655bfc1
 Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: Modern. Fast. Beautiful.
+Author: Saily Team <support.0xa1@qaq.wiki>
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+Name: Saily (Rootless)
+Website: https://sailyteam.github.io/Saily/index.html
 
-Package: wiki.qaq.trapp.jb
-Version: 1.10.2-280
+Package: wiki.qaq.chromatic.rootless
+Version: 3.0-rootless-release-1726897475.c88adb3
 Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 13240
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.trapp.jb_1.10.2-280_iphoneos-arm64.deb
-Size: 4038202
-MD5sum: 37ea0c5c592a97e653b3de74d6a138ae
-SHA1: 2155d7c1e04f76b976f6cf51ed6aec8f41315c21
-SHA256: 7ef527242c6ed79396a8b8f45ec80a28bef98484d04fea03cb2e3c01a6b3dc1c
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools
+Conflicts: wiki.qaq.chromatic
+Filename: ./debs/chromatic.rel.ci.1726897475.c88adb3.deb
+Size: 3351344
+MD5sum: 40fa4e1ada98fdc6a5e6607cf6d31918
+SHA1: 2e9922d6edb10366b30f3de32f318c758c34a6a7
+SHA256: 0bb5afe1229ba0913ecc6fcb324cfef8ae2ce0433f35ca780c7b1e95403315db
 Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.10.3-283
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 13344
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.trapp.jb_1.10.3-283_iphoneos-arm64.deb
-Size: 4060878
-MD5sum: 97df5b3e264b9df4d91cb3b8f8d22f55
-SHA1: 7356d9270d048acee29bb46b0a4fffb398965850
-SHA256: e37ed4ef2ef4a5ede30fc37efb327ae5ce21621797bd0e26987f39c6a35c3c13
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.12.0-285
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 13500
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.trapp.jb_1.12.0-285_iphoneos-arm64.deb
-Size: 4083906
-MD5sum: c14adafc92f2b03bc626fc11d7937ad4
-SHA1: 427b4083b94ab864fd39d0532d5a2557279cd3e5
-SHA256: 5cb3a185573947c7d25d1cabffa03a5cd6b45332c16dd7718ec246dd13c3031e
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.12.1-290
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 13388
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.trapp.jb_1.12.1-290_iphoneos-arm64.deb
-Size: 4074294
-MD5sum: 00223f51d2e0fb1d5f3a607ea9b090fa
-SHA1: 85ccf9e7a3145c863e11a6b7bff643c5332c8c17
-SHA256: 9f456e07e0f54424df11ab65302ca27d82f128aeb2d5bd1d98ee29f6d9f36a97
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.12.2-291
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 13396
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.trapp.jb_1.12.2-291_iphoneos-arm64.deb
-Size: 4074134
-MD5sum: 34975d115a18678deffb80fc31f39d2c
-SHA1: 634705da207f50a8b73eaf1730f8bfe282f61ca4
-SHA256: a7e306be706d851f5f7e2f89d65ba45758f81da944702233e375d177d1dc0e2a
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.12.3-295
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 13484
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.trapp.jb_1.12.3-295_iphoneos-arm64.deb
-Size: 4108304
-MD5sum: 46a5ca5b975e02c82f66869adba9a807
-SHA1: 14045e7f6fe1c6cd98f64129e93be1d0c931e431
-SHA256: 426189bf422f09486e768ae04cbee1513405572cadb118cea9c4c9c11880b7e0
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.12.4-299
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 13656
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.trapp.jb_1.12.4-299_iphoneos-arm64.deb
-Size: 4117348
-MD5sum: 6cd21e4419fe9c78ff13cb8a377141f7
-SHA1: 63ddab952ff9f968c4ace0a966de715b35914bef
-SHA256: 27db633ca45ab4b47bf1b51c17ef236cd67b05f3cf0be15b08c24feb476c9ec7
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.15.0-331
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 13668
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/wiki.qaq.trapp.jb_1.15.0-331_iphoneos-arm64.deb
-Size: 4117314
-MD5sum: b9c32eeec1e4280117aa8eabb62f0660
-SHA1: 542f4c337343fe94c9dfd2c19c7be8b5ef77e599
-SHA256: 57b1c0fbb9a7081c1ac7adfa5651848e6f0505cca7dad98ce61d99000d5a1d05
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.16.0-338
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 13708
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/wiki.qaq.trapp.jb_1.16.0-338_iphoneos-arm64.deb
-Size: 4128552
-MD5sum: 06e411b152c27feea83dbda39f8a1949
-SHA1: c361d8c988ebabf6c251faed9730e790bd72a8aa
-SHA256: 412c3b303a233c341eac7c468efcc9f575113b64046ae5e141c09b0b64f9b654
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.16.2-344
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 13980
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/wiki.qaq.trapp.jb_1.16.2-344_iphoneos-arm64.deb
-Size: 4155034
-MD5sum: aeac7fa3dab3362727c6a94ea69fb9ca
-SHA1: 83d76ce9f6ac2119fedf4cc119e5719b244ff552
-SHA256: 43bfa3d246c7bc3d8c5b724b553d40c6b70b714fb1c494f6ad4e3f7c09ee154d
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.18.0-352
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 14576
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/wiki.qaq.trapp.jb_1.18.0-352_iphoneos-arm64.deb
-Size: 4293130
-MD5sum: 28b9bed2887afd3e30e4ca939c7630ec
-SHA1: f6b3806e77df3422994abf374df4e1ffc0a2daf9
-SHA256: 65bc8bad5993a84835bf194df143746bd254fb87be184630b586e264a8c377f9
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.18.1-354
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 14588
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/wiki.qaq.trapp.jb_1.18.1-354_iphoneos-arm64.deb
-Size: 4301074
-MD5sum: 6c1513f4d9ba57fdd3953a14bd09602a
-SHA1: dfe080533dc326fe50cd0e269013df4d4a2248c1
-SHA256: 3d203bdee557bb2c7dd1c59293024e50a0c42027e6b54a33a70030ac466979be
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.20-357
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 20248
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/wiki.qaq.trapp.jb_1.20-357_iphoneos-arm64.deb
-Size: 6507920
-MD5sum: f675967f1db9846fa46071cb2fdaf686
-SHA1: d49b357813dce9ae0f89552436fb07550bf338e2
-SHA256: 84170f4b3cfedc05283841cd0ffcf7c3e07ad6d40df4e4ca9e21c3f717bf2dbc
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.22-369
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 15532
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/wiki.qaq.trapp.jb_1.22-369_iphoneos-arm64.deb
-Size: 4538378
-MD5sum: 08e61e2ac136eee3ae4d31957fc7cbca
-SHA1: e10e8b57c0c585c90a114e4f19c6345aa8332af6
-SHA256: 2930fa24614e52708bc93d87b3baa9402f95e3a6e531531a0bfc8a05bf5632d1
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.9.7-183
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 11792
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.trapp.jb_1.9.7-183_iphoneos-arm64.deb
-Size: 3461584
-MD5sum: 4bb679e958005ebbed8ac4460505eda7
-SHA1: 3903391349802ce6ff2118a24b33b1009db4ed55
-SHA256: e4091cf050a2365c66f506fa6d212e21ff44842662bb8cd3147e2cdfda615a33
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 1.9.8-236
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 12024
-Depends: firmware (>= 15.0)
-Filename: ./debs/wiki.qaq.trapp.jb_1.9.8-236_iphoneos-arm64.deb
-Size: 3517536
-MD5sum: 96f2ddc7efcd4ec80a86bc78a8dc7269
-SHA1: 54df026eaa29fb932858dfed14006c451fd78029
-SHA256: 010b7ad020367e26a453a93890cb9b4ee65c1967d228818dbd9320843391bf55
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: xyz.hhls.zomigle
-Version: 0.1.0-beta1
-Architecture: iphoneos-arm64
-Maintainer: HAHALOSAH
-Depends: firmware (>= 14.0)
-Filename: ./debs/xyz.hhls.zomigle_0.1.0-beta1_iphoneos-arm64.deb
-Size: 16860
-MD5sum: 2d88ef9fd674949130e2c5eece3c8134
-SHA1: 1129b6486dbcc9c1f951eb76ee0805ee4731775a
-SHA256: 529c89ebab5f9809adb7129318c5c3d213694c2526d80c73610788c84ab478d4
-Section: Tweaks
-Description: Removes the 3 app limit for free developer accounts
-Author: HAHALOSAH
-Name: Zomigle
+Homepage: https://sailyteam.github.io/Saily/index.html
+Description: Modern. Fast. Beautiful.
+Author: Saily Team <support.0xa1@qaq.wiki>
+Depiction: https://sailyteam.github.io/Saily/index.html
+Icon: https://sailyteam.github.io/Saily/Resources/icon.png
+Name: Saily (Rootless)
+Website: https://sailyteam.github.io/Saily/index.html
 
