@@ -127,6 +127,38 @@ Description: Clipboard manager for iOS.
 Author: Alexandra Aurora Göttlicher
 Name: Kayoko
 
+Package: codes.aurora.kayoko
+Version: 2.6
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1104
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/codes.aurora.kayoko_2.6_iphoneos-arm64e.deb
+Size: 126616
+MD5sum: 9a7dfd144e35ef0a6a1a840a6dddda25
+SHA1: 98891713f3a74e4fff8158bf2c66703e1595a5f4
+SHA256: 8b00e2883d51f96f4a11478f3ceb9a00ce26d6106825901963db5a1a3a8bbf4d
+Section: Tweaks
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+
+Package: codes.aurora.kayoko
+Version: 2.6
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1104
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/codes.aurora.kayoko_2.6_iphoneos-arm64.deb
+Size: 126188
+MD5sum: 07e230b7ea563d2882d19f2c3d48134d
+SHA1: 8dbd2ce7205a4aec8a3cf9991195f87e9fbcf3af
+SHA256: c80caf9b1cf90bcabf8920ff18b2ebe56f389dfc7c7b2684e55bd7b3a0638268
+Section: Tweaks
+Description: Clipboard manager for iOS.
+Author: Alexandra Aurora Göttlicher
+Name: Kayoko
+
 Package: com.34306.betaalertremove
 Version: 1.0-2+debug
 Architecture: iphoneos-arm64
@@ -2003,4 +2035,20 @@ Depiction: https://sailyteam.github.io/Saily/index.html
 Icon: https://sailyteam.github.io/Saily/Resources/icon.png
 Name: Saily (Rootless)
 Website: https://sailyteam.github.io/Saily/index.html
+
+Package: wiki.qaq.trapp.jb
+Version: 2.6-407
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 17280
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/wiki.qaq.trapp.jb_2.6-407_iphoneos-arm64e.deb
+Size: 4340038
+MD5sum: 89122c73f8e4fff5adb9c2d4332a8785
+SHA1: cd91e47f5a21fa7ea3d9c90e5b7a0ef662927190
+SHA256: 5b67957a2517a489ae58b0f6f8767be60408932bfa94a86b49a352eaf93d1778
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
 
