@@ -62,6 +62,22 @@ Description: Troll your speed, but jailbroken.
 Author: Lessica <82flex@gmail.com>
 Name: TrollSpeed JB
 
+Package: ch.xxtou.hudapp.jb
+Version: 1.12.1
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 636
+Depends: firmware (>= 14.0)
+Filename: ./debs/ch.xxtou.hudapp.jb_1.12.1_iphoneos-arm64e.deb
+Size: 161658
+MD5sum: 855678f68d1a011c609372795da68afc
+SHA1: 77546e0bab1e4eb263502554855548787d8d71f5
+SHA256: ace79d71eb227ad90feeb5fe854fca85ae78ee06a2ec6509e50fda8f09756cb1
+Section: Tweaks
+Description: Troll your speed, but jailbroken.
+Author: Lessica <82flex@gmail.com>
+Name: TrollSpeed JB
+
 Package: cn.Bswbw.time
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -576,15 +592,31 @@ Name: 语音转文字免跳转
 
 Package: com.82flex.wtvrbglauncher
 Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: Lessica
+Installed-Size: 372
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.82flex.wtvrbglauncher_1.1_iphoneos-arm64e.deb
+Size: 22314
+MD5sum: 403d33d6c9f753bce285a9f88c7b4702
+SHA1: 5c88b3ed6f220b807330e500ec347f8d9563cf49
+SHA256: b78bccf2fa4d91c9ae0df098b0aa4c3831f2bcb8d64b6c4ef0b054b5b5429038
+Section: Tweaks
+Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
+Author: Lessica
+Name: 语音转文字免跳转
+
+Package: com.82flex.wtvrbglauncher
+Version: 1.1
 Architecture: iphoneos-arm64
 Maintainer: Lessica
-Installed-Size: 404
+Installed-Size: 372
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.82flex.wtvrbglauncher_1.1_iphoneos-arm64.deb
-Size: 23110
-MD5sum: f8d9cab6047df775de991cbf18485793
-SHA1: dc01469063c2181611cb9aeb3f881692676fa427
-SHA256: 2cbb75ef557754343f5f366b17fa0da794d56f1cb4ed5265427c54a305307bc4
+Size: 22374
+MD5sum: 9a85d78c83de2c18bcee26e2e10078ac
+SHA1: e8bd63aa8a5db87d4551e8367a7da61e40e572f2
+SHA256: bbe7f7f49416b2560f6157bba9c1401baa8a3ae7658bd37f45b84b98368f5826
 Section: Tweaks
 Description: 中文输入法语音转文字免跳转插件。无设置选项，安装并注销后立即生效。支持的输入法：微信、百度、搜狗、讯飞
 Author: Lessica
@@ -2259,6 +2291,38 @@ Depiction: https://sailyteam.github.io/Saily/index.html
 Icon: https://sailyteam.github.io/Saily/Resources/icon.png
 Name: Saily (Rootless)
 Website: https://sailyteam.github.io/Saily/index.html
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 4.8
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 5680
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/wiki.qaq.colorfulwallpaperx_4.8_iphoneos-arm64e.deb
+Size: 1399798
+MD5sum: 7e76cba08fa6c62020cb8ae9ecc6a40a
+SHA1: 5a8604528a429a494a5a89f249228d05dfe0a1ce
+SHA256: dd5bf33eafe3d48f56bd3a93b211fee39380d7f6b07b6b0b585e1d7ea3e78d8b
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Name: ColorfulWallpaperX
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 4.8
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 5664
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/wiki.qaq.colorfulwallpaperx_4.8_iphoneos-arm64.deb
+Size: 1392826
+MD5sum: 279622dbc9457db79fd77d065d48f1b5
+SHA1: 8016e0df4da8ec30e4e132792bc81822d719d268
+SHA256: 8eec67d54d08eda77f8597c347a235716e2c52354617af498a8e8f9031b89267
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Name: ColorfulWallpaperX
 
 Package: wiki.qaq.trapp.jb
 Version: 2.6-407
