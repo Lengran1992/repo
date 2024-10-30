@@ -916,7 +916,7 @@ Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 10992
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/抖音图层2.0.6+3无根.deb
+Filename: ./debs/com.xx.dyhook_2.0.6+3_iphoneos-arm64.deb
 Size: 3874040
 MD5sum: 4d239b7ed26ee96612609c8e2de8a853
 SHA1: 799502035edaa681c0bdac01a016f7e66c515f23
