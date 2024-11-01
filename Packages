@@ -848,6 +848,38 @@ Icon: https://i.imgur.com/C5MLSXo.png
 Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/infuseplus.json
 
+Package: com.dvntm.lsquickactions
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.dvntm.lsquickactions_0.0.1_iphoneos-arm64e.deb
+Size: 3540
+MD5sum: 21a89cde30d604009758a7dadbb10b79
+SHA1: 11828b4d77db428d76d2f477359c22dbe022d972
+SHA256: 6134da62578e526371a9632e0b64cfa51c30a8389f3cf12d5ce36b99064b638a
+Section: Tweaks
+Description: Enables quick action buttons on the lock screen
+Author: dvntm
+Name: LSQuickActions
+
+Package: com.dvntm.lsquickactions
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.dvntm.lsquickactions_0.0.1_iphoneos-arm64.deb
+Size: 3612
+MD5sum: d66c097e956ef842b968ea422b970be0
+SHA1: 87bd86e9eb2f9bd91dbf46ab60204b6d6d341b55
+SHA256: d274f1361b3a494584b49db637893b98d7838fea40441f685b72696cc3b65814
+Section: Tweaks
+Description: Enables quick action buttons on the lock screen
+Author: dvntm
+Name: LSQuickActions
+
 Package: com.dvntm.oledkeyboard
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -896,6 +928,42 @@ Description: OLED Dark Mode for iOS System Keyboard
 Author: dvntm
 Name: OledKeyboard
 
+Package: com.dvntm.ratebegone
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.ratebegone_0.0.1_iphoneos-arm64e.deb
+Size: 3176
+MD5sum: 1e96b688f65ce9ea233a4efae7ecddfe
+SHA1: 686f2122e5e2f09f1c6eb93bad924c70e1afb4ee
+SHA256: 9b22f9a93d38dbabee0be65391fcafb375252dac0140bea76f1009a03310691f
+Section: Tweaks
+Description: Removes annoying rate app pop-ups
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
+Name: RateBeGone
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
+
+Package: com.dvntm.ratebegone
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.ratebegone_0.0.1_iphoneos-arm64.deb
+Size: 3252
+MD5sum: 212b5a6765b8300478dacc3cc278bd6a
+SHA1: 89729705fe7d2cfbac362e0030deeed93bdb7991
+SHA256: 383af30db6594dca5017bc60d392461548200c2eba9c2194c56b97c6137e131a
+Section: Tweaks
+Description: Removes annoying rate app pop-ups
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
+Name: RateBeGone
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
+
 Package: com.dvntm.ytlite
 Version: 5.0.2
 Architecture: iphoneos-arm64
@@ -913,6 +981,37 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 Name: YTLite
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.huami.DYYY
+Version: 1.6
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.DYYY_1.6_iphoneos-arm64_rootless.deb
+Size: 26698
+MD5sum: 534a88b400d9c94cdeb8b6400ec4ab0d
+SHA1: 2288a9b04e61063f54e94084d8a440a1765a77a1
+SHA256: 8e45ba137f7902206fa9d05eaa048bb1b06e70ad69f2612bf9dd1d06423be64b
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 1.6-2
+Architecture: iphoneos-arm64
+Installed-Size: 220
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.huami.dyyy_1.6-2_iphoneos-arm64.deb
+Size: 19088
+MD5sum: a7033b75c049d6e1ca63d20b918ec789
+SHA1: ae4ce870c23738d9a63e8e6f961c29320363b82f
+SHA256: 590273e51b55355157aedf74ec3f63391bd7680119e16739024e611768f6d89f
+Section: Tweaks
+Priority: optional
+Description: 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Name: DYYY
 
 Package: com.huayuarc.flex3beta92
 Version: 1:3~Beta92
