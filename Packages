@@ -2598,6 +2598,51 @@ Description: Sileo 中文增补包
 Author: 妖刀
 Name: Sileo 中文增补包
 
+Package: repo.lengran.sileo.cn.rootless
+Version: 2.5
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/repo.lengran.sileo.cn.rootless_2.5_iphoneos-arm64.deb
+Size: 7900
+MD5sum: 01b406487c346b206f12874dd8d23481
+SHA1: 554ce0ae92877d498d8ad151dd8e908387c208e0
+SHA256: 4e6705abcc99d9f16a4f4c969c2dadad0aa5130b5664b2cc3286afee5d666d80
+Section: 汉化
+Description: Sileo 中文增补包
+Author: 妖刀
+Name: Sileo 中文增补包
+
+Package: repo.lengran.snapper3.cn.roothide
+Version: 1.2.1
+Architecture: iphoneos-arm64e
+Maintainer: By-Lengran
+Depends: com.jontelang.snapper3
+Filename: ./debs/repo.lengran.snapper3.cn.roothide_1.2.1_iphoneos-arm64e.deb
+Size: 11208
+MD5sum: 230f6403f0ac50ffd2b94d23062e14e2
+SHA1: e51a26f1f7e78e6f9addbbf18dca9e9e6c35e603
+SHA256: 897a3edb710fe8ebcd6ad7392a003679df6588a9edaf849a780746d849bcd586
+Section: 汉化
+Description: Snapper 3 中文菜单
+Author: By-Lengran
+Name: Snapper 3 中文菜单
+
+Package: repo.lengran.snapper3.cn.rootless
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: com.jontelang.snapper3
+Filename: ./debs/repo.lengran.snapper3.cn.rootless_1.2.1_iphoneos-arm64.deb
+Size: 11212
+MD5sum: f3d0786525125e2b25addf0cbe10ba76
+SHA1: aa48025282dba76e53c3020c34a4ab9a8f42264f
+SHA256: 51db1c83b8fc7f9c649f2d9822c86815d3b369155e3c62994589d58dc6bc8e1f
+Section: 汉化
+Description: Snapper 3 中文菜单
+Author: By-Lengran
+Name: Snapper 3 中文菜单
+
 Package: repo.lengran.tweaksettings.cn.roothide
 Version: 1.0.8
 Architecture: iphoneos-arm64e
