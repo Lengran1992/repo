@@ -982,6 +982,88 @@ Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sou
 Name: RateBeGone
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
 
+Package: com.dvntm.safariii
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.safariii_0.0.1_iphoneos-arm64.deb
+Size: 2862
+MD5sum: 8e865c406486e63ad3f69a43c057b497
+SHA1: 2ae1b2ff2e1bda54b2e4590eae12195ccd0a1e00
+SHA256: a7ac9292c2414b6edb54a440b822660d0b421c7a93d75288c52834d73abebfd0
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: dvntm
+Name: Safariii
+
+Package: com.dvntm.safariii
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.safariii_0.0.1_iphoneos-arm64e.deb
+Size: 2800
+MD5sum: efd79bde9da976d9d4a4b29b3ef10c15
+SHA1: 4ddadaa4b69833af20fa4851eb911b3edcf54b09
+SHA256: 45bde2478ea8571a423cad851647c6f9d76f2251f3a665b104ffc45d67d91be8
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: dvntm
+Name: Safariii
+
+Package: com.dvntm.silentnotifs
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.silentnotifs_0.0.2_iphoneos-arm64e.deb
+Size: 3592
+MD5sum: f8865dcdafe66237508242f2c58be844
+SHA1: c16c450777613e888c6f95398d101e34fa4e82c0
+SHA256: af274673b2adb3d7d8ce76173e9fdb8d0b82fb81b5709491838f38b41a7380a3
+Section: Tweaks
+Description: Keep notifications silent while media is playing
+Author: dvntm
+Name: SilentNotifs
+
+Package: com.dvntm.silentnotifs
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.silentnotifs_0.0.2_iphoneos-arm64.deb
+Size: 3662
+MD5sum: 38ad559e9ac9740ef30214da4eaa7a00
+SHA1: 002eb290de9e0aa601009580bc0f867bdcd9088f
+SHA256: 99196a6cb4129d2ebaff2580d6bd019628318f82a7d8c78b1e4ae3c24ef31a8a
+Section: Tweaks
+Description: Keep notifications silent while media is playing
+Author: dvntm
+Name: SilentNotifs
+
+Package: com.dvntm.ytlite
+Version: 5.0.2
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 16124
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_5.0.2_iphoneos-arm64e.deb
+Size: 6099804
+MD5sum: 971dc6e215031ef7d4cf167f5b0c3944
+SHA1: 8e6c0645a3ae4684fe5258fbae33e4f8fb5ee399
+SHA256: eb3f94022e499fafe4c898e8f58c6da17c02f1d5c269761b1d1e19930c3409f5
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
 Package: com.dvntm.ytlite
 Version: 5.0.2
 Architecture: iphoneos-arm64
