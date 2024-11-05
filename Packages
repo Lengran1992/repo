@@ -1050,6 +1050,230 @@ Description: An awesome MobileSubstrate tweak!
 Author: dvntm
 Name: Safariii
 
+Package: com.dvntm.showmytouches
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.showmytouches_0.0.1_iphoneos-arm64.deb
+Size: 24176
+MD5sum: b09482fd48240d9973b932a312f1109c
+SHA1: 9c5ec9f8784dff5d05e9a809e57dcdfb62f3eab5
+SHA256: 204e44f3995bef795c2de9d65d091d79bfec167267d9b837c9cb542953c97bc0
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: dvntm
+Name: ShowMyTouches
+
+Package: com.dvntm.showmytouches
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 368
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.showmytouches_0.0.1_iphoneos-arm64e.deb
+Size: 22786
+MD5sum: 9fe5f328daf619fc568f994b8a20002d
+SHA1: 4c733880f8c65b5c7ac6ab250a450799038da461
+SHA256: e6a459d1e1ac6149ecf16131ba35362cc36b6a454adf2a5b39ffc0137d98eb5f
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: dvntm
+Name: ShowMyTouches
+
+Package: com.dvntm.showmytouches
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.showmytouches_1.0_iphoneos-arm64e.deb
+Size: 48172
+MD5sum: c23b40a249c01d18e41b5ee9d592c790
+SHA1: 6d1c9d17c23a33e1ef311d32778e6f14213df2b4
+SHA256: 60e0ce27f3f578ea2d614914bf7f33f8a826ce6fe754a4c86a2b25f038bb8a1d
+Section: Tweaks
+Description: Displays your touch interactions!
+Author: dvntm
+Name: ShowMyTouches
+
+Package: com.dvntm.showmytouches
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.showmytouches_1.0_iphoneos-arm64.deb
+Size: 49592
+MD5sum: 1c9b776c78c83c75988922769f16d8f8
+SHA1: c886424510f9d111856d22b9595a4d69b3903fc9
+SHA256: 033463ab993a7c85faf99d9a1d958a5a7bd75c52fb5a183649c15089884c68d8
+Section: Tweaks
+Description: Displays your touch interactions!
+Author: dvntm
+Name: ShowMyTouches
+
+Package: com.dvntm.showmytouches
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 456
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.showmytouches_1.1_iphoneos-arm64.deb
+Size: 52102
+MD5sum: 09897321d3732f4c4c2d66df3c4242a8
+SHA1: 97b810ae8098c1054361a21e8ee33521932d2173
+SHA256: 41bde783e16200f3867f3bf727d5f516427117f0b4666e1e59e2440ef0095b41
+Section: Tweaks
+Description: Displays your touch interactions!
+Author: dvntm
+Name: ShowMyTouches
+
+Package: com.dvntm.showmytouches
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 456
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.showmytouches_1.1_iphoneos-arm64e.deb
+Size: 51120
+MD5sum: 3cbecc1042a5e0aea511f3ae505a00bf
+SHA1: df2429c4eab344e3af8c9f098e380a12fa9c20ae
+SHA256: e215c0ade038377a3b03ab5435f6dac6d771a9079afb3a8e800297f090f3f8aa
+Section: Tweaks
+Description: Displays your touch interactions!
+Author: dvntm
+Name: ShowMyTouches
+
+Package: com.dvntm.showmytouches
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 460
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.showmytouches_1.1.1_iphoneos-arm64.deb
+Size: 52814
+MD5sum: aacd16defe78d4f1fdfab83ffacd0fd9
+SHA1: 526c69014b59cb7809704adb9b66618c0f7ba26d
+SHA256: ad135db7abaea21524501123dbe16e50b72d123b95c6bf2e0d7f537e089e0f40
+Section: Tweaks
+Description: Displays your touch interactions!
+Author: dvntm
+Name: ShowMyTouches
+
+Package: com.dvntm.showmytouches
+Version: 1.1.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 460
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.showmytouches_1.1.1_iphoneos-arm64e.deb
+Size: 51544
+MD5sum: 4499bd782486ab2c97e90fda486a4cdd
+SHA1: 4dc3ce1e57bdbc726b14f6e30323f2c37dd7d701
+SHA256: 3dc19484cf567a98da5825b743e5a8d476040e6bd2a457b2f6f4a32353ba765e
+Section: Tweaks
+Description: Displays your touch interactions!
+Author: dvntm
+Name: ShowMyTouches
+
+Package: com.dvntm.showmytouches
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 464
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.showmytouches_1.1.2_iphoneos-arm64.deb
+Size: 53208
+MD5sum: fd7f453d0e2560811aa66ba6b2261a02
+SHA1: d738dab4d8bc50d5bffdadbe11253b234d4f73f9
+SHA256: 295ec02b73306fdee703f3ba38afbe2f2823dcf6aa722de4a217964236910769
+Section: Tweaks
+Description: Displays your touch interactions!
+Author: dvntm
+Name: ShowMyTouches
+
+Package: com.dvntm.showmytouches
+Version: 1.1.2
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 464
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.showmytouches_1.1.2_iphoneos-arm64e.deb
+Size: 52214
+MD5sum: 46c04880c8c1724cde9e0e2751fb580c
+SHA1: f6f1bb35d8b41d60b880a1f8a3728baf4bb88ead
+SHA256: 5504d3133263788303b8867faf2e0d730a0b06ace26c148123a4d0deb44e5c09
+Section: Tweaks
+Description: Displays your touch interactions!
+Author: dvntm
+Name: ShowMyTouches
+
+Package: com.dvntm.showmytouches
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.showmytouches_1.1.3_iphoneos-arm64.deb
+Size: 53580
+MD5sum: c413e04f9aedce00b96b57e8de03d7e0
+SHA1: 4c50d7e412c14d1208f78cd595c637ed51b7a473
+SHA256: ebbdf48c9ec9dcbfeeb016edb126f8820cf50c2a9ca716fa80cfb80a92078abf
+Section: Tweaks
+Description: Displays your touch interactions!
+Author: dvntm
+Name: ShowMyTouches
+
+Package: com.dvntm.showmytouches
+Version: 1.1.3
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.showmytouches_1.1.3_iphoneos-arm64e.deb
+Size: 52568
+MD5sum: 809e34496508ee881c5fd30ab186360f
+SHA1: 92b8efe72eefdf9b14f25df7ad1760790ae13f4a
+SHA256: 52abf7beb97eb0ece3a1fb96f1a6a1c09c4528b95218a5cd1fa2d3ff4da62080
+Section: Tweaks
+Description: Displays your touch interactions!
+Author: dvntm
+Name: ShowMyTouches
+
+Package: com.dvntm.silentnotifs
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.silentnotifs_0.0.1_iphoneos-arm64e.deb
+Size: 3410
+MD5sum: ef2a51d4c161f59d44b37636eaf60fa7
+SHA1: 41f76734dbdc469f72c5f4885b5f80aa4e3fca0d
+SHA256: 566d933d22c91c80b1b7f30920e9a89b4ca060bd683ae28e2bdd4b2b4f506d81
+Section: Tweaks
+Description: Keep notifications silent while media is playing
+Author: dvntm
+Name: SilentNotifs
+
+Package: com.dvntm.silentnotifs
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.silentnotifs_0.0.1_iphoneos-arm64.deb
+Size: 3478
+MD5sum: 4da4fa572e8ffaf09ec04457b69e7227
+SHA1: a2236c59566d978dc3a0d07579083cc867119136
+SHA256: 3db9f3ea66aa8cd6f616a57f089dbb0f6444ad7c75898ceba0fca3647395dcd3
+Section: Tweaks
+Description: Keep notifications silent while media is playing
+Author: dvntm
+Name: SilentNotifs
+
 Package: com.dvntm.silentnotifs
 Version: 0.0.2
 Architecture: iphoneos-arm64e
@@ -1081,6 +1305,78 @@ Section: Tweaks
 Description: Keep notifications silent while media is playing
 Author: dvntm
 Name: SilentNotifs
+
+Package: com.dvntm.ytlite
+Version: 5.0
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 16088
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_5.0_iphoneos-arm64e.deb
+Size: 6086192
+MD5sum: 694bd17fe9a51762457c1c42c161b80c
+SHA1: 5dbd014fab9e230400b8eb1050d5a5df0f13cb66
+SHA256: ee7c8cf7a4d1cba60b244619436da519e43be2a8dd244abef7d1fc9204183415
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
+Version: 5.0
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 16088
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_5.0_iphoneos-arm64.deb
+Size: 6082342
+MD5sum: b64c5f0fa8f80a462c56bb57c402dfea
+SHA1: e4bb3789d2191c54e93b94ea5495addac0e40b55
+SHA256: 18136bd45cba62699fc1e14ac910fa17ebf33cf3a9f338e19f90f89e586605db
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
+Version: 5.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 16092
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_5.0.1_iphoneos-arm64e.deb
+Size: 6085536
+MD5sum: b9fd72fabbe71f5e0ecd91aabe90db91
+SHA1: ef1447aa786504e7e676d521c160c774c0b8c84e
+SHA256: 0545b643a39e9c54bebf0c50b441b59a6fc7b751de5e258ef7bf7470a6c2252b
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
+Version: 5.0.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 16092
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_5.0.1_iphoneos-arm64.deb
+Size: 6084934
+MD5sum: 80023662089602b689ba52119202f14a
+SHA1: 42001f9b82f9bcfb3ddd9aa7254bb235d257de67
+SHA256: 2c7acf387a66361e6ace5b3923cacc1e8fc7b3facd8419a57337545bfe19c2f0
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
 Package: com.dvntm.ytlite
 Version: 5.0.2
@@ -1117,6 +1413,42 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 Name: YTLite
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.ginsu.ytmusicultimate
+Version: 2.2
+Architecture: iphoneos-arm64e
+Maintainer: Ginsu
+Installed-Size: 26420
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ginsu.ytmusicultimate_2.2_iphoneos-arm64e.deb
+Size: 10254936
+MD5sum: a3c3797970a7386f25f6c5cab2f16a39
+SHA1: 7aa6209d3450f91b2c7e58111e53a9c76cfd2b0f
+SHA256: 9cdd3909cfb55e4601be9433737ab3194afb59bc49238c76389c888a11f8ce0c
+Section: Tweaks
+Description: YouTube Music Premium
+Author: Ginsu
+Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
+Name: YTMusicUltimate
+
+Package: com.ginsu.ytmusicultimate
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Ginsu
+Installed-Size: 26420
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ginsu.ytmusicultimate_2.2_iphoneos-arm64.deb
+Size: 10255780
+MD5sum: 7c2dfdd188ce6308c5cba16e134e979b
+SHA1: 7d6af5fac9fa3c3c8ecd7a2616a37dc500277f08
+SHA256: c8ddfa512ae0519ca3114278df6e87d3780254d961930b60e857867bd32a24f5
+Section: Tweaks
+Description: YouTube Music Premium
+Author: Ginsu
+Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
+Name: YTMusicUltimate
 
 Package: com.huami.DYYY
 Version: 1.6
@@ -1482,6 +1814,22 @@ Description: 自用 越狱食用
 Author: x✨
 Name: 抖音图层
 
+Package: com.xx.dyhook
+Version: 2.0.7+5
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 13680
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.dyhook_2.0.7+5_iphoneos-arm64.deb
+Size: 4729772
+MD5sum: 0f115078b49f137f9e1563044d7dfc52
+SHA1: 66fea7b364a6b39d5ee269ec39e4b371cd22d3ac
+SHA256: fe00267add2152840604d2a8962ef46f3f0b40b95a04a7878b5c409f8f4c9802
+Section: Tweaks
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+
 Package: com.xx.xhshook
 Version: 1.1.1
 Architecture: iphoneos-arm64
@@ -1495,6 +1843,22 @@ SHA1: a15bcc3ec51e5c83189de12f099ab917c519169b
 SHA256: d4f32bcb2fbefafd475ed5e63a99aa3fe80915b25f40d79b1f9d8ad84538be10
 Section: Tweaks
 Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片 长按文案复制
+Author: x✨
+Name: 小红薯
+
+Package: com.xx.xhshook
+Version: 1.1.2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 3288
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.xhshook_1.1.2_iphoneos-arm64.deb
+Size: 1146900
+MD5sum: 8d430d60357205dcd34c3f1ea1206ffb
+SHA1: d18c0dcc3e4a78d02a2c3c9be781470abb0142e5
+SHA256: 5035bd6562c6efe6ee1fda4921f644173757eb37791e97c70e6f812de8977fb6
+Section: Tweaks
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片·live图 长按文案复制
 Author: x✨
 Name: 小红薯
 
