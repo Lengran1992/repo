@@ -1450,6 +1450,42 @@ Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
 Name: YTMusicUltimate
 
+Package: com.ginsu.ytmusicultimate
+Version: 2.3
+Architecture: iphoneos-arm64
+Maintainer: Ginsu
+Installed-Size: 19212
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ginsu.ytmusicultimate_2.3_iphoneos-arm64.deb
+Size: 7456638
+MD5sum: e42ad52c6f801a1a0846c7818da42e4f
+SHA1: fe78eb9cdd041e1c6f9db086da08df690bdb46db
+SHA256: 964f2a40382d78c7e6840214beda4e7e77dc2f5cfcc1ede5659ef90635aa5335
+Section: Tweaks
+Description: YouTube Music Premium
+Author: Ginsu
+Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
+Name: YTMusicUltimate
+
+Package: com.ginsu.ytmusicultimate
+Version: 2.3
+Architecture: iphoneos-arm64e
+Maintainer: Ginsu
+Installed-Size: 19212
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ginsu.ytmusicultimate_2.3_iphoneos-arm64e.deb
+Size: 7456182
+MD5sum: 5a2f6a7c800fec349f77c59eaa405fae
+SHA1: 30a2d767b8301451ce441d0b30adaf745c4d2b2e
+SHA256: 04e113586a130154625f130b09024b1c6459223e9416325e5091439530f9506f
+Section: Tweaks
+Description: YouTube Music Premium
+Author: Ginsu
+Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
+Name: YTMusicUltimate
+
 Package: com.huami.DYYY
 Version: 1.6
 Architecture: iphoneos-arm64
