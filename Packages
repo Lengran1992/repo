@@ -902,6 +902,42 @@ Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Res
 Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
 
+Package: com.dvntm.infuseplus
+Version: 1.3.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 828
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.3.1_iphoneos-arm64e.deb
+Size: 217552
+MD5sum: a26e46cdae0c36f095cace31e3339a16
+SHA1: 2ac25343603d76d79ec85cc0193e5d7fec6244cc
+SHA256: 4effac0d3f64f4538e832204d3f49b36ad123bc837ce6bb17ac7a021b846d823
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
+Package: com.dvntm.infuseplus
+Version: 1.3.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 828
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.3.1_iphoneos-arm64.deb
+Size: 217382
+MD5sum: 6a4e4c931eb832152b53f8448bfe7cc3
+SHA1: bae2cbf1d1f2105ee24da1c306cff1f8180ebad7
+SHA256: 311a7eb1ccc22d611cd5026afe59f1455e6b97353d9842ed5dd8e0bdfd28c91c
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
 Package: com.dvntm.lsquickactions
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -1637,6 +1673,22 @@ Depiction: https://repo.lenglengyu.top/packageInfo/bilibilihz.html
 Name: 哔哩哔哩解锁大会员画质-Rootless
 Sileodepiction: https://repo.lenglengyu.top/packageInfo/bilibilihzsileo
 
+Package: com.netskao.qqipadmodelogin
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.netskao.qqipadmodelogin_1.1-1_iphoneos-arm64.deb
+Size: 2206
+MD5sum: e6c53b9bf743a1b450cecc6e7f7bdf37
+SHA1: 291016a6c50f29a23fc21c8fb0b604de1c847f78
+SHA256: c3078a6189c5343e4e6fa61f7adcab9a4670dd660077b159af29ba3c250ea38d
+Section: Netskao-Tweaks
+Description: QQ simulates iPad mode login
+Author: Netskao
+Name: QQiPadModeLogin
+
 Package: com.nightwind.sileorespringfix
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -1668,6 +1720,23 @@ Section: Tweaks
 Description: Make CoreAnimation apps use the highest available FPS. Custom FPS option added by uz.ra (@ChromiumCandy)
 Author: PoomSmart
 Name: CAHighFPS
+
+Package: com.sergy.immortalizer
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: sergy
+Installed-Size: 412
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.sergy.immortalizer_1.0.1_iphoneos-arm64.deb
+Size: 29108
+MD5sum: 4a252fb51bce0cfe0e52bcf5fa7c4c9d
+SHA1: 51f8707f4bafb3dedf02b0cc8af30d5531dfca28
+SHA256: a0456fb958077bd3087223bd69efff8701df802f767e2f8377e1afe0b9a93a71
+Section: Tweaks
+Description: Foreground your apps even if they are in the background!
+Author: sergy
+Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
+Name: Immortalizer
 
 Package: com.snail.allowlocationonce.rootless
 Version: 1.0.0
@@ -1861,6 +1930,22 @@ Size: 4729772
 MD5sum: 0f115078b49f137f9e1563044d7dfc52
 SHA1: 66fea7b364a6b39d5ee269ec39e4b371cd22d3ac
 SHA256: fe00267add2152840604d2a8962ef46f3f0b40b95a04a7878b5c409f8f4c9802
+Section: Tweaks
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+
+Package: com.xx.dyhook
+Version: 2.0.7+6
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 13828
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.dyhook_2.0.7+6_iphoneos-arm64.deb
+Size: 4768968
+MD5sum: d3a548b0d3c6c4e3217e20d97fd0ddd5
+SHA1: 787c8375ed7382353f5d4d3fa878a07dd667fc6c
+SHA256: 10749c393e300457fd5db11486d60ecf82c981042788a9fb494ee478dc541b3f
 Section: Tweaks
 Description: 自用 越狱食用
 Author: x✨
