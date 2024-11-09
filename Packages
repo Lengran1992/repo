@@ -510,6 +510,38 @@ Description: Combine VPN state and wireless state into one icon.
 Author: 82Flex <82flex@gmail.com>
 Name: Single VPN
 
+Package: com.82flex.singlevpn
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.singlevpn_1.3_iphoneos-arm64.deb
+Size: 28082
+MD5sum: bf5394c4286515d5dd70ef392fc933b0
+SHA1: 1e0b83e8d24df2558d9bdec796765430a0d62054
+SHA256: 416f29bd3967f05e89b97190830ace8d7f85ae24e1bd4aff5504502c6675d7ac
+Section: Tweaks
+Description: Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Name: Single VPN
+
+Package: com.82flex.singlevpn
+Version: 1.3
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.singlevpn_1.3_iphoneos-arm64e.deb
+Size: 28012
+MD5sum: 661c4e6d3cc52999f45fb6a55a32572f
+SHA1: 8b971080caacdfa5fc9cadda52683271e660bb16
+SHA256: b1f170e5dd076663a7ac3c790f72276e85d29f7d2b39c0c87a4989f9416e8f91
+Section: Tweaks
+Description: Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Name: Single VPN
+
 Package: com.82flex.touchvis
 Version: 3.10
 Architecture: iphoneos-arm64e
@@ -3503,6 +3535,54 @@ Size: 4340778
 MD5sum: 8bcf569d73d590eee26ee46eae65c7bb
 SHA1: c04aa7bf3550ae7c42cdbb170818be96168b4197
 SHA256: c1607045ef303cd5ca83a0abafb2077dbd53bdae708d664b12dbd86e9484ef38
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 2.7-410
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 17292
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/wiki.qaq.trapp.jb_2.7-410_iphoneos-arm64e.deb
+Size: 4342750
+MD5sum: 70113b254dbe80040e3b97d3019a23f9
+SHA1: fab83bb517ec6db6311eabc1bfda5fd7c342285d
+SHA256: 1a9a4099e2065b61daef6be6b36ab28a5a6d387764ce53e9814639b851c1311b
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 2.7-414
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 17328
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/wiki.qaq.trapp.jb_2.7-414_iphoneos-arm64e.deb
+Size: 4351180
+MD5sum: 5f468e479c66c7b09991d28a769c5115
+SHA1: 20945b214839bb6bd47ad537ae3b838097044101
+SHA256: 01e7816b95adf712c7a08f2e66443922cd47cdb5f4bfb18690e819ebb7d6b8a5
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 2.7-415
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 17328
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/wiki.qaq.trapp.jb_2.7-415_iphoneos-arm64e.deb
+Size: 4346326
+MD5sum: 4b25a1b1c60fe5856d926e9a2f417b44
+SHA1: 41bd7dac26731ea57784ed85647a5e537d47a46b
+SHA256: 8c1a1fc733f1414b4571d8dc2835eb32e1290886dc103ada0e7de01bbc0edd51
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
