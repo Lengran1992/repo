@@ -1004,6 +1004,22 @@ Name: LSQuickActions
 
 Package: com.dvntm.oledkeyboard
 Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.oledkeyboard_0.0.1_iphoneos-arm64e.deb
+Size: 4136
+MD5sum: cff058f049edbe266a08d16b72d8f08d
+SHA1: c6f4ff9f7aeb853f92b0774d05c738e5edac29c0
+SHA256: b773a957c1aca3f24d720723fce5f4a5dfa0ace2447959604e1490c19fca69c3
+Section: Tweaks
+Description: OLED Dark Mode for iOS System Keyboard
+Author: dvntm
+Name: OledKeyboard
+
+Package: com.dvntm.oledkeyboard
+Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: dvntm
 Installed-Size: 152
@@ -1013,6 +1029,22 @@ Size: 4210
 MD5sum: 8ca700eb1f5a92fd839aca9f2ab1d04c
 SHA1: a50fe56f9436b2e0cb26e7b863a87435586ccfa3
 SHA256: 1c61fbf83cc512581712534a87aa2bc65e415d6f3c12ba665b9ca1ef7c1d784b
+Section: Tweaks
+Description: OLED Dark Mode for iOS System Keyboard
+Author: dvntm
+Name: OledKeyboard
+
+Package: com.dvntm.oledkeyboard
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.oledkeyboard_0.0.2_iphoneos-arm64e.deb
+Size: 4378
+MD5sum: d655e77d5bb01ef20ea7832e7e4f4c31
+SHA1: a26a46eb413471eb76e9b312b82b3ec814d30f34
+SHA256: 74136cf1f32ba1dd8295ccc7129dc2135405affee7760643a2531641e3e51223
 Section: Tweaks
 Description: OLED Dark Mode for iOS System Keyboard
 Author: dvntm
@@ -1045,6 +1077,22 @@ Size: 4598
 MD5sum: d9204d35bbab400a681d9c877e558694
 SHA1: 8e2fc6fe564692395f52a98de0688f78c4c29bba
 SHA256: 6f992baa0b50c4fcc4fd457082555f57adb20a00d098222d200423fab695d302
+Section: Tweaks
+Description: OLED Dark Mode for iOS System Keyboard
+Author: dvntm
+Name: OledKeyboard
+
+Package: com.dvntm.oledkeyboard
+Version: 0.0.3
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.oledkeyboard_0.0.3_iphoneos-arm64e.deb
+Size: 4520
+MD5sum: 98ee38f38711ae867d46f17828c31f4e
+SHA1: a21c88bb06741d34794a10eddae601ba11c92694
+SHA256: 0c76091393f57593aeb9afb6c9a5ef4f13e0f375c84d8334bde8f4814ce93bfa
 Section: Tweaks
 Description: OLED Dark Mode for iOS System Keyboard
 Author: dvntm
