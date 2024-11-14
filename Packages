@@ -1850,6 +1850,23 @@ Author: sergy
 Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
 Name: Immortalizer
 
+Package: com.sergy.immortalizer
+Version: 2.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: sergy
+Installed-Size: 652
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Filename: ./debs/com.sergy.immortalizer_2.0.0-1_iphoneos-arm64.deb
+Size: 42936
+MD5sum: 23af36bc7928407419dd377f55d00820
+SHA1: 7504344c03f72f628fabe4fff58361b0c0aaf725
+SHA256: 36c810efa07533df8e4218d58f97b6fac3211b1d215858891aab1fa623dc5bd4
+Section: Tweaks
+Description: Foreground your apps even if they are in the background!
+Author: sergy
+Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
+Name: Immortalizer
+
 Package: com.snail.allowlocationonce.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -3240,36 +3257,6 @@ Section: Themes
 Description: Evolve 主题
 Author: By-Lengran
 Name: Evolve 主题
-
-Package: repo.lengran.immortalizer.cn.roothide
-Version: 1.0.0
-Architecture: iphoneos-arm64e
-Maintainer: By-Lengran
-Depends: com.sergy.immortalizer
-Filename: ./debs/repo.lengran.immortalizer.cn.roothide_1.0.0_iphoneos-arm64e.deb
-Size: 1960
-MD5sum: af14cbdeaa788e6241fbce742a4f8662
-SHA1: 7057fb6dfb92832113e30f3452c1a5656cfb828c
-SHA256: 3fbcf3bea9d06f11479e101787b090a6f4ef3d55a4483a288f155f4fe22b64e5
-Section: 汉化
-Description: 永生者，真后台插件。支持锁屏工作，支持推送通知。
-Author: 妖刀
-Name: Immortalizer 汉化包
-
-Package: repo.lengran.immortalizer.cn.rootless
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Depends: com.sergy.immortalizer
-Filename: ./debs/repo.lengran.immortalizer.cn.rootless_1.0.0_iphoneos-arm64.deb
-Size: 1956
-MD5sum: 490c67eefdfeb9416d7522d49ca1d716
-SHA1: 47b5253e9e08dc58c74a54d82607185f4b0b0e79
-SHA256: c9ec1642d7a5cb4421ea2aa390686cf873f50bea6d1e56956621fb0c37dbef7f
-Section: 汉化
-Description: 永生者，真后台插件。支持锁屏工作，支持推送通知。
-Author: 妖刀
-Name: Immortalizer 汉化包
 
 Package: repo.lengran.power4options.cn.roothide
 Version: 3.0
