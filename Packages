@@ -1802,6 +1802,22 @@ Author: Fouad Raheb
 Name: AppData
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.appdata.json
 
+Package: com.netskao.awemealwaysshowtime
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 56
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/com.netskao.awemealwaysshowtime_1.1-1_iphoneos-arm64.deb
+Size: 2154
+MD5sum: c2bca3208018baaebb7574eb8668b355
+SHA1: 669cbeb7f010710283b03e5b99e4f9b3d335164c
+SHA256: 35281dc19e9e1c4e7d145bec1a4ce2b72fbaa1eec886bb7f4edb17bc7b907467
+Section: Netskao-Tweaks
+Description: Aweme always shows the video creation time
+Author: Netskao
+Name: AwemeAlwaysShowTime
+
 Package: com.netskao.awemeclearlikes
 Version: 1.1-2
 Architecture: iphoneos-arm64
@@ -2126,6 +2142,38 @@ Description: Twitter removes ads from data stream. Tested on version 10.64.1 onl
 Author: Netskao
 Name: Twitter NoAds
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.twitternoads.json
+
+Package: com.netskao.wcisoverseauser
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.netskao.wcisoverseauser_1.1-1_iphoneos-arm64.deb
+Size: 2060
+MD5sum: 23ae2f2e4267d9699304623c2355fa17
+SHA1: 09983832c3b98d27fe1df0d00eab78d81ccd1569
+SHA256: 59b6d84773d49f777d1334f8954b15eb43da314b4de6492fa6a3245a604e74a4
+Section: Netskao-Tweaks
+Description: WeChat Patch isOverSeaUser
+Author: Netskao
+Name: WCIsOverSeaUser
+
+Package: com.netskao.wcnewminiappfloatingwindow
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.netskao.wcnewminiappfloatingwindow_1.1-1_iphoneos-arm64.deb
+Size: 2114
+MD5sum: 244bef36577a7cc914e7924f63449709
+SHA1: 59585a5d664897631a68838a396332fdd6c374db
+SHA256: ac0b4c3a7816b4cf37ea88ae7125d800d2b92223f06ce478987ef7c2b0d44a1c
+Section: Netskao-Tweaks
+Description: WeChat Enables AB Tested miniApp Floating Window Feature, Only 8.0.54+
+Author: Netskao
+Name: WCNewMiniAppFloatingWindow
 
 Package: com.netskao.wechatnotiavatar
 Version: 1.2-5
