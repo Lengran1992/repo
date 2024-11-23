@@ -936,7 +936,7 @@ Architecture: iphoneos-arm64e
 Maintainer: dvntm
 Installed-Size: 812
 Depends: mobilesubstrate
-Filename: ./debs/Roothide.com.dvntm.infuseplus_1.3.0_iphoneos-arm64e.deb
+Filename: ./debs/com.dvntm.infuseplus_1.3.0_iphoneos-arm64e.deb
 Size: 215980
 MD5sum: 7c2d2d0e8fff5295de36f24f60b96bf4
 SHA1: b95dd4de70367e293085e6240024ae72d4387045
@@ -954,7 +954,7 @@ Architecture: iphoneos-arm64
 Maintainer: dvntm
 Installed-Size: 828
 Depends: mobilesubstrate
-Filename: ./debs/Rootless.com.dvntm.infuseplus_1.3.0_iphoneos-arm64.deb
+Filename: ./debs/com.dvntm.infuseplus_1.3.0_iphoneos-arm64.deb
 Size: 217080
 MD5sum: 71107ca83186f60fafdd47c54bd56c2c
 SHA1: bfffd9e61cf26db56ee45d83e73a09e7622958df
@@ -3986,16 +3986,16 @@ Author: Lessica <82flex@gmail.com>
 Name: ColorfulWallpaperX
 
 Package: wiki.qaq.trapp.jb
-Version: 2.7-422
+Version: 2.10-491
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 17396
+Installed-Size: 18184
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy, uikittools (>= 2.1.6-3)
-Filename: ./debs/wiki.qaq.trapp.jb_2.7-422_iphoneos-arm64e.deb
-Size: 4361588
-MD5sum: 53410070391b324043263069c565605e
-SHA1: f5289c32da97c0307f1c31cca10fb5bbb29ca6de
-SHA256: f683c9025aa7ea357f16135bac5d917344bde572a0ad92761c75172189f4a4dd
+Filename: ./debs/wiki.qaq.trapp.jb_2.10-491_iphoneos-arm64e.deb
+Size: 4549752
+MD5sum: a8a13fc7858da6c9a7431c4e98ffb0de
+SHA1: 6c7c8209900263c4f79ea40579777a62a4d8bd5e
+SHA256: aed4e83fbd372b7b94b2bf9e6051b40204941505f27fdd5781238786c4c70c42
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
