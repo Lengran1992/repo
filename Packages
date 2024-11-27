@@ -1002,6 +1002,42 @@ Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Res
 Name: Infuse Plus
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
 
+Package: com.dvntm.infuseplus
+Version: 1.3.2
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 836
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.3.2_iphoneos-arm64e.deb
+Size: 219424
+MD5sum: 8159cc4f2074be3e93feebc328dbfd05
+SHA1: c7635bea61e20e0c9a3c999587a06147520d88bb
+SHA256: 6ac562505aff3fe3db3d3d737027a49a1d05e5cdd48a4a9bb7a42bd391ffe7fe
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
+Package: com.dvntm.infuseplus
+Version: 1.3.2
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 836
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_1.3.2_iphoneos-arm64.deb
+Size: 220476
+MD5sum: b66a3eef4b2ffda4745188128cd2db4c
+SHA1: 8937240297c64f04e3c93c82876c7aec36206f76
+SHA256: caa51dfe165f163f7e14199664f57a13f8422710fb306c7243114364ace9a3df
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
 Package: com.dvntm.lsquickactions
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -2227,6 +2263,23 @@ Author: Netskao
 Name: WeChatNotiAvatar
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wechatnotiavatar.json
 
+Package: com.netskao.wechatuiswitchloader
+Version: 1.1-3
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 240
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.netskao.wechatuiswitchloader_1.1-3_iphoneos-arm64.deb
+Size: 91332
+MD5sum: c469ec676355b7a7393435b923cf028d
+SHA1: b383fb26cb80ade79b71206eb0d2aa298b635249
+SHA256: 25af93ba4042028cef2e2f89e4f1c732c9171853e4c8ead1ac58694a69b564a0
+Section: Netskao-Tweaks
+Description: WeChat UISwitch Loader
+Author: Netskao
+Name: WeChatUISwitchLoader
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.wechatuiswitchloader.json
+
 Package: com.nightwind.sileorespringfix
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -2501,6 +2554,22 @@ Size: 4768968
 MD5sum: d3a548b0d3c6c4e3217e20d97fd0ddd5
 SHA1: 787c8375ed7382353f5d4d3fa878a07dd667fc6c
 SHA256: 10749c393e300457fd5db11486d60ecf82c981042788a9fb494ee478dc541b3f
+Section: Tweaks
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+
+Package: com.xx.dyhook
+Version: 2.0.7+8
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 13908
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.dyhook_2.0.7+8_iphoneos-arm64.deb
+Size: 4801728
+MD5sum: 36da00a4b82a1791c6deb0f8b3fb74e0
+SHA1: 4614933a6c22a5dbd3bf0c0ca7b30a26d26d4c2b
+SHA256: 619013b7b5ed46eca80a7b320e782e4bbd55421a96d20a627acbf0f25db5d229
 Section: Tweaks
 Description: 自用 越狱食用
 Author: x✨
@@ -3996,6 +4065,22 @@ Size: 4549752
 MD5sum: a8a13fc7858da6c9a7431c4e98ffb0de
 SHA1: 6c7c8209900263c4f79ea40579777a62a4d8bd5e
 SHA256: aed4e83fbd372b7b94b2bf9e6051b40204941505f27fdd5781238786c4c70c42
+Section: Applications
+Description: Record your phone calls like never before.
+Author: Lessica <82flex@gmail.com>
+Name: TrollRecorder JB
+
+Package: wiki.qaq.trapp.jb
+Version: 2.10-491
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 18192
+Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
+Filename: ./debs/wiki.qaq.trapp.jb_2.10-491_iphoneos-arm64.deb
+Size: 4549566
+MD5sum: 2b98fe7b771c9bac55c104ed57dcf284
+SHA1: 4b7d9855dabc89efc7e642b3608246e81a2f0367
+SHA256: c25690374a5dd71dfd29b6e8fd0eb8e640aae1379c4462000e77620b86f11fe2
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
