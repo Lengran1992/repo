@@ -1598,6 +1598,42 @@ Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 Name: YTLite
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
+Package: com.dvntm.ytlite
+Version: 5.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 16344
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_5.1_iphoneos-arm64.deb
+Size: 6184324
+MD5sum: c52f04bf97551c2f814532e2a0dfc1de
+SHA1: 97cabb0fdc9b84e91ced79f6cb9268ab7602d654
+SHA256: b03db1e019e49ad9c7bcf6594fc2b10ad64e65e36bd281c4f61499f254173313
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
+
+Package: com.dvntm.ytlite
+Version: 5.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 16344
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_5.1_iphoneos-arm64e.deb
+Size: 6186590
+MD5sum: 82651ed53e457ad36a4f7cb9dc280118
+SHA1: 3e1e9c473276b5161846e5689f070b8c35b2f7e4
+SHA256: d1627149204fb332400df5725c8ba24bb6143e3f98babcfc8299a8b562e068d0
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
+
 Package: com.ginsu.ytmusicultimate
 Version: 2.2
 Architecture: iphoneos-arm64e
@@ -2214,6 +2250,22 @@ Author: Netskao
 Name: Twitter NoAds
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.twitternoads.json
 
+Package: com.netskao.wcdisablehotupdates
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.netskao.wcdisablehotupdates_1.1-1_iphoneos-arm64.deb
+Size: 2072
+MD5sum: 8bf9dff24655bb934bb7924b92f744ca
+SHA1: 806aaaefe4442c4720ca29cb6253c208f97801dc
+SHA256: 8f654f4700a2209b9c8f8094202e99b581687a613aa5669d6ce1d6a120414aed
+Section: Netskao-Tweaks
+Description: WeChat Disable Hot Updates
+Author: Netskao
+Name: WCDisableHotUpdates
+
 Package: com.netskao.wcisoverseauser
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -2570,6 +2622,22 @@ Size: 4801728
 MD5sum: 36da00a4b82a1791c6deb0f8b3fb74e0
 SHA1: 4614933a6c22a5dbd3bf0c0ca7b30a26d26d4c2b
 SHA256: 619013b7b5ed46eca80a7b320e782e4bbd55421a96d20a627acbf0f25db5d229
+Section: Tweaks
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+
+Package: com.xx.dyhook
+Version: 2.0.8+1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 14216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.dyhook_2.0.8+1_iphoneos-arm64.deb
+Size: 4912552
+MD5sum: 34471b95165d860b666bb318fcaf01a6
+SHA1: a3fd8c122e366e72de0e2ee8aaff4e8f4a6eb72a
+SHA256: b8a1a67721542f1487244efdc07b0bf0a8277c352d38ef9cbb9679ae2c7f559d
 Section: Tweaks
 Description: 自用 越狱食用
 Author: x✨
