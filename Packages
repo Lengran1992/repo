@@ -686,6 +686,21 @@ Description: 中文输入法语音转文字免跳转插件。无设置选项，�
 Author: Lessica
 Name: 语音转文字免跳转
 
+Package: com.dao.choicy.cn
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: 妖刀
+Depends: mobilesubstrate
+Filename: ./debs/com.dao.choicy.cn_1.5_iphoneos-arm64e.deb
+Size: 3880
+MD5sum: a1385952bcc5c7b2a68208b13be70e2a
+SHA1: 90ef8d1bd81ca9e2200754019af69b4ed6f95d85
+SHA256: 597f3baf656acd632671041504faca2bed36a7a75e445b276d0b0b2223b69aa1
+Section: 嗨-汉化
+Description: Choicy 自用中文包(RootHide)。
+Author: 妖刀
+Name: Choicy 自用中文包(RootHide)
+
 Package: com.dvntm.cc18
 Version: 0.0.1
 Architecture: iphoneos-arm64e
@@ -1958,6 +1973,23 @@ Description: Aweme HomePage Full Screen. Tested only on version 31.9.0
 Author: Netskao
 Name: AwemeFullScreen
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemefullscreen.json
+
+Package: com.netskao.awemesaveemoji
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 224
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/com.netskao.awemesaveemoji_1.1-2_iphoneos-arm64.deb
+Size: 74864
+MD5sum: 6fae88dc58c9786095abe94e6df64002
+SHA1: 5cc51b7b3ef20fcd4973dffdca049dda0a5bbaa6
+SHA256: 2bdc548aab28f8c1c6213386e6e542d43102d48642f22e2eece8c41197df48f2
+Section: Netskao-Tweaks
+Description: Aweme Save Comment Emoji. Tested on version 32.3.0 only
+Author: Netskao
+Name: AwemeSaveEmoji
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemesaveemoji.json
 
 Package: com.netskao.awemevideotime
 Version: 1.1-2
@@ -3951,21 +3983,6 @@ Size: 11208
 MD5sum: 230f6403f0ac50ffd2b94d23062e14e2
 SHA1: e51a26f1f7e78e6f9addbbf18dca9e9e6c35e603
 SHA256: 897a3edb710fe8ebcd6ad7392a003679df6588a9edaf849a780746d849bcd586
-Section: 汉化
-Description: Snapper 3 中文菜单
-Author: By-Lengran
-Name: Snapper 3 中文菜单
-
-Package: repo.lengran.snapper3.cn.rootless
-Version: 1.2.1
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Depends: com.jontelang.snapper3
-Filename: ./debs/repo.lengran.snapper3.cn.rootless_1.2.1_iphoneos-arm64.deb
-Size: 11212
-MD5sum: f3d0786525125e2b25addf0cbe10ba76
-SHA1: aa48025282dba76e53c3020c34a4ab9a8f42264f
-SHA256: 51db1c83b8fc7f9c649f2d9822c86815d3b369155e3c62994589d58dc6bc8e1f
 Section: 汉化
 Description: Snapper 3 中文菜单
 Author: By-Lengran
