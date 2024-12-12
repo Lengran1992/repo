@@ -3413,639 +3413,565 @@ Description: An awesome MobileSubstrate tweak!
 Author: CoolStar
 Name: ClassicFolders 2
 
-Package: repo.lengran.a-font.cn.roothide
+Package: repo.lengran.a-font.cn
 Version: 1.9.3
 Architecture: iphoneos-arm64e
 Maintainer: By-Lengran
 Depends: com.rpgfarm.a-font
-Filename: ./debs/repo.lengran.a-font.cn.roothide_1.9.3_iphoneos-arm64e.deb
-Size: 2352
-MD5sum: 03b1b8d42217ccf2f80e34a4ecf420d1
-SHA1: 02085f9944a12b4825ed8b2c39f21abbd3ab05a4
-SHA256: 02750bc84485c9929d5a16e7f20f8bbd79abee5eab3903c855c3866e9c2dec29
-Section: 汉化
-Description: A-Font 汉化包
-Author: 妖刀
-Name: A-Font 汉化包
-
-Package: repo.lengran.a-font.cn.rootless
-Version: 1.9.3
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Depends: com.rpgfarm.a-font
-Filename: ./debs/repo.lengran.a-font.cn.rootless_1.9.3_iphoneos-arm64.deb
+Filename: ./debs/repo.lengran.a-font.cn_1.9.3_iphoneos-arm64e.deb
 Size: 2360
-MD5sum: 2ef41ae20d433921865b6278e603f387
-SHA1: 53ed9f17dc906d38ea2167f3cdf2dff4963f3fcd
-SHA256: 23f6cc2f99b02e453d3729b2827a64bc07a66a0f110615c48155619a6be92fa6
+MD5sum: f80c286258f006257eabef02cd0ef1d4
+SHA1: 8a10ffbfa7a97399ef80f6ef4fcfe7b2522dbbb2
+SHA256: 428ad60c4aaad3244db900b5763a6c97977c20f55bccb5ebf77d8dbf34cec4a9
 Section: 汉化
-Description: A-Font 汉化包
+Description: A-Font 汉化包(Roothide)。
 Author: 妖刀
-Name: A-Font 汉化包
+Name: A-Font 汉化包(Roothide)
 
-Package: repo.lengran.ampere.cn.roothide
-Version: 1.1
-Architecture: iphoneos-arm64e
-Maintainer: By-Lengran
-Depends: com.mtac.ampere
-Filename: ./debs/repo.lengran.ampere.cn.roothide_1.1_iphoneos-arm64e.deb
-Size: 5696
-MD5sum: cd22bf89447ca0419da95aa579f606a9
-SHA1: eb7db9c8fe1870aac85ece61695c35914ccd89d1
-SHA256: 230a112ccc27fddbda6490a823686a67428801e92eb4ce3ef3f09a0afb6a9a47
-Section: 汉化
-Description: Ampere 汉化包
-Author: 妖刀
-Name: Ampere 汉化包
-
-Package: repo.lengran.ampere.cn.rootless
-Version: 1.1
+Package: repo.lengran.a-font.cn
+Version: 1.9.3
 Architecture: iphoneos-arm64
 Maintainer: By-Lengran
-Depends: com.mtac.ampere
-Filename: ./debs/repo.lengran.ampere.cn.rootless_1.1_iphoneos-arm64.deb
-Size: 5704
-MD5sum: e2fa5d75db5d26e2cea5d965153ce660
-SHA1: 8e7202a2bfaeb1eb52d7d9441c56b7ff0ee00fbc
-SHA256: 3c9d88dc430e579665e41a19f18e174efae2f3c73d5f991d2cbe60e49c266bce
+Depends: com.rpgfarm.a-font
+Filename: ./debs/repo.lengran.a-font.cn_1.9.3_iphoneos-arm64.deb
+Size: 2356
+MD5sum: c9fcba7df8a66d9057cec044bfc6efe5
+SHA1: e3327eb4f30e27ee0d041fd396ddcb58f8b8f61e
+SHA256: 6899138283d8de2b1692d3f2d56d2e5f9850f439a3f6d17114f3ae483af53ca7
 Section: 汉化
-Description: Ampere 汉化包
+Description: A-Font 汉化包(Rootless)。
 Author: 妖刀
-Name: Ampere 汉化包
+Name: A-Font 汉化包(Rootless)
 
-Package: repo.lengran.anouk.cn.roothide
-Version: 1.1
-Architecture: iphoneos-arm64e
-Maintainer: By-Lengran
-Depends: com.yan.anouk
-Filename: ./debs/repo.lengran.anouk.cn.roothide_1.1_iphoneos-arm64e.deb
-Size: 1208
-MD5sum: e7c7a5f48f78ae41bcd285ba819ddeff
-SHA1: 106c1a1104498f282b0fb1a6bf106eae031d8145
-SHA256: 60a9d110b6c63663c996bed7cbd70ef0f044b1fb902467aae0dc3dad24b1f541
-Section: 汉化
-Description: Anouk 汉化包
-Author: By-Lengran
-Name: Anouk 汉化包
-
-Package: repo.lengran.anouk.cn.rootless
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Depends: com.yan.anouk
-Filename: ./debs/repo.lengran.anouk.cn.rootless_1.1_iphoneos-arm64.deb
-Size: 1208
-MD5sum: 8b73c987928b8408a7cf58d028a62ceb
-SHA1: a60ab552aabe23daa10d9b65320d7bb0bdcf8c53
-SHA256: f83618241f033a3d86afa3c72392ceac316e9f7777530c6d3c49b1bdad7d649b
-Section: 汉化
-Description: Anouk 汉化包
-Author: By-Lengran
-Name: Anouk 汉化包
-
-Package: repo.lengran.appindex.cn.roothide
+Package: repo.lengran.appindex.cn
 Version: 1.0
 Architecture: iphoneos-arm64e
 Maintainer: By-Lengran
 Depends: com.serena.appindex
-Filename: ./debs/repo.lengran.appindex.cn.roothide_1.0_iphoneos-arm64e.deb
+Filename: ./debs/repo.lengran.appindex.cn_1.0_iphoneos-arm64e.deb
+Size: 2712
+MD5sum: 928f71cfaf2c80d75e33c21071263a96
+SHA1: e12e8190e34c7f96e9442c8e18f0d38c49df815a
+SHA256: 776230a4c9921e2639ae0f943a1560326658c2d807d5c533b8d1499751bd6b3d
+Section: 汉化
+Description: AppIndex 汉化包(RootHide)
+Author: By-Lengran
+Name: AppIndex 汉化包(RootHide)
+
+Package: repo.lengran.appindex.cn
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: com.serena.appindex
+Filename: ./debs/repo.lengran.appindex.cn_1.0_iphoneos-arm64.deb
 Size: 2708
-MD5sum: 76864a817d2d14b36f0744253f892c67
-SHA1: 625978909123de3fea3fc764b2842e011ca0da2d
-SHA256: ee356316e3084b1ca863a51e4d8410e91afe33a114fda338735caea00cb810a9
+MD5sum: fef09e3332d5a2e6f44dd5d5ff886b40
+SHA1: 646c438cf1d4fe45fb127952680ceeb515cc05d3
+SHA256: 86fc7a4531109ec2a43cb07e54c887ed12a9b39b25541b058f00a78d504df2a7
 Section: 汉化
-Description: AppIndex 汉化包
+Description: AppIndex 汉化包(Rootless)
 Author: By-Lengran
-Name: AppIndex 汉化包
+Name: AppIndex 汉化包(Rootless)
 
-Package: repo.lengran.appindex.cn.rootless
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Depends: com.serena.appindex
-Filename: ./debs/repo.lengran.appindex.cn.rootless_1.0_iphoneos-arm64.deb
-Size: 2720
-MD5sum: 09f75dc7cd7bb428ef0eb71de9890c40
-SHA1: 60147ce7d66cd0f82a0d8af2f4c24232c6070e14
-SHA256: 06ba4f0366838575276af137ae1684032f0004aadf501053e7dc1340419ebb9a
-Section: 汉化
-Description: AppIndex 汉化包
-Author: By-Lengran
-Name: AppIndex 汉化包
-
-Package: repo.lengran.autounlockx.cn.roothide
+Package: repo.lengran.autounlockx.cn
 Version: 1.1.0-rootless
 Architecture: iphoneos-arm64e
 Maintainer: By-Lengran
 Depends: com.spark.autounlockx
-Filename: ./debs/repo.lengran.autounlockx.cn.roothide_1.1.0-rootless_iphoneos-arm64e.deb
-Size: 1488
-MD5sum: 500ae7eef3b24544e1ec7175e1844c20
-SHA1: f729821ec219b1df7b3653897cf2f938c49172ac
-SHA256: e7e8d7965a8a729833b720f76333ecc736f214f8e57e0229e93270cf95c2a40d
-Section: 汉化
-Description: AutoUnlockX 汉化包
-Author: Sandy0
-Name: AutoUnlockX 汉化包
-
-Package: repo.lengran.autounlockx.cn.rootless
-Version: 1.1.0-rootless
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Depends: com.spark.autounlockx
-Filename: ./debs/repo.lengran.autounlockx.cn.rootless_1.1.0-rootless_iphoneos-arm64.deb
+Filename: ./debs/repo.lengran.autounlockx.cn_1.1.0-rootless_iphoneos-arm64e.deb
 Size: 1500
-MD5sum: 27c6b5e8e53184e86e3979e2587c68bc
-SHA1: c3417e0cc9fbe2ae084bd157c63ea8f0290e7281
-SHA256: b7d85c3dc34abc7e0c0fc5776711de6b0ce45fa9fb0fb3ef770ee487c2aabe5d
+MD5sum: 16d6e7b6f0bbbfaa9f08c5dcf3fc99e1
+SHA1: 7b7a6bd8467210c7e38ed2be26205d321ad59e03
+SHA256: e165e469f6a094ac5c236b71b83d2db3986b2d6dea72b2342a714241f9f9a651
 Section: 汉化
-Description: AutoUnlockX 汉化包
+Description: AutoUnlockX 汉化包(RootHide)
 Author: Sandy0
-Name: AutoUnlockX 汉化包
+Name: AutoUnlockX 汉化包(RootHide)
 
-Package: repo.lengran.axon.cn.roothide
-Version: 1.4-1
-Architecture: iphoneos-arm64e
-Maintainer: By-Lengran
-Depends: me.nepeta.axon, oldabi
-Filename: ./debs/repo.lengran.axon.cn.roothide_1.4-1_iphoneos-arm64e.deb
-Size: 7264
-MD5sum: 5005c2bae1847a8b09a98a09581340dc
-SHA1: da71a73b9d11dd70dcbffa1010fd974d35dc64f6
-SHA256: 5f3c4b654c744bf4080150c23588057b004fd6986c896da91e5f4d582786e16c
-Section: 汉化
-Description: Axon 汉化包
-Author: 妖刀
-Name: Axon 汉化包
-
-Package: repo.lengran.axon.cn.rootless
-Version: 1.4-1
+Package: repo.lengran.autounlockx.cn
+Version: 1.1.0-rootless
 Architecture: iphoneos-arm64
 Maintainer: By-Lengran
-Depends: me.nepeta.axon, oldabi
-Filename: ./debs/repo.lengran.axon.cn.rootless_1.4-1_iphoneos-arm64.deb
-Size: 7288
-MD5sum: c985359483f8be8d4d755286125e1ef8
-SHA1: 748f763a12dd57943b18cb9eab2852dc4cba68f3
-SHA256: 0c65c759c1d0217781e29797f62b8df3e8fb5486051b18d5de36c6daa66ebfdf
+Depends: com.spark.autounlockx
+Filename: ./debs/repo.lengran.autounlockx.cn_1.1.0-rootless_iphoneos-arm64.deb
+Size: 1488
+MD5sum: e337074560c5ac2ecd1ea743ad84b7e6
+SHA1: 8beb74551fd7cf003fc01473fb9452c83c766994
+SHA256: fab14740bd4956612bc710d07a79c658b5bc7dc818a0c9f21655955232f75360
 Section: 汉化
-Description: Axon 汉化包
-Author: 妖刀
-Name: Axon 汉化包
+Description: AutoUnlockX 汉化包(Rootless)
+Author: Sandy0
+Name: AutoUnlockX 汉化包(Rootless)
 
-Package: repo.lengran.betteralarm.cn.roothide
-Version: 1.4.1
-Architecture: iphoneos-arm64e
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.betteralarm.cn.roothide_1.4.1_iphoneos-arm64e.deb
-Size: 2744
-MD5sum: 3e8f333f40415c94dac4600db8db6883
-SHA1: c5082d94a597f6792cdba3cf69cdd04f803b7723
-SHA256: e57b6e90a02aa801ab35f8fea46c7a21f5e9c84a013a4ad7e3a6b225b28b15b1
-Section: 汉化
-Description: betterAlarm 汉化包
-Author: 妖刀
-Name: betterAlarm 汉化包
-
-Package: repo.lengran.betteralarm.cn.rootless
-Version: 1.4.1
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.betteralarm.cn.rootless_1.4.1_iphoneos-arm64.deb
-Size: 2760
-MD5sum: 05b7dc8b3ecdb66470f0be427891322f
-SHA1: 593ad26f442adc08ced1ba797c2a60412bfec34c
-SHA256: 47c9cdf43fb93f2ca355de0b1f1b27aad75812c5af08210f70c21b0a764dfe02
-Section: 汉化
-Description: betterAlarm 汉化包
-Author: 妖刀
-Name: betterAlarm 汉化包
-
-Package: repo.lengran.ccmusicartwork.cn.roothide
+Package: repo.lengran.ccmusicartwork.cn
 Version: 2.4.0-rootless
 Architecture: iphoneos-arm64e
 Maintainer: By-Lengran
 Depends: com.spark.ccmusicartwork
-Filename: ./debs/repo.lengran.ccmusicartwork.cn.roothide_2.4.0-rootless_iphoneos-arm64e.deb
-Size: 1304
-MD5sum: 4e2620c9aff59748c0c08c9934fe97e7
-SHA1: 07aa2ecb4489eedcaf7cfa4ac270a90a12bdc7b1
-SHA256: 98c501ffaf9f3ff425100eafa89425845066cc952f5f370476a4a6921958fae2
-Section: 汉化
-Description: CCMusicArtwork 汉化包
-Author: 妖刀
-Name: CCMusicArtwork 汉化包
-
-Package: repo.lengran.ccmusicartwork.cn.rootless
-Version: 2.4.0-rootless
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Depends: com.spark.ccmusicartwork
-Filename: ./debs/repo.lengran.ccmusicartwork.cn.rootless_2.4.0-rootless_iphoneos-arm64.deb
+Filename: ./debs/repo.lengran.ccmusicartwork.cn_2.4.0-rootless_iphoneos-arm64e.deb
 Size: 1316
-MD5sum: b9bc8fec6bdb0943118b5401ed4bd299
-SHA1: bcf40fbf9d09f960ec9cf3212d519589e97d29ee
-SHA256: 88d61f065a2a0251b582ddf4199bb07f47a40c48de96f2ed1afa29ae83883c8e
+MD5sum: 252d0b5b7f17157fe9c47a222c40a4fd
+SHA1: a4b9133f516d1e4739a31d354512d32f7a0820e7
+SHA256: 0e20275c364762f625c7c81432acb2de4405fafe5311e969ab9dcb179055eee2
 Section: 汉化
-Description: CCMusicArtwork 汉化包
+Description: CCMusicArtwork 汉化包(RootHide)
 Author: 妖刀
-Name: CCMusicArtwork 汉化包
+Name: CCMusicArtwork 汉化包(RootHide)
 
-Package: repo.lengran.choicy.cn.roothide
-Version: 1.4.7
-Architecture: iphoneos-arm64e
+Package: repo.lengran.ccmusicartwork.cn
+Version: 2.4.0-rootless
+Architecture: iphoneos-arm64
 Maintainer: By-Lengran
-Depends: com.opa334.choicy
-Filename: ./debs/repo.lengran.choicy.cn.roothide_1.4.7_iphoneos-arm64e.deb
-Size: 4036
-MD5sum: d482ab8f2281b59231929cf6d806ebff
-SHA1: b98bcdfadc20fe5821a4a575734cd257264ec5b4
-SHA256: 6f432c27198e4abceba8b63e016f04b9b8b33db05b76508dd093b99bc25b5b1b
+Depends: com.spark.ccmusicartwork
+Filename: ./debs/repo.lengran.ccmusicartwork.cn_2.4.0-rootless_iphoneos-arm64.deb
+Size: 1308
+MD5sum: 96e4252f4f8b3e5b9731b5deeca19f5b
+SHA1: faf56f0c751e46862d1ca89c48dbca43b32b435b
+SHA256: d9574fe72560a6b2012b66db2ed3a4b86ef613c1fa8858edff7c701fe97564ba
 Section: 汉化
-Description: Choicy 汉化包
+Description: CCMusicArtwork 汉化包(Rootless)
 Author: 妖刀
-Name: Choicy 汉化包
+Name: CCMusicArtwork 汉化包(Rootless)
 
-Package: repo.lengran.choicy.cn.rootless
-Version: 1.4.7
+Package: repo.lengran.choicy.cn
+Version: 1.5
 Architecture: iphoneos-arm64
 Maintainer: By-Lengran
 Depends: com.opa334.choicy
-Filename: ./debs/repo.lengran.choicy.cn.rootless_1.4.7_iphoneos-arm64.deb
-Size: 4056
-MD5sum: c8cdbd9b07fa85f81f5690f83fca5c8c
-SHA1: e9b88db9c03405af00aaca78a659e0c764d6cd58
-SHA256: 6f35d9b70b4e98d9164c123385cde279223abed343aee0a40f87689a4991c153
+Filename: ./debs/repo.lengran.choicy.cn_1.5_iphoneos-arm64.deb
+Size: 3884
+MD5sum: e77db553a6c11d9b65a6b5b3463803d6
+SHA1: a9b2e25e843c014c925f3cc13cd62824996f0abd
+SHA256: 4e1830a94820fb6046fdf9234c051b73a15505974fa868c01530ffdad6d5a4bd
 Section: 汉化
-Description: Choicy 汉化包
+Description: A-Font 汉化包(Rootless)。
 Author: 妖刀
-Name: Choicy 汉化包
+Name: Choicy 汉化包(Rootless)
 
-Package: repo.lengran.coolcc.cn.roothide
+Package: repo.lengran.choicy.cn
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: By-Lengran
+Depends: com.opa334.choicy
+Filename: ./debs/repo.lengran.choicy.cn_1.5_iphoneos-arm64e.deb
+Size: 3884
+MD5sum: dde97c543225207afd62e4468e9316e7
+SHA1: d40e841aa0ec18ac6c9bac5fafcde701afa8d62f
+SHA256: d8ff94ccaa3e29f2714d56a81e473e997b7d942901690748406a4f413a56aa6b
+Section: 汉化
+Description: A-Font 汉化包(RootHide)。
+Author: 妖刀
+Name: Choicy 汉化包(RootHide)
+
+Package: repo.lengran.choicy.cn
+Version: 1.5.0
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: com.opa334.choicy
+Filename: ./debs/repo.lengran.choicy.cn_1.5.0_iphoneos-arm64.deb
+Size: 4040
+MD5sum: c3c1fb8b02ca5214a5b5f7cb548ffaaa
+SHA1: e13538c24ff9c57d3ccc63f3b0f57ccc34d9e710
+SHA256: f83d3cfb19e4ff0af05add1a232a6ba890fb972a7f55a89f6820c0be766c6698
+Section: 汉化
+Description: Choicy 汉化包(Rootless)
+Author: 妖刀
+Name: Choicy 汉化包(Rootless)
+
+Package: repo.lengran.choicy.cn
+Version: 1.5.0
+Architecture: iphoneos-arm64e
+Maintainer: By-Lengran
+Depends: com.opa334.choicy
+Filename: ./debs/repo.lengran.choicy.cn_1.5.0_iphoneos-arm64e.deb
+Size: 4044
+MD5sum: d3a981e388a252c7c12db29e412c965a
+SHA1: 5b6dd9e7db86fa1656a073ab689ebc9ad7c94c6f
+SHA256: 4a7b32b92f1c5313d958baff3965391eeeee951cfec7a09b6019ef1e08102fb2
+Section: 汉化
+Description: Choicy 汉化包(RootHide)
+Author: 妖刀
+Name: Choicy 汉化包(RootHide)
+
+Package: repo.lengran.coolcc.cn
 Version: 2.0
 Architecture: iphoneos-arm64e
 Maintainer: By-Lengran
 Depends: alias20.coolcc
-Filename: ./debs/repo.lengran.coolcc.cn.roothide_2.0_iphoneos-arm64e.deb
-Size: 1560
-MD5sum: 74ff1d545a1ba0d80c3050e72accac2e
-SHA1: 04d8e29602211242e9dd63646178d0311d470c9f
-SHA256: cb7b96efa9fcb25da1b448055081d08b35b91481c8457cb93623fd3e43f3d1f6
+Filename: ./debs/repo.lengran.coolcc.cn_2.0_iphoneos-arm64e.deb
+Size: 1568
+MD5sum: 3e7247c503b0f2dbc2b95c75b3111469
+SHA1: 987993defb3e94d39abbc1fa46a78d3d7810fc3a
+SHA256: 4617aa7bd2842c8b2b591de861806002ad84dee0388af729aede71e39a222a82
 Section: 汉化
-Description: CoolCC Reborn 汉化包
+Description: CoolCC Reborn 汉化包(RootHide)
 Author: 妖刀
-Name: CoolCC Reborn 汉化包
+Name: CoolCC Reborn 汉化包(RootHide)
 
-Package: repo.lengran.coolcc.cn.rootless
+Package: repo.lengran.coolcc.cn
 Version: 2.0
 Architecture: iphoneos-arm64
 Maintainer: By-Lengran
 Depends: alias20.coolcc
-Filename: ./debs/repo.lengran.coolcc.cn.rootless_2.0_iphoneos-arm64.deb
-Size: 1576
-MD5sum: 0293b9accccb5239d2550adaab3bade3
-SHA1: c9aa4ee95e83037dc5dd83cd44cc01489c39566e
-SHA256: ba7eea4d938f201c7103891a227ef3d572ef4a2dfac1bf9e983d5eda5d0445a0
+Filename: ./debs/repo.lengran.coolcc.cn_2.0_iphoneos-arm64.deb
+Size: 1564
+MD5sum: 47e47ccbed2d24b52bca9bb1b7c7da22
+SHA1: cbbff0a892741af6cfb8e379aa6d0af53b44cae7
+SHA256: e1e765134626343054612001c2779c317606eb2fe69881e4c85e8838c08d6eae
 Section: 汉化
-Description: CoolCC Reborn 汉化包
+Description: CoolCC Reborn 汉化包(Rootless)
 Author: 妖刀
-Name: CoolCC Reborn 汉化包
+Name: CoolCC Reborn 汉化包(Rootless)
 
-Package: repo.lengran.copylog.cn.roothide
-Version: 1.5.6
-Architecture: iphoneos-arm64e
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.copylog.cn.roothide_1.5.6_iphoneos-arm64e.deb
-Size: 6404
-MD5sum: 24d1ed7b43f6b5b21319f0d58fec3d0c
-SHA1: 20adbeac89ffca4c38ee487fec9c3ba21108feaf
-SHA256: bbcae277613c2284aa88c0c57cfb28ea568f6f5cf20af50cb17a3db84a66ca4d
-Section: 汉化
-Description: CopyLog 汉化包
-Author: Hi客源
-Name: CopyLog 汉化包
-
-Package: repo.lengran.copylog.cn.rootless
+Package: repo.lengran.copylog.cn
 Version: 1.5.6
 Architecture: iphoneos-arm64
 Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.copylog.cn.rootless_1.5.6_iphoneos-arm64.deb
-Size: 6428
-MD5sum: ae085f6471b7619f5c4a7bdbdcfecd55
-SHA1: b374687901bd53b74439ca96cb7e03abe911547b
-SHA256: 0573c3978bcf7ee219e5ed9b23472841e6adfb00816a5675842deedee83bad1a
+Filename: ./debs/repo.lengran.copylog.cn_1.5.6_iphoneos-arm64.deb
+Size: 6424
+MD5sum: 16372e744cf75b7729d96d21708f9deb
+SHA1: 69bee998207ab14a8c6d572a82f16fffa932e4e2
+SHA256: cfa0fe10c18510bb1446d2bdb49dba77d7de267e36a2828392f167ec71b3762a
 Section: 汉化
-Description: CopyLog 汉化包
+Description: CopyLog 汉化包(Rootless)
 Author: Hi客源
-Name: CopyLog 汉化包
+Name: CopyLog 汉化包(Rootless)
 
-Package: repo.lengran.cracktool5.cn.roothide
-Version: 5.0
+Package: repo.lengran.copylog.cn
+Version: 1.5.6
 Architecture: iphoneos-arm64e
 Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.cracktool5.cn.roothide_5.0_iphoneos-arm64e.deb
-Size: 2164
-MD5sum: 27c72aaa49af6a3c50119d9ce4ca6b8b
-SHA1: 2c210d984210f36a8940d208cc1fa202111289d7
-SHA256: 49f176f75430d7b3eca87b5600d6873d9ef8c400b67b514aa2362683baf73a5b
+Filename: ./debs/repo.lengran.copylog.cn_1.5.6_iphoneos-arm64e.deb
+Size: 6416
+MD5sum: 8c4c14d66b2d42df26e7f0d9f39b9038
+SHA1: 7aac261449b07069981a7547f4af6cadea225b31
+SHA256: 57da7f2633ba3a9b937bac4b48f064e2177177c3432dc9ce0eea8bf1c968ae37
 Section: 汉化
-Description: CrackTool5 汉化包
-Author: 妖刀
-Name: CrackTool5 汉化包
+Description: CopyLog 汉化包(RootHide)
+Author: Hi客源
+Name: CopyLog 汉化包(RootHide)
 
-Package: repo.lengran.cracktool5.cn.rootless
+Package: repo.lengran.cracktool5.cn
 Version: 5.0
 Architecture: iphoneos-arm64
 Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.cracktool5.cn.rootless_5.0_iphoneos-arm64.deb
-Size: 2168
-MD5sum: c726de3771aeb64d9da5eccb3377ea5b
-SHA1: da2439960cf4f6389b507a956ba0ae2acbd5d37a
-SHA256: 175bf24e9af6b1c70dc2b7d0540bd48d47c72891306f4d8ec7899ce15e909ca3
+Filename: ./debs/repo.lengran.cracktool5.cn_5.0_iphoneos-arm64.deb
+Size: 2172
+MD5sum: 6a3f29aa4ad3d1f5375c34aae8d5f80e
+SHA1: 032dd181d0f587a8371c7502abbc3fbf8b420f76
+SHA256: ced9b23e18e8a92ffb9ec4f7b4334fb1409d9cbcb8700bcff42369808769bc72
 Section: 汉化
-Description: CrackTool5 汉化包
+Description: CrackTool5 汉化包(Rootless)
 Author: 妖刀
-Name: CrackTool5 汉化包
+Name: CrackTool5 汉化包(Rootless)
 
-Package: repo.lengran.crane.cn.roothide
+Package: repo.lengran.cracktool5.cn
+Version: 5.0
+Architecture: iphoneos-arm64e
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.cracktool5.cn_5.0_iphoneos-arm64e.deb
+Size: 2176
+MD5sum: 0995c696e932574d02e52860b530ba5c
+SHA1: 1ec6b69af9548038ec5b855482ffae8c0b8de4ce
+SHA256: d348857dae1d92f96fb5f02ebbef93c51c5c411d25de08f7b4340047fe8d03ac
+Section: 汉化
+Description: CrackTool5 汉化包(RootHide)
+Author: 妖刀
+Name: CrackTool5 汉化包(RootHide)
+
+Package: repo.lengran.crane.cn
 Version: 1.3.9
 Architecture: iphoneos-arm64e
 Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.crane.cn.roothide_1.3.9_iphoneos-arm64e.deb
-Size: 11572
-MD5sum: e0cfc80cc3146c1464ef0c88dcbec97c
-SHA1: e1428e93d61e610642ec24ae11337fc04ca1909e
-SHA256: ecb09314f963a7d49457a0d4f45bb3cd4c8b9b8dc655381ad19e38f89cfbc47e
-Section: 汉化
-Description: Crane 汉化包
-Author: 妖刀
-Name: Crane 汉化包
-
-Package: repo.lengran.crane.cn.rootless
-Version: 1.3.9
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.crane.cn.rootless_1.3.9_iphoneos-arm64.deb
+Filename: ./debs/repo.lengran.crane.cn_1.3.9_iphoneos-arm64e.deb
 Size: 11568
-MD5sum: e5afa018965956787fa4a05530747f61
-SHA1: 7060b34b55565dfd2f13428fa90aae0ca33658fb
-SHA256: 7ac9a31e8cd9a7f908c487c55db0ec75d211a2713c482b333241594e9bd6db6e
+MD5sum: baa9172e9cfc9c137300996dfb4db827
+SHA1: 4c91662c184a235a8ba7963905e12b5e21cc5d59
+SHA256: c22e4fec1114a56907e33b3b003f3c1d9bd074114058e3beaad180e6626433eb
 Section: 汉化
-Description: Crane 汉化包
+Description: Crane 汉化包(RootHide)
 Author: 妖刀
-Name: Crane 汉化包
+Name: Crane 汉化包(RootHide)
 
-Package: repo.lengran.cylinderrebron.cn.roothide
+Package: repo.lengran.crane.cn
+Version: 1.3.9
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Filename: ./debs/repo.lengran.crane.cn_1.3.9_iphoneos-arm64.deb
+Size: 11572
+MD5sum: af2c50e4d4433c5a174845daf19ad8cd
+SHA1: f725237097e5df2c2e100393a690f3a4e3dd6493
+SHA256: 91e0ec051ad50453ffc50c9f0e97af5d397bb8069c173c801326aeebe7d515ca
+Section: 汉化
+Description: Crane 汉化包(Rootless)
+Author: 妖刀
+Name: Crane 汉化包(Rootless)
+
+Package: repo.lengran.cylinderrebron.cn
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: com.ryannair05.cylinder
+Filename: ./debs/repo.lengran.cylinderrebron.cn_1.1.1_iphoneos-arm64.deb
+Size: 2088
+MD5sum: 719a31db60eccb48363e541e556a9439
+SHA1: e9489eea1948cc4fd79f8127dca208f3d14be7cd
+SHA256: 66a0bbc577ff810649e39d0eaf6489ea075bcba8d22cefeea9cb4ef0c5a6dc53
+Section: 汉化
+Description: Cylinder Rebron 汉化增补包(Rootless)
+Author: 妖刀
+Name: Cylinder Rebron 汉化增补包(Rootless)
+
+Package: repo.lengran.cylinderrebron.cn
 Version: 1.1.1
 Architecture: iphoneos-arm64e
 Maintainer: By-Lengran
 Depends: com.ryannair05.cylinder
-Filename: ./debs/repo.lengran.cylinderrebron.cn.roothide_1.1.1_iphoneos-arm64e.deb
-Size: 2084
-MD5sum: bf33c2111767eeb4c0e89760f93be7d9
-SHA1: 2f2df4b081047e194a0fa405d7142a1336bcb06b
-SHA256: bb8ddde94bef400d0f0038e8c9939c641e5260c8d1c36d014c2e488046b4311c
+Filename: ./debs/repo.lengran.cylinderrebron.cn_1.1.1_iphoneos-arm64e.deb
+Size: 2088
+MD5sum: 208f622ec95e11ed5bcfc64d052d6263
+SHA1: 4a875ec1b404732a977640c4dba4f8814a9e9eb2
+SHA256: 704deced5a7c3eb2af25c40515fd1f17de66c16029a0aa87f274583533009b44
 Section: 汉化
-Description: Cylinder Rebron 汉化增补包
+Description: Cylinder Rebron 汉化增补包(RootHide)
 Author: 妖刀
-Name: Cylinder Rebron 汉化增补包
+Name: Cylinder Rebron 汉化增补包(RootHide)
 
-Package: repo.lengran.cylinderrebron.cn.rootless
-Version: 1.1.1
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Depends: com.ryannair05.cylinder
-Filename: ./debs/repo.lengran.cylinderrebron.cn.rootless_1.1.1_iphoneos-arm64.deb
-Size: 2092
-MD5sum: e374f196d9ca23f27f4c2c2e75fd8078
-SHA1: fcbdb9307b96c821c256fcd2df9ab4a7bbffb4fe
-SHA256: b5383f66e248f2d6e7769bc83a1dd8d15de356db1e4e7a637804723ad4fb7639
-Section: 汉化
-Description: Cylinder Rebron 汉化增补包
-Author: 妖刀
-Name: Cylinder Rebron 汉化增补包
-
-Package: repo.lengran.evolve.theme.roothide
+Package: repo.lengran.evolve.theme
 Version: 2.0
 Architecture: iphoneos-arm64e
 Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.evolve.theme.roothide_2.0_iphoneos-arm64e.deb
-Size: 2076488
-MD5sum: bcae9b0aef8a2ca2fcfc741c3f8eb75c
-SHA1: eacd4ee9872476162a342321f9925b8637e492d1
-SHA256: 6def931f27013320709dd38d17cc8e8d8023e6841c3268ce70973dd5a6e5c986
+Filename: ./debs/repo.lengran.evolve.theme_2.0_iphoneos-arm64e.deb
+Size: 2076388
+MD5sum: 3c70a3c7dfd819e417cbb62de12cedd3
+SHA1: b5d54e9631240adb4d20c04c7bac4eff4604ba8a
+SHA256: 5aceae6d78a94411c540af4dcc21e04d8135010d155a87c4d1bdfb8276733e01
 Section: Themes
-Description: Evolve 主题
+Description: Evolve 主题(RootHide)
 Author: By-Lengran
-Name: Evolve 主题
+Name: Evolve 主题(RootHide)
 
-Package: repo.lengran.evolve.theme.rootless
+Package: repo.lengran.evolve.theme
 Version: 2.0
 Architecture: iphoneos-arm64
 Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.evolve.theme.rootless_2.0_iphoneos-arm64.deb
-Size: 2169248
-MD5sum: 9cc483ddd4bdd30b63ad881d37aa6561
-SHA1: f250363b090dcad7d1f4088f9c3e861ca1b6c1e4
-SHA256: 42bbd4266882fc599379f4f18ad4df4352407148a858d323978f90a2077663b6
+Filename: ./debs/repo.lengran.evolve.theme_2.0_iphoneos-arm64.deb
+Size: 2076476
+MD5sum: 5199bf3d809364b6bd6b60a3f76fd06c
+SHA1: 11aad78bca36dbee5d69326af509479a08de29a1
+SHA256: 49c440b341ecaf36a889a8c15595bdd61b5cf6b592f893a236f7c28f9a4acae4
 Section: Themes
-Description: Evolve 主题
+Description: Evolve 主题(Rootless)
 Author: By-Lengran
-Name: Evolve 主题
+Name: Evolve 主题(Rootless)
 
-Package: repo.lengran.power4options.cn.roothide
-Version: 3.0
-Architecture: iphoneos-arm64e
-Maintainer: By-Lengran
-Depends: alias20.power4options
-Filename: ./debs/repo.lengran.power4options.cn.roothide_3.0_iphoneos-arm64e.deb
-Size: 1372
-MD5sum: 1966242e33bae954d06b2c7bd7c0281f
-SHA1: 327710989416b2c50126d08e6c854f17ac50012e
-SHA256: 39986c61dc5ee722f4d40cc89213854ecac94cab0f39b8331c92da14e085f85e
-Section: 汉化
-Description: Power4Options 汉化包
-Author: By-Lengran
-Name: Power4Options 汉化包
-
-Package: repo.lengran.power4options.cn.rootless
+Package: repo.lengran.power4options.cn
 Version: 3.0
 Architecture: iphoneos-arm64
 Maintainer: By-Lengran
 Depends: alias20.power4options
-Filename: ./debs/repo.lengran.power4options.cn.rootless_3.0_iphoneos-arm64.deb
-Size: 1376
-MD5sum: fe56527f3d7d0a806af92b4ebaa387b9
-SHA1: 3e0e9cefe2e89d9be27836f321996ed380e632f7
-SHA256: 582d3a2c030b8201c499aa2ef39e9cef759d29379d37121c9327a5ffe9693904
+Filename: ./debs/repo.lengran.power4options.cn_3.0_iphoneos-arm64.deb
+Size: 1368
+MD5sum: 395453c8a2cd47d3e46efb830a226024
+SHA1: 21daae631d342b9990a25b3d7d7f1eeee51dc105
+SHA256: 6b6dbb6a0e90ff2b61d1db3203b8235523b13e2184406f3fb37fe3c001a58ef2
 Section: 汉化
-Description: Power4Options 汉化包
+Description: Power4Options 汉化包(Rootless)
 Author: By-Lengran
-Name: Power4Options 汉化包
+Name: Power4Options 汉化包(Rootless)
 
-Package: repo.lengran.quickactions.cn.roothide
+Package: repo.lengran.power4options.cn
+Version: 3.0
+Architecture: iphoneos-arm64e
+Maintainer: By-Lengran
+Depends: alias20.power4options
+Filename: ./debs/repo.lengran.power4options.cn_3.0_iphoneos-arm64e.deb
+Size: 1364
+MD5sum: e4d8a1388c2ede65a7a6ae477c7ce81e
+SHA1: b3262abf14ac36aa7d16a90249ad83d983e0dba7
+SHA256: 7354961837dbe615b794f4ce8cf769d2932cb80015d930674f7284a82daac145
+Section: 汉化
+Description: Power4Options 汉化包(RootHide)
+Author: By-Lengran
+Name: Power4Options 汉化包(RootHide)
+
+Package: repo.lengran.quickactions.cn
 Version: 1.0.0
 Architecture: iphoneos-arm64e
 Maintainer: By-Lengran
 Depends: com.cameronkatri.quickactions
-Filename: ./debs/repo.lengran.quickactions.cn.roothide_1.0.0_iphoneos-arm64e.deb
+Filename: ./debs/repo.lengran.quickactions.cn_1.0.0_iphoneos-arm64e.deb
+Size: 1044
+MD5sum: f81598b23ec80db26bb6904439a0f38e
+SHA1: 55cd5fffa99b67eeeff09f2cb7d0c41b0a2970e0
+SHA256: 28c7ccc8ad8589374cb1751e4395f48ba45e32c327977e6dad126cd99aa07380
+Section: 汉化
+Description: Quick Actions 汉化包(RootHide)
+Author: 妖刀
+Name: Quick Actions 汉化包(RootHide)
+
+Package: repo.lengran.quickactions.cn
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: com.cameronkatri.quickactions
+Filename: ./debs/repo.lengran.quickactions.cn_1.0.0_iphoneos-arm64.deb
 Size: 1040
-MD5sum: 1a596e39c1258359e36036bb7b29be2c
-SHA1: c5eee897fc362ca2961f2e948ae185bc58a36e6e
-SHA256: dfcb73e20a20a34b4b92b1a0d7b53576dd7cf6c1a0a57e4b73a9f936a82100d2
+MD5sum: 529dfdae948d258cde2f4fb24fc45a15
+SHA1: 98d30d97359b006e4b566dcb6350ab63fc46dea5
+SHA256: e20b60fa33075e2421f8f3a2ace7549d9a1a97734f0d2755cb144e0a46617fc6
 Section: 汉化
-Description: Quick Actions 汉化包
+Description: Quick Actions 汉化包(Rootless)
 Author: 妖刀
-Name: Quick Actions 汉化包
+Name: Quick Actions 汉化包(Rootless)
 
-Package: repo.lengran.quickactions.cn.rootless
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Depends: com.cameronkatri.quickactions
-Filename: ./debs/repo.lengran.quickactions.cn.rootless_1.0.0_iphoneos-arm64.deb
-Size: 1052
-MD5sum: 308d239deba7eb2675ac89cab387696e
-SHA1: b7a4ee1d07b5af744bec17ba4862806071e57003
-SHA256: 5d2987cf3117f0dfe84c09d4dd0f01b2e7b02ef5618eb6fcfc77ce8958ee6b1a
-Section: 汉化
-Description: Quick Actions 汉化包
-Author: 妖刀
-Name: Quick Actions 汉化包
-
-Package: repo.lengran.shuffle.cn.roothide
+Package: repo.lengran.shuffle.cn
 Version: 1.6.2
 Architecture: iphoneos-arm64e
 Maintainer: By-Lengran
 Depends: com.creaturecoding.shuffle
-Filename: ./debs/repo.lengran.shuffle.cn.roothide_1.6.2_iphoneos-arm64e.deb
-Size: 437472
-MD5sum: 7dd26c41e58b82dc343ed166f8febc1b
-SHA1: f2b3b03c09eeb697b1a1240c639b387620ebcab4
-SHA256: 8a24378186a1863d611a90894c0e59453519c0a70a1235cd1ffaeb3dedcf9df9
+Filename: ./debs/repo.lengran.shuffle.cn_1.6.2_iphoneos-arm64e.deb
+Size: 437416
+MD5sum: 79bfaaecffa2cda20dd3944792fe5e1f
+SHA1: bfd9b73ebbcfcfb02939896376b33b67b8b826e8
+SHA256: 3d47a92a023c8de4bc3391d1dc38cb054c8816080c7809304e9d94eb768be720
 Section: 汉化
-Description: Shuffle 汉化包
+Description: Shuffle 汉化包(RootHide)
 Author: By-Lengran
-Name: Shuffle 汉化包
+Name: Shuffle 汉化包(RootHide)
 
-Package: repo.lengran.shuffle.cn.rootless
+Package: repo.lengran.shuffle.cn
 Version: 1.6.2
 Architecture: iphoneos-arm64
 Maintainer: By-Lengran
 Depends: com.creaturecoding.shuffle
-Filename: ./debs/repo.lengran.shuffle.cn.rootless_1.6.2_iphoneos-arm64.deb
-Size: 437404
-MD5sum: 8c6741aa9147d6eed4cfee9f32748ae6
-SHA1: cc51238105f35860344d9baac9b62c3e194e9633
-SHA256: 7ea99d6ad966f4f5200972c263f3cfa7cc73df8dd079247f2ccef0c9831762e0
+Filename: ./debs/repo.lengran.shuffle.cn_1.6.2_iphoneos-arm64.deb
+Size: 437448
+MD5sum: 4e14c7fc038e058fd1d20823f66202f3
+SHA1: 8731e0720b7283404337ecf44e03f134b1dafb26
+SHA256: 03d97e9c21f9998c0d87547cae59a62b09898a2a445cadd4d7fd9681772e5fb7
 Section: 汉化
-Description: Shuffle 汉化包
+Description: Shuffle 汉化包(Rootless)
 Author: By-Lengran
-Name: Shuffle 汉化包
+Name: Shuffle 汉化包(Rootless)
 
-Package: repo.lengran.sileo.cn.roothide
+Package: repo.lengran.sileo.cn
 Version: 2.5
 Architecture: iphoneos-arm64e
 Maintainer: By-Lengran
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/repo.lengran.sileo.cn.roothide_2.5_iphoneos-arm64e.deb
-Size: 7900
-MD5sum: f4ee16e3a2d3ab52440295a2d0630901
-SHA1: b0d8f8ff2a0cc775baf1a375c851cf78ee55c353
-SHA256: ab39c313ea7e7e40239c0fd66130a17dc0f526fa553a67d97277c8fd5e6b6b72
+Filename: ./debs/repo.lengran.sileo.cn_2.5_iphoneos-arm64e.deb
+Size: 7908
+MD5sum: ecc288821bf098dd8292a4c3edea422e
+SHA1: 231f66675a33ffa9893aa5c64e1d5a9d487c1096
+SHA256: c0bc8c676fa2a315e715bd0c09d3be4ee35abfa56639fd1456443135ebdacb94
 Section: 汉化
-Description: Sileo 中文增补包
+Description: Sileo 中文增补包(RootHide)
 Author: 妖刀
-Name: Sileo 中文增补包
+Name: Sileo 中文增补包(RootHide)
 
-Package: repo.lengran.sileo.cn.rootless
-Version: 2.5
+Package: repo.lengran.sileo.cn
+Version: 2.5.1
 Architecture: iphoneos-arm64
 Maintainer: By-Lengran
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/repo.lengran.sileo.cn.rootless_2.5_iphoneos-arm64.deb
-Size: 7900
-MD5sum: 01b406487c346b206f12874dd8d23481
-SHA1: 554ce0ae92877d498d8ad151dd8e908387c208e0
-SHA256: 4e6705abcc99d9f16a4f4c969c2dadad0aa5130b5664b2cc3286afee5d666d80
+Filename: ./debs/repo.lengran.sileo.cn_2.5.1_iphoneos-arm64.deb
+Size: 7904
+MD5sum: 4f56eded870bb745763a437ed59fd952
+SHA1: fd123ad850f636d8c452f81f9d1a156d78d94371
+SHA256: 6d3e5fd79f830dce1404957241c0b6014fb8ace47327e83f9c8e00e4474e0b9b
 Section: 汉化
-Description: Sileo 中文增补包
+Description: Sileo 中文增补包(Rootless)
 Author: 妖刀
-Name: Sileo 中文增补包
+Name: Sileo 中文增补包(Rootless)
 
-Package: repo.lengran.snapper3.cn.roothide
+Package: repo.lengran.snapper3.cn
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: com.jontelang.snapper3
+Filename: ./debs/repo.lengran.snapper3.cn_1.2.1_iphoneos-arm64.deb
+Size: 11212
+MD5sum: 84f8403fab9381fa7f38e2799457a799
+SHA1: 63e2f122e7f7904d87ff5dbb5cb9986aef1bf0e9
+SHA256: bdf8211472ae73272efded37eb1b86f56c70f11e53446814942030a7ac55fc9c
+Section: 汉化
+Description: Snapper 3 中文菜单(Rootless)
+Author: By-Lengran
+Name: Snapper 3 中文菜单(Rootless)
+
+Package: repo.lengran.snapper3.cn
 Version: 1.2.1
 Architecture: iphoneos-arm64e
 Maintainer: By-Lengran
 Depends: com.jontelang.snapper3
-Filename: ./debs/repo.lengran.snapper3.cn.roothide_1.2.1_iphoneos-arm64e.deb
-Size: 11208
-MD5sum: 230f6403f0ac50ffd2b94d23062e14e2
-SHA1: e51a26f1f7e78e6f9addbbf18dca9e9e6c35e603
-SHA256: 897a3edb710fe8ebcd6ad7392a003679df6588a9edaf849a780746d849bcd586
+Filename: ./debs/repo.lengran.snapper3.cn_1.2.1_iphoneos-arm64e.deb
+Size: 11216
+MD5sum: 6fd804be4abd7edbbe3d8f245732b2ee
+SHA1: bb1ca011f1e9a66d5f72359a8422c9c87b6aa967
+SHA256: d28f0fae8521cd7cf6fd98ccadef2e530aec248a1d7470544db9e56200da1321
 Section: 汉化
-Description: Snapper 3 中文菜单
+Description: Snapper 3 中文菜单(RootHide)
 Author: By-Lengran
-Name: Snapper 3 中文菜单
+Name: Snapper 3 中文菜单(RootHide)
 
-Package: repo.lengran.tweaksettings.cn.roothide
-Version: 1.0.8
-Architecture: iphoneos-arm64e
-Maintainer: By-Lengran
-Depends: com.creaturecoding.tweaksettings
-Filename: ./debs/repo.lengran.tweaksettings.cn.roothide_1.0.8_iphoneos-arm64e.deb
-Size: 2000
-MD5sum: 28b6084f4106e081990b1401526e07ec
-SHA1: 2e0d1c2257c38195d2a34dc7b46ccc5c860deedb
-SHA256: 69aba08575bcd54c0a7da32a48076d46065c0fa9f51c39a7252e81b57f57d0c7
-Section: 汉化
-Description: TweakSettings 汉化包
-Author: By-冷然
-Name: TweakSettings 汉化包
-
-Package: repo.lengran.tweaksettings.cn.rootless
+Package: repo.lengran.tweaksettings.cn
 Version: 1.0.8
 Architecture: iphoneos-arm64
 Maintainer: By-Lengran
 Depends: com.creaturecoding.tweaksettings
-Filename: ./debs/repo.lengran.tweaksettings.cn.rootless_1.0.8_iphoneos-arm64.deb
-Size: 2040
-MD5sum: 276d0182735fb1f59422e0762d9b4db7
-SHA1: 84b97aa53815dec189db26beaa8f4b11c8396db1
-SHA256: 1376561798bb3ef79957edef9469431370964a52fd8c6b90878cc805ec04968d
+Filename: ./debs/repo.lengran.tweaksettings.cn_1.0.8_iphoneos-arm64.deb
+Size: 2004
+MD5sum: 6028fa5c90c265cb3bff9142b1bdf5cd
+SHA1: f597f4bc792e30579fec093a26c2394dddc331f6
+SHA256: e27706ee07b3e78132012ae9fac9d17996541ba9731cd30e21051090aefe69df
 Section: 汉化
-Description: TweakSettings 汉化包
+Description: TweakSettings 汉化包(Rootless)
 Author: By-冷然
-Icon: file:///var/jb/Applications/TweakSettings.app/AppIcon60x60@2x.png
-Name: TweakSettings 汉化包
+Name: TweakSettings 汉化包(Rootless)
 
-Package: repo.lengran.veexillum.theme.roothide
+Package: repo.lengran.tweaksettings.cn
+Version: 1.0.8
+Architecture: iphoneos-arm64e
+Maintainer: By-Lengran
+Depends: com.creaturecoding.tweaksettings
+Filename: ./debs/repo.lengran.tweaksettings.cn_1.0.8_iphoneos-arm64e.deb
+Size: 2004
+MD5sum: 1c23109d4c45478f2eb4841992458780
+SHA1: b3e39a17385a654f9229525f3035be77bdb9e495
+SHA256: 4ec98deb1b16f8635c7e80945ccb7ba8de1e5939a044b353fc185777542fa9c7
+Section: 汉化
+Description: TweakSettings 汉化包(RootHide)
+Author: By-冷然
+Name: TweakSettings 汉化包(RootHide)
+
+Package: repo.lengran.veexillum.theme
 Version: 1.3
 Architecture: iphoneos-arm64e
 Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.veexillum.theme.roothide_1.3_iphoneos-arm64e.deb
-Size: 48485952
-MD5sum: d099bf768165c46f64b68a251a2cd974
-SHA1: b9eb527759fe98b1fff8866b7139db44dabe69a0
-SHA256: 0305dc3aa5d86796214e1aa8902e2bcdda666799c3bb1b8507ef7415dea0d236
+Filename: ./debs/repo.lengran.veexillum.theme_1.3_iphoneos-arm64e.deb
+Size: 48485980
+MD5sum: 4a38c272ee20813e81c1071ef689f722
+SHA1: e60606a562f5d79e5d80db30cdb8ef0fc1839b9c
+SHA256: 72e397b77b9418fd79bb2f5c5e46a49380cea2f6288ead3e410478aeae63539b
 Section: Themes
-Description: Veexillum 主题
+Description: Veexillum 主题(RootHide)
 Author: By-Lengran
-Name: Veexillum 主题
+Name: Veexillum 主题(RootHide)
 
-Package: repo.lengran.veexillum.theme.rootless
+Package: repo.lengran.veexillum.theme
 Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: By-Lengran
-Filename: ./debs/repo.lengran.veexillum.theme.rootless_1.3_iphoneos-arm64.deb
-Size: 49049104
-MD5sum: a0ffc43258a0b7c3d53f850ed219ecae
-SHA1: 4f05880083a3a3cb5a90c37df8827b2b8226d056
-SHA256: 951f7e936447c6569966f5de98a820c8b4295b3ba1e51b498fb3d98ace6ac03d
+Filename: ./debs/repo.lengran.veexillum.theme_1.3_iphoneos-arm64.deb
+Size: 48485980
+MD5sum: a015b168b4e8c3cce71103f61b4e756c
+SHA1: 90a5beee7d254a39e38d5601f241c726b0b1eaf7
+SHA256: 8084b40d5b58dcf48089c6489af3736de29d4d74c219ac894417731607278071
 Section: Themes
-Description: Veexillum 主题
+Description: Veexillum 主题(Rootless)
 Author: By-Lengran
-Name: Veexillum 主题
+Name: Veexillum 主题(Rootless)
 
 Package: wiki.qaq.chromatic.rootless
 Version: 3.0-rootless-release-1724937362.2952e67
