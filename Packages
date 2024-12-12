@@ -3539,12 +3539,12 @@ Architecture: iphoneos-arm64
 Maintainer: By-Lengran
 Depends: com.opa334.choicy
 Filename: ./debs/repo.lengran.choicy.cn_1.5_iphoneos-arm64.deb
-Size: 3884
-MD5sum: e77db553a6c11d9b65a6b5b3463803d6
-SHA1: a9b2e25e843c014c925f3cc13cd62824996f0abd
-SHA256: 4e1830a94820fb6046fdf9234c051b73a15505974fa868c01530ffdad6d5a4bd
+Size: 3872
+MD5sum: f14b42ae5d5b457532ec4b3672594d34
+SHA1: 4b4cdb9735df268d85501780b160fc850d527aea
+SHA256: 8e787464ee62ca3a6258c6b130e07c34820f6e9b11631c1eee3a3cdc8b2d6f1c
 Section: 汉化
-Description: A-Font 汉化包(Rootless)。
+Description: Choicy 汉化包(Rootless)
 Author: 妖刀
 Name: Choicy 汉化包(Rootless)
 
@@ -3554,40 +3554,10 @@ Architecture: iphoneos-arm64e
 Maintainer: By-Lengran
 Depends: com.opa334.choicy
 Filename: ./debs/repo.lengran.choicy.cn_1.5_iphoneos-arm64e.deb
-Size: 3884
-MD5sum: dde97c543225207afd62e4468e9316e7
-SHA1: d40e841aa0ec18ac6c9bac5fafcde701afa8d62f
-SHA256: d8ff94ccaa3e29f2714d56a81e473e997b7d942901690748406a4f413a56aa6b
-Section: 汉化
-Description: A-Font 汉化包(RootHide)。
-Author: 妖刀
-Name: Choicy 汉化包(RootHide)
-
-Package: repo.lengran.choicy.cn
-Version: 1.5.0
-Architecture: iphoneos-arm64
-Maintainer: By-Lengran
-Depends: com.opa334.choicy
-Filename: ./debs/repo.lengran.choicy.cn_1.5.0_iphoneos-arm64.deb
-Size: 4040
-MD5sum: c3c1fb8b02ca5214a5b5f7cb548ffaaa
-SHA1: e13538c24ff9c57d3ccc63f3b0f57ccc34d9e710
-SHA256: f83d3cfb19e4ff0af05add1a232a6ba890fb972a7f55a89f6820c0be766c6698
-Section: 汉化
-Description: Choicy 汉化包(Rootless)
-Author: 妖刀
-Name: Choicy 汉化包(Rootless)
-
-Package: repo.lengran.choicy.cn
-Version: 1.5.0
-Architecture: iphoneos-arm64e
-Maintainer: By-Lengran
-Depends: com.opa334.choicy
-Filename: ./debs/repo.lengran.choicy.cn_1.5.0_iphoneos-arm64e.deb
-Size: 4044
-MD5sum: d3a981e388a252c7c12db29e412c965a
-SHA1: 5b6dd9e7db86fa1656a073ab689ebc9ad7c94c6f
-SHA256: 4a7b32b92f1c5313d958baff3965391eeeee951cfec7a09b6019ef1e08102fb2
+Size: 3880
+MD5sum: 073918ae614e50d25ca1c221f0f508bd
+SHA1: cba7a4ca07918645c949af1eca16edaa323a9b4b
+SHA256: 60f94218e83b38540bf45cede31271c40d348da14b7c1e7c5592ec0949c9fe5b
 Section: 汉化
 Description: Choicy 汉化包(RootHide)
 Author: 妖刀
