@@ -3404,14 +3404,14 @@ Architecture: iphoneos-arm64e
 Maintainer: By-Lengran
 Depends: com.rpgfarm.a-font
 Filename: ./debs/repo.lengran.a-font.cn_1.9.3_iphoneos-arm64e.deb
-Size: 2360
-MD5sum: f80c286258f006257eabef02cd0ef1d4
-SHA1: 8a10ffbfa7a97399ef80f6ef4fcfe7b2522dbbb2
-SHA256: 428ad60c4aaad3244db900b5763a6c97977c20f55bccb5ebf77d8dbf34cec4a9
+Size: 2356
+MD5sum: 56647f2ebcd696c5b5109f5e0ae13e45
+SHA1: d4ed35a24d11c6ef2c519d9aa60f6191b8bed80c
+SHA256: 53404545c4314da93685b8461c2af21d85805249e3c73b8a350b5f0a7264cd48
 Section: 汉化
-Description: A-Font 汉化包(Roothide)。
+Description: A-Font 汉化包(RootHide)
 Author: 妖刀
-Name: A-Font 汉化包(Roothide)
+Name: A-Font 汉化包(RootHide)
 
 Package: repo.lengran.a-font.cn
 Version: 1.9.3
@@ -4021,32 +4021,16 @@ Author: Lessica <82flex@gmail.com>
 Name: ColorfulWallpaperX
 
 Package: wiki.qaq.trapp.jb
-Version: 2.10-491
+Version: 2.12-513
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 18184
+Installed-Size: 19292
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy, uikittools (>= 2.1.6-3)
-Filename: ./debs/wiki.qaq.trapp.jb_2.10-491_iphoneos-arm64e.deb
-Size: 4549752
-MD5sum: a8a13fc7858da6c9a7431c4e98ffb0de
-SHA1: 6c7c8209900263c4f79ea40579777a62a4d8bd5e
-SHA256: aed4e83fbd372b7b94b2bf9e6051b40204941505f27fdd5781238786c4c70c42
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 2.10-491
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 18192
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./debs/wiki.qaq.trapp.jb_2.10-491_iphoneos-arm64.deb
-Size: 4549566
-MD5sum: 2b98fe7b771c9bac55c104ed57dcf284
-SHA1: 4b7d9855dabc89efc7e642b3608246e81a2f0367
-SHA256: c25690374a5dd71dfd29b6e8fd0eb8e640aae1379c4462000e77620b86f11fe2
+Filename: ./debs/wiki.qaq.trapp.jb_2.12-513_iphoneos-arm64e.deb
+Size: 4766348
+MD5sum: 1381672747a7f897513e9eed6a812459
+SHA1: e8e7133b97697622a12ec1bc10827c28a54e9f0e
+SHA256: be89fb81448857373760f516ad3eddda2807da71247c7a5560c061ebdfd6e260
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
