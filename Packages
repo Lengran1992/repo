@@ -1347,6 +1347,22 @@ Author: dvntm
 Name: ShowMyTouches
 
 Package: com.dvntm.showmytouches
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 456
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.showmytouches_1.1_iphoneos-arm64 2.deb
+Size: 52102
+MD5sum: 09897321d3732f4c4c2d66df3c4242a8
+SHA1: 97b810ae8098c1054361a21e8ee33521932d2173
+SHA256: 41bde783e16200f3867f3bf727d5f516427117f0b4666e1e59e2440ef0095b41
+Section: Tweaks
+Description: Displays your touch interactions!
+Author: dvntm
+Name: ShowMyTouches
+
+Package: com.dvntm.showmytouches
 Version: 1.1.1
 Architecture: iphoneos-arm64
 Maintainer: dvntm
@@ -1405,6 +1421,22 @@ Size: 52214
 MD5sum: 46c04880c8c1724cde9e0e2751fb580c
 SHA1: f6f1bb35d8b41d60b880a1f8a3728baf4bb88ead
 SHA256: 5504d3133263788303b8867faf2e0d730a0b06ace26c148123a4d0deb44e5c09
+Section: Tweaks
+Description: Displays your touch interactions!
+Author: dvntm
+Name: ShowMyTouches
+
+Package: com.dvntm.showmytouches
+Version: 1.1.3
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.dvntm.showmytouches_1.1.3_iphoneos-arm64 2.deb
+Size: 53580
+MD5sum: c413e04f9aedce00b96b57e8de03d7e0
+SHA1: 4c50d7e412c14d1208f78cd595c637ed51b7a473
+SHA256: ebbdf48c9ec9dcbfeeb016edb126f8820cf50c2a9ca716fa80cfb80a92078abf
 Section: Tweaks
 Description: Displays your touch interactions!
 Author: dvntm
@@ -1579,6 +1611,24 @@ Name: YTLite
 Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
 Package: com.dvntm.ytlite
+Version: 5.0.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 16092
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.ytlite_5.0.1_iphoneos-arm64e 2.deb
+Size: 6085536
+MD5sum: b9fd72fabbe71f5e0ecd91aabe90db91
+SHA1: ef1447aa786504e7e676d521c160c774c0b8c84e
+SHA256: 0545b643a39e9c54bebf0c50b441b59a6fc7b751de5e258ef7bf7470a6c2252b
+Section: Tweaks
+Description: Lightweight YouTube Enhancer
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+Name: YTLite
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
 Version: 5.0.2
 Architecture: iphoneos-arm64e
 Maintainer: dvntm
@@ -1657,6 +1707,24 @@ Maintainer: Ginsu
 Installed-Size: 26420
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.ginsu.ytmusicultimate_2.2_iphoneos-arm64e.deb
+Size: 10254936
+MD5sum: a3c3797970a7386f25f6c5cab2f16a39
+SHA1: 7aa6209d3450f91b2c7e58111e53a9c76cfd2b0f
+SHA256: 9cdd3909cfb55e4601be9433737ab3194afb59bc49238c76389c888a11f8ce0c
+Section: Tweaks
+Description: YouTube Music Premium
+Author: Ginsu
+Depiction: https://ginsudev.github.io/repo/depictions/YTMusicUltimate/index.html
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/icon.png
+Name: YTMusicUltimate
+
+Package: com.ginsu.ytmusicultimate
+Version: 2.2
+Architecture: iphoneos-arm64e
+Maintainer: Ginsu
+Installed-Size: 26420
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ginsu.ytmusicultimate_2.2_iphoneos-arm64e 2.deb
 Size: 10254936
 MD5sum: a3c3797970a7386f25f6c5cab2f16a39
 SHA1: 7aa6209d3450f91b2c7e58111e53a9c76cfd2b0f
@@ -1793,6 +1861,24 @@ Maintainer: John Coates
 Depends: mobilesubstrate, firmware (>= 12.2) | org.swift.libswift (>= 5.0), firmware (>= 9.0)
 Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
 Replaces: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
+Filename: ./debs/com.huayuarc.flex3beta92_1:3~Beta92_iphoneos-arm64 2.deb
+Size: 9655660
+MD5sum: be40062983f2d2ab4cb58623d486bd65
+SHA1: 2746adb483626677d480572cb049989e59043eaa
+SHA256: 52d6564fb7be6a6f1642eb198d1464c0b781a607700c0c2fc871a7b94d8bd149
+Section: 插件
+Description: Flex 3 是越狱后的一款强大的工具｜创建补丁｜下载补丁｜实现强大的功能｜例如修改 App｜或去除广告｜或增强 App 体验等｜开发自己的调整｜并在 Flex 社区云上共享
+Author: John Coates
+Name: Flex 3 Beta-Rootless
+Sponsor: John Coates
+
+Package: com.huayuarc.flex3beta92
+Version: 1:3~Beta92
+Architecture: iphoneos-arm64
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>= 12.2) | org.swift.libswift (>= 5.0), firmware (>= 9.0)
+Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
+Replaces: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
 Filename: ./debs/com.huayuarc.flex3beta92_1:3~Beta92_iphoneos-arm64.deb
 Size: 9655660
 MD5sum: be40062983f2d2ab4cb58623d486bd65
@@ -1820,6 +1906,1972 @@ Section: Tweaks
 Description: BigShot for iOS 15/16 (and Snapper 3)
 Author: Jonathan Winger-lang
 Name: BigShot for Snapper 3 and CCSupport
+
+Package: com.julioverne.adblock
+Version: 0.2~beta1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.adblock_0.2~beta1_iphoneos-arm.deb
+Size: 10002
+MD5sum: 101ab904d484419893048fd6f98b5ccc
+SHA1: f096100ee2cea682486d484f41def64e60950156
+SHA256: 2573086d20612f845b245b999088a4c1d00adea8c55ec87e628473a0b936eca9
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: ADs Blocker for Apps.. Note: may not load page or app crash.
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.adblock
+Name: ADs Blocker
+
+Package: com.julioverne.albumhider
+Version: 0.0~beta3
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.albumhider_0.0~beta3_iphoneos-arm.deb
+Size: 37134
+MD5sum: 50711b9320b7c41f6a30d912e4338c35
+SHA1: ebdf85f49413a138beb5e1df9e990b55bc48b92c
+SHA256: fe4ccf8376a16480fe44d94b285a116e86f086ca519bb3118e00bc021f1a04f0
+Section: Tweaks
+Description: Hide Album's On Photo App
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.albumhider
+Name: AlbumHider
+
+Package: com.julioverne.albumpref
+Version: 0.0~beta2a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.albumpref_0.0~beta2a_iphoneos-arm.deb
+Size: 95134
+MD5sum: 228488037579ce3097f5692341dafc12
+SHA1: 8ce91aa64557d2f860f7c860a0564d17057554f2
+SHA256: 1ec543022a17c1276334f81e2f70d4466b42339032d45e267d276b6adca0f379
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Choose Preferred Album in Messages
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.albumpref
+Icon: file:///Library/PreferenceBundles/AlbumPrefSettings.bundle/icon@2x.png
+Name: AlbumPref
+
+Package: com.julioverne.alt5tore
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.alt5tore_0.0~beta1_iphoneos-arm.deb
+Size: 37172
+MD5sum: fe6b41b01ec392b415be14dee1eab208
+SHA1: 90585eb8db4efbfca632cb3baa78e6a019ec142a
+SHA256: 7e61d9fa27b86d5a771232df228cfcff9c9410de5e61bd61012393add1f52f7b
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Extra Features For AltStore
+Author: julioverne <julioverne@me.com>
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.alt5tore
+Name: Alt5tore
+
+Package: com.julioverne.appellancy11
+Version: 1.1-20b
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
+Conflicts: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy, org.thebigboss.appellancy
+Replaces: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy
+Filename: ./debs/com.julioverne.appellancy11_1.1-20b_iphoneos-arm.deb
+Size: 3709596
+MD5sum: 2b072e52293df37e2369c1223d0e6e64
+SHA1: eb0ad7375181814825a94e7d351359b9ebf069b9
+SHA256: 4f7e7829ae3a8dd6824df0a6164caef4c8f31e43b61cb57d43f20be078c4d2fb
+Section: Tweaks
+Priority: optional
+Description: Control your phone with your face!
+Author: Elijah Frederickson, julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.appellancy11
+Dev: elijahfrederickson
+Icon: file:///Library/PreferenceBundles/AppellancySettings.bundle/AppellancySettings@2x.png
+Name: Appellancy (iOS 11)
+
+Package: com.julioverne.appssiripin
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./debs/com.julioverne.appssiripin_0.0~beta1_iphoneos-arm.deb
+Size: 41194
+MD5sum: 50a99f664fb5ecf81e52377f63db9090
+SHA1: 930c0a28b16a27ec23f673da3f46188f2cb969fc
+SHA256: b4d7dddd641692cf2a34f5e166e63fdaa57789be437c84e7141dc2ffec9d8202
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Pin Apps In Siri Suggestion Widget
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.appssiripin
+Icon: file:///Library/PreferenceBundles/AppsSiriPin.bundle/icon@2x.png
+Name: AppsSiriPin
+
+Package: com.julioverne.appstorenohistory
+Version: 0.0~beta8
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: preferenceloader, mobilesubstrate, applist
+Filename: ./debs/com.julioverne.appstorenohistory_0.0~beta8_iphoneos-arm.deb
+Size: 30756
+MD5sum: 8bb64a3266d85feb4dec87a3abc868c6
+SHA1: 7b7918124222f56bb92e9c4df43907a9ca015f32
+SHA256: 1e3c518d4485a9540c5bf884d0e1acef2d7e403793c5dabc62d933d812aab9b4
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Clean Updated Apps History
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.appstorenohistory
+Icon: file:///Library/PreferenceBundles/AppstoreNoHistorySettings.bundle/icon@2x.png
+Name: Appstore No History
+
+Package: com.julioverne.appstoreunrestrict
+Version: 0.0~beta4a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: preferenceloader, mobilesubstrate
+Filename: ./debs/com.julioverne.appstoreunrestrict_0.0~beta4a_iphoneos-arm.deb
+Size: 26188
+MD5sum: 929407ca9cef02b76fc6dd38f9fc01a1
+SHA1: 8b8ec6472d8001a676577f0f3f8aaf60fdc9ca6f
+SHA256: 12df85b73accca49769566cb84f3e0e78e9688143a82315afc331d785e9564fc
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: No Download Size Limit In AppStore Over Cellular
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.appstoreunrestrict
+Icon: file:///Library/PreferenceBundles/AppstoreUnrestrictSettings.bundle/icon@2x.png
+Name: Appstore Unrestrict
+
+Package: com.julioverne.artworkify
+Version: 0.0~beta4
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.artworkify_0.0~beta4_iphoneos-arm.deb
+Size: 26624
+MD5sum: 88757e1b53ab7bacc66ee0caa77e16e7
+SHA1: 9dbbeaf6dc386639db2db5279c61b9ed2179866f
+SHA256: 993ee29bbc7c49b2edc39f7e5037f3820e17178cb667de8d052ba393bab2373b
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Spotify Artwork In Playlist
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.artworkify
+Name: Artworkify
+
+Package: com.julioverne.autolockx
+Version: 0.0~beta2a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.autolockx_0.0~beta2a_iphoneos-arm.deb
+Size: 94920
+MD5sum: 050480760d81e4150a2950617dcfec6c
+SHA1: e1e986c09c9d9ad41b4ceacd53a0dc598568c66c
+SHA256: 4c9b90af0248fad87169a8b343d74c7d37cec61acbb6090bf12080d5b400bcac
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Force Auto Lock Device
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.autolockx
+Icon: file:///Library/PreferenceBundles/AutoLockXSettings.bundle/icon@2x.png
+Name: AutoLockX
+
+Package: com.julioverne.autoshiftfix
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.autoshiftfix_0.1_iphoneos-arm.deb
+Size: 3606
+MD5sum: 9268a10132725bc6014f7600fadf8ca7
+SHA1: 1834d386deec8d92688fedb687e728e587dfd86c
+SHA256: 6b16aa7c9a678da54ea96fdcbd57782fd27578d31809d54dab7daa5797bb20b5
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: No shift when delete capitalized letter
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.autoshiftfix
+Name: AutoShiftFix
+
+Package: com.julioverne.autowall
+Version: 0.0~beta3
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.autowall_0.0~beta3_iphoneos-arm.deb
+Size: 135524
+MD5sum: 919e9772075a9997375ebc19ef6e11b9
+SHA1: 4b9a3118705dea9eb27116e98bb1e6d83e9ce62d
+SHA256: b194bc2f13c823c3a88bf1994a9f80e94f7b9d98244a9b3f91316344cba8d61d
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Scheduled Wallpapers
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.autowall
+Icon: file:///Library/PreferenceBundles/AutoWallSettings.bundle/icon@2x.png
+Name: AutoWall
+
+Package: com.julioverne.avcache
+Version: 0.0~beta2
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.avcache_0.0~beta2_iphoneos-arm.deb
+Size: 25482
+MD5sum: 3465a4397b0cefedc34ec2d90271dd22
+SHA1: 7bf4e6e9f8741d9fbfd94c5b34be468a5d962778
+SHA256: 14622e52873ea63ec4a325cb09ce9e987e7a30894811b1f11e46fa771621e24f
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Video Buffer System for AVPlayer
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.avcache
+Name: AVCache
+
+Package: com.julioverne.battrate
+Version: 0.0~beta2
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.battrate_0.0~beta2_iphoneos-arm.deb
+Size: 158444
+MD5sum: d9777e4b046116cabd260bc13d29377f
+SHA1: 4e8ea204b932f874ef2336aae52223fa831c2f2e
+SHA256: db66c8c3a24b331bef1d31d441eff2726edf72a50a2301d7e48fa341204d1b95
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Battery Discharge Rate Monitor
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.battrate
+Icon: file:///Library/PreferenceBundles/BattRateSettings.bundle/icon@2x.png
+Name: BattRate
+
+Package: com.julioverne.bgmodekill
+Version: 0.0~beta
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: firmware (>= 6.0), firmware (<< 11.0), mobilesubstrate
+Filename: ./debs/com.julioverne.bgmodekill_0.0~beta_iphoneos-arm.deb
+Size: 8282
+MD5sum: 5e61b25b7853bd2c9ed2d72c6f14dac8
+SHA1: e40d38989b517d9f3c090028f87077f36bfa1d9b
+SHA256: 33301423120c279914e959bcf5efb6b4db6d917c0d1a47e5be969bba534ab467
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Kill Auto-Launch Background Apps Some Apps has Auto-Launch Background whem system start or remove from multitask (like Mail/WhatsApp App) with this will disable Auto-Launch Background in All Apps. No options to Configure.
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.bgmodekill
+Name: BGModeKill
+
+Package: com.julioverne.bigshotjb11
+Version: 0.0.2-2b
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, libactivator
+Conflicts: com.tapthaker.bigshotjb, com.tapthaker.bigshotjb11
+Filename: ./debs/com.julioverne.bigshotjb11_0.0.2-2b_iphoneos-arm.deb
+Size: 33342
+MD5sum: 3cf565a6890e4024121ae679c2268059
+SHA1: bba4b4de8140a16ec0ae23d809afdf2ac23f0724
+SHA256: 1676e7400818724057502a475b185f33671643b3661d3098b5787e5e154b27ee
+Section: Tweaks
+Description: take screenshots of full vertical scrollable area
+Author: tapthaker, julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.bigshotjb11
+Dev: tapthaker
+Name: BigShotJb (iOS 11)
+
+Package: com.julioverne.biotap
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, firmware (>= 10)
+Filename: ./debs/com.julioverne.biotap_0.1_iphoneos-arm.deb
+Size: 5554
+MD5sum: fd7019f8a84f8812b207f7c1de7d4aab
+SHA1: 50e1139cec2fbc2f899bb419254aaf93921f5585
+SHA256: 653f15f15250eb8f9254a6cdd269b39ce22893dbf7232772d1705393de193d52
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Bio Authenticated Auto Tap to Unlock
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.biotap
+Name: BioTap
+
+Package: com.julioverne.blightalert
+Version: 0.0~beta4
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.blightalert_0.0~beta4_iphoneos-arm.deb
+Size: 39592
+MD5sum: 2f61cca8e8c503b286d2a16046c0e80b
+SHA1: aaf368f0ea6198dd0d29a37e85970c98e8bd4feb
+SHA256: 5b12cab22ac75cb68287a6f08818e113bd2ef9dfef3b1d0cc582890a639b6154
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Use Brightness As Alert
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.blightalert
+Name: BLightAlert
+
+Package: com.julioverne.bumbleverifyroll
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.bumbleverifyroll_0.0~beta1_iphoneos-arm.deb
+Size: 6816
+MD5sum: 24adc9beef4ec92130fffac2f97349c6
+SHA1: f04617974a990b8b51829cd94ca867d10e219a34
+SHA256: f5795950212b84b65b7041676706856a152261ae0dd7e47000734fefcd35f14b
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Verify Account Photo via Camera Roll
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.bumbleverifyroll
+Name: BumbleVerifyRoll
+
+Package: com.julioverne.cacheclearer11
+Version: 0.1a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001)
+Conflicts: com.rpetrich.cacheclearer
+Filename: ./debs/com.julioverne.cacheclearer11_0.1_iphoneos-arm.deb
+Size: 9264
+MD5sum: 8611f60d5e8e0da3523d9c4c3412872b
+SHA1: d7fdf2ec36ea9256d7d3b438492d9d6f432c21e0
+SHA256: c71a94a0e146c7cfb85e9dcae72c78b1852af225b43d7d22977ec01aa4e6fea6
+Section: Tweaks
+Description: Clear app caches from the Usage section in Settings
+Author: Ryan Petrich, julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.cacheclearer11
+Dev: rpetrich
+Name: CacheClearer (iOS 11)
+
+Package: com.julioverne.cachewipe
+Version: 0.0~beta1a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: ./debs/com.julioverne.cachewipe_0.0~beta1a_iphoneos-arm.deb
+Size: 31046
+MD5sum: 098deaf821d43f8b3c558b93005194ae
+SHA1: fff3f236878370fe5a7e6348af5e9ff93ec7407d
+SHA256: 10ea98aeb3571a3dc52077ba313caaa53ff9b1724274bf510ef1a60509d20d49
+Section: Addons (Flipswitch)
+Homepage: https://twitter.com/ijulioverne
+Description: Clear Apps Caches Switch
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.cachewipe
+Icon: file:///Library/Switches/CacheWipe.bundle/icon@2x.png
+Name: CacheWipe
+
+Package: com.julioverne.caixatemfast
+Version: 0.0~beta2
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.caixatemfast_0.0~beta2_iphoneos-arm.deb
+Size: 26190
+MD5sum: ce5bb40cc00c0c13b58c7df6474b95c8
+SHA1: 8d22da87e94dbe7b20bb0145851038b492624f50
+SHA256: 684bc6e11ad816bfd2baa06415c84ae64e67a7392ec2da8233321f0a197951b8
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Brazilian Caixa Tem App No Queue Wait, JB Detection Bypass
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.caixatemfast
+Name: CaixaTemFast
+
+Package: com.julioverne.celldia
+Version: 0.0~beta5
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, cydia
+Filename: ./debs/com.julioverne.celldia_0.0~beta5_iphoneos-arm.deb
+Size: 19986
+MD5sum: 612065281762fa48414228ad5d06f27c
+SHA1: 0a2327832fe0d64205e97aaaf81c3891f9635bb0
+SHA256: 7d3f95086c97d0e75ed75db90cd98cda8c315e2097849d78e5cf7fbd6d8c16f3
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Redesigned Cell Cydia
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.celldia
+Name: CellDia
+
+Package: com.julioverne.chargemode
+Version: 0.0~beta4
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.chargemode_0.0~beta4_iphoneos-arm.deb
+Size: 33334
+MD5sum: 80d388381c98ba6af4551eb96dd9b5c0
+SHA1: a98587091a91a0e9fdc56af21a110b0ebce8641c
+SHA256: f844010ff9b3a78082c8f4d7a4b17befa18a4d7054f56d42d10ab159ca0f1d49
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Lite Charging View with Batt Dots and Hour.
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.chargemode
+Name: ChargeMode
+
+Package: com.julioverne.cirdock11
+Version: 1.3.0
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader, applist
+Conflicts: org.thebigboss.cirdock
+Filename: ./debs/com.julioverne.cirdock11_1.3.0_iphoneos-arm.deb
+Size: 343128
+MD5sum: c9a8b3568cb77a632702d6997ccc4590
+SHA1: 3e7c30c84f6f58904b50d33b56cead47a1d83d98
+SHA256: e361d41406f70a6db6af076fa094d4cf77b4c8cb6efbd00f41b4630867da61fd
+Section: Tweaks
+Description: evolutionizes the device's dock!
+Author: Brave Heart, julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.cirdock11
+Dev: alsafa7dev
+Icon: file:///PreferenceBundles/CirDockSettings.bundle/Icon-Small@2x.png
+Name: CirDock (iOS 11)
+
+Package: com.julioverne.closecam
+Version: 0.0~beta2
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.closecam_0.0~beta2_iphoneos-arm.deb
+Size: 6422
+MD5sum: 38264da2b4cf385f4aed7912d5ff0281
+SHA1: 023cd3a5816e78e01f1b8c7d7623c68bf1f6b6ee
+SHA256: 35aa74da1f52db2b703cfaf84c469be3a3f3019eec1303d7e0eafb69b22c7866
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Close/Kill Camera App When Exit
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.closecam
+Name: CloseCam
+
+Package: com.julioverne.cmdsapp
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Filename: ./debs/com.julioverne.cmdsapp_0.1_iphoneos-arm.deb
+Size: 8592
+MD5sum: f3ed843a4372945b416838245f554574
+SHA1: c02a61cf57eda8634d26b2c1f28d59f2695064d5
+SHA256: dfea491fff0b9b4bfc047a067b9644f357bc70d4fe8d1946ad1e46eda3c58bf9
+Section: Utilities
+Homepage: https://twitter.com/ijulioverne
+Description: bash command list installed apps.. (getapplist [-id], getappdir [APP_ID])
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.cmdsapp
+Name: cmdsapp
+
+Package: com.julioverne.coverflowm
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, firmware (>= 10.0), com.rpetrich.rocketbootstrap
+Filename: ./debs/com.julioverne.coverflowm_0.2_iphoneos-arm.deb
+Size: 285742
+MD5sum: d2561edf0bdde1e5565f8681eee037e7
+SHA1: 89d91d6582ffe3f5f0463dff42d51eb759bc177e
+SHA256: 9cbcdf1e4e21ec25abe1e415f87c1c33ba1d1668ee7d67a2fa48f9048ff7c823
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Landscape Music Styles for Music App
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.coverflowm
+Name: CoverflowM
+
+Package: com.julioverne.cypush
+Version: 0.7
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: firmware (>= 6.0), firmware (<< 11.0), cydia, mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.cypush_0.7_iphoneos-arm.deb
+Size: 144170
+MD5sum: bb47bbdd3e5aca866fe9a29ef4aadd07
+SHA1: dec933d8d77bc5e50816aa5f625f65ca270915da
+SHA256: 7fb0db58b2549fc2177eb040ddb3c43deaf07fdd4cce43a28112ba4bcadd372f
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Cydia Push Notifications Background
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.cypush
+Icon: file:///Library/PreferenceBundles/CyPushSettings.bundle/icon@2x.png
+Name: CyPush
+
+Package: com.julioverne.cypush2
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: firmware (>= 7.0), cydia, mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.cypush
+Filename: ./debs/com.julioverne.cypush2_1.2_iphoneos-arm.deb
+Size: 195710
+MD5sum: 4b8b129938805e62aeb13428a51f9436
+SHA1: 1d9249b68e868605f835470a2bf6a6be5a8c5417
+SHA256: adb1e8ae6c0bab8e8d95355d7107eee17f2c39430f3b81ac0207097facc60683
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Cydia Push Notifications Background
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.cypush2
+Icon: file:///Library/PreferenceBundles/CyPushSettings.bundle/icon@2x.png
+Name: CyPush2
+
+Package: com.julioverne.debrepack
+Version: 1.0-1a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: dpkg
+Filename: ./debs/com.julioverne.debrepack_1.0-1a_iphoneos-arm.deb
+Size: 1156
+MD5sum: 41b32bf563f667454301b2efe847c681
+SHA1: cba2897b43838d4318105a75d1bec3b3de0d16aa
+SHA256: bc28c32b8d5efa3f20018f39e48340df8fb5217e56815c422755eb2129420833
+Section: Development
+Homepage: https://twitter.com/ijulioverne
+Description: bash command to repack deb file Easy Repack deb files. type debextract/debmount on terminal to unmount/mount deb file on /var/mobile/deb/
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.debrepack
+Name: deb Repack
+
+Package: com.julioverne.dropbearalert
+Version: 0.0~beta2
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.dropbearalert_0.0~beta2_iphoneos-arm.deb
+Size: 57300
+MD5sum: c80c4df683164630e72c58494a350aeb
+SHA1: a4a6188c7f09f684824b1a4a0d10a585ac03e3fa
+SHA256: 657c09206d1eb41639c2f2475f16fd6e079cee86aebd60d4458d2b0f1cd4c95b
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Dropbear System Login Alert for iOS 10
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.dropbearalert
+Name: DropbearAlert
+
+Package: com.julioverne.dropbearswith
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 10)
+Filename: ./debs/com.julioverne.dropbearswith_0.3_iphoneos-arm.deb
+Size: 22480
+MD5sum: 4ec295c47bb477373ef7e96335d5def9
+SHA1: 7e9e6bb9fb3d0a2bcc589246f25728bc37aa222f
+SHA256: 395f66f57d3de376476963bf35a4dc204d70cee3aa45b2c2524893717e7a3f44
+Section: Addons (Flipswitch)
+Homepage: https://twitter.com/ijulioverne
+Description: SSH Toogle for Dropbear via Flipswitch in iOS 10
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.dropbearswith
+Name: DropbearSwitch
+
+Package: com.julioverne.edgealert
+Version: 0.0~beta2
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.julioverne.edgealert_0.0~beta2_iphoneos-arm.deb
+Size: 51438
+MD5sum: c252459e6b0dbe925dfed93514d8b752
+SHA1: 7b73d2770cce438b1211165b0082bb54e256857e
+SHA256: e1936f04c6d759183b7cc7d11b947c4ed4f4b7c3344e8af300f8e3daf76019d7
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: S8 Edge Alert
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.edgealert
+Name: EdgeAlert
+
+Package: com.julioverne.epicentre11
+Version: 2.0-2b
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Conflicts: com.phillipt.epicentre
+Filename: ./debs/com.julioverne.epicentre11_2.0-2b_iphoneos-arm.deb
+Size: 459028
+MD5sum: 56a8286affa391dc875c98c161192b22
+SHA1: 42d7a3e4a2c4d8c52f13eea77dc8b7ef6832e1d7
+SHA256: f3603878ef23154826139e4126bf08c66dc4ec30ed63776a3c63f684b4e1bae1
+Section: Tweaks
+Description: A gorgeous passcode replacement
+Author: Phillip Tennen, julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.epicentre11
+Dev: phillipt
+Icon: file:///Library/PreferenceBundles/Epicentre.bundle/icon@2x.png
+Name: Epicentre (iOS 11)
+
+Package: com.julioverne.exchangent2
+Version: 0.0~beta4
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: preferenceloader, mobilesubstrate
+Conflicts: com.derv82.exchangent
+Filename: ./debs/com.julioverne.exchangent2_0.0~beta4_iphoneos-arm.deb
+Size: 124044
+MD5sum: aba7ad67dcc9bd68ee251063b9445fcf
+SHA1: 10e86ef5f86e5b17dbc074783d62bc58697e0a61
+SHA256: 3bcc96c465a785a9d5f66d4305fd0b7030e471a8cc8d4dcda9009014d513a847
+Section: Tweaks
+Description: Spoof Exchange/ActiveSync User-Agent
+Author: derv82 & julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.exchangent2
+Name: Exchangent2
+
+Package: com.julioverne.exsto11
+Version: 0.0.1.2-2
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader
+Conflicts: com.zachatrocity.exsto
+Filename: ./debs/com.julioverne.exsto11_0.0.1.2-2_iphoneos-arm.deb
+Size: 226136
+MD5sum: d73158b381904e49cf8eea1c9cb6101e
+SHA1: e5a2887158781c797f0637ea57e653dd27b729b2
+SHA256: e8b98cd897e91ea9db13a14fb8466d75992a42c3d319608d40306c6075bc07d7
+Section: Tweaks
+Description: Unleash your folders
+Author: Zachary Russell, julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.exsto11
+Dev: zachatrocity
+Icon: file:///Library/PreferenceBundles/exsto.bundle/exsto@2x.png
+Name: Exsto (iOS 11)
+
+Package: com.julioverne.ext3nder-installer
+Version: 022b
+Architecture: iphoneos-arm
+Maintainer: Julio
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder
+Filename: ./debs/com.julioverne.ext3nder-installer_022b_iphoneos-arm.deb
+Size: 1947704
+MD5sum: e6ade754c8aa7269951799f81c1e53ac
+SHA1: 37f2a30eb782d9595ef8ec231f82f3521cbd463d
+SHA256: 92d8c63e304aa93f2eb46ed1f08a193f2090944b12a36eb805ae459f148fd5b8
+Section: Utilities
+Homepage: https://twitter.com/ijulioverne
+Description: Cydia Extender Installer With Extra Features
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.ext3nder-installer
+Name: Ext3nder Installer
+
+Package: com.julioverne.fastuprepo
+Version: 0.0~beta4a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: cydia (>> 1.1.27), mobilesubstrate, cy+cpu.arm64, firmware (<< 11.0)
+Conflicts: com.julioverne.fastuprepo2
+Filename: ./debs/com.julioverne.fastuprepo_0.0~beta4a_iphoneos-arm.deb
+Size: 7806
+MD5sum: e502870e99b3f5fedc496f0a67dad29a
+SHA1: 4d59d362e934100d2a0b45cc5302977c5349db46
+SHA256: 1a5759d8366ea3b10742c53d73ceb132596694fac1e991e5937d0606d79ca48a
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: SpeedUp Cydia Update Sources by blocking download translation.
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.fastuprepo
+Name: fastUpRepo
+
+Package: com.julioverne.fastuprepo2
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: cydia (>> 1.1.27), mobilesubstrate, cy+cpu.arm64
+Filename: ./debs/com.julioverne.fastuprepo2_0.0~beta1_iphoneos-arm.deb
+Size: 68450
+MD5sum: 454e777e265f5c80a57b7a6b7aef4e74
+SHA1: 43e6ef6cb8b1a7a2c18f57fa13d1e0e61d8b442c
+SHA256: a4346f9c94461a7d5d437b166ac0f5a40bb11bd1334955654cb474b19bbd6e1a
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: SpeedUp Cydia Update Sources by blocking download translation.
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.fastuprepo2
+Name: fastUpRepo2
+
+Package: com.julioverne.fiona
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.fiona_0.1_iphoneos-arm.deb
+Size: 48954
+MD5sum: 3fb48006d1a75287531e3942cdb8c137
+SHA1: 4d845736ad5b7b798f22d9e8640f05d2d26d437b
+SHA256: 157240459d4dbe0d7d1895bc84d6ca76d7b3698463699e299059adfec92c850f
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Keep WiFi Always Connected
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.fiona
+Icon: file:///Library/PreferenceBundles/FionaSettings.bundle/icon@2x.png
+Name: Fiona
+
+Package: com.julioverne.flipconvert
+Version: 0.0~beta6
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: preferenceloader, mobilesubstrate, com.opa334.ccsupport, com.a3tweaks.flipswitch, firmware (>= 11.0)
+Filename: ./debs/com.julioverne.flipconvert_0.0~beta6_iphoneos-arm.deb
+Size: 58742
+MD5sum: 10d9f1b525c31b9d0827b8aa0c01296b
+SHA1: a2394aa9bd3f3c12e6b89cad7146c92c1002d0ad
+SHA256: 378770f833051bc691c1261b42fe1a1a009c31c51584a750c8b49860b676802c
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Port Flipswitch Toggles With CCSupport
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.flipconvert
+Name: FlipConvert
+
+Package: com.julioverne.flipstatus
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, com.rpetrich.flipcontrolcenter
+Filename: ./debs/com.julioverne.flipstatus_0.0~beta1_iphoneos-arm.deb
+Size: 6042
+MD5sum: 5c013957f4c53315d12ce7be618b1847
+SHA1: 4177cc809f2c751992f0dddd47059d5da875ae84
+SHA256: d9f1d5b96b93c32fd3271e36c00f27b98cfdbc48c8659a0db967598ca90d6b71
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: FlipControlCenter Status Switch in iOS 10
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.flipstatus
+Name: FlipStatus
+
+Package: com.julioverne.fmydblocker
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.fmydblocker_0.0~beta1_iphoneos-arm.deb
+Size: 32806
+MD5sum: ea2fc304d4b8a366b56fd17f33b14dd3
+SHA1: 93e964e830c9a333942373b66b8efe22ed0628bd
+SHA256: d4c09622dc07910287c49a039de59cf1976fc39ee807cd1bc5560bfa5205f1b0
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Find My iPhone Block Remote Actions via iCloud, Configure From Settings
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.fmydblocker
+Icon: file:///Library/PreferenceBundles/fmydBlockerSettings.bundle/icon@2x.png
+Name: fmydBlocker
+
+Package: com.julioverne.goodwifi
+Version: 0.0~beta6
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.goodwifi_0.0~beta6_iphoneos-arm.deb
+Size: 155794
+MD5sum: 2acd94d21ae1884e084d374f239696d2
+SHA1: 9e1d8f2f20bc00bb6f54306f1990a1f12c7965f7
+SHA256: ca0e93f19009d314251f3a8da8ba4e4f60cd2f6a3491c609c1e4657077d30ef7
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Better WiFi Preferences
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodwifi
+Icon: file:///Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
+Name: GoodWiFi
+
+Package: com.julioverne.googleauthpro
+Version: 0.0~beta2a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.googleauthpro_0.0~beta2a_iphoneos-arm.deb
+Size: 40392
+MD5sum: 27b93a94a4790c6301ecf3d314156354
+SHA1: 7b1ecb4aecee8630ba06e818f0fad67cbe75c88a
+SHA256: ffce06e7f15001691796da66431a13b1d4435b5dc38fe603ab1635ce32e04785
+Section: Tweaks
+Description: Features For Google Authenticator App
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.googleauthpro
+Name: GoogleAuthPro
+
+Package: com.julioverne.gravity
+Version: 0.7
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.gravity_0.7_iphoneos-arm.deb
+Size: 223620
+MD5sum: c69914ea0d77f68ace34035ca5d98ede
+SHA1: 58db4b7430b63e748b071598acd4d863fc8aa9cc
+SHA256: 1aacbf01d84f55e181360d28c54bbe10263e464109a6253a3317d1e8aa5a4695
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Graviboard alternative
+Author: julioverne <julioverne@me.com>
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.gravity
+Icon: file:///Library/PreferenceBundles/Gravity.bundle/icon@2x.png
+Name: Gravity
+
+Package: com.julioverne.headsetbtsound
+Version: 0.0~beta
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.headsetbtsound_0.0~beta_iphoneos-arm.deb
+Size: 4332
+MD5sum: 8ded04223b1b6631833b220a0eb78316
+SHA1: ca1bd92c051c6b46d9b697bb6fdef20edc309df9
+SHA256: 96e4346c33a6a13a63fac3fd1fb20bfd6ce287276b3663b011c852269cd604fe
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Use Bluetooth HFP Headset in Apps like BT Headphones
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.headsetbtsound
+Name: HeadsetBTSound
+
+Package: com.julioverne.heysiri
+Version: 0.0~beta6
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.heysiri_0.0~beta6_iphoneos-arm.deb
+Size: 103366
+MD5sum: ad8ca967a19b89099250563747e3cee8
+SHA1: 02f617a51c7bca6fa03b8b5b38f9b06a532cf709
+SHA256: e125931b0c6ae607be50ea4bbd22b724b51b7804942a62b1baf3b7caae9f7984
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Hey Siri While Not Charging
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.heysiri
+Icon: file:///Library/PreferenceBundles/HeySiriSettings.bundle/icon@2x.png
+Name: HeySiri
+
+Package: com.julioverne.hold2speak11
+Version: 1.3a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: isklikas.hold2speak
+Filename: ./debs/com.julioverne.hold2speak11_1.3a_iphoneos-arm.deb
+Size: 15928
+MD5sum: d165f98888965fa0625b27964917a4a7
+SHA1: efceecb6faee8742875d9d860673d60aac56850d
+SHA256: 633d5a832a2d3a618779d0d753bf0476820393c48a67b4ef994ea6982558e268
+Section: Tweaks
+Description: answer your calls, while activating your speaker.
+Author: isklikas, julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.hold2speak11
+Name: Hold2Speak (iOS 11)
+
+Package: com.julioverne.hotspotting
+Version: 0.0~beta2
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Filename: ./debs/com.julioverne.hotspotting_0.0~beta2_iphoneos-arm.deb
+Size: 16612
+MD5sum: 66374ec7b0da04ab92fa8f26f7a6858a
+SHA1: 810cad627cc354dae0a43693ba464ae68b30317d
+SHA256: b4c38c62a975859c96a32be3d7405102de7fab5377652e12eaf82cd4a8b88d7f
+Section: Addons (Flipswitch)
+Homepage: https://twitter.com/ijulioverne
+Description: Hotspot Switch Enhanced
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.hotspotting
+Icon: file:///Library/PreferenceBundles/HotspottingSettings.bundle/icon@2x.png
+Name: Hotspotting
+
+Package: com.julioverne.hsbcbypass
+Version: 0.3b
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.hsbcbypass_0.3b_iphoneos-arm.deb
+Size: 20862
+MD5sum: 7d4a611f7b37f755e96d8139cdbcb764
+SHA1: 92cc050f2722be69bdc5be1589114db3251af1c1
+SHA256: 6f3d131c7fa495029740dd34db4bab11a0d0eb9f5d527465d6d94b18bc70d2ef
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Jailbreak Detection Bypass for HSBC HK/UK/France Banking App.
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.hsbcbypass
+Name: HSBC Bypass
+
+Package: com.julioverne.igsaver
+Version: 0.1~beta2
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.igsaver_0.1~beta2_iphoneos-arm.deb
+Size: 252312
+MD5sum: d4b45642a9a468ee3dc42d1697a2ae18
+SHA1: e19a05956785a863da3acf050368a2c9ebda7f53
+SHA256: d8896b3e02b1cd72ab8e2cb694aaa68c0247fc1a7dbc632d22453017724f4c78
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Instagram Media Saver
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.igsaver
+Name: IGSaver
+
+Package: com.julioverne.illlooklater11
+Version: 2.0-2
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 7.0)
+Conflicts: com.N104.IllLookLater
+Filename: ./debs/com.julioverne.illlooklater11_2.0-2_iphoneos-arm.deb
+Size: 63906
+MD5sum: 28ebae564521aa6b50d5df8eb67779da
+SHA1: 8cf7e991bf23fb79f8295acdf7ccd5c72ba3e604
+SHA256: 9465193ff201e28fa6a178bdf3a52b9aa8ff3ce284c251c4d2d21d2cd702fd69
+Section: Tweaks
+Description: Look at notifications when YOU want to!
+Author: N104, julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.illlooklater11
+Name: IllLookLater (iOS 11)
+
+Package: com.julioverne.intejb
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.intejb_0.0~beta1_iphoneos-arm.deb
+Size: 49912
+MD5sum: bbccf4ba4e3e6c3761ecc904430a70a6
+SHA1: e5b89421c569884b21e2cfea9f88ece2ff58e5b9
+SHA256: fdd4f91507553ad4588e3e4aa74164f084b13314ceedbf82c916d869c2d0e38e
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Bypass Inter Jailbreak Detection
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.intejb
+Name: InteJB
+
+Package: com.julioverne.jailprotect
+Version: 0.0~beta4a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.jailprotect_0.0~beta4a_iphoneos-arm.deb
+Size: 53144
+MD5sum: a65c79076e6d0cb5e0d20e2d0d23d0cc
+SHA1: ca99c1526ba4cb74bf8b2a84fbdd9519e444a8bf
+SHA256: c458e3bdf17240241ae7094e050de40826aa10af2afd19f23b1f0e4a1c859959
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: No Substrate Mode Alternative
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.jailprotect
+Icon: file:///Library/PreferenceBundles/JailProtectSettings.bundle/icon@2x.png
+Name: JailProtect
+
+Package: com.julioverne.jbme10xwebclip
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Filename: ./debs/com.julioverne.jbme10xwebclip_0.1_iphoneos-arm.deb
+Size: 1191694
+MD5sum: bd74df3a0b7c5687a0f781c7032281ee
+SHA1: 09fd8f507937075fe8a0a521c649d25eb1c469e9
+SHA256: ae12191f3d1f97d187e9de768ac06d25c40bd59126f646f4de908f284cd8b4c4
+Section: Utilities
+Homepage: https://twitter.com/ijulioverne
+Description: Re-Active iOS 10.x Jailbreak Offline, Install totally-not.spyware.lol 10.x Webclip Profile 100% Offline.
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.jbme10xwebclip
+Name: JBMe 10.x Webclip
+
+Package: com.julioverne.jbme93xwebclip
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Filename: ./debs/com.julioverne.jbme93xwebclip_0.1_iphoneos-arm.deb
+Size: 371648
+MD5sum: 91aca8bea0fdfea194c69acc2b61d69a
+SHA1: 3bb0d62279b3684fbf78ca02d007159785742934
+SHA256: 8a3b166a81f9693c18caeb5c682ea48dabb683988343d2e54a5e596f34c7e4fb
+Section: Utilities
+Homepage: https://twitter.com/ijulioverne
+Description: Re-Active Pangu 9.3.x Jailbreak Offline, Install JailbreakMe 9.3.x Webclip Profile 100% Offline.
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.jbme93xwebclip
+Name: JBMe 9.3.x Webclip
+
+Package: com.julioverne.kb2change
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.kb2change_0.0~beta1_iphoneos-arm.deb
+Size: 5532
+MD5sum: 9b6dd893e7664c15cee0c1cc4a155128
+SHA1: c19feda7cd9489a718817e82ff9760b6bb9f9c35
+SHA256: 610e11d1bbdc40066ad4293e363c6d30761715c6c90d8e9d1acddfe6127a0ee2
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Switch Between First 2 Keyboards
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.kb2change
+Name: KB2Change
+
+Package: com.julioverne.kbmover
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.kbmover_0.0~beta1_iphoneos-arm.deb
+Size: 20454
+MD5sum: e58b117cac64eb922570ae360ea2a4b7
+SHA1: f9342c4028261ce12d2599342f4b2ac476a8e159
+SHA256: abcbc5244a70a3e976d689a6aa31b44c64114cce82574eb9fa0ee58da3a8b35c
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Move your Keyboard on Screen
+Author: julioverne <julioverne@me.com>
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.kbmover
+Icon: file:///Library/PreferenceBundles/KBMover.bundle/icon@2x.png
+Name: KBMover
+
+Package: com.julioverne.keyswipe11
+Version: 1.0.2-3b
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: org.thebigboss.keyswipe
+Filename: ./debs/com.julioverne.keyswipe11_1.0.2-3b_iphoneos-arm.deb
+Size: 31834
+MD5sum: 845df25c4c641fece623ea6e3839b68c
+SHA1: 4778e16a47b2b1b56303fac25ac589729ac4dd32
+SHA256: d563d41affba78d70c116b484cc05238e08934487450b12812e258944040a425
+Section: Tweaks
+Description: change keyboard by swiping up/down
+Author: Delewhopper, julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.keyswipe11
+Dev: delewhopper
+Icon: file:///Library/PreferenceLoader/Preferences/KeySwipe/KeySwipe.png
+Name: KeySwipe (iOS 11)
+
+Package: com.julioverne.liblinker
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: Julio
+Filename: ./debs/com.julioverne.liblinker_0.3_iphoneos-arm.deb
+Size: 34032
+MD5sum: b3854e8aadf991f97033e532e4e4f001
+SHA1: 9627bb80e048298aefd795bc0a20bf2230dfc59c
+SHA256: 86dba078a051588909026e11eebb00e6a0756fe4205d638e10eb2c3b033d8565
+Section: Development
+Homepage: https://twitter.com/ijulioverne
+Description: link library in executable that's already compiled. type on terminal: liblinker [EXECUTABLE_PATH] [LIBRARY]
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.liblinker
+Name: liblinker
+
+Package: com.julioverne.lockanim
+Version: 0.0~beta4
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.lockanim_0.0~beta4_iphoneos-arm.deb
+Size: 132474
+MD5sum: 4129a36b92c4419ad59042614511f134
+SHA1: ac0a9886fd80c47bcf5ea7d28eb788d7e6f6c7dc
+SHA256: d2a40f1e9d519cd8529148471f3910b6bb9e5111622012ae54a4793fff4eef9e
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Lock Animations
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.lockanim
+Icon: file:///Library/PreferenceBundles/LockAnimSettings.bundle/icon@2x.png
+Name: LockAnim
+
+Package: com.julioverne.lockdroid
+Version: 0.0~beta8
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.julioverne.lockdroid_0.0~beta8_iphoneos-arm.deb
+Size: 203958
+MD5sum: 6d677573236e21de6015fd6de7397650
+SHA1: 0a04657ca3ea3dd7fb3c74293dd4cf18ef11eadd
+SHA256: 1d0d41cb70f9e337f772af280888ebb044c1640fd61a98aeb2de591b798590dc
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Android Lockscreen
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.lockdroid
+Icon: file:///Library/PreferenceBundles/LockDroid.bundle/icon@2x.png
+Name: LockDroid
+
+Package: com.julioverne.lockdroiddonuts
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Filename: ./debs/com.julioverne.lockdroiddonuts_0.0~beta1_iphoneos-arm.deb
+Size: 178408
+MD5sum: 7064be3222df298b48f906702a521c19
+SHA1: e0836253a85bca5a56b63465de38ecf4db98ac01
+SHA256: 89f40089b8b36c494e0a2ca9aa501d937db1f8b7f252d7d089f163189c9cc42f
+Section: Themes
+Homepage: https://twitter.com/ijulioverne
+Description: Donuts Theme For LockDroid
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.lockdroiddonuts
+Name: Donuts LockDroid
+
+Package: com.julioverne.lowerinstall
+Version: 0.0~beta6
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.lowerinstall_0.0~beta6_iphoneos-arm.deb
+Size: 94160
+MD5sum: 39a54683ff0f9fb0c2880cf393c87816
+SHA1: eafac690946057ec063f6a9d786950a9f092ea4e
+SHA256: 0b641d287e8dfbbd00948de6cf85a6b18fb4f885f6e3b98ffb627b68388cf8c1
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Install Apps In Lower iOS Version
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.lowerinstall
+Name: LowerInstall
+
+Package: com.julioverne.luxyverifyroll
+Version: 0.0~beta2
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.luxyverifyroll_0.0~beta2_iphoneos-arm.deb
+Size: 6742
+MD5sum: 602c59d8795291f124359acbb92a8fa3
+SHA1: 7d4d537fd912265f30abf4ebcee4ee8bb663485a
+SHA256: 494c34447559a40938be39a7b2848282b6ff0776a64d1bad568c42b1a8da6f36
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Verify Account Photo via Camera Roll
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.luxyverifyroll
+Name: LuxyVerifyRoll
+
+Package: com.julioverne.mcast
+Version: 0.0~beta6
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.mcast_0.0~beta6_iphoneos-arm.deb
+Size: 294092
+MD5sum: e44415e79f09d7c750a7e2db2f0a8e47
+SHA1: 5f0337c3e76c8f6a327bbf1b9818ed50e0dc98b3
+SHA256: 240b870090b8ae5b1b0faa8d7d7d36895ace552664dfb28524bca8e42903d996
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Chromecast from Music App... Cast Music from Now Playing View. tested in Chromecast model 2014
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.mcast
+Name: mCast
+
+Package: com.julioverne.messagefile
+Version: 0.0~beta3
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.messagefile_0.0~beta3_iphoneos-arm.deb
+Size: 65436
+MD5sum: 5061dd3f3b009b5b5a04667f23de58ce
+SHA1: c62b3e1cd84110c32a51e26490e290350be30ba7
+SHA256: fa076e4dd5b02a13789120fb5c1cdabb5ee9045f7fae4038933770f7ec746d7d
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Message App Send Any Root Filesystem
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.messagefile
+Name: MessageFile
+
+Package: com.julioverne.mibandalert
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, applist, preferenceloader
+Conflicts: com.pigigaldi.mibandutility
+Filename: ./debs/com.julioverne.mibandalert_0.0.4_iphoneos-arm.deb
+Size: 89280
+MD5sum: 53d680050a84ddf9b88cc562c28c75b5
+SHA1: 39b883eb727d01b43c1edd41cc4015513c33d335
+SHA256: 5600370ba3d99e8f2630c6832df29f412f83a1f0e61cb8cad46b6cb442cd017c
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: System Notification XiaoMi Mi Band for iOS.
+Author: julioverne <julioverne@me.com>
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.mibandalert
+Icon: file:///Library/PreferenceBundles/MiBandAlertSettings.bundle/MiBandAlert@2x.png
+Name: MiBand Alert
+
+Package: com.julioverne.mimport
+Version: 0.0~beta40
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, unzip, unrar
+Filename: ./debs/com.julioverne.mimport_0.0~beta40_iphoneos-arm.deb
+Size: 1495760
+MD5sum: 577986fe71b6fb188b31a0e4ceb257ed
+SHA1: 38af4bac2f9829c274b1d9dd9385b17752cd46b7
+SHA256: 34133d611240b7ccbc757a47740bd225a5a5746cd6ac342d9ccd8eb55e62292d
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Media Importer Directly From Music App
+Author: julioverne <julioverne@me.com>
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.mimport
+Icon: file:///Library/PreferenceBundles/MImport.bundle/icon@2x.png
+Name: MImport
+
+Package: com.julioverne.modernxinoblur
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.modernxinoblur_0.0~beta1_iphoneos-arm.deb
+Size: 4672
+MD5sum: 858c47627b54358cc115358cd985680b
+SHA1: 5831041a8014080a2b33b88c4472d29f8791de32
+SHA256: ef7de4df0324b53d5591c2e38cc4ec9df2458381584df0f2d0ef700e980ed197
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Remove Blur in ModernXI
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.modernxinoblur
+Name: ModernXINoBlur
+
+Package: com.julioverne.mpscale
+Version: 0.0~beta3b
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.mpscale_0.0~beta3b_iphoneos-arm.deb
+Size: 17732
+MD5sum: 2bbb6e698f599e6071b70c5fd0f609c2
+SHA1: b203e8afcd5da818812c084671a78ce7c9f11e33
+SHA256: 8f4e336cc77f6ab3cbf9aac502402be53c8e4eae2021cd35333dfcf4b10880b4
+Section: Tweaks
+Description: Show Scale On Maps
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.mpscale
+Name: MPScale
+
+Package: com.julioverne.mshuffle
+Version: 0.0~beta4
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.mshuffle_0.0~beta4_iphoneos-arm.deb
+Size: 36334
+MD5sum: f08d6d646cb5a62a4f367b931fab085c
+SHA1: 957f09b8000f338fb881ff68cdbcaacb38c1ff7f
+SHA256: 8368b6ce46aa78a839d8e52a143659222641b2983264d233b9abb549673b386d
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Music Album End Playing Hit Play To Shuffle.. Music App
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.mshuffle
+Name: MShuffle
+
+Package: com.julioverne.musicsection
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.musicsection_0.0~beta1_iphoneos-arm.deb
+Size: 5282
+MD5sum: 51289d81642b741f80c693e0a45ecf4d
+SHA1: 0408f0e16a14098a037b0859b7a36ba56a8c3de4
+SHA256: 57dd5d157b60d417b1b457f757eeea09781e0e4eebbcd5e29b03e0b3cd0a61ae
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Open Music App On Music List Section
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.musicsection
+Name: MusicSection
+
+Package: com.julioverne.musicv
+Version: 0.0~beta2-0
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.musicv_0.0~beta2-0_iphoneos-arm.deb
+Size: 30498
+MD5sum: 793119c3db76f3dfe444f013461bb3be
+SHA1: b471cde2d241c7ca75bcbe3c52db8def1695de9a
+SHA256: 878f0eff9f1d6184df79f809870523ce3612584e4331cdaa3d87eca333454d8f
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Better Now Playing View in Music App
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.musicv
+Name: MusicV
+
+Package: com.julioverne.musilyric
+Version: 0.5~beta8b
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.musilyric_0.5~beta8b_iphoneos-arm.deb
+Size: 120330
+MD5sum: 8562c8295ef7dc7ab9474bddedc66793
+SHA1: 3455e42c59246e7b9c6b7a38c88e2f0caedadcbc
+SHA256: 7cb9f2e2039c381b8436d59e78f4f23567d18e18b4246c08e24fec0f617f3386
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Best Lyrics Music
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.musilyric
+Name: MusiLyric
+
+Package: com.julioverne.nbkjb
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.nbkjb_0.0~beta1_iphoneos-arm.deb
+Size: 29660
+MD5sum: af4a39b5b4d3e405b515b6a6874d23aa
+SHA1: 52bd4e274aad9dc263a671f8c55ae12f9d9e7d9e
+SHA256: 92aaf35859dbcc69466217be692ad44dcac4bb91e6999757f55c464d133addd5
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Bypass NBK Jailbreak Detection
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.nbkjb
+Name: NBKJB
+
+Package: com.julioverne.ncgroup
+Version: 0.0~beta11
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.ncgroup_0.0~beta11_iphoneos-arm.deb
+Size: 62898
+MD5sum: 69d03874e07a95bd40919b4fc0324d6d
+SHA1: 19d09344064c1ef4541fa34ce93021214d6a8a4d
+SHA256: 6d01cf699a858e7fc5ead0ffe6f5f78768844bc222dfff5b057ebfb3c7548b0b
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Group Notification Center items
+Author: julioverne <julioverne@me.com>
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.ncgroup
+Icon: file:///Library/PreferenceBundles/NCGroup.bundle/icon@2x.png
+Name: NCGroup
+
+Package: com.julioverne.noexinsta
+Version: 0.0~beta1a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.noexinsta_0.0~beta1a_iphoneos-arm.deb
+Size: 4536
+MD5sum: 6b688ac3e6fa3d235a85bb8423491d1f
+SHA1: 7baa62ff8b587b871ae93b137a3fb1ccffd7570a
+SHA256: b694e98584f52513d2f727ac4a5aa8d45f5d6967538ca5e8bd1cc3c1bb6abad6
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Hide Explore Section In Instagram
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.noexinsta
+Name: NoExInsta
+
+Package: com.julioverne.nonceset
+Version: 0.4
+Architecture: iphoneos-arm
+Maintainer: Julio
+Filename: ./debs/com.julioverne.nonceset_0.4_iphoneos-arm.deb
+Size: 79710
+MD5sum: afa57f7512659d52e9cb4a13846f2b30
+SHA1: ef219a0235b12f5c80ea8be6d955debc2981dec0
+SHA256: 44c944e369bb6c8f5decea9da51136cde37f3149b6281e53f1dbe9fb869650b7
+Section: Utilities
+Homepage: https://twitter.com/ijulioverne
+Description: Manage boot-nonce easy.
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.nonceset
+Name: NonceSet
+
+Package: com.julioverne.ntspeed
+Version: 0.2~beta9
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.ntspeed_0.2~beta9_iphoneos-arm.deb
+Size: 121846
+MD5sum: 7f1d387678cb6d59f0d5eeeb26e31415
+SHA1: f30ea72198fc8b59bdc515f5cac9c1e8e040f36a
+SHA256: b4313cd5fd32c04ac66c36531bad62938c7cff1e89989b1dadd6d21bd8e20bfc
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: See Active Traffic Network Speed
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.ntspeed
+Icon: file:///Library/PreferenceBundles/NtSpeedSettings.bundle/icon@2x.png
+Name: NtSpeed
+
+Package: com.julioverne.otablocker
+Version: 0.2a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Filename: ./debs/com.julioverne.otablocker_0.2a_iphoneos-arm.deb
+Size: 5756
+MD5sum: adeab5d55be6bf517a7be89de8e9d621
+SHA1: d747907fb4aed89da80e1681773424e8fef24f51
+SHA256: 725223e5b2e24a5d92f50b6786026f8c0a10b6e424e394e6cc383493ccc1344f
+Section: Utilities
+Homepage: https://twitter.com/ijulioverne
+Description: Block iOS OTA Updates
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.otablocker
+Name: OTABlocker
+
+Package: com.julioverne.phonescroll
+Version: 0.0~beta2a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.phonescroll_0.0~beta2a_iphoneos-arm.deb
+Size: 27910
+MD5sum: 598a396fc8a5ab5ea02ec11cb2374c65
+SHA1: 3f6d9ad018f1e294cc11e30b5bd9b48a67c9f1db
+SHA256: a49d9433613eb76ff3739e5d4409ca323acf380d89a31514f4504a03a6688760
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Tap In Selected Tap Bar For Scroll To Top
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.phonescroll
+Name: PhoneScroll
+
+Package: com.julioverne.picjb
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.picjb_0.0~beta1_iphoneos-arm.deb
+Size: 49586
+MD5sum: af590149c09d254bd41b897c2dfc4d43
+SHA1: 31384a81f5e99f2d84f5b7ed33e5c3c83d645ccb
+SHA256: 38153595edbb1f28c0e2ebcd8c8911065734f6d8807e902e8b5b3f96970559a7
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Bypass PicPay Jailbreak Detection
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.picjb
+Name: PicJB
+
+Package: com.julioverne.pimport
+Version: 0.0~beta5
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./debs/com.julioverne.pimport_0.0~beta5_iphoneos-arm.deb
+Size: 783058
+MD5sum: 2fa165f5c5394cd4a1f981041da25d23
+SHA1: 7b0e6f8907595a3953accec9fae009b3cf1c405e
+SHA256: 651cf3bce8b71f93644d7c2c6a8ad65e6d9146b45deaa3f84cbcd4c6c26660d8
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Photo Importer Directly From Photo App
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.pimport
+Icon: file:///Library/PreferenceBundles/PImport.bundle/icon@2x.png
+Name: PImport
+
+Package: com.julioverne.pipenabler
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: firmware (>= 9.0), mobilesubstrate
+Filename: ./debs/com.julioverne.pipenabler_0.3_iphoneos-arm.deb
+Size: 93772
+MD5sum: 6c39835af6567056fc9b47d11df0b478
+SHA1: 28dc68fde4ed0638c615eaabd931a9c9db8f628c
+SHA256: 17673e2afb843e3d2dd1c162946cda8f9bb67a300a375330e4b776bbcd363f66
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Enabler Picture In Picture Feature
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.pipenabler
+Icon: file:///Library/PreferenceBundles/PIPEnablerSettings.bundle/icon@2x.png
+Name: PIPEnabler
+
+Package: com.julioverne.pipsize
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.pipsize_0.0~beta1_iphoneos-arm.deb
+Size: 23116
+MD5sum: dcd56c60d6443a161c657e565e965eaf
+SHA1: f20cfd610206d28d6827826b6f555c44a811d2ee
+SHA256: 9ec4564988cf31d9fbeaa27cafa607a96280ac1760e9b1ccd64ab14308f16ff1
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Resize Picture In Picture in any size
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.pipsize
+Name: PIPSize
+
+Package: com.julioverne.quickunlock11
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Conflicts: com.phillipt.quickunlock
+Filename: ./debs/com.julioverne.quickunlock11_1.0_iphoneos-arm.deb
+Size: 7332
+MD5sum: 4f44fe66ad07525db453a5344200d7d9
+SHA1: c3886371cc89ae5a3aa85be81c31f9e307b18cb4
+SHA256: 9f1448d95b1fc2c7ce15c69eec5ec291a93436f72718a2ed4686a7be15535232
+Section: Tweaks
+Description: Skip lockscreen if no notifications
+Author: Phillip Tennen, julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.quickunlock11
+Dev: phillipt
+Name: QuickUnlock (iOS 11)
+
+Package: com.julioverne.raisetoanswer
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Conflicts: com.mohammadag.raisetoanswer
+Filename: ./debs/com.julioverne.raisetoanswer_1.1_iphoneos-arm.deb
+Size: 29836
+MD5sum: 5284ae874e717688e540d581d6d8da15
+SHA1: a29f5d8f536c376b5ad17ceb1596a929de32dc97
+SHA256: 63f6b6f96b3133a05977adc687fb4b6d73ada9c07ab0e2f16f2eb1354ded9330
+Section: Tweaks
+Description: Raise phone to answer phone calls
+Author: MohammadAG, julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.raisetoanswer
+Dev: mohammadag
+Name: RaiseToAnswer (iOS 11)
+
+Package: com.julioverne.sbcard
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.sbcard_0.0~beta1_iphoneos-arm.deb
+Size: 5764
+MD5sum: fb7b0dee5408ff645eb985d0c2424db5
+SHA1: 3dbe38fc0a107106c0977597929260b986a08f72
+SHA256: 5a0898e5f2b516503741b88d27e5e248fff96558371c2b136bc56d755dde0590
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Add HomeScreen Card to Switcher, swipe up to close all apps.
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.sbcard
+Name: SBCard
+
+Package: com.julioverne.scloudinfo
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.scloudinfo_0.0~beta1_iphoneos-arm.deb
+Size: 13560
+MD5sum: a25828fedfc6a324effaa97f35d0ebc1
+SHA1: 27d87ab0ad6a06a0d4c07f243023596f6836958c
+SHA256: 9ec82eae629c9757a07cd0586deb454124054865db537f3efc4c336978629784
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: SoundCloud Track Description Info
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.scloudinfo
+Name: SCloudInfo
+
+Package: com.julioverne.screendump13
+Version: 0.0.3d
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.cosmosgenius.screendump
+Filename: ./debs/com.julioverne.screendump13_0.0.3d_iphoneos-arm.deb
+Size: 1540656
+MD5sum: 8f5311fe5327dba3ad0847dd63c2a344
+SHA1: 6f11e3f390800da668311068e3098fd42d92dd6d
+SHA256: d6dc80cea9ff395025f7997693804b4b9f6eb77bc9dce9aa56e53c55c175afc9
+Section: Tweaks
+Description: VNC for ios
+Author: julioverne, Sharat M R
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.screendump13
+Icon: file:///Library/PreferenceLoader/Preferences/screendump/ScreenDump@2x.png
+Name: screendump (iOS 13)
+
+Package: com.julioverne.sftpenabler
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: openssl, firmware (>> 9)
+Conflicts: openssh
+Filename: ./debs/com.julioverne.sftpenabler_0.1_iphoneos-arm.deb
+Size: 34288
+MD5sum: b8add291582483513ea1fc5ea2e0697e
+SHA1: 88e4fc8a53970a57a98d6b7e865d0f3d118f558d
+SHA256: 9bd61fcaa1562c2d92565ce6a6a20009870380366e5a5d0de2963959f437f762
+Section: Networking
+Homepage: https://twitter.com/ijulioverne
+Description: SFTP connection for SSH Dropbear in iOS 10
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.sftpenabler
+Name: SFTPEnabler
+
+Package: com.julioverne.signaldbm
+Version: 0.0~beta3
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.signaldbm_0.0~beta3_iphoneos-arm.deb
+Size: 121372
+MD5sum: da243701a8f97cdd2141d81af02d6b12
+SHA1: 3fffa7e3691f1f186f75917d1609b8e7c64bf461
+SHA256: 3d2d70bc3eef3db2f555c3e3b2e81f50b98d18de5ecc0936a3e93bf3b1f44bc3
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Replece Signal Bars with dBm level
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.signaldbm
+Icon: file:///Library/PreferenceBundles/SignaldBmSettings.bundle/icon@2x.png
+Name: SignaldBm
+
+Package: com.julioverne.signalplane
+Version: 0.0~beta3a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.signalplane_0.0~beta3a_iphoneos-arm.deb
+Size: 52558
+MD5sum: 46a6b4282a2c19739ad637e1b5474484
+SHA1: a1d515a5e2cc3755f657e2e59013eb952615bb1f
+SHA256: dfd3cc40e305f5253b59bd93862d9dd9e16cfbb70f089dafcb295693cd564c56
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Plan For Low Signal
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.signalplane
+Icon: file:///Library/PreferenceBundles/SignalPlaneSettings.bundle/icon@2x.png
+Name: SignalPlane
+
+Package: com.julioverne.simulatetouch
+Version: 0.7-17~beta5
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: firmware (>= 6.0)
+Conflicts: kr.iolate.simulatetouch
+Filename: ./debs/com.julioverne.simulatetouch_0.7-17~beta5_iphoneos-arm.deb
+Size: 15800
+MD5sum: e3c333b4b9805f2c9b685deb1ee7a9a7
+SHA1: 765458cd6f4e409e2a8cfbcdeac078509378af9c
+SHA256: e21bee99781dbd5c4eb902a7c6dfde9ad4de5bd2f02e529bc09f4f8c144a363b
+Section: Tweaks
+Description: Simulate fake touch and swipe. Support multi-touch
+Author: iolate, julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.simulatetouch
+Dev: iolate
+Name: SimulateTouch
+
+Package: com.julioverne.siriifpossible
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.siriifpossible_0.0~beta1_iphoneos-arm.deb
+Size: 8746
+MD5sum: 027d1c5ace75dbbe1b3ad33675724b19
+SHA1: 76289cbbb0216ef5931c903c3ed0eec392dbba55
+SHA256: 5daf62bf0f990e390ed6d7419864fe91cfa34d0072374b9783b503980481ddc6
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: If Siri Unavailable Use Voice Control
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.siriifpossible
+Name: SiriIfPossible
+
+Package: com.julioverne.slackhistory
+Version: 0.1c
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.slackhistory_0.1c_iphoneos-arm.deb
+Size: 15454
+MD5sum: 6c46655fac194eb91e7fc169be896fe7
+SHA1: bea187ad819c7f0c7a15649abdd84da0447c5cfe
+SHA256: 97c729bda5152cf5a7ec36ae76a11b92ceeca68f786ccf2c699f0f3150c66a99
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Slack See Edited Message History
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.slackhistory
+Name: SlackHistory
+
+Package: com.julioverne.sslkillswitch2
+Version: 0.14c
+Architecture: iphoneos-arm
+Maintainer: julioverne, Alban Diquet
+Depends: mobilesubstrate
+Conflicts: com.nablac0d3.sslkillswitch2
+Filename: ./debs/com.julioverne.sslkillswitch2_0.14c_iphoneos-arm.deb
+Size: 39096
+MD5sum: 1e02e476bbda0d897f9626d582a97ee1
+SHA1: f75137de882befe7b3a4d5f66a95565869fa6bde
+SHA256: 4afc9a1748140dee6c1347c445a7ca971b8f78eac5b8ecd71f7444cf5097a067
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Blackbox tool to disable SSL certificate validation and pinning
+Author: julioverne, Alban Diquet
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.sslkillswitch2
+Icon: file:///Library/PreferenceLoader/Preferences/SSLKillSwitch.png
+Name: SSL Kill Switch 2 (iOS 13)
+
+Package: com.julioverne.tb280
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.tb280_0.2_iphoneos-arm.deb
+Size: 7046
+MD5sum: f5ba2f52d8e8808f6b728c6da33c58f1
+SHA1: 1773f978b748394259baf878d16e721caaddea6d
+SHA256: 3b00ff8f217e09158912436aefc3ff83496d80e873d200730b7b2d545748e1c8
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Tweetbot 280 Character Enabler
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.tb280
+Name: TB280
+
+Package: com.julioverne.trustdevalert
+Version: 0.2a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: ./debs/com.julioverne.trustdevalert_0.2a_iphoneos-arm.deb
+Size: 16348
+MD5sum: de076a3b0a57b2627ce645e6b219837c
+SHA1: 7474721ea73a8e5b2f749408f58e0749389a3624
+SHA256: 32f4b9f0f15313ef894a195f240b428107464d66ff29dbd6a9d78f594e43958b
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Add Trust Button In Alert Of Free Developer Profile Not Trusted.
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.trustdevalert
+Name: trustDevAlert
+
+Package: com.julioverne.tw280
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.tw280_0.2_iphoneos-arm.deb
+Size: 5890
+MD5sum: 8af5362af5f246a890e0579b3c5cc117
+SHA1: 069b351e57aa554f3f0115654a9e30da46396477
+SHA256: fc2ad263418381dce50d22ce3163d4236fe1b5d38c8ad321e7ee74901c19e183
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Twitter 280 Character Enabler
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.tw280
+Name: TW280
+
+Package: com.julioverne.twslidetoblock
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.twslidetoblock_0.0~beta1_iphoneos-arm.deb
+Size: 31128
+MD5sum: e9f3d4c9914baabfe8c26757cccdd1c6
+SHA1: a27163fd567d75fac325c2cc8610bdca558d7c7f
+SHA256: 0461f89511525b5fed3ac2e47e92ee5bd81904e6e8b0e5924133eaca355951d1
+Section: Tweaks
+Description: Twitter Slide To Block/Mute in Liked/Rettweeted Section
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.twslidetoblock
+Name: TWSlideToBlock
+
+Package: com.julioverne.uicachefix10
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: uikittools (= 1.1.12)
+Filename: ./debs/com.julioverne.uicachefix10_0.1_iphoneos-arm.deb
+Size: 758
+MD5sum: 8f2e2fb0267c453dc9171499a9c5a76f
+SHA1: 4045ed3580ecec0aa8dd5aa64f1f259b9adffb24
+SHA256: 21ac886940f883f91e38c3bf359a922c8201f7384df0f34d66393d892ba0ab80
+Section: Utilities
+Homepage: https://twitter.com/ijulioverne
+Description: Temp Fix uicache in iOS 10 by setting chmod 4755 in uicache and preventing Substrate loading intro uicache.
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.uicachefix10
+Name: uicache Fix
+
+Package: com.julioverne.upscale
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Conflicts: com.bd452.upscale
+Filename: ./debs/com.julioverne.upscale_0.0.1_iphoneos-arm.deb
+Size: 19968
+MD5sum: 7a7f04ab7e187da6f4c6e264b10c4da8
+SHA1: a6be3de131109df942300a71709c760ad3e26025
+SHA256: f7455ad9ead4eaee6b970706b6b110fbe483ccee4f30c3c98bf0fd1e459ea2bf
+Section: Tweaks
+Description: Change Device Resolution
+Author: bd452, julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.upscale
+Icon: file:///Library/PreferenceBundles/Upscale.bundle/icon@2x.png
+Name: Upscale
+
+Package: com.julioverne.vwallpaper2os11
+Version: 0.5.0-3a
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0)
+Conflicts: com.skrew.vwallpaper2os11, com.skrew.vwallpaper2os
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os9, com.skrew.vwallpaper2os10
+Filename: ./debs/com.julioverne.vwallpaper2os11_0.5.0-3a_iphoneos-arm.deb
+Size: 11336422
+MD5sum: 60d76949aa230642efcf7348112e2126
+SHA1: aec5efd09075ff92907ec2101cdc0fb791d3b514
+SHA256: f5d925f38d0fcf6b18a8081b8b6a6f8d4a37934d5d8c321679951ad812f38a4c
+Section: Multimedia
+Description: Add videos, video ringtones, cool effects (particles, 3D objects), HTML Widgets (...) on your Springboard and / or Away view. Bring your iPhone to life ! (Beta stage)
+Author: skrew, julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.vwallpaper2os11
+Name: vWallpaper 2 (iOS 11)
+
+Package: com.julioverne.whilelotus
+Version: 0.0~beta3
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.whilelotus_0.0~beta3_iphoneos-arm.deb
+Size: 9220
+MD5sum: 80a5dbe40f38374694af798c3f7c0225
+SHA1: 9f4671fb51ef59f78311d077da5b1271d5d0ff43
+SHA256: 9b5eb03d442cea20995df5cee35a1435a318785709b581bc09ec4892b228e1db
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Lotus Dark For Unthemed Icons
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.whilelotus
+Name: WhileLotus
+
+Package: com.julioverne.widplayer
+Version: 3.5.4
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Filename: ./debs/com.julioverne.widplayer_3.5.4_iphoneos-arm.deb
+Size: 136846
+MD5sum: 88145303364baaaaa0ba789a43e42380
+SHA1: db7008555ce81ac63d57d99879ff15272388abc6
+SHA256: 0747f7658105923e6ae53c43220d852d117a7635c9e25c4e1074ffb8d66338a8
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Music Widget In Screen
+Author: julioverne <julioverne@me.com>
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.widplayer
+Icon: file:///Library/PreferenceBundles/WidPlayer.bundle/icon@2x.png
+Name: WidPlayer
+
+Package: com.julioverne.wishdia
+Version: 0.0~beta1
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.wishdia_0.0~beta1_iphoneos-arm.deb
+Size: 19072
+MD5sum: 1535b4d1170d091729a65cd74d60dc80
+SHA1: 6558be2c2cafae937794f48b2aedc7a4c6e65886
+SHA256: 3df0e22ce2c6892524e24ed2c22791b947c6a2ed3fb00dc24429e2256c791d03
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Wish List For Cydia
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.wishdia
+Name: WishDia
+
+Package: com.julioverne.ythdunlocker
+Version: 0.0~beta1c
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.ythdunlocker_0.0~beta1c_iphoneos-arm.deb
+Size: 22562
+MD5sum: 69ecc561c15596df4df95446670a055e
+SHA1: 8d057e8f3dc3ef8f2a04350f9a1c3623dccd1808
+SHA256: 7b23972a488163425d1c6a27b1c74b13fcd2d2023a46cc96d256646f91c828de
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Unlocks HD Videos in YouTube App
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.ythdunlocker
+Name: YTHDUnlocker
+
+Package: com.julioverne.ytnoautoplay
+Version: 0.0~beta2
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.ytnoautoplay_0.0~beta2_iphoneos-arm.deb
+Size: 14060
+MD5sum: e2d71af373b358426297735547d12c4b
+SHA1: 9be9f3634cae9e2cced2dd24ad00668c27f42877
+SHA256: 57abf4b5c40a377481448c3fcf20da80344c230baca69c5ce9277cbba5db9590
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: YouTube Disable Autoplay Videos
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.ytnoautoplay
+Name: YTNoAutoPlay
+
+Package: com.julioverne.zaddyverifyroll
+Version: 0.0~beta2
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.zaddyverifyroll_0.0~beta2_iphoneos-arm.deb
+Size: 7152
+MD5sum: 72d5d1c65e632831d30bdb65b25a86d7
+SHA1: bbb49be8d8272a094034a35c612f8d9ac5ca2f7c
+SHA256: ccb4c77887d8618feb86bdce960e5c3dc6c23c31717cee86cefe28b1add2b025
+Section: Tweaks
+Homepage: https://twitter.com/ijulioverne
+Description: Verify Account Photo via Camera Roll
+Author: julioverne
+Depiction: https://julioverne.github.io/description.html?id=com.julioverne.zaddyverifyroll
+Name: ZaddyVerifyRoll
 
 Package: com.langkhach.goodnotescrackedbylangkhach
 Version: 1.0.0-A
@@ -2305,6 +4357,22 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 72
 Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.netskao.wcisoverseauser_1.1-1_iphoneos-arm64 2.deb
+Size: 2060
+MD5sum: 23ae2f2e4267d9699304623c2355fa17
+SHA1: 09983832c3b98d27fe1df0d00eab78d81ccd1569
+SHA256: 59b6d84773d49f777d1334f8954b15eb43da314b4de6492fa6a3245a604e74a4
+Section: Netskao-Tweaks
+Description: WeChat Patch isOverSeaUser
+Author: Netskao
+Name: WCIsOverSeaUser
+
+Package: com.netskao.wcisoverseauser
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
 Filename: ./debs/com.netskao.wcisoverseauser_1.1-1_iphoneos-arm64.deb
 Size: 2060
 MD5sum: 23ae2f2e4267d9699304623c2355fa17
@@ -2448,6 +4516,23 @@ Author: sergy
 Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
 Name: Immortalizer
 
+Package: com.sergy.immortalizer
+Version: 2.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: sergy
+Installed-Size: 652
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist, com.opa334.ccsupport
+Filename: ./debs/com.sergy.immortalizer_2.0.0-1_iphoneos-arm64 2.deb
+Size: 42936
+MD5sum: 23af36bc7928407419dd377f55d00820
+SHA1: 7504344c03f72f628fabe4fff58361b0c0aaf725
+SHA256: 36c810efa07533df8e4218d58f97b6fac3211b1d215858891aab1fa623dc5bd4
+Section: Tweaks
+Description: Foreground your apps even if they are in the background!
+Author: sergy
+Icon: https://media.havoc.app/672ab6f3a80bcf5e2e0abe8c?w=1920&q=75
+Name: Immortalizer
+
 Package: com.snail.allowlocationonce.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -2455,6 +4540,22 @@ Maintainer: Snail <mu514983786@gmail.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/com.snail.allowlocationonce.rootless_1.0.0_iphoneos-arm64.deb
+Size: 4548
+MD5sum: b31bac2bb77f93784728f1c4192577da
+SHA1: 4cbb0969aedb3a677bd59cfb5086e473002f888b
+SHA256: 4963f9a5db10baf457b172fcddab4f5378dd601b6c9fba8816982a8665ae15f1
+Section: Rootless
+Description: 地理位置请求弹窗，自动"允许一次"。 此版本为rootless版本，不要安装哦~ // When Location request pop-up, Automatically "Allow once". This is rootless version, plz may attention.
+Author: Snail <mu514983786@gmail.com>
+Name: 位置自动允许一次 AllowLocationOnce
+
+Package: com.snail.allowlocationonce.rootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.snail.allowlocationonce.rootless_1.0.0_iphoneos-arm64 2.deb
 Size: 4548
 MD5sum: b31bac2bb77f93784728f1c4192577da
 SHA1: 4cbb0969aedb3a677bd59cfb5086e473002f888b
@@ -2531,6 +4632,39 @@ Description: 照片APP图片删除操作无需确认，无限放大照片。此�
 Author: Snail <mu514983786@gmail.com>
 Name: 照片直接删除&无限放大 PhotoSkipDelAndInfiniteZoom
 
+Package: com.snail.photoskipdelandinfinitezoom.rootless
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.snail.photoskipdelandinfinitezoom.rootless_0.0.1_iphoneos-arm64 2.deb
+Size: 4372
+MD5sum: 48172d5bad349e9430b3085038cd89ad
+SHA1: 5673834ccd4afbef89c06699adc5f9ddd597b98d
+SHA256: d50ceeae5f544208de2db2e8c971c3abd78fe964a2ddf7fad10366ea672d15d2
+Section: Rootless
+Description: 照片APP图片删除操作无需确认，无限放大照片。此为rootless版本，不要安装错哦~
+Author: Snail <mu514983786@gmail.com>
+Name: 照片直接删除&无限放大 PhotoSkipDelAndInfiniteZoom
+
+Package: com.snail.qqmusicnoad.rootless
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Snail <mu514983786@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.snail.qqmusicnoad.rootless_1.0.0_iphoneos-arm64 2.deb
+Size: 3172
+MD5sum: 63bcfde01dfe4671939964842a15bb3a
+SHA1: e798055ed694d65a89a32ef09fe79277e8ce9e5c
+SHA256: 078a65a10d5dcae560f10fb7b71e98a260c3a287ca435f894a8b8515b999a876
+Section: Rootless
+Description: 去掉QQ音乐首页启动广告。Remove the home ad of QQ Music.
+ Rootless版本，不要安装错哦~
+Author: Snail <mu514983786@gmail.com>
+Name: QQMusic去首页广告 // QQMusicNoAd
+
 Package: com.snail.qqmusicnoad.rootless
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -2598,12 +4732,44 @@ Author: x✨
 Name: 抖音图层
 
 Package: com.xx.dyhook
+Version: 2.0.6+3
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 10992
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.dyhook_2.0.6+3_iphoneos-arm64 2.deb
+Size: 3874040
+MD5sum: 4d239b7ed26ee96612609c8e2de8a853
+SHA1: 799502035edaa681c0bdac01a016f7e66c515f23
+SHA256: c1469553601f262772a36db4f6edc3f072ec33f7399a49af213bd7a96fb22e1c
+Section: Tweaks
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+
+Package: com.xx.dyhook
 Version: 2.0.6+8
 Architecture: iphoneos-arm64
 Maintainer: x✨
 Installed-Size: 11056
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.xx.dyhook_2.0.6+8_iphoneos-arm64.deb
+Size: 3904544
+MD5sum: 7779eff4bdca61eb99194c538ff8c589
+SHA1: 1b1c0408e1adf5f141a0c4487cce4d7ec055c6a5
+SHA256: 6a539ad300f3e0b2661f839db36b82f60cc763c52fac862d021b4196ccdaebf5
+Section: Tweaks
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+
+Package: com.xx.dyhook
+Version: 2.0.6+8
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 11056
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.dyhook_2.0.6+8_iphoneos-arm64 2.deb
 Size: 3904544
 MD5sum: 7779eff4bdca61eb99194c538ff8c589
 SHA1: 1b1c0408e1adf5f141a0c4487cce4d7ec055c6a5
@@ -2662,6 +4828,22 @@ Author: x✨
 Name: 抖音图层
 
 Package: com.xx.dyhook
+Version: 2.0.7+6
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 13828
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.dyhook_2.0.7+6_iphoneos-arm64 2.deb
+Size: 4768968
+MD5sum: d3a548b0d3c6c4e3217e20d97fd0ddd5
+SHA1: 787c8375ed7382353f5d4d3fa878a07dd667fc6c
+SHA256: 10749c393e300457fd5db11486d60ecf82c981042788a9fb494ee478dc541b3f
+Section: Tweaks
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+
+Package: com.xx.dyhook
 Version: 2.0.7+8
 Architecture: iphoneos-arm64
 Maintainer: x✨
@@ -2672,6 +4854,38 @@ Size: 4801728
 MD5sum: 36da00a4b82a1791c6deb0f8b3fb74e0
 SHA1: 4614933a6c22a5dbd3bf0c0ca7b30a26d26d4c2b
 SHA256: 619013b7b5ed46eca80a7b320e782e4bbd55421a96d20a627acbf0f25db5d229
+Section: Tweaks
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+
+Package: com.xx.dyhook
+Version: 2.0.7+8
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 13908
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.dyhook_2.0.7+8_iphoneos-arm64 2.deb
+Size: 4801728
+MD5sum: 36da00a4b82a1791c6deb0f8b3fb74e0
+SHA1: 4614933a6c22a5dbd3bf0c0ca7b30a26d26d4c2b
+SHA256: 619013b7b5ed46eca80a7b320e782e4bbd55421a96d20a627acbf0f25db5d229
+Section: Tweaks
+Description: 自用 越狱食用
+Author: x✨
+Name: 抖音图层
+
+Package: com.xx.dyhook
+Version: 2.0.8+1
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 14216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.xx.dyhook_2.0.8+1_iphoneos-arm64 2.deb
+Size: 4912552
+MD5sum: 34471b95165d860b666bb318fcaf01a6
+SHA1: a3fd8c122e366e72de0e2ee8aaff4e8f4a6eb72a
+SHA256: b8a1a67721542f1487244efdc07b0bf0a8277c352d38ef9cbb9679ae2c7f559d
 Section: Tweaks
 Description: 自用 越狱食用
 Author: x✨
@@ -2852,6 +5066,22 @@ Section: Netskao-Tweaks
 Description: BatteryPercentX启用系统原生电池百分比，加深边框颜色，加深充电时电池颜色
 Author: Netskao
 Name: BatteryPercentX-Rootless
+
+Package: netskao.blblnoads-rootless
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 328
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/netskao.blblnoads-rootless_1.1-2_iphoneos-arm64 2.deb
+Size: 73388
+MD5sum: d3554a819152d0f4350b80c6532d9240
+SHA1: b5a62b8e78e6436ff30a7fdb3377c36475642e30
+SHA256: 4f906cb955c52de0257d244e8d270246f73e8f10e774166b219c41eb0abb533b
+Section: Netskao-NoAds
+Description: 哔哩哔哩去除启动广告, 去除青少年提示, 去除AppStore评分提示, 去除底部动态\发布\会员购按钮, 去除瀑布流中插入广告, 去除视频详情页面推荐视频中的创作推广, 去除评论区顶部会员推广, 我的页面推广等, 仅支持7.48.0及以上版本
+Author: Netskao
+Name: 哔哩哔哩 NoAds-Rootless
 
 Package: netskao.blblnoads-rootless
 Version: 1.1-2
@@ -3190,6 +5420,22 @@ Description: 芒果TV去除启动广告，去除暂停广告，去除悬浮广�
 Author: Netskao
 Name: 芒果TV NoAds-Rootless
 
+Package: netskao.mgtvnoads-rootless
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 376
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/netskao.mgtvnoads-rootless_1.1-2_iphoneos-arm64 2.deb
+Size: 84232
+MD5sum: 06d663bbd7d5985a33fdda1bb2f83425
+SHA1: f70771718e5e96b9e14a74cf20a5ad2a36ba6eef
+SHA256: 1e062508bc30c51dbdb1f5b8400c8c9f4be67b7203e0b7f9b6b1702f9fcf2073
+Section: Netskao-NoAds
+Description: 芒果TV去除启动广告，去除暂停广告，去除悬浮广告等
+Author: Netskao
+Name: 芒果TV NoAds-Rootless
+
 Package: netskao.perfectgrabber-rootless
 Version: 1.1-7
 Architecture: iphoneos-arm64
@@ -3221,6 +5467,22 @@ Section: Netskao-Tweaks
 Description: PerfectXTime修改于PerfectTimeXS，修复13之后的小问题，无设置，仅时间+星期格式，纯自用，录屏时自动恢复默认时间，以免错位
 Author: Netskao
 Name: PerfectXTime-Rootless
+
+Package: netskao.picsartcrack-rootless
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 376
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/netskao.picsartcrack-rootless_1.1-5_iphoneos-arm64 2.deb
+Size: 89272
+MD5sum: 7c69f63ee80132734abc3d3260bab33b
+SHA1: 5efa1d80b884a6afe1c4b36bd8f23b5b8d9ee28f
+SHA256: e58741d99b4da7e1227527b1e483d8374228cc6275214fc661d967bb5229edc0
+Section: Netskao-Cracks
+Description: PicsArt美易解锁全功能，仅支持中国区20.7.9及以上版本
+Author: Netskao
+Name: PicsArt Crack-Rootless
 
 Package: netskao.picsartcrack-rootless
 Version: 1.1-5
@@ -3269,6 +5531,23 @@ Section: Netskao-Tweaks
 Description: Notifications page quick drop down to clean up all notifications
 Author: Netskao
 Name: PullClearNC-Rootless
+
+Package: netskao.pulloverpro
+Version: 2.1.4-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 3528
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./debs/netskao.pulloverpro_2.1.4-1_iphoneos-arm64 2.deb
+Size: 903584
+MD5sum: 2c4a5b8f797f2e0f15d5be5ded15f698
+SHA1: a7b1f71bc89a53fc4924b89779fa13b073db8725
+SHA256: daaa95ce5a41ed465d50b85ad15e8244ec3e28e55eaf2442556f804dc37ce620
+Section: Netskao-Tweaks
+Description: A better way to multitask! Fix support for iOS15+
+Author: c1d3r
+Name: PullOver Pro
 
 Package: netskao.pulloverpro
 Version: 2.1.4-1
@@ -3405,6 +5684,22 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 376
 Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/netskao.wrecycrack-rootless_1.1-1_iphoneos-arm64 2.deb
+Size: 83904
+MD5sum: d77347535d6fcd6f976fb8a2bb691d47
+SHA1: 8768d806aba53ff82dff9d89683f341608351790
+SHA256: 1429c9e0d2d9b6283b9d96420200bf7b7fdecb6da7c0293c302b0580f8328764
+Section: Netskao-Cracks
+Description: 无染二次元去除所有广告
+Author: Netskao
+Name: 无染二次元 NoAds-Rootless
+
+Package: netskao.wrecycrack-rootless
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 376
+Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/netskao.wrecycrack-rootless_1.1-1_iphoneos-arm64.deb
 Size: 83904
 MD5sum: d77347535d6fcd6f976fb8a2bb691d47
@@ -3414,6 +5709,22 @@ Section: Netskao-Cracks
 Description: 无染二次元去除所有广告
 Author: Netskao
 Name: 无染二次元 NoAds-Rootless
+
+Package: netskao.xhsnoads-rootless
+Version: 1.3-7
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 392
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/netskao.xhsnoads-rootless_1.3-7_iphoneos-arm64 2.deb
+Size: 89564
+MD5sum: 175fd39358b2c3e2433bdd56f1e3c061
+SHA1: 3da9625695159d450bcda51c6ed3449c9295a2a8
+SHA256: 9adb5d09cd8d5e95ba20d534bbce0a245e1fc79943add2863135cfb68f7f218f
+Section: Netskao-NoAds
+Description: 小红书去除启动广告, 去除信息流视频流广告, 修改原始按钮保存无水印视频和图片和live图和评论区图片, 解除部分视频无法下载, 添加长按文案快捷复制作者名或文案, 仅支持8.5及以上版本
+Author: Netskao
+Name: 小红书 NoAds-Rootless
 
 Package: netskao.xhsnoads-rootless
 Version: 1.3-7
@@ -3438,6 +5749,22 @@ Maintainer: CoolStar
 Installed-Size: 4496
 Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
 Filename: ./debs/org.coolstar.classicfolders2_3.0.5_iphoneos-arm64.deb
+Size: 3316874
+MD5sum: ec3b60a3a4f44b61f9533ffd756c4ebf
+SHA1: 62fbb1c51dfd829880665a9a86ab051e32ff9319
+SHA256: 897884cbd4b8d446d4ad6e929c2239e891a3fb8983c3c73ba4fc865441c7e249
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: CoolStar
+Name: ClassicFolders 2
+
+Package: org.coolstar.classicfolders2
+Version: 3.0.5
+Architecture: iphoneos-arm64
+Maintainer: CoolStar
+Installed-Size: 4496
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
+Filename: ./debs/org.coolstar.classicfolders2_3.0.5_iphoneos-arm64 2.deb
 Size: 3316874
 MD5sum: ec3b60a3a4f44b61f9533ffd756c4ebf
 SHA1: 62fbb1c51dfd829880665a9a86ab051e32ff9319
@@ -3539,6 +5866,21 @@ Name: AutoUnlockX 汉化包(Rootless)
 
 Package: repo.lengran.ccmusicartwork.cn
 Version: 2.4.0-rootless
+Architecture: iphoneos-arm64
+Maintainer: By-Lengran
+Depends: com.spark.ccmusicartwork
+Filename: ./debs/repo.lengran.ccmusicartwork.cn_2.4.0-rootless_iphoneos-arm64 2.deb
+Size: 1308
+MD5sum: 96e4252f4f8b3e5b9731b5deeca19f5b
+SHA1: faf56f0c751e46862d1ca89c48dbca43b32b435b
+SHA256: d9574fe72560a6b2012b66db2ed3a4b86ef613c1fa8858edff7c701fe97564ba
+Section: 汉化
+Description: CCMusicArtwork 汉化包(Rootless)
+Author: 妖刀
+Name: CCMusicArtwork 汉化包(Rootless)
+
+Package: repo.lengran.ccmusicartwork.cn
+Version: 2.4.0-rootless
 Architecture: iphoneos-arm64e
 Maintainer: By-Lengran
 Depends: com.spark.ccmusicartwork
@@ -3626,6 +5968,21 @@ Section: 汉化
 Description: CoolCC Reborn 汉化包(Rootless)
 Author: 妖刀
 Name: CoolCC Reborn 汉化包(Rootless)
+
+Package: repo.lengran.coolcc.cn
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: By-Lengran
+Depends: alias20.coolcc
+Filename: ./debs/repo.lengran.coolcc.cn_2.0_iphoneos-arm64e 2.deb
+Size: 1568
+MD5sum: 3e7247c503b0f2dbc2b95c75b3111469
+SHA1: 987993defb3e94d39abbc1fa46a78d3d7810fc3a
+SHA256: 4617aa7bd2842c8b2b591de861806002ad84dee0388af729aede71e39a222a82
+Section: 汉化
+Description: CoolCC Reborn 汉化包(RootHide)
+Author: 妖刀
+Name: CoolCC Reborn 汉化包(RootHide)
 
 Package: repo.lengran.copylog.cn
 Version: 1.5.6
