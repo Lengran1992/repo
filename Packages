@@ -78,6 +78,21 @@ Description: Troll your speed, but jailbroken.
 Author: Lessica <82flex@gmail.com>
 Name: TrollSpeed JB
 
+Package: cn.Bswbw.fixset
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: gblw
+Installed-Size: 123
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.Bswbw.fixset_1.1_iphoneos-arm64e.deb
+Size: 36672
+MD5sum: b57e59f83e21fe6206744b3f8b3dc80c
+SHA1: 0f2f7b0be1bdb244ebe365e970c4334a807065a9
+SHA256: 744f00d6e00c6844cb73b277f991d5a7bf87024fddd6e0770de2f166b24c5055
+Description: 修复部分插件转roothide配置不保存问题
+Author: @bswbw
+Name: FixSet
+
 Package: cn.Bswbw.time
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -4632,32 +4647,16 @@ Author: Lessica <82flex@gmail.com>
 Name: ColorfulWallpaperX
 
 Package: wiki.qaq.trapp.jb
-Version: 2.12-513
+Version: 2.14-542
 Architecture: iphoneos-arm64e
 Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 19292
+Installed-Size: 19936
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy, uikittools (>= 2.1.6-3)
-Filename: ./debs/wiki.qaq.trapp.jb_2.12-513_iphoneos-arm64e.deb
-Size: 4766348
-MD5sum: 1381672747a7f897513e9eed6a812459
-SHA1: e8e7133b97697622a12ec1bc10827c28a54e9f0e
-SHA256: be89fb81448857373760f516ad3eddda2807da71247c7a5560c061ebdfd6e260
-Section: Applications
-Description: Record your phone calls like never before.
-Author: Lessica <82flex@gmail.com>
-Name: TrollRecorder JB
-
-Package: wiki.qaq.trapp.jb
-Version: 2.12-521
-Architecture: iphoneos-arm64e
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 19708
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy, uikittools (>= 2.1.6-3)
-Filename: ./debs/wiki.qaq.trapp.jb_2.12-521_iphoneos-arm64e.deb
-Size: 4864004
-MD5sum: bf8a26811d1ca92904f87e8fffb91c34
-SHA1: 6a4207fd32884173ece69ebddead5ea8e9233574
-SHA256: 10f6e2f5bc651b33c45ee993dd80cb634eb325ca107c12df01874f9ffc42d66e
+Filename: ./debs/wiki.qaq.trapp.jb_2.14-542_iphoneos-arm64e.deb
+Size: 4907828
+MD5sum: 04d633c457392f3af6a025ead00f43a5
+SHA1: 0b858ba4103fc670deb5c78fb3ace540569c2de0
+SHA256: d7c4c9cdd9d519578cde8448ad1646f280aa73ae2007799e4eda2e83ff2dbf04
 Section: Applications
 Description: Record your phone calls like never before.
 Author: Lessica <82flex@gmail.com>
