@@ -108,6 +108,36 @@ Description: 微信净化，抖音净化解除时间限制
 Author: gblw
 Name: 解除时间限制
 
+Package: cn.Bswbw.time
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: gblw
+Installed-Size: 123
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.Bswbw.time_1.0_iphoneos-arm64e.deb
+Size: 19828
+MD5sum: 04e0b2a10d51dae90c68b2f2ae50171a
+SHA1: 92f4a0bce0a79ba4c0bdae777c7757a64dea8735
+SHA256: 5b753316d0433d29aa19e371eba3219564d68f357f9fae9009cb6631e3f08201
+Description: 微信净化，抖音净化解除时间限制
+Author: gblw
+Name: 解除时间限制
+
+Package: cn.appsdump.roothide
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: gblw
+Depends: mobilesubstrate
+Filename: ./debs/cn.appsdump.roothide_1.2_iphoneos-arm64e.deb
+Size: 1318876
+MD5sum: b668d1cce854aa4dc55e384309019c11
+SHA1: 152e3d52c8f295d11e6e8437a0742c98b7b702df
+SHA256: 18abdf2f5916a02428ce23f413b2717a129c79c1671ff0aed66278b95cd04708
+Section: System
+Description: gblw
+Author: gblw
+Name: AppsDump（roothide）
+
 Package: co.vulcanlabs.moodtracker
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -2346,6 +2376,22 @@ Author: Netskao
 Name: Twitter NoAds
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.twitternoads.json
 
+Package: com.netskao.wcabtestsinglechatbox
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.netskao.wcabtestsinglechatbox_1.1-1_iphoneos-arm64.deb
+Size: 2100
+MD5sum: 18659e320233a49a42c0a6b70bfdc2d4
+SHA1: 82a76c490953691eb2aa36b5d3b45eff5637debc
+SHA256: dabf4f4008b142e45e3ee7e4bbc3737cef5053c3338b1514da6cd31bee9be8a5
+Section: Netskao-Tweaks
+Description: WeChat Enables AB Tested Single ChatBox Feature, Only 8.0.55+
+Author: Netskao
+Name: WCABTestSingleChatBox
+
 Package: com.netskao.wcdisablehotupdates
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -2393,6 +2439,22 @@ Section: Netskao-Tweaks
 Description: WeChat Patch isOverSeaUser
 Author: Netskao
 Name: WCIsOverSeaUser
+
+Package: com.netskao.wckeyboardhidelogo
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.netskao.wckeyboardhidelogo_1.1-1_iphoneos-arm64.deb
+Size: 2174
+MD5sum: 9d34675c8607c36c28521ae9e704f25f
+SHA1: 2187d59c7492469f08d861e2ab11341be219efb3
+SHA256: dcacd44645faf192aecb6bfe9d2ca664e1ca823280ef69382ad4c504bb125843
+Section: Netskao-Tweaks
+Description: WeChat Keyboard Hide Logo
+Author: Netskao
+Name: WCKeyboardHideLogo
 
 Package: com.netskao.wcmypageinfocenter
 Version: 1.1-2
@@ -2443,6 +2505,22 @@ Section: Netskao-Tweaks
 Description: WeChat Enables AB Tested miniApp Floating Window Feature, Only 8.0.54+
 Author: Netskao
 Name: WCNewMiniAppFloatingWindow
+
+Package: com.netskao.wcsvgcolorhookexamples
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.netskao.wcsvgcolorhookexamples_1.1-1_iphoneos-arm64.deb
+Size: 2722
+MD5sum: d4d6cb26c3623734f101a307a6eee554
+SHA1: 4324a14e62f62c9b3bab817d6d2eafdc2aaabc90
+SHA256: f13094e5b816a6ad5549c69ea43b2272390d49b15a05238202b65a2b16157f85
+Section: Netskao-Tweaks
+Description: WeChat SVGImage Color Hook Examples
+Author: Netskao
+Name: WCSVGColorHookExamples
 
 Package: com.netskao.wechatnotiavatar
 Version: 1.2-5
@@ -2510,6 +2588,22 @@ Section: Tweaks
 Description: Changes "sbreload" in Sileo to "killall SpringBoard" to avoid a bug in Dopamine where a black screen happens.
 Author: Nightwind
 Name: SileoRespringFix
+
+Package: com.null.disablequickphonenumberlogin
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: null
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.null.disablequickphonenumberlogin_1.0_iphoneos-arm64.deb
+Size: 6132
+MD5sum: c09b7ad4ea283decf27b51939ba24680
+SHA1: f55954b34bee89d5e98ab3490b4e46e827414393
+SHA256: b876f6e8fd4b12d4723977548cec64f4fb01c1cfb1b01d31536fffb67cd8afef
+Section: Tweaks
+Description: 禁止第三方App使用您的手机号一键登录
+Author: null
+Name: DisableQuickPhoneNumberLogin
 
 Package: com.ps.cahighfps
 Version: 2.1.2
