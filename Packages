@@ -747,6 +747,22 @@ Description: 中文输入法语音转文字免跳转插件。无设置选项，�
 Author: Lessica
 Name: 语音转文字免跳转
 
+Package: com.apple.wechat.noads
+Version: 1.2.0
+Architecture: iphoneos-arm64
+Maintainer: Apple
+Installed-Size: 272
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.apple.wechat.noads_1.2_iphoneos-arm64.deb
+Size: 22192
+MD5sum: fcc7fd921156c2fc88edffb0d39af0c0
+SHA1: 5d88f704796c58abcc3b0349e358bd5923b7cbb2
+SHA256: c286585f5ee96a802d86c426a3bbbc8376b4076838c50ac64ded0069f9846e7d
+Section: Tweaks
+Description: 插件开关已纳入微信插件管理页面。删除搜索页面的广告，删除公众号列表广告、快讯，删除公众号文章中间和底部的广告，删除朋友圈广告，删除小程序的广告，删除直播和视频号中的广告!  插件仅供本人测试使用，下载后请于24小时内删除!
+Author: Apple
+Name: 微信广告净化助手_Crack
+
 Package: com.developlab.reboottools
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -1108,6 +1124,42 @@ Size: 220476
 MD5sum: b66a3eef4b2ffda4745188128cd2db4c
 SHA1: 8937240297c64f04e3c93c82876c7aec36206f76
 SHA256: caa51dfe165f163f7e14199664f57a13f8422710fb306c7243114364ace9a3df
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
+Package: com.dvntm.infuseplus
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 984
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_2.0_iphoneos-arm64e.deb
+Size: 277992
+MD5sum: 1187c03874961535d43120d34164fd1b
+SHA1: 5d30025af365821cf2e6a6acdb792fba2e43ba67
+SHA256: 7d6637201bf6c2b4d31bf244d009852c092ad5a75cf1737969192976097d57b7
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
+Package: com.dvntm.infuseplus
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 1016
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_2.0_iphoneos-arm64.deb
+Size: 279156
+MD5sum: aa65a221ef0b6a2e52b1fc1c65731a90
+SHA1: 1d227c00a3e07dd4c5fae03f3a425d491b538c9e
+SHA256: 99ad2e1a329ac0ced93031b13d5b27da93d2f34a8e10cf80229f6654a377e729
 Section: Tweaks
 Description: Enhancer for Infuse app
 Author: dvntm
@@ -1896,6 +1948,21 @@ Description: Flex 3 是越狱后的一款强大的工具｜创建补丁｜下载
 Author: John Coates
 Name: Flex 3 Beta-Rootless
 Sponsor: John Coates
+
+Package: com.iosrxwy.tianqiheihei
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.iosrxwy.tianqiheihei_0.1-1_iphoneos-arm64.deb.deb
+Size: 375908
+MD5sum: aa771b210dc9c9c165ac283b4b330494
+SHA1: 268ff04a9621fb8acc6f9f353645c9e50863a42d
+SHA256: 720eda7fcfcf5465ccf5c4886cb3a0360e611451fb96314fcc0abfdeaaa37fcc
+Section: Tweaks
+Priority: optional
+Description: 解锁和风天气、墨迹天气、莉景天气会员，天气通去广告。TG@iosrxwy
+Author: iosrxwy
+Name: tianqiheihei
 
 Package: com.jontelang.bigshotsnapper3plugin
 Version: 1.1
