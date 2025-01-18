@@ -635,6 +635,38 @@ Description: Combine VPN state and wireless state into one icon.
 Author: 82Flex <82flex@gmail.com>
 Name: Single VPN
 
+Package: com.82flex.singlevpn
+Version: 1.5
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.singlevpn_1.5_iphoneos-arm64.deb
+Size: 28822
+MD5sum: 58a39fa12c1296354902ad7b726f7056
+SHA1: 305d0484d3ba24010ff4cab22cdbeae7a841fb1c
+SHA256: f90fb8fa4c7bbd5b8ec414a4e9b4adde3365fe4244f2ca402808a05a7a9de2c3
+Section: Tweaks
+Description: Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Name: Single VPN
+
+Package: com.82flex.singlevpn
+Version: 1.5
+Architecture: iphoneos-arm64e
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.82flex.singlevpn_1.5_iphoneos-arm64e.deb
+Size: 28752
+MD5sum: 6ea3baa7ec28c0a3781c18aae060c9a3
+SHA1: d946b64e0ab1890095aae1950864e960d76073a6
+SHA256: 245ebd979bc0287459be1c6a059df18eb6d494d43296b435a1a95f2f8aa8938a
+Section: Tweaks
+Description: Combine VPN state and wireless state into one icon.
+Author: 82Flex <82flex@gmail.com>
+Name: Single VPN
+
 Package: com.82flex.touchvis
 Version: 3.10
 Architecture: iphoneos-arm64e
@@ -662,6 +694,38 @@ Size: 698698
 MD5sum: e3ca83095aeec432dc0ee8cc944186a5
 SHA1: 4b296b894f82d097fd56b511357d9631cd3c8bae
 SHA256: fd5c10e8add6a0c70c3b8a49176211680a771289dabef39679ea9fd6492c925b
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Name: Touch-Viz
+
+Package: com.82flex.touchvis
+Version: 3.12
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 3112
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.82flex.touchvis_3.12_iphoneos-arm64e.deb
+Size: 700828
+MD5sum: 3ede904ffd38ccac3ac4ebcd3a5423d8
+SHA1: 5280834cda76611f5f40df8fdabc91021e956007
+SHA256: 6796622a3777e250bea7e97e4de0cc8eb01992506b1a6922dea960a1c6273c3b
+Section: Tweaks
+Description: Display your touch interactions!
+Author: Lessica <82flex@gmail.com>
+Name: Touch-Viz
+
+Package: com.82flex.touchvis
+Version: 3.12
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 3112
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.82flex.touchvis_3.12_iphoneos-arm64.deb
+Size: 700502
+MD5sum: 74b1ed4e389e28af2934895f85315a1b
+SHA1: 57ddeb3018084923a6ff9016010d1032d194b61d
+SHA256: ec784957210eec3d3761a900115428e28515854ab8d314c3bb083d51c77587ee
 Section: Tweaks
 Description: Display your touch interactions!
 Author: Lessica <82flex@gmail.com>
@@ -5077,6 +5141,38 @@ Section: Tweaks
 Description: Dynamic wallpaper with colorful effects.
 Author: Lessica <82flex@gmail.com>
 Name: ColorfulWallpaperX
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 4.9
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 5696
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/wiki.qaq.colorfulwallpaperx_4.9_iphoneos-arm64.deb
+Size: 1402078
+MD5sum: 5c8d6621688c400aec55a6823e55e743
+SHA1: 8cb6e8f8566472b9c12b5a668136b0533745aa63
+SHA256: 8a7ed46050455c6893c5ecc09de086b15d4721579605ac4500db3d6c333d081f
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Name: Colorful Wallpaper X
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 4.9
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 5696
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/wiki.qaq.colorfulwallpaperx_4.9_iphoneos-arm64e.deb
+Size: 1402808
+MD5sum: ff26ceaa87d1706dfc2121b9c7c51c6b
+SHA1: bb189485bb7ba4f682d3d088b287e980dc07c1e6
+SHA256: a3f4d2d8b1c4f1299a2f9c2273a6f340596b15da9ace3757adec09e772d08ac1
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica <82flex@gmail.com>
+Name: Colorful Wallpaper X
 
 Package: wiki.qaq.trapp.jb
 Version: 2.15-557
