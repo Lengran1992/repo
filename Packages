@@ -827,6 +827,21 @@ Description: 中文输入法语音转文字免跳转插件。无设置选项，�
 Author: Lessica
 Name: 语音转文字免跳转
 
+Package: com.HBWechatHelper.ailun
+Version: 1.8.1
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_1.8.1_iphoneos-arm64.deb
+Size: 11189004
+MD5sum: d188451ba329ed9fec87b30f0d42f3c0
+SHA1: 8086ab6923d0e23bcd51bc8064a7d9051e49bd29
+SHA256: 2ffe2690babf7a9f5f22333b83b0555ee5c85bef3f26a3fc372da715a8f0eba5
+Section: Mao
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Name: 黄白助手(微信插件)-Rootless
+
 Package: com.apple.wechat.noads
 Version: 1.2.0
 Architecture: iphoneos-arm64
@@ -1222,6 +1237,78 @@ Size: 279156
 MD5sum: aa65a221ef0b6a2e52b1fc1c65731a90
 SHA1: 1d227c00a3e07dd4c5fae03f3a425d491b538c9e
 SHA256: 99ad2e1a329ac0ced93031b13d5b27da93d2f34a8e10cf80229f6654a377e729
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
+Package: com.dvntm.infuseplus
+Version: 2.1
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 1132
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_2.1_iphoneos-arm64e.deb
+Size: 399290
+MD5sum: f428aeacdf173a3dc2e2c563cf8afa53
+SHA1: 38f63789363118680d4573439cdedc8345e55857
+SHA256: 423ec528dba78a34f8375465df2d2e14749fc4aeaff1682c3c80b11987033d54
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
+Package: com.dvntm.infuseplus
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 1132
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_2.1_iphoneos-arm64.deb
+Size: 399984
+MD5sum: 6f06d224a7689b48a209ee5b52af0122
+SHA1: 726e588ddf0e635e9c6f8fb165283fa0bbdf963d
+SHA256: 4fdd3743d750db9c8a6cccbe76463ef07b891a98ba8882ce817033c91ee71c31
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
+Package: com.dvntm.infuseplus
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 1132
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_2.2_iphoneos-arm64.deb
+Size: 405960
+MD5sum: ffe1aa91502cfdac7a7d210bb02b7874
+SHA1: 8e90feedc7e8bc7e28122d84480f9495a94a158f
+SHA256: 548262ed5cc6c77cabbd7c6503f1b100b2b6d2b606c78ee93aaf0822dd65bf0f
+Section: Tweaks
+Description: Enhancer for Infuse app
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+Name: Infuse Plus
+Sileodepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
+
+Package: com.dvntm.infuseplus
+Version: 2.2
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 1132
+Depends: mobilesubstrate
+Filename: ./debs/com.dvntm.infuseplus_2.2_iphoneos-arm64e.deb
+Size: 405142
+MD5sum: 57a609f56321d15bd837b4810d23c2ce
+SHA1: 859acacaa3b45ac03a005f15fb4d1e290a74155c
+SHA256: ce35fe119940100a2c252356895b6d5b0d71784c152a87c8ed02f641f1a7dcec
 Section: Tweaks
 Description: Enhancer for Infuse app
 Author: dvntm
